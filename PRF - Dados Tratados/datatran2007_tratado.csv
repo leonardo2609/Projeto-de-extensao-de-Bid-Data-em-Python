@@ -1,0 +1,1367 @@
+id;data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia
+173715;01/01/2007;Segunda;00:50:00;RJ;101;321.5;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+173863;01/01/2007;Segunda;12:10:00;RJ;101;304.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+174435;02/01/2007;Terca;07:45:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+174461;02/01/2007;Terca;06:40:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+174859;03/01/2007;Quarta;15:45:00;RJ;101;329.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+175579;01/01/2007;Segunda;12:00:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+175681;04/01/2007;Quinta;19:30:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+176683;04/01/2007;Quinta;13:25:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+176697;03/01/2007;Quarta;15:50:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+176913;08/01/2007;Segunda;10:20:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+177409;01/01/2007;Segunda;12:20:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+177455;10/01/2007;Quarta;05:50:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Amanhecer
+177496;06/01/2007;Sabado;18:00:00;RJ;101;322.5;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Anoitecer
+177537;07/01/2007;Domingo;03:15:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+177640;06/01/2007;Sabado;15:00:00;RJ;101;322.5;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+177768;06/01/2007;Sabado;10:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+177889;07/01/2007;Domingo;20:00:00;RJ;101;300.0;SAO GONCALO;Falta de atencao;Colisao Transversal;Com Vitimas Feridas;Plena noite
+177970;03/01/2007;Quarta;11:45:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+177984;03/01/2007;Quarta;19:48:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+178124;07/01/2007;Domingo;16:40:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+178247;03/01/2007;Quarta;16:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+178483;12/01/2007;Sexta;16:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+178521;12/01/2007;Sexta;19:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+178542;12/01/2007;Sexta;19:15:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+178574;12/01/2007;Sexta;18:30:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+178677;13/01/2007;Sabado;03:30:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+178697;12/01/2007;Sexta;11:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+178913;13/01/2007;Sabado;16:30:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+179181;07/01/2007;Domingo;18:10:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+179417;03/01/2007;Quarta;19:00:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+179418;12/01/2007;Sexta;03:40:00;RJ;101;312.0;SAO GONCALO;Outras;Tombamento;Sem Vitimas;Plena noite
+179430;07/01/2007;Domingo;09:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+179809;12/01/2007;Sexta;14:50:00;RJ;101;330.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+179849;08/01/2007;Segunda;04:30:00;RJ;101;303.8;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+180050;16/01/2007;Terca;15:55:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+180971;18/01/2007;Quinta;08:55:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+180991;08/01/2007;Segunda;01:30:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+181250;19/01/2007;Sexta;16:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+181355;19/01/2007;Sexta;22:45:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+181617;20/01/2007;Sabado;17:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+181792;17/01/2007;Quarta;18:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+182149;22/01/2007;Segunda;06:45:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+182386;22/01/2007;Segunda;11:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+182594;22/01/2007;Segunda;10:30:00;RJ;101;306.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+182709;12/01/2007;Sexta;17:00:00;RJ;101;304.5;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Pleno dia
+182711;19/01/2007;Sexta;23:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+182717;22/01/2007;Segunda;11:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+182854;23/01/2007;Terca;17:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+182857;21/01/2007;Domingo;17:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+182874;23/01/2007;Terca;17:00:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+183069;17/01/2007;Quarta;04:00:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+183236;20/01/2007;Sabado;13:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+183331;24/01/2007;Quarta;18:45:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+183374;21/01/2007;Domingo;00:10:00;RJ;101;301.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+183646;25/01/2007;Quinta;10:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+184120;26/01/2007;Sexta;10:30:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+184250;27/01/2007;Sabado;08:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+184647;20/01/2007;Sabado;03:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+184668;27/01/2007;Sabado;23:20:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+184687;28/01/2007;Domingo;12:00:00;RJ;101;300.5;SAO GONCALO;Velocidade incompativel;Colisao traseira;Sem Vitimas;Pleno dia
+184852;28/01/2007;Domingo;19:00:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+184961;27/01/2007;Sabado;10:30:00;RJ;101;323.0;NITEROI;Ingestao de alcool;Colisao Transversal;Sem Vitimas;Pleno dia
+185135;29/01/2007;Segunda;10:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao Transversal;Com Vitimas Feridas;Pleno dia
+185722;15/01/2007;Segunda;08:30:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+185736;28/01/2007;Domingo;01:40:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+185748;20/01/2007;Sabado;05:20:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+185763;27/01/2007;Sabado;07:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+185870;28/01/2007;Domingo;04:30:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Capotamento;Com Vitimas Feridas;Plena noite
+185889;31/01/2007;Quarta;06:25:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+186121;31/01/2007;Quarta;14:50:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+186198;31/01/2007;Quarta;06:50:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+186200;31/01/2007;Quarta;19:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+186419;29/01/2007;Segunda;17:00:00;RJ;101;321.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+186520;16/01/2007;Terca;23:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+186561;01/02/2007;Quinta;17:50:00;RJ;101;305.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+186645;01/02/2007;Quinta;17:05:00;RJ;101;323.0;NITEROI;Outras;Capotamento;Sem Vitimas;Pleno dia
+186667;29/01/2007;Segunda;03:15:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+186701;28/01/2007;Domingo;19:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Anoitecer
+186786;02/02/2007;Sexta;06:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+186803;02/02/2007;Sexta;11:30:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+186804;02/02/2007;Sexta;13:20:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+186853;31/01/2007;Quarta;18:30:00;RJ;101;321.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+186951;02/02/2007;Sexta;14:00:00;RJ;101;328.0;NITEROI;Outras;Colisao com objeto movel;Com Vitimas Feridas;Pleno dia
+187081;26/01/2007;Sexta;11:00:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+187084;26/01/2007;Sexta;14:30:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+187232;03/02/2007;Sabado;10:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+187263;03/02/2007;Sabado;18:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+187789;05/02/2007;Segunda;05:40:00;RJ;101;306.0;SAO GONCALO;Velocidade incompativel;Colisao com bicicleta;Com Vitimas Fatais;Amanhecer
+187837;05/02/2007;Segunda;10:00:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+187854;05/02/2007;Segunda;05:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+187952;01/02/2007;Quinta;06:40:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+188014;05/02/2007;Segunda;09:50:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+188092;05/02/2007;Segunda;15:20:00;RJ;101;318.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Pleno dia
+188219;31/01/2007;Quarta;18:30:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+188292;28/01/2007;Domingo;18:30:00;RJ;101;302.0;SAO GONCALO;Falta de atencao;Colisao com bicicleta;Com Vitimas Feridas;Anoitecer
+188366;30/01/2007;Terca;16:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+188500;06/02/2007;Terca;10:00:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+188512;06/02/2007;Terca;18:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+188778;03/02/2007;Sabado;17:00:00;RJ;101;322.5;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+188842;26/01/2007;Sexta;22:10:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+188891;03/02/2007;Sabado;20:40:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+189219;08/02/2007;Quinta;06:00:00;RJ;101;324.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Amanhecer
+189385;08/02/2007;Quinta;17:30:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+189449;07/02/2007;Quarta;10:50:00;RJ;101;311.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+189733;09/02/2007;Sexta;10:00:00;RJ;101;329.3;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+189814;09/02/2007;Sexta;16:24:00;RJ;101;329.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+189874;09/02/2007;Sexta;17:45:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+190583;11/02/2007;Domingo;16:30:00;RJ;101;326.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+190602;11/02/2007;Domingo;21:05:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+190609;11/02/2007;Domingo;15:50:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+190626;07/02/2007;Quarta;22:30:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+190818;10/02/2007;Sabado;13:00:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+191023;12/02/2007;Segunda;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+191309;04/02/2007;Domingo;02:30:00;RJ;101;327.0;NITEROI;Dormindo;Colisao traseira;Com Vitimas Feridas;Plena noite
+191514;13/02/2007;Terca;15:30:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+191517;13/02/2007;Terca;18:00:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+191553;13/02/2007;Terca;20:15:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+191671;13/02/2007;Terca;19:20:00;RJ;101;324.5;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+191734;14/02/2007;Quarta;09:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+191853;14/02/2007;Quarta;11:40:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+191867;14/02/2007;Quarta;14:40:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+191953;01/02/2007;Quinta;15:40:00;RJ;101;320.0;NITEROI;Defeito mecanico em veiculo;Colisao lateral;Sem Vitimas;Pleno dia
+191974;02/02/2007;Sexta;12:30:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+192159;15/02/2007;Quinta;08:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+192200;11/02/2007;Domingo;20:10:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+192232;11/02/2007;Domingo;21:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+192245;15/02/2007;Quinta;12:50:00;RJ;101;322.5;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+192269;11/02/2007;Domingo;18:00:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+192430;04/02/2007;Domingo;06:30:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+192516;11/02/2007;Domingo;21:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+192613;16/02/2007;Sexta;09:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+192676;16/02/2007;Sexta;12:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+192840;16/02/2007;Sexta;19:00:00;RJ;101;314.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+192965;17/02/2007;Sabado;01:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+193038;13/02/2007;Terca;19:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+193096;14/02/2007;Quarta;17:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193101;17/02/2007;Sabado;07:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193113;17/02/2007;Sabado;07:00:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+193150;17/02/2007;Sabado;08:30:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193187;17/02/2007;Sabado;10:05:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193363;17/02/2007;Sabado;07:15:00;RJ;101;311.0;SAO GONCALO;Ultrapassagem indevida;Colisao lateral;Sem Vitimas;Pleno dia
+193368;17/02/2007;Sabado;16:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193438;17/02/2007;Sabado;17:30:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193446;17/02/2007;Sabado;18:45:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193461;17/02/2007;Sabado;16:40:00;RJ;101;332.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193565;17/02/2007;Sabado;20:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+193631;16/02/2007;Sexta;06:35:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193632;18/02/2007;Domingo;07:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+193637;18/02/2007;Domingo;06:00:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193648;18/02/2007;Domingo;10:45:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+193737;18/02/2007;Domingo;17:10:00;RJ;101;326.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+194071;15/02/2007;Quinta;07:00:00;RJ;101;322.5;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+194099;15/02/2007;Quinta;22:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+194114;11/02/2007;Domingo;14:00:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao com bicicleta;Com Vitimas Feridas;Pleno dia
+194168;19/02/2007;Segunda;10:30:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+194185;15/02/2007;Quinta;22:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+194305;17/02/2007;Sabado;05:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+194319;16/02/2007;Sexta;20:20:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+194320;17/02/2007;Sabado;04:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+194334;16/02/2007;Sexta;23:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+195071;21/02/2007;Quarta;08:00:00;RJ;101;331.5;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+195226;21/02/2007;Quarta;07:50:00;RJ;101;322.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+195440;22/02/2007;Quinta;10:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+195525;12/02/2007;Segunda;07:25:00;RJ;101;310.8;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer
+195538;20/02/2007;Terca;20:30:00;RJ;101;312.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Plena noite
+195701;15/02/2007;Quinta;22:45:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+196078;16/02/2007;Sexta;15:20:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+196079;24/02/2007;Sabado;07:00:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+196129;16/02/2007;Sexta;15:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+196278;24/02/2007;Sabado;21:50:00;RJ;101;324.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Pleno dia
+196289;20/02/2007;Terca;20:10:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+196402;25/02/2007;Domingo;07:20:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+196613;25/02/2007;Domingo;19:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+196813;22/02/2007;Quinta;19:30:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+196876;19/02/2007;Segunda;18:20:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+196925;26/02/2007;Segunda;15:30:00;RJ;101;326.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+196968;26/02/2007;Segunda;17:40:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+197116;24/02/2007;Sabado;04:05:00;RJ;101;313.5;SAO GONCALO;Dormindo;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+197217;23/02/2007;Sexta;21:45:00;RJ;101;305.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+197254;15/02/2007;Quinta;17:00:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao Transversal;Com Vitimas Feridas;Pleno dia
+197298;27/02/2007;Terca;14:30:00;RJ;101;321.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+197525;28/02/2007;Quarta;03:15:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Capotamento;Com Vitimas Feridas;Plena noite
+197592;20/02/2007;Terca;21:00:00;RJ;101;324.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+197636;17/02/2007;Sabado;21:30:00;RJ;101;313.0;SAO GONCALO;Ingestao de alcool;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+197698;28/02/2007;Quarta;13:30:00;RJ;101;327.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+197730;28/02/2007;Quarta;15:18:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Fatais;Pleno dia
+197741;28/02/2007;Quarta;13:30:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+197871;28/02/2007;Quarta;20:50:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao Transversal;Sem Vitimas;Plena noite
+198168;01/03/2007;Quinta;07:35:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+198191;01/03/2007;Quinta;07:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+198269;01/03/2007;Quinta;09:10:00;RJ;101;332.3;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+198456;02/03/2007;Sexta;12:50:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+198520;02/03/2007;Sexta;15:40:00;RJ;101;321.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Pleno dia
+198552;02/03/2007;Sexta;17:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Pleno dia
+198560;28/02/2007;Quarta;15:00:00;RJ;101;332.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+198569;01/03/2007;Quinta;08:50:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+198812;27/02/2007;Terca;18:45:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+199149;04/03/2007;Domingo;12:20:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+199457;03/03/2007;Sabado;08:49:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+199546;01/03/2007;Quinta;17:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+199602;05/03/2007;Segunda;07:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+199721;01/03/2007;Quinta;08:15:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+199927;06/03/2007;Terca;07:15:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+200013;05/03/2007;Segunda;07:40:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+200190;23/02/2007;Sexta;11:20:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+200203;03/03/2007;Sabado;21:30:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+200489;07/03/2007;Quarta;18:45:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+200684;08/03/2007;Quinta;16:00:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+200784;08/03/2007;Quinta;20:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+201052;09/03/2007;Sexta;15:00:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+201189;09/03/2007;Sexta;22:59:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+201311;10/03/2007;Sabado;09:00:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+201336;10/03/2007;Sabado;10:45:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+201525;10/03/2007;Sabado;20:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+201672;11/03/2007;Domingo;10:10:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+202490;11/03/2007;Domingo;20:00:00;RJ;101;319.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+202674;13/03/2007;Terca;08:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+202679;13/03/2007;Terca;20:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+202905;07/03/2007;Quarta;02:00:00;RJ;101;304.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+202912;10/03/2007;Sabado;08:00:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+202949;14/03/2007;Quarta;13:40:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+203046;06/03/2007;Terca;08:20:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+203105;14/03/2007;Quarta;17:15:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+203167;14/03/2007;Quarta;22:29:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+203372;15/03/2007;Quinta;07:15:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+203409;15/03/2007;Quinta;07:20:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+203431;15/03/2007;Quinta;07:40:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+203515;15/03/2007;Quinta;16:15:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+203527;15/03/2007;Quinta;11:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+203788;12/02/2007;Segunda;21:20:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+203947;16/03/2007;Sexta;20:20:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+204201;14/03/2007;Quarta;14:10:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+204277;17/03/2007;Sabado;10:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+204525;18/03/2007;Domingo;05:40:00;RJ;101;325.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer
+204526;18/03/2007;Domingo;05:45:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer
+204704;18/03/2007;Domingo;16:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+204770;14/03/2007;Quarta;21:35:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+204826;18/03/2007;Domingo;22:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Capotamento;Sem Vitimas;Plena noite
+205030;19/03/2007;Segunda;08:50:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+205041;15/03/2007;Quinta;17:10:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+205079;15/03/2007;Quinta;22:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+205204;18/03/2007;Domingo;21:00:00;RJ;101;328.0;NITEROI;Ingestao de alcool;Colisao com objeto fixo;Sem Vitimas;Plena noite
+205245;19/03/2007;Segunda;16:45:00;RJ;101;317.0;SAO GONCALO;Falta de atencao;Saida de Pista;Com Vitimas Feridas;Pleno dia
+205463;16/03/2007;Sexta;22:00:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+205471;12/03/2007;Segunda;22:20:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+205494;16/03/2007;Sexta;13:09:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+205546;20/03/2007;Terca;14:30:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+205596;20/03/2007;Terca;14:30:00;RJ;101;321.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+205797;17/03/2007;Sabado;12:37:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+205914;09/03/2007;Sexta;22:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+205944;21/03/2007;Quarta;14:20:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+206103;21/03/2007;Quarta;15:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+206175;12/02/2007;Segunda;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+206281;22/03/2007;Quinta;06:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+206352;18/03/2007;Domingo;03:20:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+206629;23/03/2007;Sexta;05:00:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+206980;23/03/2007;Sexta;22:00:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+207060;24/03/2007;Sabado;08:45:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+207086;24/03/2007;Sabado;07:30:00;RJ;101;309.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+207119;16/03/2007;Sexta;23:00:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+207120;24/03/2007;Sabado;12:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+207148;17/03/2007;Sabado;01:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+207297;24/03/2007;Sabado;23:10:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+207518;24/03/2007;Sabado;16:00:00;RJ;101;306.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+207567;21/03/2007;Quarta;15:20:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+207577;25/03/2007;Domingo;19:00:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+207825;26/03/2007;Segunda;06:30:00;RJ;101;320.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Plena noite
+207927;21/03/2007;Quarta;05:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+207930;22/03/2007;Quinta;12:30:00;RJ;101;320.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+207962;26/03/2007;Segunda;17:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+207984;23/03/2007;Sexta;01:00:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+208082;23/03/2007;Sexta;12:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+208288;27/03/2007;Terca;08:46:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+208291;27/03/2007;Terca;15:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+208626;28/03/2007;Quarta;12:00:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+208713;22/03/2007;Quinta;00:40:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+209028;29/03/2007;Quinta;12:50:00;RJ;101;330.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+209119;29/03/2007;Quinta;10:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+209140;29/03/2007;Quinta;13:00:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+209399;30/03/2007;Sexta;14:15:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+209542;30/03/2007;Sexta;06:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Capotamento;Sem Vitimas;Pleno dia
+209635;31/03/2007;Sabado;03:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+209702;31/03/2007;Sabado;04:30:00;RJ;101;315.0;SAO GONCALO;Dormindo;Colisao traseira;Sem Vitimas;Amanhecer
+209816;31/03/2007;Sabado;14:50:00;RJ;101;328.0;NITEROI;Velocidade incompativel;Capotamento;Com Vitimas Feridas;Pleno dia
+209860;31/03/2007;Sabado;17:40:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+209915;31/03/2007;Sabado;17:30:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+210192;01/04/2007;Domingo;12:55:00;RJ;101;327.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+210212;28/03/2007;Quarta;16:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+210269;01/04/2007;Domingo;15:15:00;RJ;101;304.1;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+210509;02/04/2007;Segunda;10:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+210960;03/04/2007;Terca;08:45:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+210967;30/03/2007;Sexta;05:15:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Com Vitimas Fatais;Amanhecer
+211058;31/03/2007;Sabado;00:15:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+211393;04/04/2007;Quarta;08:05:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+211447;04/04/2007;Quarta;16:15:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+211824;05/04/2007;Quinta;15:20:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+211847;05/04/2007;Quinta;14:50:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+212089;06/04/2007;Sexta;03:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+212206;02/04/2007;Segunda;17:30:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+212453;03/04/2007;Terca;17:00:00;RJ;101;326.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+212503;03/04/2007;Terca;18:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+212525;05/04/2007;Quinta;18:15:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Anoitecer
+212769;08/04/2007;Domingo;05:35:00;RJ;101;321.3;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer
+212810;01/04/2007;Domingo;00:15:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+212816;04/04/2007;Quarta;20:30:00;RJ;101;307.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+212884;04/04/2007;Quarta;18:00:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+213175;06/04/2007;Sexta;14:00:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+213179;08/04/2007;Domingo;23:00:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+213375;09/04/2007;Segunda;08:00:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+213428;09/04/2007;Segunda;10:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+213430;05/04/2007;Quinta;11:30:00;RJ;101;322.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+213706;09/04/2007;Segunda;20:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+213723;09/04/2007;Segunda;21:30:00;RJ;101;321.0;NITEROI;Outras;Colisao frontal;Sem Vitimas;Plena noite
+213737;09/04/2007;Segunda;18:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+213864;02/04/2007;Segunda;15:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+214514;11/04/2007;Quarta;13:30:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao com bicicleta;Com Vitimas Feridas;Pleno dia
+214709;04/04/2007;Quarta;08:50:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+214712;05/04/2007;Quinta;17:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+214822;04/04/2007;Quarta;15:54:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+214845;12/04/2007;Quinta;13:45:00;RJ;101;330.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao lateral;Sem Vitimas;Pleno dia
+214865;12/04/2007;Quinta;15:20:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+214885;04/04/2007;Quarta;18:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+214923;12/04/2007;Quinta;20:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+215069;09/04/2007;Segunda;21:45:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+215113;02/04/2007;Segunda;15:00:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+215241;13/04/2007;Sexta;15:00:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+215392;13/04/2007;Sexta;20:30:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+215577;10/04/2007;Terca;08:30:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Amanhecer
+215900;07/04/2007;Sabado;16:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+215957;15/04/2007;Domingo;05:50:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+216236;13/04/2007;Sexta;23:20:00;RJ;101;322.0;NITEROI;Dormindo;Capotamento;Sem Vitimas;Plena noite
+216278;11/04/2007;Quarta;22:30:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+216326;13/04/2007;Sexta;05:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer
+216356;16/04/2007;Segunda;06:15:00;RJ;101;326.0;NITEROI;Outras;Colisao Transversal;Sem Vitimas;Amanhecer
+216360;16/04/2007;Segunda;09:30:00;RJ;101;331.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+216403;16/04/2007;Segunda;06:20:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+216433;16/04/2007;Segunda;06:25:00;RJ;101;326.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+216580;13/04/2007;Sexta;22:30:00;RJ;101;328.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+216583;14/04/2007;Sabado;03:10:00;RJ;101;325.5;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+216616;17/04/2007;Terca;07:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Tombamento;Com Vitimas Feridas;Pleno dia
+216888;06/04/2007;Sexta;10:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+216953;14/04/2007;Sabado;05:00:00;RJ;101;330.0;RIO DE JANEIRO;Dormindo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+217043;17/04/2007;Terca;12:20:00;RJ;101;319.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+217164;05/04/2007;Quinta;13:20:00;RJ;101;309.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+217186;13/04/2007;Sexta;08:30:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+217202;18/04/2007;Quarta;11:10:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+217400;15/04/2007;Domingo;19:55:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+217433;15/04/2007;Domingo;19:55:00;RJ;101;306.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+217452;19/04/2007;Quinta;06:20:00;RJ;101;306.0;SAO GONCALO;Animais na Pista;Atropelamento de animal;Sem Vitimas;Pleno dia
+217459;19/04/2007;Quinta;10:30:00;RJ;101;320.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+217505;19/04/2007;Quinta;08:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+217581;18/04/2007;Quarta;09:35:00;RJ;101;310.0;SAO GONCALO;Dormindo;Colisao lateral;Com Vitimas Fatais;Pleno dia
+217648;11/04/2007;Quarta;18:20:00;RJ;101;312.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+217670;18/04/2007;Quarta;23:40:00;RJ;101;317.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+217674;19/04/2007;Quinta;18:30:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Anoitecer
+217698;19/04/2007;Quinta;06:40:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+217700;19/04/2007;Quinta;17:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+217713;19/04/2007;Quinta;14:20:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+217816;20/04/2007;Sexta;05:40:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+218002;10/04/2007;Terca;16:00:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+218125;20/04/2007;Sexta;22:40:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+218244;21/04/2007;Sabado;06:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+218254;17/04/2007;Terca;16:45:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+218323;19/04/2007;Quinta;17:45:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+218375;21/04/2007;Sabado;14:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+218477;21/04/2007;Sabado;18:00:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+218576;21/04/2007;Sabado;19:10:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+218670;22/04/2007;Domingo;07:00:00;RJ;101;320.0;NITEROI;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+218858;22/04/2007;Domingo;18:20:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao Transversal;Com Vitimas Feridas;Plena noite
+219040;23/04/2007;Segunda;04:30:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+219333;23/04/2007;Segunda;17:30:00;RJ;101;307.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+219449;23/04/2007;Segunda;23:00:00;RJ;101;330.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+219484;21/04/2007;Sabado;16:00:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+219503;22/04/2007;Domingo;20:50:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+219514;20/04/2007;Sexta;18:00:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+219553;24/04/2007;Terca;11:10:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+219577;20/04/2007;Sexta;20:20:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+219615;11/03/2007;Domingo;05:40:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Amanhecer
+219622;21/04/2007;Sabado;01:15:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+219729;24/04/2007;Terca;12:00:00;RJ;101;312.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+219980;05/04/2007;Quinta;10:45:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+220016;23/04/2007;Segunda;18:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+220207;25/04/2007;Quarta;18:31:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+220225;25/04/2007;Quarta;18:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+220302;25/04/2007;Quarta;15:34:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Fatais;Pleno dia
+220309;21/04/2007;Sabado;06:30:00;RJ;101;321.0;NITEROI;Outras;Saida de Pista;Com Vitimas Fatais;Amanhecer
+220359;26/04/2007;Quinta;02:45:00;RJ;101;323.0;NITEROI;Outras;Tombamento;Com Vitimas Feridas;Plena noite
+220727;26/04/2007;Quinta;23:10:00;RJ;101;311.5;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Fatais;Plena noite
+220809;27/04/2007;Sexta;07:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+220947;27/04/2007;Sexta;11:40:00;RJ;101;320.0;NITEROI;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+221021;27/04/2007;Sexta;15:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+221091;27/04/2007;Sexta;19:36:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+221130;27/04/2007;Sexta;20:33:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+221169;27/04/2007;Sexta;18:00:00;RJ;101;328.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Anoitecer
+221427;28/04/2007;Sabado;16:00:00;RJ;101;331.0;RIO DE JANEIRO;Ingestao de alcool;Colisao com objeto movel;Com Vitimas Feridas;Pleno dia
+221574;24/04/2007;Terca;18:10:00;RJ;101;319.0;NITEROI;Outras;Capotamento;Sem Vitimas;Anoitecer
+221593;26/04/2007;Quinta;04:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+221719;26/04/2007;Quinta;08:40:00;RJ;101;326.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+221763;27/04/2007;Sexta;21:10:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+221775;27/04/2007;Sexta;21:00:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+221796;29/04/2007;Domingo;15:40:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+222009;27/04/2007;Sexta;15:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+222218;16/04/2007;Segunda;11:00:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+222409;25/04/2007;Quarta;15:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+222426;29/04/2007;Domingo;20:40:00;RJ;101;313.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+222442;01/05/2007;Terca;14:07:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+222727;28/04/2007;Sabado;15:20:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+222976;30/04/2007;Segunda;09:50:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+223182;03/05/2007;Quinta;09:09:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+223345;25/04/2007;Quarta;23:30:00;RJ;101;323.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Plena noite
+223370;03/05/2007;Quinta;12:30:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+223486;21/04/2007;Sabado;06:30:00;RJ;101;314.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Fatais;Amanhecer
+223581;30/04/2007;Segunda;22:50:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+223748;04/05/2007;Sexta;17:20:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+223789;04/05/2007;Sexta;20:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+223836;04/05/2007;Sexta;18:30:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite
+224022;05/05/2007;Sabado;07:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+224052;26/04/2007;Quinta;07:35:00;RJ;101;318.9;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+224063;05/05/2007;Sabado;18:00:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+224462;26/04/2007;Quinta;09:00:00;RJ;101;311.5;SAO GONCALO;Defeito mecanico em veiculo;Saida de Pista;Com Vitimas Feridas;Pleno dia
+224882;26/04/2007;Quinta;07:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+224892;08/05/2007;Terca;07:20:00;RJ;101;314.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+225219;09/05/2007;Quarta;10:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+225253;09/05/2007;Quarta;09:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+225354;06/05/2007;Domingo;01:00:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Feridas;Plena noite
+225420;09/05/2007;Quarta;21:00:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+225448;18/04/2007;Quarta;16:00:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+225540;29/04/2007;Domingo;02:30:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+225596;10/05/2007;Quinta;06:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+225708;07/05/2007;Segunda;17:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Fatais;Anoitecer
+225733;06/05/2007;Domingo;16:15:00;RJ;101;328.5;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Plena noite
+225881;07/05/2007;Segunda;18:30:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+226152;08/05/2007;Terca;18:30:00;RJ;101;304.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+226163;09/05/2007;Quarta;00:20:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+226172;28/02/2007;Quarta;16:57:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+226287;11/05/2007;Sexta;16:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+226605;04/05/2007;Sexta;19:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+226860;12/05/2007;Sabado;06:20:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Capotamento;Com Vitimas Fatais;Amanhecer
+226896;09/05/2007;Quarta;14:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+226985;13/05/2007;Domingo;10:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+227158;13/05/2007;Domingo;12:50:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+227478;10/05/2007;Quinta;22:40:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+227591;12/05/2007;Sabado;16:30:00;RJ;101;300.5;SAO GONCALO;Dormindo;Saida de Pista;Com Vitimas Feridas;Pleno dia
+227754;04/05/2007;Sexta;15:40:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+227884;29/04/2007;Domingo;18:00:00;RJ;101;305.0;SAO GONCALO;Velocidade incompativel;Saida de Pista;Sem Vitimas;Plena noite
+228351;12/05/2007;Sabado;17:30:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+228374;16/05/2007;Quarta;06:20:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+228735;16/05/2007;Quarta;07:30:00;RJ;101;332.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+228772;17/05/2007;Quinta;01:50:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+229094;10/05/2007;Quinta;08:10:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+229101;17/05/2007;Quinta;17:30:00;RJ;101;307.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Anoitecer
+229107;13/05/2007;Domingo;18:00:00;RJ;101;319.5;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+229120;01/05/2007;Terca;03:30:00;RJ;101;322.0;RIO DE JANEIRO;Dormindo;Colisao com objeto fixo;Sem Vitimas;Plena noite
+229359;14/05/2007;Segunda;20:10:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+229365;16/05/2007;Quarta;11:20:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao Transversal;Com Vitimas Feridas;Plena noite
+229478;18/05/2007;Sexta;13:50:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+229509;18/05/2007;Sexta;11:50:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+229541;18/05/2007;Sexta;15:00:00;RJ;101;305.4;SAO GONCALO;Desobediencia a sinalizacao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+229731;17/05/2007;Quinta;19:30:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+229745;11/05/2007;Sexta;16:40:00;RJ;101;329.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+230039;20/05/2007;Domingo;00:30:00;RJ;101;333.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Plena noite
+230123;20/05/2007;Domingo;07:10:00;RJ;101;322.0;NITEROI;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+230228;20/05/2007;Domingo;14:05:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+230446;21/05/2007;Segunda;06:15:00;RJ;101;328.7;RIO DE JANEIRO;Outras;Tombamento;Com Vitimas Feridas;Pleno dia
+230510;17/05/2007;Quinta;19:15:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+230871;21/05/2007;Segunda;22:00:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Plena noite
+230948;19/05/2007;Sabado;17:50:00;RJ;101;307.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+231229;22/05/2007;Terca;07:00:00;RJ;101;319.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+231234;22/05/2007;Terca;18:35:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+231254;22/05/2007;Terca;10:40:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+231302;22/05/2007;Terca;08:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+231379;23/05/2007;Quarta;06:50:00;RJ;101;324.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+231382;23/05/2007;Quarta;06:40:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+231396;23/05/2007;Quarta;07:00:00;RJ;101;334.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Pleno dia
+231435;23/05/2007;Quarta;09:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+231538;23/05/2007;Quarta;07:14:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+231553;23/05/2007;Quarta;07:00:00;RJ;101;323.0;NITEROI;Outras;Tombamento;Com Vitimas Feridas;Pleno dia
+231570;20/05/2007;Domingo;00:45:00;RJ;101;330.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+231595;19/05/2007;Sabado;22:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+231644;23/05/2007;Quarta;14:15:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+231664;16/05/2007;Quarta;18:30:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+231696;20/05/2007;Domingo;18:45:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+231703;23/05/2007;Quarta;10:00:00;RJ;101;317.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+232107;24/05/2007;Quinta;08:30:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+232167;24/05/2007;Quinta;18:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+232455;25/05/2007;Sexta;15:20:00;RJ;101;321.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+232491;25/05/2007;Sexta;18:00:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+232620;25/05/2007;Sexta;21:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+232969;24/05/2007;Quinta;18:00:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+233132;27/05/2007;Domingo;10:02:00;RJ;101;321.6;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+233196;23/05/2007;Quarta;18:50:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+233268;27/05/2007;Domingo;09:20:00;RJ;101;300.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+233272;27/05/2007;Domingo;17:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+233285;27/05/2007;Domingo;18:00:00;RJ;101;322.5;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+233360;27/05/2007;Domingo;16:00:00;RJ;101;326.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto movel;Com Vitimas Feridas;Pleno dia
+233368;27/05/2007;Domingo;19:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+233695;28/05/2007;Segunda;08:15:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+233886;28/05/2007;Segunda;20:20:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+233911;28/05/2007;Segunda;18:00:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+233922;28/05/2007;Segunda;19:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+234231;29/05/2007;Terca;15:40:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+234253;29/05/2007;Terca;19:15:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+234635;30/05/2007;Quarta;17:40:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+234637;30/05/2007;Quarta;17:30:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Anoitecer
+234754;31/05/2007;Quinta;01:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+234818;31/05/2007;Quinta;06:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+234922;31/05/2007;Quinta;12:40:00;RJ;101;321.5;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+235081;31/05/2007;Quinta;07:50:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+235128;31/05/2007;Quinta;18:00:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+235138;31/05/2007;Quinta;18:15:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+235194;27/05/2007;Domingo;17:40:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+235242;01/06/2007;Sexta;05:41:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+235338;30/05/2007;Quarta;17:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+235443;28/05/2007;Segunda;17:00:00;RJ;101;307.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+235492;01/06/2007;Sexta;20:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+235499;01/06/2007;Sexta;13:35:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+235539;01/06/2007;Sexta;19:40:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+235760;02/06/2007;Sabado;14:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+235789;02/06/2007;Sabado;16:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+235804;26/05/2007;Sabado;05:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+235853;02/06/2007;Sabado;17:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+235884;02/06/2007;Sabado;18:30:00;RJ;101;320.5;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+235900;02/06/2007;Sabado;21:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+235923;24/05/2007;Quinta;17:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+236048;01/06/2007;Sexta;19:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+236395;04/06/2007;Segunda;04:05:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+236496;04/06/2007;Segunda;09:45:00;RJ;101;322.0;NITEROI;Desobediencia a sinalizacao;Colisao traseira;Sem Vitimas;Pleno dia
+236779;04/06/2007;Segunda;21:45:00;RJ;101;303.0;SAO GONCALO;Outras;Incendio;Sem Vitimas;Plena noite
+236954;05/06/2007;Terca;08:20:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+236996;25/05/2007;Sexta;20:30:00;RJ;101;319.0;NITEROI;Outras;Capotamento;Sem Vitimas;Plena noite
+237283;06/06/2007;Quarta;06:00:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+237308;02/06/2007;Sabado;09:45:00;RJ;101;312.5;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+237321;06/06/2007;Quarta;07:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+237419;17/05/2007;Quinta;19:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+237484;02/06/2007;Sabado;18:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+237745;07/06/2007;Quinta;05:45:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+237797;07/06/2007;Quinta;10:15:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+237855;07/06/2007;Quinta;14:00:00;RJ;101;322.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+237926;07/06/2007;Quinta;17:02:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+237942;07/06/2007;Quinta;17:30:00;RJ;101;318.4;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+237996;29/05/2007;Terca;17:40:00;RJ;101;316.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Anoitecer
+238053;07/06/2007;Quinta;22:10:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+238491;05/06/2007;Terca;19:20:00;RJ;101;325.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+238778;05/06/2007;Terca;09:40:00;RJ;101;323.0;NITEROI;Outras;Colisao Transversal;Sem Vitimas;Pleno dia
+238783;09/06/2007;Sabado;11:20:00;RJ;101;320.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+238933;10/06/2007;Domingo;00:18:00;RJ;101;330.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+238936;09/06/2007;Sabado;14:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+238961;10/06/2007;Domingo;06:00:00;RJ;101;329.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+239032;09/06/2007;Sabado;19:20:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+239184;10/06/2007;Domingo;17:00:00;RJ;101;317.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+239204;10/06/2007;Domingo;17:30:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+239355;11/06/2007;Segunda;05:35:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+239560;11/06/2007;Segunda;14:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+239574;06/06/2007;Quarta;04:50:00;RJ;101;311.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+239696;11/06/2007;Segunda;18:20:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+239950;11/06/2007;Segunda;05:20:00;RJ;101;322.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Amanhecer
+240000;12/06/2007;Terca;09:10:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+240057;12/06/2007;Terca;13:39:00;RJ;101;326.0;NITEROI;Outras;Tombamento;Com Vitimas Feridas;Pleno dia
+240059;12/06/2007;Terca;16:50:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+240129;12/06/2007;Terca;15:35:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+240146;12/06/2007;Terca;16:10:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+240251;13/06/2007;Quarta;08:10:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+240313;13/06/2007;Quarta;06:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+240470;12/06/2007;Terca;21:05:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+240677;10/06/2007;Domingo;15:52:00;RJ;101;322.5;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+240799;25/05/2007;Sexta;15:20:00;RJ;101;321.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+240826;14/06/2007;Quinta;17:50:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+241051;07/06/2007;Quinta;19:00:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+241379;16/06/2007;Sabado;03:25:00;RJ;101;328.0;NITEROI;Dormindo;Colisao traseira;Sem Vitimas;Plena noite
+241467;13/06/2007;Quarta;21:40:00;RJ;101;299.0;SAO GONCALO;Desobediencia a sinalizacao;Colisao traseira;Sem Vitimas;Plena noite
+241564;16/06/2007;Sabado;17:44:00;RJ;101;326.0;NITEROI;Desobediencia a sinalizacao;Colisao traseira;Sem Vitimas;Anoitecer
+241575;16/06/2007;Sabado;07:30:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+241833;17/06/2007;Domingo;06:30:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+242136;12/06/2007;Terca;18:52:00;RJ;101;315.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+242212;13/06/2007;Quarta;07:15:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+242318;12/06/2007;Terca;21:00:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+242775;15/06/2007;Sexta;05:40:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Saida de Pista;Sem Vitimas;Amanhecer
+242798;15/06/2007;Sexta;20:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+242950;17/06/2007;Domingo;04:50:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+243424;17/06/2007;Domingo;21:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+243593;21/06/2007;Quinta;15:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+243651;20/06/2007;Quarta;18:40:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+243876;14/06/2007;Quinta;23:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+243916;22/06/2007;Sexta;14:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+244112;22/06/2007;Sexta;14:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+244227;23/06/2007;Sabado;07:35:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+244242;21/06/2007;Quinta;21:52:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+244299;23/06/2007;Sabado;08:30:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+244312;23/06/2007;Sabado;04:30:00;RJ;101;314.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite
+244317;21/06/2007;Quinta;18:55:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+244354;23/06/2007;Sabado;18:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+244361;23/06/2007;Sabado;17:50:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+244447;23/06/2007;Sabado;21:40:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+244514;24/06/2007;Domingo;02:50:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+244841;20/06/2007;Quarta;18:35:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+245010;25/06/2007;Segunda;08:40:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+245016;22/06/2007;Sexta;20:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+245068;25/06/2007;Segunda;09:15:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+245105;25/06/2007;Segunda;09:05:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+245216;22/06/2007;Sexta;22:50:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+245240;12/06/2007;Terca;12:40:00;RJ;101;321.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+245248;25/06/2007;Segunda;19:15:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+245280;25/06/2007;Segunda;10:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+245491;22/06/2007;Sexta;23:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+245495;26/06/2007;Terca;09:30:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+245917;23/06/2007;Sabado;17:40:00;RJ;101;301.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+246081;20/06/2007;Quarta;19:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+246215;27/06/2007;Quarta;22:10:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+246224;28/06/2007;Quinta;01:45:00;RJ;101;320.0;NITEROI;Falta de atencao;Capotamento;Sem Vitimas;Plena noite
+246309;28/06/2007;Quinta;08:45:00;RJ;101;322.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Pleno dia
+246373;25/06/2007;Segunda;05:30:00;RJ;101;305.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Amanhecer
+246514;21/06/2007;Quinta;14:40:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+246797;29/06/2007;Sexta;10:28:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+246971;29/06/2007;Sexta;21:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+247099;30/06/2007;Sabado;04:45:00;RJ;101;326.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+247109;30/06/2007;Sabado;04:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+247200;30/06/2007;Sabado;06:00:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Amanhecer
+247239;26/06/2007;Terca;08:15:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+247269;30/06/2007;Sabado;16:30:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+247286;26/06/2007;Terca;12:45:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+247376;30/06/2007;Sabado;22:00:00;RJ;101;326.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+247490;28/06/2007;Quinta;04:00:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+247529;01/07/2007;Domingo;02:00:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+247548;01/07/2007;Domingo;10:20:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+247785;01/07/2007;Domingo;23:30:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+247851;02/07/2007;Segunda;08:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+247968;30/06/2007;Sabado;04:45:00;RJ;101;320.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+248547;27/06/2007;Quarta;17:00:00;RJ;101;315.5;SAO GONCALO;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Pleno dia
+248571;03/07/2007;Terca;21:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+249022;01/07/2007;Domingo;20:30:00;RJ;101;300.9;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+249120;29/06/2007;Sexta;02:50:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+249836;03/07/2007;Terca;17:56:00;RJ;101;326.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Anoitecer
+249932;07/07/2007;Sabado;09:22:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+249933;07/07/2007;Sabado;09:40:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+249935;07/07/2007;Sabado;06:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+249946;04/07/2007;Quarta;22:10:00;RJ;101;322.1;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+249951;07/07/2007;Sabado;09:30:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+249962;07/07/2007;Sabado;08:45:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+249968;04/07/2007;Quarta;11:20:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+250002;07/07/2007;Sabado;15:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+250015;06/07/2007;Sexta;18:10:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+250058;07/07/2007;Sabado;17:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+250107;07/07/2007;Sabado;18:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+250271;08/07/2007;Domingo;09:30:00;RJ;101;321.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+250633;05/07/2007;Quinta;14:40:00;RJ;101;324.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+250658;05/07/2007;Quinta;23:00:00;RJ;101;334.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Plena noite
+250990;09/07/2007;Segunda;18:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+251353;07/07/2007;Sabado;15:35:00;RJ;101;318.5;SAO GONCALO;Falta de atencao;Capotamento;Com Vitimas Feridas;Pleno dia
+251369;08/07/2007;Domingo;20:40:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+251463;07/07/2007;Sabado;07:55:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+251512;10/07/2007;Terca;18:55:00;RJ;101;308.8;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+251771;30/06/2007;Sabado;01:00:00;RJ;101;312.0;SAO GONCALO;Animais na Pista;Colisao traseira;Sem Vitimas;Plena noite
+252171;12/07/2007;Quinta;09:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+252456;13/07/2007;Sexta;07:15:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+252606;13/07/2007;Sexta;10:20:00;RJ;101;304.6;RESENDE;Desobediencia a sinalizacao;Colisao Transversal;Com Vitimas Feridas;Pleno dia
+252623;12/07/2007;Quinta;05:01:00;RJ;101;333.0;RIO DE JANEIRO;Dormindo;Colisao com objeto fixo;Sem Vitimas;Plena noite
+252693;13/07/2007;Sexta;12:30:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+252779;13/07/2007;Sexta;13:35:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+252817;14/07/2007;Sabado;00:05:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+252830;13/07/2007;Sexta;17:10:00;RJ;101;306.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+252873;13/07/2007;Sexta;21:30:00;RJ;101;314.5;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+252880;11/07/2007;Quarta;04:10:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+252983;10/07/2007;Terca;18:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+253060;14/07/2007;Sabado;15:50:00;RJ;101;306.0;ARARUAMA;Outras;Saida de Pista;Com Vitimas Feridas;Anoitecer
+253614;12/07/2007;Quinta;17:40:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Anoitecer
+253886;16/07/2007;Segunda;11:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+254063;16/07/2007;Segunda;17:30:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+254140;14/07/2007;Sabado;04:40:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+254175;11/07/2007;Quarta;19:30:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+254213;11/07/2007;Quarta;18:57:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Plena noite
+254228;11/07/2007;Quarta;13:15:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+254236;11/07/2007;Quarta;17:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Anoitecer
+254243;12/07/2007;Quinta;11:00:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+254255;12/07/2007;Quinta;09:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+254270;12/07/2007;Quinta;18:50:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+254285;12/07/2007;Quinta;18:20:00;RJ;101;327.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite
+254507;13/07/2007;Sexta;14:15:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+254860;12/07/2007;Quinta;10:50:00;RJ;101;327.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+254879;12/07/2007;Quinta;11:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+255807;12/07/2007;Quinta;17:00:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+255829;21/07/2007;Sabado;14:10:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+255851;21/07/2007;Sabado;05:03:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+255869;21/07/2007;Sabado;10:25:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+255879;21/07/2007;Sabado;10:09:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+255895;21/07/2007;Sabado;11:00:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+255988;15/07/2007;Domingo;01:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+256256;16/07/2007;Segunda;03:50:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+256278;22/07/2007;Domingo;19:40:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+256600;06/07/2007;Sexta;22:15:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+256637;22/07/2007;Domingo;20:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+256755;23/07/2007;Segunda;08:24:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+256846;23/07/2007;Segunda;07:10:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+256848;23/07/2007;Segunda;21:10:00;RJ;101;328.0;RIO DE JANEIRO;Ultrapassagem indevida;Colisao traseira;Sem Vitimas;Plena noite
+256953;18/07/2007;Quarta;21:10:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+256986;18/07/2007;Quarta;20:40:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+257098;24/07/2007;Terca;16:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+257149;18/07/2007;Quarta;03:20:00;RJ;101;305.7;SAO GONCALO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Plena noite
+257161;24/07/2007;Terca;17:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+257265;18/01/2007;Quinta;11:47:00;RJ;101;322.5;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+257418;20/07/2007;Sexta;14:25:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+257495;14/07/2007;Sabado;16:10:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+257691;13/07/2007;Sexta;23:30:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+257721;23/07/2007;Segunda;20:20:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+257823;26/07/2007;Quinta;03:00:00;RJ;101;320.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+257858;22/07/2007;Domingo;19:00:00;RJ;101;319.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+258015;26/07/2007;Quinta;09:00:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Colisao traseira;Sem Vitimas;Pleno dia
+258037;23/07/2007;Segunda;22:10:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+258050;26/07/2007;Quinta;11:30:00;RJ;101;303.0;SAO GONCALO;Ultrapassagem indevida;Colisao Transversal;Sem Vitimas;Pleno dia
+258127;15/07/2007;Domingo;15:00:00;RJ;101;313.0;SAO GONCALO;Dormindo;Saida de Pista;Com Vitimas Feridas;Pleno dia
+258452;16/07/2007;Segunda;07:00:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+258564;20/07/2007;Sexta;08:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+258813;20/07/2007;Sexta;05:30:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+258826;21/07/2007;Sabado;04:40:00;RJ;101;326.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+258841;28/07/2007;Sabado;12:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+258858;28/07/2007;Sabado;13:15:00;RJ;101;325.5;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+258932;28/07/2007;Sabado;18:00:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+258978;28/07/2007;Sabado;17:40:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+259580;27/07/2007;Sexta;00:40:00;RJ;101;316.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+259602;27/07/2007;Sexta;12:45:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+259642;30/07/2007;Segunda;08:15:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+259732;27/07/2007;Sexta;23:15:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+259877;30/07/2007;Segunda;18:50:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+259900;19/07/2007;Quinta;12:00:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+259929;24/07/2007;Terca;20:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+260195;31/07/2007;Terca;13:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+260671;21/07/2007;Sabado;19:30:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+260678;20/07/2007;Sexta;18:20:00;RJ;101;316.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Anoitecer
+260710;01/08/2007;Quarta;14:40:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+260853;01/08/2007;Quarta;13:00:00;RJ;101;322.0;NITEROI;Dormindo;Colisao traseira;Sem Vitimas;Pleno dia
+261075;30/07/2007;Segunda;13:55:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+261179;27/07/2007;Sexta;19:20:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao com objeto movel;Com Vitimas Feridas;Plena noite
+261213;02/08/2007;Quinta;09:20:00;RJ;101;310.5;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+261223;02/08/2007;Quinta;16:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+261241;02/08/2007;Quinta;12:00:00;RJ;101;317.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+261495;03/08/2007;Sexta;04:35:00;RJ;101;334.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+261497;03/08/2007;Sexta;08:53:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+261504;03/08/2007;Sexta;08:55:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+261578;12/07/2007;Quinta;17:40:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+261587;20/07/2007;Sexta;23:30:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+261884;04/08/2007;Sabado;07:00:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+262098;01/08/2007;Quarta;08:10:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+262239;02/08/2007;Quinta;05:25:00;RJ;101;326.5;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+262334;02/08/2007;Quinta;15:35:00;RJ;101;309.5;SAO GONCALO;Animais na Pista;Colisao traseira;Sem Vitimas;Pleno dia
+262661;06/08/2007;Segunda;07:45:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+262688;06/08/2007;Segunda;07:50:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Amanhecer
+262705;26/07/2007;Quinta;15:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+262717;20/07/2007;Sexta;15:40:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+262751;27/07/2007;Sexta;16:10:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+262797;02/08/2007;Quinta;19:25:00;RJ;101;321.5;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+262904;06/08/2007;Segunda;17:30:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+262921;27/07/2007;Sexta;13:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+262948;06/08/2007;Segunda;20:15:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+262962;28/07/2007;Sabado;15:40:00;RJ;101;324.5;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+263026;20/07/2007;Sexta;19:30:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+263044;28/07/2007;Sabado;13:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+263053;04/08/2007;Sabado;04:40:00;RJ;101;329.0;NITEROI;Outras;Capotamento;Com Vitimas Fatais;Plena noite
+263124;07/08/2007;Terca;08:55:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+263269;20/07/2007;Sexta;21:00:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+263373;20/07/2007;Sexta;20:15:00;RJ;101;327.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+263519;26/07/2007;Quinta;12:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+263541;13/07/2007;Sexta;04:30:00;RJ;101;306.3;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+263545;14/07/2007;Sabado;18:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+263576;27/07/2007;Sexta;17:30:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Anoitecer
+263582;27/07/2007;Sexta;19:40:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+263635;01/08/2007;Quarta;16:30:00;RJ;101;319.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+263661;28/07/2007;Sabado;00:35:00;RJ;101;309.0;SAO GONCALO;Outras;Incendio;Sem Vitimas;Plena noite
+263698;18/07/2007;Quarta;16:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+263817;29/07/2007;Domingo;22:35:00;RJ;101;305.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+263850;09/08/2007;Quinta;08:40:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+263859;05/08/2007;Domingo;18:55:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+263880;27/07/2007;Sexta;22:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+264033;09/08/2007;Quinta;07:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+264105;27/07/2007;Sexta;18:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+264179;02/08/2007;Quinta;19:30:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+264409;10/08/2007;Sexta;13:15:00;RJ;101;326.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+264486;27/07/2007;Sexta;15:10:00;RJ;101;323.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+264529;09/08/2007;Quinta;18:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+264532;10/08/2007;Sexta;18:00:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+264564;24/07/2007;Terca;20:10:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+264612;10/08/2007;Sexta;15:10:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+264761;11/08/2007;Sabado;08:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+264767;04/08/2007;Sabado;01:11:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+264796;11/08/2007;Sabado;11:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+264837;11/08/2007;Sabado;11:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+264872;11/08/2007;Sabado;14:30:00;RJ;101;319.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+264887;08/08/2007;Quarta;00:20:00;RJ;101;312.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+264989;11/08/2007;Sabado;17:45:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Anoitecer
+265024;11/08/2007;Sabado;22:30:00;RJ;101;323.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Plena noite
+265181;27/07/2007;Sexta;09:40:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+265611;12/08/2007;Domingo;20:30:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+265631;12/08/2007;Domingo;19:10:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+265702;30/07/2007;Segunda;18:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+265737;09/08/2007;Quinta;19:00:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+265810;09/08/2007;Quinta;09:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+265833;09/08/2007;Quinta;08:45:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+265929;10/08/2007;Sexta;15:15:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+265978;10/08/2007;Sexta;15:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+266186;14/08/2007;Terca;18:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+266214;07/08/2007;Terca;17:00:00;RJ;101;299.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+266264;10/08/2007;Sexta;20:27:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+266421;15/08/2007;Quarta;11:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+266519;11/08/2007;Sabado;13:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+266571;15/08/2007;Quarta;17:05:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+266607;15/08/2007;Quarta;16:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+266612;15/08/2007;Quarta;11:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+266626;14/08/2007;Terca;22:00:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+266649;15/08/2007;Quarta;08:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+266703;16/08/2007;Quinta;04:55:00;RJ;101;324.5;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+266929;15/08/2007;Quarta;18:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+266987;13/08/2007;Segunda;17:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+267149;13/08/2007;Segunda;22:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+267152;16/08/2007;Quinta;07:05:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+267458;14/08/2007;Terca;09:15:00;RJ;101;322.2;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+267841;19/08/2007;Domingo;10:15:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+268197;17/08/2007;Sexta;20:40:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+268255;18/08/2007;Sabado;02:05:00;RJ;101;317.3;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+268310;18/08/2007;Sabado;09:50:00;RJ;101;315.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+268331;17/08/2007;Sexta;22:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+268359;14/08/2007;Terca;14:30:00;RJ;101;300.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia
+268510;16/08/2007;Quinta;22:05:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+268661;17/08/2007;Sexta;19:40:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+268704;21/08/2007;Terca;12:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+268761;17/08/2007;Sexta;13:45:00;RJ;101;322.0;NITEROI;Desobediencia a sinalizacao;Colisao lateral;Sem Vitimas;Pleno dia
+269169;22/08/2007;Quarta;18:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+269257;22/08/2007;Quarta;23:20:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+269260;23/08/2007;Quinta;00:00:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+269594;19/08/2007;Domingo;23:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+270148;25/08/2007;Sabado;11:00:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+270199;01/08/2007;Quarta;20:05:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+270512;26/08/2007;Domingo;14:30:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+271326;21/08/2007;Terca;18:25:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+271360;21/08/2007;Terca;03:30:00;RJ;101;322.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+271444;25/08/2007;Sabado;22:40:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+271577;29/08/2007;Quarta;13:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+272118;27/08/2007;Segunda;19:05:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+272378;31/08/2007;Sexta;17:55:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Danos Eventuais;Sem Vitimas;Anoitecer
+272433;31/08/2007;Sexta;21:00:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+272683;01/09/2007;Sabado;07:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+272803;01/09/2007;Sabado;19:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+272871;29/08/2007;Quarta;17:30:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+272912;25/08/2007;Sabado;20:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+272919;02/09/2007;Domingo;07:45:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+273010;29/08/2007;Quarta;08:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Tombamento;Com Vitimas Feridas;Pleno dia
+273217;31/08/2007;Sexta;05:30:00;RJ;101;326.5;NITEROI;Dormindo;Colisao com objeto fixo;Sem Vitimas;Plena noite
+273272;03/09/2007;Segunda;10:10:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+273289;03/09/2007;Segunda;10:25:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+273370;26/08/2007;Domingo;20:30:00;RJ;101;305.2;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+273388;21/08/2007;Terca;18:20:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+273407;29/08/2007;Quarta;11:00:00;RJ;101;311.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+273444;01/09/2007;Sabado;02:26:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+273497;03/09/2007;Segunda;22:10:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+273601;29/08/2007;Quarta;18:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+273781;31/08/2007;Sexta;21:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+274021;28/08/2007;Terca;23:45:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+274201;05/09/2007;Quarta;18:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Anoitecer
+274225;04/09/2007;Terca;14:03:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+274490;06/09/2007;Quinta;10:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+274878;07/09/2007;Sexta;07:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+274931;07/09/2007;Sexta;11:30:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+274993;03/09/2007;Segunda;06:30:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+275030;07/09/2007;Sexta;06:10:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+275093;03/09/2007;Segunda;10:40:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+275253;04/09/2007;Terca;13:45:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+275254;04/09/2007;Terca;17:30:00;RJ;101;321.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer
+275267;04/09/2007;Terca;16:20:00;RJ;101;328.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+275294;07/08/2007;Terca;05:50:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+275453;04/09/2007;Terca;15:05:00;RJ;101;328.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+275458;04/09/2007;Terca;06:58:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+275476;08/09/2007;Sabado;21:40:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+275651;24/08/2007;Sexta;20:15:00;RJ;101;320.8;NITEROI;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+275742;06/09/2007;Quinta;13:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+275775;06/09/2007;Quinta;00:10:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+275829;06/09/2007;Quinta;19:20:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+275985;07/09/2007;Sexta;05:20:00;RJ;101;333.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+276014;06/09/2007;Quinta;15:10:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+276033;07/09/2007;Sexta;01:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+276047;06/09/2007;Quinta;23:50:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+276148;07/09/2007;Sexta;05:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+276270;10/09/2007;Segunda;15:00:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+276275;06/09/2007;Quinta;12:10:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+276885;12/09/2007;Quarta;08:53:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+277117;12/09/2007;Quarta;21:45:00;RJ;101;319.5;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+277287;06/09/2007;Quinta;04:30:00;RJ;101;305.7;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+277433;13/09/2007;Quinta;09:15:00;RJ;101;327.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+277455;13/09/2007;Quinta;20:05:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+277497;13/09/2007;Quinta;20:30:00;RJ;101;326.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+277498;10/09/2007;Segunda;12:40:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+277544;13/08/2007;Segunda;22:10:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Tombamento;Sem Vitimas;Plena noite
+277590;10/09/2007;Segunda;10:05:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+277722;10/09/2007;Segunda;11:00:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+278051;15/09/2007;Sabado;06:20:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+278158;15/09/2007;Sabado;13:00:00;RJ;101;325.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+278183;15/09/2007;Sabado;05:40:00;RJ;101;305.0;SAO GONCALO;Defeito mecanico em veiculo;Capotamento;Com Vitimas Fatais;Amanhecer
+278296;16/09/2007;Domingo;02:00:00;RJ;101;328.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+278341;12/09/2007;Quarta;20:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+278891;17/09/2007;Segunda;08:00:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+278937;17/09/2007;Segunda;20:00:00;RJ;101;322.7;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+278965;17/09/2007;Segunda;23:00:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+279096;14/09/2007;Sexta;07:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+279155;14/09/2007;Sexta;06:10:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+279190;15/09/2007;Sabado;05:00:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+279572;19/09/2007;Quarta;06:10:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+279672;19/09/2007;Quarta;16:00:00;RJ;101;317.2;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+280004;20/09/2007;Quinta;16:00:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+280020;20/09/2007;Quinta;14:00:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+280114;08/09/2007;Sabado;19:00:00;RJ;101;305.5;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+280133;16/09/2007;Domingo;14:50:00;RJ;101;321.8;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+280375;10/09/2007;Segunda;01:30:00;RJ;101;306.0;SAO GONCALO;Desobediencia a sinalizacao;Colisao frontal;Com Vitimas Fatais;Plena noite
+280423;20/09/2007;Quinta;20:20:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+280624;21/09/2007;Sexta;23:30:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+280919;10/09/2007;Segunda;06:45:00;RJ;101;315.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+280980;23/09/2007;Domingo;00:25:00;RJ;101;301.0;SAO GONCALO;Animais na Pista;Atropelamento de animal;Com Vitimas Feridas;Plena noite
+281071;19/09/2007;Quarta;22:15:00;RJ;101;329.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+281135;20/09/2007;Quinta;05:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+281140;23/09/2007;Domingo;09:45:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+281156;23/09/2007;Domingo;16:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+281246;23/09/2007;Domingo;18:20:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+281290;23/09/2007;Domingo;21:30:00;RJ;101;329.5;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+281391;21/09/2007;Sexta;01:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+281582;16/09/2007;Domingo;13:30:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+281855;22/09/2007;Sabado;08:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+281872;25/09/2007;Terca;09:40:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+282014;16/09/2007;Domingo;13:20:00;RJ;101;302.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+282238;22/09/2007;Sabado;17:45:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+282286;18/09/2007;Terca;19:40:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+282577;23/09/2007;Domingo;20:30:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+282614;27/09/2007;Quinta;07:20:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+282629;23/09/2007;Domingo;22:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+282699;23/09/2007;Domingo;20:40:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+282879;27/09/2007;Quinta;17:40:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+282894;27/09/2007;Quinta;20:15:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+283008;28/09/2007;Sexta;06:50:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+283066;21/09/2007;Sexta;03:25:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+283081;20/09/2007;Quinta;14:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+283088;16/09/2007;Domingo;21:00:00;RJ;101;310.0;SAO GONCALO;Animais na Pista;Atropelamento de animal;Com Vitimas Feridas;Plena noite
+283218;24/09/2007;Segunda;06:50:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Colisao traseira;Sem Vitimas;Pleno dia
+283222;28/09/2007;Sexta;11:40:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+283225;28/09/2007;Sexta;06:20:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer
+283245;28/09/2007;Sexta;17:10:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+283255;28/09/2007;Sexta;17:45:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+283313;28/09/2007;Sexta;19:20:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+283557;29/09/2007;Sabado;10:40:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+283598;02/09/2007;Domingo;02:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+283769;29/09/2007;Sabado;15:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+283809;26/09/2007;Quarta;16:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+283825;30/09/2007;Domingo;06:10:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+283854;30/09/2007;Domingo;05:30:00;RJ;101;318.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+283881;26/09/2007;Quarta;17:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+284164;01/10/2007;Segunda;07:15:00;RJ;101;329.0;RIO DE JANEIRO;Dormindo;Colisao lateral;Sem Vitimas;Pleno dia
+284166;28/09/2007;Sexta;20:30:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+284278;01/10/2007;Segunda;06:30:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+284484;27/09/2007;Quinta;18:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite
+284489;01/10/2007;Segunda;19:45:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+284517;01/10/2007;Segunda;14:50:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+284866;02/10/2007;Terca;13:10:00;RJ;101;327.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+285233;03/10/2007;Quarta;13:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+285433;04/10/2007;Quinta;10:50:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+285547;04/10/2007;Quinta;06:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Amanhecer
+285664;04/10/2007;Quinta;22:20:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+285800;05/10/2007;Sexta;07:50:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+285829;05/10/2007;Sexta;07:45:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+285917;05/10/2007;Sexta;08:40:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+285927;01/10/2007;Segunda;23:50:00;RJ;101;327.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+285932;05/10/2007;Sexta;16:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+285998;05/10/2007;Sexta;16:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+286159;04/10/2007;Quinta;19:10:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+286387;02/10/2007;Terca;20:30:00;RJ;101;315.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+286682;07/10/2007;Domingo;21:50:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+287207;09/10/2007;Terca;01:00:00;RJ;101;321.0;NITEROI;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite
+287217;08/10/2007;Segunda;22:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+287393;09/10/2007;Terca;10:30:00;RJ;101;321.5;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+287519;06/10/2007;Sabado;21:00:00;RJ;101;309.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite
+287561;09/10/2007;Terca;15:05:00;RJ;101;309.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+287662;09/10/2007;Terca;10:30:00;RJ;101;318.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+287737;06/10/2007;Sabado;10:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+287784;10/10/2007;Quarta;09:45:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+287808;10/10/2007;Quarta;07:49:00;RJ;101;326.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+287824;10/10/2007;Quarta;06:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+287831;07/10/2007;Domingo;01:00:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+287840;10/10/2007;Quarta;07:40:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+288013;06/10/2007;Sabado;06:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer
+288031;10/10/2007;Quarta;18:15:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+288035;28/09/2007;Sexta;22:50:00;RJ;101;319.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+288103;10/10/2007;Quarta;21:10:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+288110;10/10/2007;Quarta;17:00:00;RJ;101;321.5;NITEROI;Outras;Capotamento;Sem Vitimas;Pleno dia
+288128;10/10/2007;Quarta;08:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+288146;28/09/2007;Sexta;17:20:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+288700;11/10/2007;Quinta;07:00:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+288738;12/10/2007;Sexta;07:00:00;RJ;101;318.0;SAO GONCALO;Ultrapassagem indevida;Colisao traseira;Com Vitimas Feridas;Pleno dia
+288854;12/10/2007;Sexta;06:55:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+289120;09/10/2007;Terca;21:40:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+289219;13/10/2007;Sabado;17:20:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+289245;13/10/2007;Sabado;10:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+289364;10/10/2007;Quarta;09:00:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+289367;14/10/2007;Domingo;06:15:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+289395;11/10/2007;Quinta;05:15:00;RJ;101;306.0;SAO GONCALO;Animais na Pista;Atropelamento de animal;Com Vitimas Feridas;Amanhecer
+289419;06/10/2007;Sabado;13:45:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+289424;10/10/2007;Quarta;10:30:00;RJ;101;318.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+289623;14/10/2007;Domingo;20:04:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+289657;10/10/2007;Quarta;08:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+290086;15/10/2007;Segunda;18:10:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+290088;15/10/2007;Segunda;15:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+290133;15/10/2007;Segunda;17:45:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Anoitecer
+290318;14/10/2007;Domingo;19:30:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+290332;08/10/2007;Segunda;16:45:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+290656;16/10/2007;Terca;07:00:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+290777;15/10/2007;Segunda;20:50:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+290793;15/10/2007;Segunda;01:33:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+290830;14/10/2007;Domingo;17:20:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+290837;17/10/2007;Quarta;07:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+291005;17/10/2007;Quarta;18:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+291162;17/10/2007;Quarta;18:05:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+291164;18/10/2007;Quinta;02:00:00;RJ;101;320.0;NITEROI;Outras;Capotamento;Sem Vitimas;Plena noite
+291219;10/10/2007;Quarta;19:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+291267;18/10/2007;Quinta;09:35:00;RJ;101;324.0;NITEROI;Defeito mecanico em veiculo;Colisao lateral;Sem Vitimas;Pleno dia
+291339;06/10/2007;Sabado;13:30:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+291425;11/10/2007;Quinta;12:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+291556;11/10/2007;Quinta;16:20:00;RJ;101;322.8;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+291672;15/10/2007;Segunda;16:00:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+291773;19/10/2007;Sexta;16:11:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+291883;19/10/2007;Sexta;22:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+292090;20/10/2007;Sabado;05:20:00;RJ;101;324.0;NITEROI;Falta de atencao;Capotamento;Com Vitimas Feridas;Plena noite
+292118;20/10/2007;Sabado;16:33:00;RJ;101;322.5;NITEROI;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+292144;20/10/2007;Sabado;18:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+292444;21/10/2007;Domingo;18:10:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+292646;18/10/2007;Quinta;07:50:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+292647;23/08/2007;Quinta;20:10:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+292656;14/10/2007;Domingo;20:50:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+292659;18/10/2007;Quinta;23:00:00;RJ;101;303.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+292866;22/10/2007;Segunda;17:00:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+293131;19/10/2007;Sexta;16:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+293496;24/10/2007;Quarta;03:00:00;RJ;101;311.0;SAO GONCALO;Animais na Pista;Atropelamento de animal;Sem Vitimas;Plena noite
+293648;24/10/2007;Quarta;10:00:00;RJ;101;324.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+293669;30/09/2007;Domingo;21:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+293730;21/10/2007;Domingo;10:00:00;RJ;101;312.0;SAO GONCALO;Animais na Pista;Capotamento;Com Vitimas Feridas;Pleno dia
+293934;23/10/2007;Terca;05:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Amanhecer
+294094;25/10/2007;Quinta;09:31:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+294951;27/10/2007;Sabado;11:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+295122;23/10/2007;Terca;17:10:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+295154;25/10/2007;Quinta;02:20:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+295212;28/10/2007;Domingo;10:30:00;RJ;101;317.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+295314;06/10/2007;Sabado;05:30:00;RJ;101;322.5;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+295398;28/10/2007;Domingo;06:30:00;RJ;101;321.0;NITEROI;Defeito na via;Tombamento;Sem Vitimas;Pleno dia
+295515;26/10/2007;Sexta;16:51:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+295554;20/10/2007;Sabado;05:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+295614;25/10/2007;Quinta;18:40:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+295729;29/10/2007;Segunda;10:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+295949;30/10/2007;Terca;07:30:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+295950;27/10/2007;Sabado;00:05:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+295959;30/10/2007;Terca;07:30:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+295977;30/10/2007;Terca;08:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+296285;30/10/2007;Terca;22:00:00;RJ;101;317.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+296352;28/10/2007;Domingo;18:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+296649;31/10/2007;Quarta;21:00:00;RJ;101;330.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+296897;01/11/2007;Quinta;11:50:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+296960;30/10/2007;Terca;18:15:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+297029;28/10/2007;Domingo;09:20:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+297061;01/11/2007;Quinta;12:45:00;RJ;101;329.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+297326;02/11/2007;Sexta;14:30:00;RJ;101;329.5;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+297468;03/11/2007;Sabado;00:45:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+297528;29/10/2007;Segunda;09:20:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+297618;30/10/2007;Terca;15:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+297633;30/10/2007;Terca;22:30:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+297711;03/11/2007;Sabado;14:30:00;RJ;101;307.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+297809;03/11/2007;Sabado;19:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+298144;01/11/2007;Quinta;22:40:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+298321;28/10/2007;Domingo;17:00:00;RJ;101;319.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+298352;02/11/2007;Sexta;04:20:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+298363;05/11/2007;Segunda;08:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+298406;28/10/2007;Domingo;17:00:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+298456;01/11/2007;Quinta;22:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+298816;06/11/2007;Terca;07:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+298831;06/11/2007;Terca;07:00:00;RJ;101;325.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+298843;06/11/2007;Terca;09:34:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+298912;06/11/2007;Terca;14:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+298973;06/11/2007;Terca;16:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+298999;06/11/2007;Terca;17:15:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+299075;06/11/2007;Terca;18:20:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+299091;06/11/2007;Terca;20:55:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+299271;03/11/2007;Sabado;19:15:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+299282;03/11/2007;Sabado;20:15:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+299462;07/11/2007;Quarta;13:30:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+299522;05/11/2007;Segunda;04:30:00;RJ;101;321.3;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+299534;07/11/2007;Quarta;10:45:00;RJ;101;325.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+299536;07/11/2007;Quarta;12:48:00;RJ;101;328.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao lateral;Sem Vitimas;Pleno dia
+299571;27/10/2007;Sabado;08:00:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+299620;08/11/2007;Quinta;08:30:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+299760;05/11/2007;Segunda;17:40:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+300125;09/11/2007;Sexta;16:50:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+300234;09/11/2007;Sexta;22:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+300270;05/11/2007;Segunda;08:40:00;RJ;101;302.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+300434;06/11/2007;Terca;19:30:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+300481;10/11/2007;Sabado;15:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+300701;03/11/2007;Sabado;08:30:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+300813;07/11/2007;Quarta;08:00:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+300921;02/11/2007;Sexta;05:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+300984;11/11/2007;Domingo;19:50:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+301180;10/11/2007;Sabado;03:45:00;RJ;101;328.5;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+301211;12/11/2007;Segunda;05:45:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+301431;12/11/2007;Segunda;10:45:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+301433;12/11/2007;Segunda;14:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+301467;10/11/2007;Sabado;02:10:00;RJ;101;334.0;RIO DE JANEIRO;Ultrapassagem indevida;Colisao traseira;Com Vitimas Feridas;Plena noite
+301541;10/09/2007;Segunda;13:30:00;RJ;101;318.8;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+301704;07/11/2007;Quarta;05:20:00;RJ;101;310.0;SAO GONCALO;Animais na Pista;Saida de Pista;Sem Vitimas;Amanhecer
+301951;14/11/2007;Quarta;05:44:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer
+301987;12/11/2007;Segunda;18:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+302043;09/07/2007;Segunda;15:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+302092;14/11/2007;Quarta;16:15:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+302158;14/11/2007;Quarta;12:00:00;RJ;101;328.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+302179;14/11/2007;Quarta;14:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+302341;15/11/2007;Quinta;05:00:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Amanhecer
+302445;11/01/2007;Quinta;05:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+302543;15/11/2007;Quinta;18:55:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Capotamento;Sem Vitimas;Anoitecer
+302567;14/11/2007;Quarta;20:40:00;RJ;101;308.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+302574;15/11/2007;Quinta;11:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+302581;15/11/2007;Quinta;05:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+302748;14/11/2007;Quarta;07:00:00;RJ;101;317.0;SAO GONCALO;Velocidade incompativel;Saida de Pista;Com Vitimas Feridas;Pleno dia
+302766;27/10/2007;Sabado;10:44:00;RJ;101;322.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+303009;17/11/2007;Sabado;00:02:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+303222;17/11/2007;Sabado;10:30:00;RJ;101;321.0;NITEROI;Outras;Colisao Transversal;Sem Vitimas;Pleno dia
+303229;13/11/2007;Terca;17:20:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+303236;13/11/2007;Terca;17:22:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+303268;13/11/2007;Terca;17:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+303426;18/11/2007;Domingo;06:00:00;RJ;101;307.8;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+303486;15/11/2007;Quinta;04:55:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer
+303520;15/11/2007;Quinta;00:10:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+303543;14/11/2007;Quarta;22:27:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+304002;13/11/2007;Terca;07:00:00;RJ;101;316.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+305270;22/11/2007;Quinta;18:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Anoitecer
+305349;22/11/2007;Quinta;23:00:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+305418;19/11/2007;Segunda;17:40:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+305442;19/11/2007;Segunda;17:40:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+305459;23/11/2007;Sexta;07:30:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+305480;19/11/2007;Segunda;06:10:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+305508;23/11/2007;Sexta;08:00:00;RJ;101;317.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Pleno dia
+305900;24/11/2007;Sabado;10:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+306094;24/11/2007;Sabado;22:05:00;RJ;101;327.1;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+306172;17/11/2007;Sabado;15:30:00;RJ;101;320.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+306181;21/11/2007;Quarta;22:05:00;RJ;101;322.5;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+306491;26/11/2007;Segunda;01:00:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+306575;19/11/2007;Segunda;03:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+306697;26/11/2007;Segunda;08:30:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+306815;26/11/2007;Segunda;08:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+306981;23/11/2007;Sexta;07:00:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+307020;23/11/2007;Sexta;17:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+307103;21/11/2007;Quarta;16:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+307106;23/11/2007;Sexta;19:15:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+307269;27/11/2007;Terca;16:30:00;RJ;101;308.0;SAO GONCALO;Outras;Tombamento;Sem Vitimas;Pleno dia
+307418;23/11/2007;Sexta;19:45:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+307734;28/11/2007;Quarta;13:30:00;RJ;101;326.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+307851;29/11/2007;Quinta;08:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+307928;27/11/2007;Terca;06:15:00;RJ;101;304.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+308079;29/11/2007;Quinta;12:45:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+308356;22/11/2007;Quinta;21:40:00;RJ;101;328.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Plena noite
+308360;30/11/2007;Sexta;11:50:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+308408;30/11/2007;Sexta;16:30:00;RJ;101;316.0;SAO GONCALO;Ultrapassagem indevida;Colisao traseira;Sem Vitimas;Pleno dia
+308420;30/11/2007;Sexta;16:00:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+308440;28/11/2007;Quarta;22:35:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+308520;30/11/2007;Sexta;22:30:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+308648;27/11/2007;Terca;06:10:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+308664;24/11/2007;Sabado;00:30:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+308758;01/12/2007;Sabado;15:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+309029;27/11/2007;Terca;11:10:00;RJ;101;321.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+309109;02/12/2007;Domingo;15:40:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+309255;02/12/2007;Domingo;21:27:00;RJ;101;329.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+309363;02/12/2007;Domingo;22:05:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+309766;04/12/2007;Terca;07:50:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+309794;30/11/2007;Sexta;05:40:00;RJ;101;326.0;NITEROI;Dormindo;Colisao lateral;Sem Vitimas;Amanhecer
+309839;01/12/2007;Sabado;02:30:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+309961;30/11/2007;Sexta;15:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+309978;30/11/2007;Sexta;22:15:00;RJ;101;330.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+310002;01/12/2007;Sabado;04:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+310015;04/12/2007;Terca;15:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+310150;01/12/2007;Sabado;18:40:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+310208;01/12/2007;Sabado;23:30:00;RJ;101;305.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Fatais;Plena noite
+310263;02/12/2007;Domingo;02:45:00;RJ;101;303.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+310379;01/12/2007;Sabado;16:50:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+310464;01/12/2007;Sabado;19:50:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+310496;05/12/2007;Quarta;18:04:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+310497;03/12/2007;Segunda;08:20:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+310523;04/12/2007;Terca;22:40:00;RJ;101;306.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+310878;06/12/2007;Quinta;15:30:00;RJ;101;311.5;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+310991;06/12/2007;Quinta;21:44:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+311010;06/12/2007;Quinta;22:55:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+311011;06/12/2007;Quinta;21:35:00;RJ;101;321.2;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite
+311052;06/12/2007;Quinta;23:00:00;RJ;101;321.2;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+311107;05/12/2007;Quarta;00:30:00;RJ;101;309.5;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Fatais;Plena noite
+311129;06/12/2007;Quinta;09:10:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+311341;03/12/2007;Segunda;18:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+311354;30/11/2007;Sexta;08:20:00;RJ;101;317.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+311987;07/12/2007;Sexta;08:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+312036;09/12/2007;Domingo;16:45:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+312165;09/12/2007;Domingo;17:08:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+312207;09/12/2007;Domingo;20:28:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+312430;08/12/2007;Sabado;04:25:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+312483;06/12/2007;Quinta;22:30:00;RJ;101;330.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Plena noite
+312595;08/12/2007;Sabado;03:30:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+312625;10/12/2007;Segunda;15:40:00;RJ;101;324.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+313016;08/12/2007;Sabado;06:10:00;RJ;101;301.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Sem Vitimas;Pleno dia
+313023;07/12/2007;Sexta;23:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+313122;07/12/2007;Sexta;20:18:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+313169;08/12/2007;Sabado;16:00:00;RJ;101;317.0;SAO GONCALO;Falta de atencao;Capotamento;Sem Vitimas;Pleno dia
+313184;04/12/2007;Terca;03:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+313301;05/12/2007;Quarta;03:30:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+313358;08/12/2007;Sabado;08:59:00;RJ;101;327.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+313425;10/12/2007;Segunda;22:20:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+313618;04/12/2007;Terca;07:00:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+313651;12/12/2007;Quarta;07:40:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+313677;12/12/2007;Quarta;16:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+313733;12/12/2007;Quarta;14:00:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+313758;12/12/2007;Quarta;22:40:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+313855;13/12/2007;Quinta;06:35:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+313912;11/12/2007;Terca;10:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+314042;05/12/2007;Quarta;22:57:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+314052;13/12/2007;Quinta;14:57:00;RJ;101;330.5;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+314055;09/12/2007;Domingo;18:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+314070;13/12/2007;Quinta;10:20:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+314071;09/12/2007;Domingo;02:20:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+314093;07/11/2007;Quarta;09:40:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+314176;13/12/2007;Quinta;13:21:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+314182;13/12/2007;Quinta;20:30:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+314484;12/12/2007;Quarta;22:30:00;RJ;101;302.0;SAO GONCALO;Ultrapassagem indevida;Capotamento;Sem Vitimas;Plena noite
+314551;14/12/2007;Sexta;09:50:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+314552;14/12/2007;Sexta;15:30:00;RJ;101;333.2;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+314556;14/12/2007;Sexta;18:00:00;RJ;101;321.2;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+314652;14/12/2007;Sexta;18:35:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+314695;15/12/2007;Sabado;00:20:00;RJ;101;322.3;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+314756;15/12/2007;Sabado;03:15:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+314765;15/12/2007;Sabado;03:35:00;RJ;101;331.0;RIO DE JANEIRO;Falta de atencao;Capotamento;Sem Vitimas;Plena noite
+314787;11/12/2007;Terca;11:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+314798;07/12/2007;Sexta;10:30:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+315233;11/12/2007;Terca;10:30:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+315418;12/12/2007;Quarta;16:26:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+315438;12/12/2007;Quarta;19:30:00;RJ;101;308.5;SAO GONCALO;Outras;Tombamento;Com Vitimas Feridas;Plena noite
+315536;12/12/2007;Quarta;15:32:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+315682;10/12/2007;Segunda;02:00:00;RJ;101;310.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+315709;17/12/2007;Segunda;07:30:00;RJ;101;311.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+315746;17/12/2007;Segunda;09:30:00;RJ;101;304.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+315754;16/12/2007;Domingo;20:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+315862;17/12/2007;Segunda;14:10:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+315881;14/12/2007;Sexta;01:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+316031;15/12/2007;Sabado;19:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+316318;15/12/2007;Sabado;13:45:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+317413;19/12/2007;Quarta;08:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+317419;11/12/2007;Terca;12:00:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+317435;07/12/2007;Sexta;23:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+317473;15/12/2007;Sabado;21:30:00;RJ;101;328.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite
+317480;28/11/2007;Quarta;01:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+317541;11/12/2007;Terca;10:00:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+317571;15/12/2007;Sabado;14:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+317761;15/12/2007;Sabado;18:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+317915;20/12/2007;Quinta;07:10:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+317918;16/12/2007;Domingo;12:00:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+318004;16/12/2007;Domingo;12:15:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+318116;12/12/2007;Quarta;19:30:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+318121;20/12/2007;Quinta;15:05:00;RJ;101;304.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+318176;14/12/2007;Sexta;22:52:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+318193;20/12/2007;Quinta;12:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+318210;18/12/2007;Terca;13:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+318336;15/12/2007;Sabado;06:20:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Fatais;Pleno dia
+318360;20/12/2007;Quinta;22:10:00;RJ;101;322.0;NITEROI;Outras;Colisao Transversal;Sem Vitimas;Plena noite
+318453;10/12/2007;Segunda;04:20:00;RJ;101;317.0;SAO GONCALO;Dormindo;Saida de Pista;Sem Vitimas;Plena noite
+318472;21/12/2007;Sexta;07:30:00;RJ;101;326.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+318491;13/12/2007;Quinta;06:45:00;RJ;101;304.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+318592;13/12/2007;Quinta;14:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+318664;10/12/2007;Segunda;00:05:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+318693;13/12/2007;Quinta;12:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+318714;13/12/2007;Quinta;14:20:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+318734;21/12/2007;Sexta;08:55:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+318768;17/12/2007;Segunda;06:45:00;RJ;101;321.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+318795;17/12/2007;Segunda;12:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+318808;21/12/2007;Sexta;19:15:00;RJ;101;329.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+319398;22/12/2007;Sabado;16:40:00;RJ;101;322.6;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+319439;22/12/2007;Sabado;11:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+319450;22/12/2007;Sabado;18:40:00;RJ;101;323.5;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer
+319493;22/12/2007;Sabado;18:00:00;RJ;101;322.4;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+319778;15/12/2007;Sabado;22:30:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+320020;15/12/2007;Sabado;22:20:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+320093;23/12/2007;Domingo;19:10:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+320335;21/12/2007;Sexta;03:30:00;RJ;101;333.0;RIO DE JANEIRO;Dormindo;Colisao traseira;Com Vitimas Feridas;Plena noite
+320580;17/12/2007;Segunda;08:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+320607;21/12/2007;Sexta;03:10:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+320644;21/12/2007;Sexta;00:15:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+320676;21/12/2007;Sexta;05:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+320806;21/12/2007;Sexta;12:10:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+320897;25/12/2007;Terca;10:35:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+321057;25/12/2007;Terca;16:51:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+321081;25/12/2007;Terca;11:45:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+321097;25/12/2007;Terca;17:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+321118;25/12/2007;Terca;16:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+321201;17/12/2007;Segunda;18:15:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+321213;22/12/2007;Sabado;02:50:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+321346;15/12/2007;Sabado;18:00:00;RJ;101;307.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Fatais;Pleno dia
+321638;26/12/2007;Quarta;13:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+321767;26/12/2007;Quarta;23:20:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+321857;23/12/2007;Domingo;21:30:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+322121;27/12/2007;Quinta;05:47:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+322301;25/12/2007;Terca;16:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+322415;25/12/2007;Terca;17:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+322581;28/12/2007;Sexta;18:00:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+322611;28/12/2007;Sexta;18:30:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+322651;28/12/2007;Sexta;10:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+322788;21/12/2007;Sexta;18:55:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+322797;22/12/2007;Sabado;01:50:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Danos Eventuais;Sem Vitimas;Plena noite
+322808;22/12/2007;Sabado;02:40:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+322866;29/12/2007;Sabado;13:10:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+322880;27/12/2007;Quinta;04:05:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Ignorado;Plena noite
+322907;29/12/2007;Sabado;15:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+322935;29/12/2007;Sabado;15:30:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+322948;29/12/2007;Sabado;16:35:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+323030;29/12/2007;Sabado;19:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer
+323031;29/12/2007;Sabado;17:30:00;RJ;101;313.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+323065;29/12/2007;Sabado;20:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+323226;30/12/2007;Domingo;06:20:00;RJ;101;321.4;NITEROI;Falta de atencao;Capotamento;Sem Vitimas;Amanhecer
+323242;30/12/2007;Domingo;07:40:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+323496;30/12/2007;Domingo;09:00:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+323505;30/12/2007;Domingo;18:48:00;RJ;101;321.8;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+323549;27/12/2007;Quinta;10:05:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+323593;16/12/2007;Domingo;02:50:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+323647;25/12/2007;Terca;17:50:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+323676;27/12/2007;Quinta;17:35:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+323689;23/12/2007;Domingo;08:30:00;RJ;101;329.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+323703;27/12/2007;Quinta;13:40:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+323910;28/12/2007;Sexta;23:00:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Plena noite
+323928;29/12/2007;Sabado;05:30:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+324030;28/12/2007;Sexta;13:51:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+324042;28/12/2007;Sexta;14:10:00;RJ;101;327.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+324061;28/12/2007;Sexta;15:09:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+324082;28/12/2007;Sexta;18:20:00;RJ;101;322.5;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+324232;29/12/2007;Sabado;05:30:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+324284;29/12/2007;Sabado;05:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+324329;25/12/2007;Terca;17:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+324380;29/12/2007;Sabado;18:35:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+324546;27/12/2007;Quinta;16:15:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+324852;27/12/2007;Quinta;03:20:00;RJ;101;309.0;SAO GONCALO;Animais na Pista;Atropelamento de animal;Sem Vitimas;Plena noite
+324881;15/12/2007;Sabado;20:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+325085;30/12/2007;Domingo;02:50:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+325139;27/12/2007;Quinta;09:15:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+325177;29/12/2007;Sabado;18:00:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+325196;27/12/2007;Quinta;15:00:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+325201;29/12/2007;Sabado;20:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+325214;27/12/2007;Quinta;16:00:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+325335;27/12/2007;Quinta;22:00:00;RJ;101;320.0;NITEROI;Outras;Capotamento;Sem Vitimas;Plena noite
+325524;28/12/2007;Sexta;15:00:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+326031;31/12/2007;Segunda;09:20:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+326436;29/12/2007;Sabado;18:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+327549;29/12/2007;Sabado;08:30:00;RJ;101;307.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+332941;30/12/2007;Domingo;13:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+333550;07/12/2007;Sexta;11:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+333848;23/01/2007;Terca;20:30:00;RJ;101;299.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+334006;11/01/2007;Quinta;13:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+336310;31/01/2007;Quarta;07:41:00;RJ;101;315.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+341908;24/12/2007;Segunda;18:30:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+355076;11/12/2007;Terca;10:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+355158;30/01/2007;Terca;19:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+356757;14/08/2007;Terca;22:30:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+360273;15/12/2007;Sabado;16:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+360292;09/01/2007;Terca;16:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+371641;30/12/2007;Domingo;07:50:00;RJ;101;324.1;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+372079;03/11/2007;Sabado;16:55:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Saida de Pista;Sem Vitimas;Pleno dia
+373254;21/07/2007;Sabado;04:50:00;RJ;101;306.0;SAO GONCALO;Desobediencia a sinalizacao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+385563;27/10/2007;Sabado;04:30:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Saida de Pista;Com Vitimas Feridas;Amanhecer
+398241;11/06/2007;Segunda;11:30:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao frontal;Com Vitimas Fatais;Pleno dia
+414922;25/03/2007;Domingo;17:50:00;RJ;101;325.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+646478;24/01/2007;Quarta;11:40:00;RJ;101;310.5;SAO GONCALO;Animais na Pista;Colisao traseira;Com Vitimas Feridas;Pleno dia
+733397;13/08/2007;Segunda;23:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite

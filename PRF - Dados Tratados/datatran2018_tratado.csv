@@ -1,0 +1,406 @@
+id;data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia
+100494.0;2018-01-02;terca-feira;22:45:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+101632.0;2018-01-07;domingo;03:00:00;RJ;101;304.7;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Sem Vitimas;Plena Noite
+104423.0;2018-01-18;quinta-feira;17:35:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+106285.0;2018-01-26;sexta-feira;12:20:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+109035.0;2018-02-06;terca-feira;03:55:00;RJ;101;299.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Sem Vitimas;Plena Noite
+122757.0;2018-04-02;segunda-feira;10:56:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+122759.0;2018-04-02;segunda-feira;12:15:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Sem Vitimas;Pleno dia
+127280.0;2018-04-12;quinta-feira;07:00:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+128272.0;2018-04-16;segunda-feira;10:29:00;RJ;101;328.1;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+130693.0;2018-04-28;sabado;03:40:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+131664.0;2018-05-02;quarta-feira;21:20:00;RJ;101;310.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Sem Vitimas;Plena Noite
+131686.0;2018-05-03;quinta-feira;04:30:00;RJ;101;307.9;SAO GONCALO;Agressao Externa;Colisao traseira;Sem Vitimas;Plena Noite
+132739.0;2018-05-08;terca-feira;01:20:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+132806.0;2018-05-04;sexta-feira;11:20:00;RJ;101;321.9;NITEROI;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Sem Vitimas;Pleno dia
+132812.0;2018-05-08;terca-feira;08:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+134028.0;2018-05-13;domingo;15:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia
+134334.0;2018-05-14;segunda-feira;17:10:00;RJ;101;318.9;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer
+138144.0;2018-06-06;quarta-feira;04:30:00;RJ;101;310.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Engavetamento;Com Vitimas Feridas;Plena Noite
+138859.0;2018-06-09;sabado;06:45:00;RJ;101;317.0;SAO GONCALO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Pleno dia
+142505.0;2018-06-25;segunda-feira;15:24:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+143575.0;2018-06-30;sabado;08:25:00;RJ;101;332.9;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia
+144236.0;2018-07-03;terca-feira;16:08:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+146518.0;2018-07-14;sabado;06:25:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer
+154906.0;2018-08-24;sexta-feira;01:20:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+155969.0;2018-08-29;quarta-feira;12:40:00;RJ;101;332.0;RIO DE JANEIRO;Objeto estatico sobre o leito carrocavel;Colisao traseira;Com Vitimas Feridas;Pleno dia
+156119.0;2018-08-30;quinta-feira;09:30:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+169778.0;2018-11-05;segunda-feira;14:29:00;RJ;101;304.0;SAO GONCALO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Pleno dia
+171484.0;2018-11-14;quarta-feira;08:15:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Engavetamento;Com Vitimas Feridas;Pleno dia
+175700.0;2018-12-03;segunda-feira;17:05:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+176517.0;2018-12-07;sexta-feira;23:10:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite
+181877.0;2018-12-30;domingo;03:40:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+109528.0;2018-02-08;quinta-feira;06:50:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia
+153741.0;2018-08-18;sabado;02:40:00;RJ;101;313.5;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite
+100230.0;2018-01-02;terca-feira;05:30:00;RJ;101;301.0;SAO GONCALO;Animais na Pista;Engavetamento;Sem Vitimas;Amanhecer
+100283.0;2018-01-02;terca-feira;08:35:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+100468.0;2018-01-02;terca-feira;19:00:00;RJ;101;307.7;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+100764.0;2018-01-04;quinta-feira;01:10:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto em movimento;Sem Vitimas;Plena Noite
+100772.0;2018-01-04;quinta-feira;00:49:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite
+101107.0;2018-01-05;sexta-feira;09:52:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+101511.0;2018-01-06;sabado;15:10:00;RJ;101;331.3;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+102215.0;2018-01-09;terca-feira;12:30:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+102592.0;2018-01-11;quinta-feira;08:47:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+102897.0;2018-01-12;sexta-feira;13:50:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;Pleno dia
+103274.0;2018-01-13;sabado;20:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite
+103383.0;2018-01-14;domingo;06:40:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+103677.0;2018-01-15;segunda-feira;06:45:00;RJ;101;317.0;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Sem Vitimas;Pleno dia
+103775.0;2018-01-15;segunda-feira;11:35:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+103813.0;2018-01-15;segunda-feira;16:20:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+104584.0;2018-01-19;sexta-feira;12:33:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+104793.0;2018-01-20;sabado;04:40:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer
+105376.0;2018-01-22;segunda-feira;08:15:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+105718.0;2018-01-23;terca-feira;17:37:00;RJ;101;312.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+105958.0;2018-01-25;quinta-feira;02:40:00;RJ;101;300.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+106330.0;2018-01-26;sexta-feira;16:15:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+106411.0;2018-01-26;sexta-feira;21:00:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+106555.0;2018-01-27;sabado;13:20:00;RJ;101;313.0;SAO GONCALO;Defeito na Via;Colisao traseira;Sem Vitimas;Pleno dia
+106732.0;2018-01-21;domingo;00:40:00;RJ;101;301.0;SAO GONCALO;Animais na Pista;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+106850.0;2018-01-28;domingo;16:50:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+107286.0;2018-01-30;terca-feira;07:20:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+107287.0;2018-01-30;terca-feira;08:40:00;RJ;101;313.1;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia
+107502.0;2018-01-31;quarta-feira;07:35:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+107504.0;2018-01-31;quarta-feira;08:00:00;RJ;101;331.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+107654.0;2018-01-31;quarta-feira;18:30:00;RJ;101;318.0;RIO DE JANEIRO;Restricao de Visibilidade;Colisao traseira;Com Vitimas Feridas;Anoitecer
+108060.0;2018-02-02;sexta-feira;09:22:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+108078.0;2018-02-02;sexta-feira;10:17:00;RJ;101;333.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+108707.0;2018-02-04;domingo;18:30:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Anoitecer
+108956.0;2018-02-05;segunda-feira;15:50:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+109942.0;2018-02-09;sexta-feira;17:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+110079.0;2018-02-10;sabado;02:11:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+110274.0;2018-02-10;sabado;15:00:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia
+110345.0;2018-02-10;sabado;18:00:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+110624.0;2018-02-11;domingo;19:30:00;RJ;101;308.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer
+110852.0;2018-02-12;segunda-feira;17:20:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+110881.0;2018-02-12;segunda-feira;22:29:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+111080.0;2018-02-13;terca-feira;20:51:00;RJ;101;301.0;SAO GONCALO;Ultrapassagem Indevida;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+112481.0;2018-02-19;segunda-feira;17:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+112702.0;2018-02-06;terca-feira;00:45:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+112728.0;2018-02-21;quarta-feira;07:28:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+112740.0;2018-02-21;quarta-feira;07:40:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+112775.0;2018-02-21;quarta-feira;09:00:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Pleno dia
+113169.0;2018-02-22;quinta-feira;19:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+113443.0;2018-02-23;sexta-feira;08:25:00;RJ;101;330.0;RIO DE JANEIRO;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Pleno dia
+113728.0;2018-02-24;sabado;14:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia
+113870.0;2018-02-25;domingo;06:40:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+113994.0;2018-02-25;domingo;15:20:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+114352.0;2018-02-26;segunda-feira;19:07:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+114394.0;2018-02-26;segunda-feira;23:58:00;RJ;101;331.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Plena Noite
+114585.0;2018-02-27;terca-feira;11:10:00;RJ;101;299.0;SAO GONCALO;Condutor Dormindo;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+114939.0;2018-03-01;quinta-feira;06:45:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia
+114957.0;2018-03-01;quinta-feira;08:50:00;RJ;101;330.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Pleno dia
+115315.0;2018-03-02;sexta-feira;18:15:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer
+115392.0;2018-03-02;sexta-feira;23:40:00;RJ;101;308.0;SAO GONCALO;Defeito Mecanico no Veiculo;Capotamento;Sem Vitimas;Plena Noite
+115516.0;2018-03-03;sabado;09:50:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+115539.0;2018-03-03;sabado;14:45:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia
+115805.0;2018-03-04;domingo;17:00:00;RJ;101;304.0;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+116136.0;2018-03-06;terca-feira;05:00:00;RJ;101;331.0;RIO DE JANEIRO;Mal Subito;Capotamento;Com Vitimas Feridas;Plena Noite
+116477.0;2018-03-07;quarta-feira;06:30:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao transversal;Sem Vitimas;Pleno dia
+116652.0;2018-03-08;quinta-feira;08:20:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+116673.0;2018-02-27;terca-feira;17:20:00;RJ;101;314.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Pleno dia
+116685.0;2018-03-08;quinta-feira;07:40:00;RJ;101;314.8;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia
+117135.0;2018-03-10;sabado;05:30:00;RJ;101;326.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+117677.0;2018-03-12;segunda-feira;03:30:00;RJ;101;321.8;NITEROI;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Plena Noite
+118140.0;2018-03-14;quarta-feira;08:54:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+118315.0;2018-03-15;quinta-feira;01:40:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+118590.0;2018-03-16;sexta-feira;07:10:00;RJ;101;312.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+119015.0;2018-03-17;sabado;18:05:00;RJ;101;305.5;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+119381.0;2018-03-19;segunda-feira;07:30:00;RJ;101;308.9;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia
+119961.0;2018-03-21;quarta-feira;09:05:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+120099.0;2018-03-10;sabado;04:40:00;RJ;101;312.0;SAO GONCALO;Mal Subito;Tombamento;Com Vitimas Fatais;Amanhecer
+120210.0;2018-03-22;quinta-feira;23:25:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+120651.0;2018-03-24;sabado;17:45:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao transversal;Sem Vitimas;Anoitecer
+120774.0;2018-03-25;domingo;02:00:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Fatais;Plena Noite
+120938.0;2018-03-25;domingo;16:50:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+121056.0;2018-02-26;segunda-feira;15:55:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia
+121059.0;2018-03-26;segunda-feira;06:00:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+121155.0;2018-03-26;segunda-feira;08:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+121894.0;2018-03-29;quinta-feira;15:25:00;RJ;101;308.3;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+122093.0;2018-03-30;sexta-feira;07:40:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+122247.0;2018-03-31;sabado;08:00:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Colisao frontal;Com Vitimas Feridas;Pleno dia
+122907.0;2018-04-03;terca-feira;06:58:00;RJ;101;303.1;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+122912.0;2018-04-03;terca-feira;07:33:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Pleno dia
+123364.0;2018-04-05;quinta-feira;07:50:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+123557.0;2018-04-05;quinta-feira;20:01:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+123818.0;2018-04-06;sexta-feira;09:44:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+124544.0;2018-04-08;domingo;04:35:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite
+124674.0;2018-04-08;domingo;09:55:00;RJ;101;329.0;RIO DE JANEIRO;Mal Subito;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+124829.0;2018-04-09;segunda-feira;05:25:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Amanhecer
+124932.0;2018-04-09;segunda-feira;08:40:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+126796.0;2018-04-09;segunda-feira;15:05:00;RJ;101;322.0;NITEROI;Falta de Atencao do Pedestre;Colisao traseira;Com Vitimas Feridas;Pleno dia
+127427.0;2018-04-12;quinta-feira;20:10:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+127474.0;2018-04-13;sexta-feira;07:10:00;RJ;101;313.9;SAO GONCALO;Restricao de Visibilidade;Colisao lateral;Com Vitimas Feridas;Pleno dia
+127600.0;2018-04-13;sexta-feira;16:50:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+128213.0;2018-04-16;segunda-feira;04:45:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer
+128253.0;2018-04-16;segunda-feira;07:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+128777.0;2018-04-18;quarta-feira;19:15:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+129303.0;2018-04-21;sabado;11:00:00;RJ;101;309.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+129327.0;2018-04-17;terca-feira;06:40:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+129472.0;2018-04-22;domingo;05:45:00;RJ;101;329.0;RIO DE JANEIRO;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer
+129556.0;2018-04-22;domingo;15:45:00;RJ;101;327.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia
+129923.0;2018-04-24;terca-feira;09:20:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+129925.0;2018-04-24;terca-feira;06:31:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer
+130643.0;2018-04-27;sexta-feira;18:40:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite
+131460.0;2018-05-01;terca-feira;19:25:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+131860.0;2018-05-03;quinta-feira;23:00:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+131895.0;2018-05-04;sexta-feira;04:54:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;Amanhecer
+131995.0;2018-05-04;sexta-feira;13:30:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+132595.0;2018-05-07;segunda-feira;09:50:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+132603.0;2018-05-07;segunda-feira;06:48:00;RJ;101;312.0;SAO GONCALO;Restricao de Visibilidade;Colisao lateral;Com Vitimas Feridas;Pleno dia
+132925.0;2018-05-08;terca-feira;20:45:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+133020.0;2018-05-09;quarta-feira;10:43:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+133216.0;2018-05-10;quinta-feira;08:35:00;RJ;101;305.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia
+133396.0;2018-03-20;terca-feira;18:19:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+133442.0;2018-05-11;sexta-feira;11:10:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Fatais;Pleno dia
+133490.0;2018-05-11;sexta-feira;14:43:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+133495.0;2018-05-11;sexta-feira;12:28:00;RJ;101;331.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia
+133562.0;2018-05-11;sexta-feira;19:15:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+134278.0;2018-05-14;segunda-feira;11:50:00;RJ;101;313.6;SAO GONCALO;Falta de Atencao a Conducao;Danos eventuais;Sem Vitimas;Pleno dia
+134302.0;2018-05-14;segunda-feira;12:35:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+134327.0;2018-05-14;segunda-feira;15:00:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+134519.0;2018-05-15;terca-feira;14:45:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+134688.0;2018-05-16;quarta-feira;13:29:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia
+134737.0;2018-05-16;quarta-feira;17:10:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+135067.0;2018-05-18;sexta-feira;13:45:00;RJ;101;305.1;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+135587.0;2018-05-20;domingo;17:45:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Anoitecer
+135687.0;2018-05-21;segunda-feira;07:55:00;RJ;101;312.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Pleno dia
+136371.0;2018-05-25;sexta-feira;19:34:00;RJ;101;306.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Plena Noite
+136454.0;2018-05-26;sabado;06:27:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+136709.0;2018-05-28;segunda-feira;17:45:00;RJ;101;331.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Anoitecer
+137088.0;2018-05-31;quinta-feira;17:20:00;RJ;101;327.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer
+137164.0;2018-06-01;sexta-feira;09:40:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+137273.0;2018-06-01;sexta-feira;16:30:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+137361.0;2018-06-02;sabado;07:20:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+137807.0;2018-06-04;segunda-feira;07:50:00;RJ;101;318.1;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer
+137938.0;2018-06-04;segunda-feira;22:15:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite
+138043.0;2018-06-05;terca-feira;14:26:00;RJ;101;311.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+138095.0;2018-06-05;terca-feira;19:15:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite
+138386.0;2018-06-07;quinta-feira;09:00:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+138858.0;2018-06-09;sabado;07:10:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+139283.0;2018-06-10;domingo;19:05:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Plena Noite
+139372.0;2018-06-11;segunda-feira;05:50:00;RJ;101;312.0;SAO GONCALO;Agressao Externa;Colisao traseira;Sem Vitimas;Amanhecer
+139535.0;2018-06-11;segunda-feira;17:15:00;RJ;101;307.6;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+139641.0;2018-06-12;terca-feira;08:15:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+139788.0;2018-06-12;terca-feira;21:00:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;Plena Noite
+139905.0;2018-06-13;quarta-feira;07:15:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+139984.0;2018-06-13;quarta-feira;18:45:00;RJ;101;300.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite
+139999.0;2018-06-13;quarta-feira;23:50:00;RJ;101;328.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Plena Noite
+140268.0;2018-06-15;sexta-feira;09:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+140428.0;2018-06-15;sexta-feira;21:45:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+140836.0;2018-06-17;domingo;18:56:00;RJ;101;331.0;RIO DE JANEIRO;Velocidade Incompativel;Tombamento;Com Vitimas Feridas;Plena Noite
+140934.0;2018-06-18;segunda-feira;07:45:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+141463.0;2018-06-20;quarta-feira;17:30:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Tombamento;Com Vitimas Feridas;Anoitecer
+141775.0;2018-06-22;sexta-feira;15:27:00;RJ;101;331.2;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+141858.0;2018-06-22;sexta-feira;22:30:00;RJ;101;315.0;SAO GONCALO;Agressao Externa;Capotamento;Com Vitimas Feridas;Plena Noite
+142013.0;2018-06-23;sabado;14:30:00;RJ;101;301.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+142069.0;2018-06-23;sabado;17:45:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite
+142070.0;2018-06-23;sabado;20:00:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+142186.0;2018-06-24;domingo;11:25:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+142492.0;2018-06-25;segunda-feira;15:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+142537.0;2018-06-25;segunda-feira;18:15:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+142886.0;2018-06-27;quarta-feira;08:40:00;RJ;101;322.0;NITEROI;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+144285.0;2018-07-03;terca-feira;18:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+144629.0;2018-07-05;quinta-feira;15:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+144740.0;2018-07-06;sexta-feira;05:15:00;RJ;101;311.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite
+144777.0;2018-07-06;sexta-feira;08:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+144961.0;2018-07-06;sexta-feira;21:50:00;RJ;101;320.0;SAO GONCALO;Defeito Mecanico no Veiculo;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+145176.0;2018-07-07;sabado;16:45:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+145339.0;2018-07-08;domingo;16:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+145396.0;2018-07-08;domingo;19:35:00;RJ;101;331.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;Plena Noite
+145552.0;2018-07-09;segunda-feira;16:15:00;RJ;101;320.0;NITEROI;Mal Subito;Tombamento;Com Vitimas Feridas;Pleno dia
+145764.0;2018-07-10;terca-feira;18:00:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+146208.0;2018-07-12;quinta-feira;18:40:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+146211.0;2018-07-12;quinta-feira;19:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+146344.0;2018-07-13;sexta-feira;14:00:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+146368.0;2018-07-13;sexta-feira;16:00:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+146463.0;2018-07-13;sexta-feira;11:40:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+146510.0;2018-07-14;sabado;06:00:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao do Pedestre;Capotamento;Com Vitimas Feridas;Amanhecer
+146605.0;2018-07-14;sabado;15:20:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Sem Vitimas;Pleno dia
+147164.0;2018-07-13;sexta-feira;16:45:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+147879.0;2018-07-20;sexta-feira;18:30:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+147943.0;2018-07-20;sexta-feira;23:39:00;RJ;101;330.0;RIO DE JANEIRO;Agressao Externa;Colisao traseira;Com Vitimas Feridas;Plena Noite
+147946.0;2018-07-21;sabado;00:30:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+147958.0;2018-07-21;sabado;03:14:00;RJ;101;334.0;RIO DE JANEIRO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+148087.0;2018-05-30;quarta-feira;07:40:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+148285.0;2018-07-22;domingo;14:30:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+148328.0;2018-07-22;domingo;16:10:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+148524.0;2018-05-11;sexta-feira;06:50:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+149705.0;2018-07-29;domingo;17:15:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer
+149904.0;2018-07-30;segunda-feira;15:35:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+149931.0;2018-07-30;segunda-feira;19:25:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+149933.0;2018-07-30;segunda-feira;18:10:00;RJ;101;322.5;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer
+150360.0;2018-07-17;terca-feira;07:00:00;RJ;101;329.0;NITEROI;Defeito Mecanico no Veiculo;Engavetamento;Com Vitimas Feridas;Pleno dia
+150400.0;2018-08-02;quinta-feira;10:00:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+150540.0;2018-08-02;quinta-feira;17:20:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Anoitecer
+151021.0;2018-08-04;sabado;20:36:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+151189.0;2018-08-01;quarta-feira;17:48:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer
+151314.0;2018-07-15;domingo;21:15:00;RJ;101;303.0;SAO GONCALO;Ingestao de Alcool;Colisao lateral;Com Vitimas Feridas;Plena Noite
+151630.0;2018-08-07;terca-feira;21:09:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Capotamento;Sem Vitimas;Plena Noite
+151683.0;2018-08-08;quarta-feira;07:45:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+152866.0;2018-03-18;domingo;09:30:00;RJ;101;309.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+153159.0;2018-05-07;segunda-feira;08:07:00;RJ;101;314.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+153323.0;2018-08-16;quinta-feira;07:20:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+153379.0;2018-08-16;quinta-feira;14:30:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+153613.0;2018-08-17;sexta-feira;16:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+153663.0;2018-08-17;sexta-feira;18:00:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer
+153687.0;2018-08-17;sexta-feira;16:00:00;RJ;101;318.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+153811.0;2018-08-18;sabado;09:15:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia
+153883.0;2018-08-18;sabado;15:50:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+154243.0;2018-05-04;sexta-feira;16:47:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+154474.0;2018-08-21;terca-feira;14:10:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+154579.0;2018-08-22;quarta-feira;06:15:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+154588.0;2018-08-22;quarta-feira;07:50:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+154672.0;2018-06-23;sabado;06:15:00;RJ;101;321.0;NITEROI;Objeto estatico sobre o leito carrocavel;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer
+154690.0;2018-08-22;quarta-feira;18:15:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+154805.0;2018-08-23;quinta-feira;07:45:00;RJ;101;316.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+154821.0;2018-08-23;quinta-feira;14:15:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+154872.0;2018-08-23;quinta-feira;17:45:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Plena Noite
+155322.0;2018-08-26;domingo;03:54:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer
+155377.0;2018-08-26;domingo;11:20:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+155445.0;2018-08-26;domingo;17:00:00;RJ;101;308.1;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer
+155718.0;2018-08-27;segunda-feira;18:20:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+155865.0;2018-08-28;terca-feira;20:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+155971.0;2018-08-29;quarta-feira;13:20:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+156086.0;2018-08-30;quinta-feira;06:25:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+156144.0;2018-08-30;quinta-feira;07:45:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+156323.0;2018-08-31;sexta-feira;09:20:00;RJ;101;312.6;SAO GONCALO;Agressao Externa;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+156394.0;2018-08-31;sexta-feira;16:25:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia
+156958.0;2018-09-03;segunda-feira;00:50:00;RJ;101;309.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Plena Noite
+157266.0;2018-09-04;terca-feira;14:45:00;RJ;101;316.9;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+157402.0;2018-09-05;quarta-feira;08:00:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+157493.0;2018-09-05;quarta-feira;16:31:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+157526.0;2018-09-05;quarta-feira;18:00:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Anoitecer
+157780.0;2018-09-06;quinta-feira;23:40:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+158251.0;2018-09-09;domingo;06:00:00;RJ;101;306.3;SAO GONCALO;Defeito na Via;Colisao com objeto estatico;Sem Vitimas;Amanhecer
+159285.0;2018-07-20;sexta-feira;03:50:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+159707.0;2018-09-15;sabado;17:44:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Anoitecer
+160001.0;2018-09-17;segunda-feira;03:35:00;RJ;101;323.0;NITEROI;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+160355.0;2018-09-18;terca-feira;19:10:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite
+160501.0;2018-09-19;quarta-feira;13:25:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+160535.0;2018-09-19;quarta-feira;11:03:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+160598.0;2018-08-22;quarta-feira;01:50:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+160892.0;2018-09-21;sexta-feira;19:30:00;RJ;101;303.8;SAO GONCALO;Ingestao de Alcool;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+161395.0;2018-09-24;segunda-feira;06:40:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer
+161585.0;2018-09-25;terca-feira;07:30:00;RJ;101;322.8;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+161753.0;2018-09-26;quarta-feira;04:05:00;RJ;101;321.0;NITEROI;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+161794.0;2018-09-26;quarta-feira;07:50:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+161830.0;2018-09-26;quarta-feira;07:06:00;RJ;101;299.0;SAO GONCALO;Agressao Externa;Colisao transversal;Sem Vitimas;Pleno dia
+162208.0;2018-09-28;sexta-feira;18:09:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+162232.0;2018-09-28;sexta-feira;14:58:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+162323.0;2018-09-29;sabado;06:36:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+162540.0;2018-09-30;domingo;10:30:00;RJ;101;307.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+162738.0;2018-10-01;segunda-feira;10:30:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+162921.0;2018-10-02;terca-feira;13:28:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+163056.0;2018-06-05;terca-feira;06:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer
+163140.0;2018-10-03;quarta-feira;15:47:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Pleno dia
+163216.0;2018-10-04;quinta-feira;06:19:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer
+163237.0;2018-10-04;quinta-feira;08:25:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+163365.0;2018-10-04;quinta-feira;20:30:00;RJ;101;301.9;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Sem Vitimas;Plena Noite
+163378.0;2018-10-04;quinta-feira;21:55:00;RJ;101;330.0;RIO DE JANEIRO;Objeto estatico sobre o leito carrocavel;Incendio;Sem Vitimas;Plena Noite
+163898.0;2018-10-07;domingo;05:20:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer
+164050.0;2018-10-07;domingo;19:10:00;RJ;101;322.0;NITEROI;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+165113.0;2018-10-12;sexta-feira;22:20:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite
+165246.0;2018-10-13;sabado;17:50:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+165702.0;2018-10-15;segunda-feira;18:10:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer
+165888.0;2018-10-16;terca-feira;17:00:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+165912.0;2018-10-16;terca-feira;09:55:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+165922.0;2018-10-16;terca-feira;13:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+166254.0;2018-06-12;terca-feira;07:00:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+166545.0;2018-10-20;sabado;08:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+166570.0;2018-10-20;sabado;11:00:00;RJ;101;306.0;SAO GONCALO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Pleno dia
+166671.0;2018-10-20;sabado;20:00:00;RJ;101;304.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+166751.0;2018-10-21;domingo;05:00:00;RJ;101;307.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+166851.0;2018-10-21;domingo;18:00:00;RJ;101;313.0;SAO GONCALO;Ingestao de Alcool;Colisao lateral;Sem Vitimas;Plena Noite
+166993.0;2018-10-22;segunda-feira;09:55:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+167113.0;2018-10-22;segunda-feira;16:35:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+167124.0;2018-10-22;segunda-feira;22:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Plena Noite
+167220.0;2018-10-23;terca-feira;12:30:00;RJ;101;322.0;NITEROI;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Pleno dia
+167224.0;2018-10-23;terca-feira;14:05:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+167487.0;2018-10-24;quarta-feira;21:59:00;RJ;101;326.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+167767.0;2018-10-26;sexta-feira;07:30:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+168072.0;2018-10-27;sabado;18:15:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia
+168086.0;2018-10-27;sabado;19:40:00;RJ;101;301.0;SAO GONCALO;Ingestao de Alcool;Colisao transversal;Com Vitimas Feridas;Plena Noite
+168115.0;2018-10-27;sabado;22:00:00;RJ;101;303.0;SAO GONCALO;Pista Escorregadia;Saida de leito carrocavel;Sem Vitimas;Plena Noite
+168506.0;2018-10-29;segunda-feira;21:53:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+168616.0;2018-10-30;terca-feira;16:50:00;RJ;101;302.0;SAO GONCALO;Animais na Pista;Colisao traseira;Sem Vitimas;Pleno dia
+168647.0;2018-10-30;terca-feira;20:04:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+168818.0;2018-10-31;quarta-feira;16:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+169763.0;2018-11-05;segunda-feira;12:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+169834.0;2018-11-05;segunda-feira;19:40:00;RJ;101;324.0;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Fatais;Plena Noite
+170056.0;2018-07-14;sabado;06:00:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer
+170147.0;2018-11-07;quarta-feira;13:30:00;RJ;101;301.0;SAO GONCALO;Defeito Mecanico no Veiculo;Engavetamento;Com Vitimas Feridas;Pleno dia
+170221.0;2018-09-02;domingo;14:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia
+170450.0;2018-11-09;sexta-feira;07:37:00;RJ;101;326.0;NITEROI;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Fatais;Pleno dia
+170479.0;2018-11-09;sexta-feira;08:20:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+171049.0;2018-11-11;domingo;16:41:00;RJ;101;305.0;SAO GONCALO;Ingestao de Alcool;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia
+171059.0;2018-11-11;domingo;16:30:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+171087.0;2018-11-11;domingo;18:45:00;RJ;101;301.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Pleno dia
+171193.0;2018-11-12;segunda-feira;07:50:00;RJ;101;328.5;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+171376.0;2018-11-13;terca-feira;17:10:00;RJ;101;319.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+171401.0;2018-11-13;terca-feira;19:05:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+171476.0;2018-11-14;quarta-feira;08:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia
+171747.0;2018-11-15;quinta-feira;11:05:00;RJ;101;301.5;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+171786.0;2018-11-15;quinta-feira;15:30:00;RJ;101;324.2;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+171809.0;2018-11-15;quinta-feira;18:13:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+171854.0;2018-11-15;quinta-feira;21:30:00;RJ;101;313.0;SAO GONCALO;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+171878.0;2018-11-15;quinta-feira;23:12:00;RJ;101;299.6;SAO GONCALO;Ingestao de Alcool;Capotamento;Com Vitimas Feridas;Plena Noite
+171882.0;2018-11-15;quinta-feira;22:35:00;RJ;101;300.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Plena Noite
+172029.0;2018-11-13;terca-feira;06:19:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer
+172144.0;2018-11-17;sabado;07:30:00;RJ;101;316.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Fatais;Pleno dia
+172683.0;2018-11-19;segunda-feira;17:00:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Fatais;Pleno dia
+173059.0;2018-11-21;quarta-feira;18:00:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer
+173328.0;2018-11-23;sexta-feira;07:25:00;RJ;101;318.3;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+174263.0;2018-10-05;sexta-feira;07:04:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+174346.0;2018-11-27;terca-feira;06:45:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer
+174581.0;2018-11-28;quarta-feira;14:00:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+174583.0;2018-11-28;quarta-feira;16:01:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia
+174681.0;2018-11-29;quinta-feira;06:59:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+174682.0;2018-11-29;quinta-feira;07:20:00;RJ;101;321.5;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+174698.0;2018-11-29;quinta-feira;10:40:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+174975.0;2018-11-30;sexta-feira;07:36:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia
+175077.0;2018-12-01;sabado;00:00:00;RJ;101;308.0;SAO GONCALO;Ultrapassagem Indevida;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+175602.0;2018-12-03;segunda-feira;06:10:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+175618.0;2018-12-03;segunda-feira;07:00:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+175861.0;2018-12-04;terca-feira;16:20:00;RJ;101;331.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+176135.0;2018-11-11;domingo;11:10:00;RJ;101;308.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Sem Vitimas;Pleno dia
+176161.0;2018-12-06;quinta-feira;08:10:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+176196.0;2018-12-06;quinta-feira;12:45:00;RJ;101;310.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+176539.0;2018-12-08;sabado;01:00:00;RJ;101;320.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite
+177006.0;2018-12-09;domingo;20:50:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+177108.0;2018-12-10;segunda-feira;08:00:00;RJ;101;321.6;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+177280.0;2018-12-10;segunda-feira;17:50:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+177330.0;2018-12-11;terca-feira;07:45:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+177644.0;2018-12-12;quarta-feira;17:35:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer
+178046.0;2018-12-14;sexta-feira;12:30:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia
+178126.0;2018-12-14;sexta-feira;07:17:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+178141.0;2018-12-14;sexta-feira;08:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+178300.0;2018-12-15;sabado;12:01:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+178548.0;2018-12-16;domingo;10:50:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+178836.0;2018-12-17;segunda-feira;12:52:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+179109.0;2018-12-18;terca-feira;18:35:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Anoitecer
+179113.0;2018-12-18;terca-feira;19:01:00;RJ;101;328.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer
+179446.0;2018-12-20;quinta-feira;10:00:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Sem Vitimas;Pleno dia
+179584.0;2018-12-20;quinta-feira;18:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+179681.0;2018-11-28;quarta-feira;04:48:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+180149.0;2018-12-22;sabado;16:27:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+180264.0;2018-12-22;sabado;22:55:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+180267.0;2018-12-23;domingo;00:10:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Plena Noite
+180517.0;2018-12-23;domingo;21:11:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite
+180554.0;2018-12-23;domingo;23:00:00;RJ;101;313.1;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite
+180621.0;2018-12-24;segunda-feira;08:40:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+181271.0;2018-12-27;quinta-feira;11:40:00;RJ;101;303.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+181335.0;2018-12-27;quinta-feira;18:07:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+181346.0;2018-12-27;quinta-feira;17:00:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+181409.0;2018-12-28;sexta-feira;02:15:00;RJ;101;302.3;SAO GONCALO;Agressao Externa;Capotamento;Com Vitimas Feridas;Plena Noite
+181535.0;2018-12-28;sexta-feira;14:00:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+181538.0;2018-12-28;sexta-feira;15:50:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+182162.0;2018-12-31;segunda-feira;18:24:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+183812.0;2018-12-19;quarta-feira;14:34:00;RJ;101;326.0;NITEROI;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+188286.0;2018-05-03;quinta-feira;07:57:00;RJ;101;317.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+194252.0;2018-11-05;segunda-feira;16:48:00;RJ;101;323.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+202267.0;2018-05-19;sabado;05:00:00;RJ;101;308.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Amanhecer
+208229.0;2018-12-18;terca-feira;16:24:00;RJ;101;322.0;NITEROI;Objeto estatico sobre o leito carrocavel;Colisao com objeto em movimento;Com Vitimas Feridas;Pleno dia
+214016.0;2018-08-30;quinta-feira;09:10:00;RJ;101;326.5;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+222407.0;2018-02-09;sexta-feira;14:28:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+231728.0;2018-10-03;quarta-feira;11:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+236501.0;2018-05-13;domingo;15:40:00;RJ;101;313.0;SAO GONCALO;Defeito Mecanico no Veiculo;Capotamento;Com Vitimas Feridas;Pleno dia

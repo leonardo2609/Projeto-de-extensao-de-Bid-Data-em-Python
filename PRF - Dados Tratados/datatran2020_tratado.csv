@@ -1,0 +1,372 @@
+id;data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia
+261110.0;2020-01-06;segunda-feira;01:05:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+261809.0;2020-01-09;quinta-feira;23:30:00;RJ;101;309.4;SAO GONCALO;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+266233.0;2020-01-31;sexta-feira;17:20:00;RJ;101;328.5;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;Pleno dia
+268154.0;2020-02-05;quarta-feira;21:40:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite
+272504.0;2020-02-29;sabado;22:40:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+279703.0;2020-04-13;segunda-feira;18:55:00;RJ;101;305.3;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite
+280152.0;2020-04-17;sexta-feira;06:00:00;RJ;101;331.4;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+286666.0;2020-05-27;quarta-feira;16:45:00;RJ;101;322.4;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+287384.0;2020-05-31;domingo;16:50:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer
+287665.0;2020-06-01;segunda-feira;22:00:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Plena Noite
+290635.0;2020-06-18;quinta-feira;13:05:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+291044.0;2020-06-20;sabado;18:30:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena Noite
+293301.0;2020-07-03;sexta-feira;17:20:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer
+293873.0;2020-07-06;segunda-feira;11:17:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+295709.0;2020-07-16;quinta-feira;12:55:00;RJ;101;321.0;NITEROI;Carga excessiva e/ou mal acondicionada;Derramamento de carga;Sem Vitimas;Pleno dia
+296662.0;2020-07-13;segunda-feira;18:10:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Plena Noite
+302174.0;2020-08-18;terca-feira;05:30:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Fatais;Amanhecer
+304329.0;2020-08-25;terca-feira;13:45:00;RJ;101;329.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Pleno dia
+305158.0;2020-09-02;quarta-feira;07:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+305264.0;2020-09-02;quarta-feira;11:10:00;RJ;101;299.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+305790.0;2020-09-05;sabado;04:00:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;Amanhecer
+306149.0;2020-09-06;domingo;08:01:00;RJ;101;314.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+308610.0;2020-09-18;sexta-feira;07:30:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia
+311432.0;2020-10-01;quinta-feira;11:40:00;RJ;101;324.8;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+312296.0;2020-10-05;segunda-feira;05:40:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+317186.0;2020-10-26;segunda-feira;06:40:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+317385.0;2020-10-07;quarta-feira;15:55:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+320861.0;2020-11-12;quinta-feira;16:35:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+321863.0;2020-11-16;segunda-feira;15:50:00;RJ;101;323.0;NITEROI;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+322227.0;2020-11-18;quarta-feira;13:40:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Fatais;Pleno dia
+323773.0;2020-11-25;quarta-feira;18:20:00;RJ;101;330.4;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+323851.0;2020-11-26;quinta-feira;07:30:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+324355.0;2020-11-28;sabado;15:20:00;RJ;101;312.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;Pleno dia
+325975.0;2020-12-06;domingo;04:45:00;RJ;101;323.0;NITEROI;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Amanhecer
+415095.0;2020-09-23;quarta-feira;00:46:00;RJ;101;318.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Sem Vitimas;Pleno dia
+270471.0;2020-02-20;quinta-feira;13:35:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia
+260918.0;2020-01-05;domingo;02:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+261199.0;2020-01-06;segunda-feira;12:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+261266.0;2020-01-06;segunda-feira;22:22:00;RJ;101;314.0;SAO GONCALO;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+261562.0;2020-01-08;quarta-feira;18:40:00;RJ;101;310.1;SAO GONCALO;Pista Escorregadia;Colisao lateral;Com Vitimas Feridas;Plena Noite
+261648.0;2020-01-09;quinta-feira;07:00:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+261810.0;2020-01-10;sexta-feira;00:07:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite
+261868.0;2020-01-10;sexta-feira;08:00:00;RJ;101;307.6;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+261894.0;2020-01-10;sexta-feira;13:11:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+261973.0;2020-01-10;sexta-feira;18:50:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite
+262142.0;2020-01-11;sabado;14:00:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+262283.0;2020-01-12;domingo;05:59:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Amanhecer
+262559.0;2020-01-13;segunda-feira;10:10:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+263095.0;2020-01-16;quinta-feira;07:40:00;RJ;101;323.9;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+263489.0;2020-01-18;sabado;01:50:00;RJ;101;309.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite
+263930.0;2020-01-19;domingo;22:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+264117.0;2020-01-20;segunda-feira;21:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Plena Noite
+264218.0;2020-01-21;terca-feira;09:20:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+264299.0;2020-01-21;terca-feira;17:00:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+264313.0;2020-01-21;terca-feira;16:11:00;RJ;101;309.0;SAO GONCALO;Agressao Externa;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+264320.0;2020-01-21;terca-feira;18:21:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+264545.0;2020-01-23;quinta-feira;03:46:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+264812.0;2020-01-24;sexta-feira;13:05:00;RJ;101;314.2;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+265159.0;2020-01-26;domingo;01:49:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+265180.0;2020-01-10;sexta-feira;17:10:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+265197.0;2020-01-26;domingo;09:45:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+265351.0;2020-01-26;domingo;20:50:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+265505.0;2020-01-27;segunda-feira;13:10:00;RJ;101;307.0;SAO GONCALO;Mal Subito;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+265569.0;2020-01-27;segunda-feira;22:12:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite
+265623.0;2020-01-28;terca-feira;09:00:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+265745.0;2020-01-28;terca-feira;18:15:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+265786.0;2020-01-29;quarta-feira;08:20:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia
+266191.0;2020-01-31;sexta-feira;15:20:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+266532.0;2020-02-02;domingo;01:42:00;RJ;101;307.5;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+266779.0;2020-02-03;segunda-feira;00:50:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+267148.0;2020-02-04;terca-feira;21:00:00;RJ;101;334.0;RIO DE JANEIRO;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;Plena Noite
+267786.0;2020-02-07;sexta-feira;13:45:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+268206.0;2020-02-09;domingo;09:30:00;RJ;101;322.6;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+268336.0;2020-02-09;domingo;20:30:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+268373.0;2020-02-10;segunda-feira;05:00:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer
+268423.0;2020-02-10;segunda-feira;12:20:00;RJ;101;307.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+268553.0;2020-02-10;segunda-feira;22:50:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite
+268631.0;2020-02-11;terca-feira;14:20:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+268649.0;2020-02-11;terca-feira;17:20:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer
+268959.0;2020-02-13;quinta-feira;10:20:00;RJ;101;318.1;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+269204.0;2020-02-14;sexta-feira;17:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia
+269438.0;2020-02-15;sabado;17:05:00;RJ;101;330.9;RIO DE JANEIRO;Condutor Dormindo;Colisao lateral;Sem Vitimas;Pleno dia
+269936.0;2020-02-17;segunda-feira;17:40:00;RJ;101;313.2;SAO GONCALO;Condutor Dormindo;Engavetamento;Com Vitimas Feridas;Anoitecer
+270052.0;2020-02-18;terca-feira;10:50:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+270174.0;2020-02-19;quarta-feira;06:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia
+270215.0;2020-02-19;quarta-feira;09:00:00;RJ;101;319.0;SAO GONCALO;Defeito na Via;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+270451.0;2020-02-20;quinta-feira;11:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+270453.0;2020-02-20;quinta-feira;07:10:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+270707.0;2020-02-21;sexta-feira;13:40:00;RJ;101;320.5;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+270738.0;2020-02-21;sexta-feira;16:30:00;RJ;101;319.3;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+270769.0;2020-02-21;sexta-feira;18:40:00;RJ;101;315.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer
+270964.0;2020-02-22;sabado;13:00:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+271344.0;2020-02-24;segunda-feira;00:25:00;RJ;101;323.0;NITEROI;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+271381.0;2020-02-24;segunda-feira;07:14:00;RJ;101;332.0;RIO DE JANEIRO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia
+271581.0;2020-02-25;terca-feira;11:00:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+271750.0;2020-02-26;quarta-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Amanhecer
+272068.0;2020-02-27;quinta-feira;16:28:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Pleno dia
+272189.0;2020-02-28;sexta-feira;12:20:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+272522.0;2020-03-01;domingo;05:39:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer
+272548.0;2020-03-01;domingo;08:30:00;RJ;101;307.0;SAO GONCALO;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+272611.0;2020-02-26;quarta-feira;11:30:00;RJ;101;334.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+272674.0;2020-03-01;domingo;19:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Plena Noite
+273075.0;2020-03-03;terca-feira;16:30:00;RJ;101;316.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+273840.0;2020-03-07;sabado;15:55:00;RJ;101;303.0;SAO GONCALO;Agressao Externa;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia
+273936.0;2020-03-07;sabado;22:25:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+274272.0;2020-03-09;segunda-feira;10:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Fatais;Pleno dia
+274408.0;2020-03-10;terca-feira;05:00:00;RJ;101;300.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+274446.0;2020-03-10;terca-feira;08:57:00;RJ;101;317.7;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+274587.0;2020-03-10;terca-feira;18:30:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer
+274732.0;2020-03-11;quarta-feira;13:45:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+274781.0;2020-03-11;quarta-feira;20:00:00;RJ;101;317.7;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Plena Noite
+274841.0;2020-03-12;quinta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+275102.0;2020-03-13;sexta-feira;14:18:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+275129.0;2020-03-13;sexta-feira;15:18:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+275322.0;2020-03-14;sabado;11:29:00;RJ;101;316.5;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+275445.0;2020-03-14;sabado;18:30:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+275625.0;2020-03-15;domingo;20:00:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite
+275693.0;2020-03-16;segunda-feira;06:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+275850.0;2020-03-16;segunda-feira;08:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Sem Vitimas;Pleno dia
+275976.0;2020-03-17;terca-feira;14:30:00;RJ;101;313.2;SAO GONCALO;Mal Subito;Tombamento;Com Vitimas Feridas;Pleno dia
+276586.0;2020-03-20;sexta-feira;16:45:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+276595.0;2020-03-16;segunda-feira;08:00:00;RJ;101;309.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+277263.0;2020-03-26;quinta-feira;17:27:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+277269.0;2020-03-26;quinta-feira;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+277918.0;2020-04-01;quarta-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+278141.0;2020-04-02;quinta-feira;23:15:00;RJ;101;302.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+278391.0;2020-04-04;sabado;18:40:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Tombamento;Com Vitimas Feridas;Plena Noite
+278462.0;2020-04-05;domingo;05:40:00;RJ;101;305.8;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia
+278550.0;2020-04-05;domingo;17:58:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer
+278716.0;2020-04-06;segunda-feira;20:50:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+278782.0;2020-04-07;terca-feira;11:44:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+279203.0;2020-04-10;sexta-feira;09:40:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+279399.0;2020-04-11;sabado;19:30:00;RJ;101;305.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Plena Noite
+279944.0;2020-03-13;sexta-feira;16:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+280088.0;2020-04-16;quinta-feira;15:00:00;RJ;101;307.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+280336.0;2020-04-18;sabado;08:03:00;RJ;101;317.6;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Pleno dia
+281826.0;2020-04-28;terca-feira;05:25:00;RJ;101;314.9;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite
+281924.0;2020-04-28;terca-feira;14:35:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+281949.0;2020-04-28;terca-feira;19:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+282245.0;2020-05-01;sexta-feira;01:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite
+282436.0;2020-05-02;sabado;09:48:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+283170.0;2020-05-06;quarta-feira;19:30:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+283261.0;2020-05-07;quinta-feira;16:25:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Pleno dia
+283375.0;2020-05-04;segunda-feira;15:25:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+283960.0;2020-05-11;segunda-feira;07:27:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+283977.0;2020-05-11;segunda-feira;17:10:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Anoitecer
+284540.0;2020-05-15;sexta-feira;09:35:00;RJ;101;319.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+285421.0;2020-05-20;quarta-feira;15:30:00;RJ;101;314.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Colisao com objeto em movimento;Com Vitimas Feridas;Pleno dia
+285617.0;2020-05-21;quinta-feira;19:35:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+286045.0;2020-05-24;domingo;01:35:00;RJ;101;307.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+286072.0;2020-05-24;domingo;07:00:00;RJ;101;318.9;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Pleno dia
+286417.0;2020-05-26;terca-feira;07:35:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+286602.0;2020-05-27;quarta-feira;07:30:00;RJ;101;323.2;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+286611.0;2020-05-27;quarta-feira;07:05:00;RJ;101;326.0;NITEROI;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+287175.0;2020-05-30;sabado;15:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+287198.0;2020-05-30;sabado;16:32:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+287296.0;2020-05-31;domingo;01:21:00;RJ;101;324.0;NITEROI;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+287407.0;2020-05-31;domingo;18:40:00;RJ;101;309.6;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite
+287499.0;2020-06-01;segunda-feira;00:20:00;RJ;101;313.2;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+287820.0;2020-06-02;terca-feira;19:20:00;RJ;101;307.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Plena Noite
+287922.0;2020-06-03;quarta-feira;11:25:00;RJ;101;308.0;SAO GONCALO;Defeito na Via;Colisao transversal;Com Vitimas Feridas;Pleno dia
+288586.0;2020-06-06;sabado;22:20:00;RJ;101;319.5;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+288903.0;2020-06-08;segunda-feira;13:11:00;RJ;101;311.3;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+288977.0;2020-06-08;segunda-feira;16:51:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+289092.0;2020-06-09;terca-feira;15:34:00;RJ;101;324.0;NITEROI;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+289544.0;2020-06-11;quinta-feira;22:15:00;RJ;101;314.0;SAO GONCALO;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+289630.0;2020-06-12;sexta-feira;14:45:00;RJ;101;300.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+289815.0;2020-06-13;sabado;15:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+290009.0;2020-06-14;domingo;13:15:00;RJ;101;306.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia
+290039.0;2020-06-14;domingo;05:20:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia
+290093.0;2020-06-15;segunda-feira;07:30:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+290761.0;2020-06-19;sexta-feira;07:25:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+291031.0;2020-06-20;sabado;18:00:00;RJ;101;310.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite
+291065.0;2020-06-20;sabado;18:55:00;RJ;101;318.0;SAO GONCALO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Plena Noite
+291078.0;2020-06-20;sabado;19:45:00;RJ;101;319.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite
+291167.0;2020-06-21;domingo;07:15:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+291410.0;2020-06-22;segunda-feira;13:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+291473.0;2020-06-22;segunda-feira;18:40:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite
+291563.0;2020-06-23;terca-feira;10:45:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+291673.0;2020-06-24;quarta-feira;07:35:00;RJ;101;308.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+292084.0;2020-06-26;sexta-feira;17:30:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+292469.0;2020-06-28;domingo;15:00:00;RJ;101;328.0;RIO DE JANEIRO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+292977.0;2020-07-01;quarta-feira;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+293093.0;2020-07-02;quinta-feira;15:50:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+293387.0;2020-07-04;sabado;04:40:00;RJ;101;314.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Danos eventuais;Sem Vitimas;Plena Noite
+293430.0;2020-07-04;sabado;10:10:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia
+294405.0;2020-07-09;quinta-feira;10:30:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+294458.0;2020-07-09;quinta-feira;17:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Anoitecer
+294953.0;2020-07-12;domingo;05:00:00;RJ;101;326.0;NITEROI;Agressao Externa;Incendio;Com Vitimas Feridas;Amanhecer
+295023.0;2020-07-12;domingo;10:15:00;RJ;101;316.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia
+295055.0;2020-07-12;domingo;17:10:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+295094.0;2020-07-12;domingo;20:30:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite
+295307.0;2020-07-13;segunda-feira;23:00:00;RJ;101;302.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite
+295313.0;2020-07-13;segunda-feira;21:50:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+295393.0;2020-07-14;terca-feira;10:39:00;RJ;101;318.0;SAO GONCALO;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Pleno dia
+295851.0;2020-07-17;sexta-feira;12:00:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia
+296307.0;2020-07-19;domingo;13:40:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia
+296719.0;2020-07-21;terca-feira;14:00:00;RJ;101;320.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Pleno dia
+296841.0;2020-07-22;quarta-feira;09:00:00;RJ;101;301.0;SAO GONCALO;Agressao Externa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+297067.0;2020-07-23;quinta-feira;18:00:00;RJ;101;307.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Anoitecer
+297077.0;2020-07-23;quinta-feira;16:11:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+298418.0;2020-07-30;quinta-feira;18:35:00;RJ;101;320.0;NITEROI;Ingestao de alcool e/ou substancias psicoativas pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+298616.0;2020-07-31;sexta-feira;20:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+298877.0;2020-08-01;sabado;22:55:00;RJ;101;324.0;NITEROI;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+299427.0;2020-08-04;terca-feira;15:55:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+299762.0;2020-08-06;quinta-feira;12:10:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia
+299977.0;2020-08-07;sexta-feira;15:30:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+300188.0;2020-08-08;sabado;12:42:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+300275.0;2020-08-08;sabado;20:10:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite
+300677.0;2020-07-25;sabado;13:45:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+300747.0;2020-08-10;segunda-feira;18:40:00;RJ;101;325.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Plena Noite
+300896.0;2020-08-11;terca-feira;20:30:00;RJ;101;331.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite
+300941.0;2020-08-09;domingo;04:20:00;RJ;101;327.0;NITEROI;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite
+301010.0;2020-08-12;quarta-feira;10:45:00;RJ;101;315.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+301028.0;2020-08-12;quarta-feira;15:10:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+301040.0;2020-08-09;domingo;23:15:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+301284.0;2020-08-13;quinta-feira;10:30:00;RJ;101;327.0;NITEROI;Mal Subito;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+301544.0;2020-08-15;sabado;01:35:00;RJ;101;319.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite
+301582.0;2020-08-15;sabado;07:47:00;RJ;101;308.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Sem Vitimas;Pleno dia
+301644.0;2020-08-15;sabado;11:20:00;RJ;101;330.0;RIO DE JANEIRO;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+301993.0;2020-08-17;segunda-feira;06:15:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+302019.0;2020-08-17;segunda-feira;06:50:00;RJ;101;322.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;Pleno dia
+302120.0;2020-08-17;segunda-feira;19:30:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+302292.0;2020-08-18;terca-feira;21:35:00;RJ;101;305.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+302420.0;2020-08-19;quarta-feira;19:30:00;RJ;101;319.5;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite
+302864.0;2020-08-22;sabado;04:50:00;RJ;101;325.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+302979.0;2020-08-22;sabado;14:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+303038.0;2020-08-22;sabado;18:40:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+303071.0;2020-08-22;sabado;21:00:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Plena Noite
+303108.0;2020-08-23;domingo;04:05:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+303141.0;2020-08-23;domingo;12:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+303317.0;2020-08-24;segunda-feira;07:30:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;Pleno dia
+303348.0;2020-08-24;segunda-feira;09:40:00;RJ;101;327.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+303448.0;2020-08-24;segunda-feira;18:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite
+303748.0;2020-08-26;quarta-feira;14:20:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+303799.0;2020-08-26;quarta-feira;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer
+303902.0;2020-08-27;quinta-feira;07:35:00;RJ;101;315.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia
+304049.0;2020-08-28;sexta-feira;08:30:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+304083.0;2020-08-28;sexta-feira;11:15:00;RJ;101;319.0;NITEROI;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+304247.0;2020-08-29;sabado;05:15:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Amanhecer
+304261.0;2020-08-29;sabado;06:20:00;RJ;101;325.0;NITEROI;Objeto estatico sobre o leito carrocavel;Tombamento;Com Vitimas Feridas;Amanhecer
+304745.0;2020-08-31;segunda-feira;03:15:00;RJ;101;307.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Fatais;Plena Noite
+304943.0;2020-09-01;terca-feira;06:50:00;RJ;101;318.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+305019.0;2020-09-01;terca-feira;12:50:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Sem Vitimas;Pleno dia
+305263.0;2020-09-02;quarta-feira;14:30:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+305283.0;2020-09-02;quarta-feira;23:15:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+305443.0;2020-09-03;quinta-feira;01:00:00;RJ;101;330.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Plena Noite
+305518.0;2020-09-04;sexta-feira;07:00:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+305526.0;2020-09-04;sexta-feira;05:45:00;RJ;101;310.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Amanhecer
+305838.0;2020-09-05;sabado;08:35:00;RJ;101;319.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+305845.0;2020-09-01;terca-feira;23:30:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+306069.0;2020-09-06;domingo;02:40:00;RJ;101;310.0;SAO GONCALO;Agressao Externa;Colisao traseira;Sem Vitimas;Plena Noite
+306118.0;2020-09-02;quarta-feira;14:45:00;RJ;101;329.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+306203.0;2020-09-06;domingo;16:25:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+306857.0;2020-09-09;quarta-feira;17:48:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer
+306940.0;2020-09-10;quinta-feira;04:45:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+307184.0;2020-09-11;sexta-feira;11:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+307296.0;2020-09-11;sexta-feira;18:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite
+307397.0;2020-09-12;sabado;06:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+307462.0;2020-09-12;sabado;13:50:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia
+307564.0;2020-09-12;sabado;21:58:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+308061.0;2020-09-15;terca-feira;10:45:00;RJ;101;305.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;Pleno dia
+308162.0;2020-09-15;terca-feira;21:25:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite
+309010.0;2020-09-20;domingo;01:00:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+309596.0;2020-09-22;terca-feira;14:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+309705.0;2020-09-23;quarta-feira;07:40:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Tombamento;Com Vitimas Feridas;Pleno dia
+309779.0;2020-09-23;quarta-feira;15:50:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+309830.0;2020-09-23;quarta-feira;19:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+309993.0;2020-09-24;quinta-feira;16:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+310069.0;2020-09-25;sexta-feira;05:45:00;RJ;101;331.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer
+310643.0;2020-09-27;domingo;15:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+310778.0;2020-09-27;domingo;22:40:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+310891.0;2020-09-28;segunda-feira;07:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia
+310904.0;2020-09-28;segunda-feira;09:30:00;RJ;101;317.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+311315.0;2020-09-30;quarta-feira;08:40:00;RJ;101;318.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+311661.0;2020-10-02;sexta-feira;17:38:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Anoitecer
+311691.0;2020-10-02;sexta-feira;19:03:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+311753.0;2020-10-02;sexta-feira;22:00:00;RJ;101;315.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+311791.0;2020-10-02;sexta-feira;22:30:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Plena Noite
+312148.0;2020-10-04;domingo;10:25:00;RJ;101;324.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+312646.0;2020-10-06;terca-feira;21:15:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+312883.0;2020-10-08;quinta-feira;07:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+313024.0;2020-10-08;quinta-feira;18:27:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+313173.0;2020-10-09;sexta-feira;12:20:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+313179.0;2020-10-09;sexta-feira;14:00:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+313528.0;2020-10-10;sabado;16:16:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+314034.0;2020-10-11;domingo;13:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+314052.0;2020-10-11;domingo;13:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia
+314204.0;2020-10-11;domingo;23:40:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+314240.0;2020-10-08;quinta-feira;19:00:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+314273.0;2020-10-12;segunda-feira;10:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+314329.0;2020-10-12;segunda-feira;14:52:00;RJ;101;304.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;Pleno dia
+314720.0;2020-10-14;quarta-feira;13:15:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+315200.0;2020-10-16;sexta-feira;17:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+315254.0;2020-10-17;sabado;05:40:00;RJ;101;304.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Amanhecer
+315435.0;2020-10-17;sabado;22:45:00;RJ;101;311.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Plena Noite
+315503.0;2020-10-18;domingo;03:20:00;RJ;101;321.0;NITEROI;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+315550.0;2020-10-18;domingo;10:20:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+315829.0;2020-10-19;segunda-feira;22:30:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite
+315838.0;2020-10-19;segunda-feira;23:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite
+316105.0;2020-10-21;quarta-feira;09:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia
+316448.0;2020-10-23;sexta-feira;06:50:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+316685.0;2020-10-20;terca-feira;07:00:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+316993.0;2020-10-25;domingo;08:50:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia
+317247.0;2020-10-26;segunda-feira;12:25:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+317473.0;2020-10-27;terca-feira;06:58:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+317556.0;2020-10-28;quarta-feira;06:50:00;RJ;101;318.0;NITEROI;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia
+317746.0;2020-10-25;domingo;22:25:00;RJ;101;324.5;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite
+317784.0;2020-10-29;quinta-feira;13:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Fatais;Pleno dia
+317815.0;2020-10-29;quinta-feira;09:10:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+318078.0;2020-10-30;sexta-feira;17:15:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Anoitecer
+318603.0;2020-11-01;domingo;18:40:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite
+318900.0;2020-10-30;sexta-feira;22:50:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+319007.0;2020-11-03;terca-feira;17:40:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer
+319146.0;2020-11-04;quarta-feira;11:00:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia
+319272.0;2020-11-05;quinta-feira;09:50:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+319469.0;2020-11-06;sexta-feira;09:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia
+319508.0;2020-11-06;sexta-feira;15:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+319729.0;2020-11-07;sabado;18:15:00;RJ;101;321.5;NITEROI;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Plena Noite
+320126.0;2020-11-09;segunda-feira;02:00:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+320773.0;2020-11-12;quinta-feira;06:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+321286.0;2020-11-14;sabado;05:30:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer
+321287.0;2020-11-14;sabado;07:00:00;RJ;101;331.0;RIO DE JANEIRO;Condutor Dormindo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+321429.0;2020-11-14;sabado;18:40:00;RJ;101;322.0;NITEROI;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+321692.0;2020-11-15;domingo;21:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite
+321701.0;2020-11-15;domingo;22:30:00;RJ;101;317.0;SAO GONCALO;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+321780.0;2020-11-16;segunda-feira;07:00:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+322056.0;2020-11-17;terca-feira;16:20:00;RJ;101;323.0;NITEROI;Mal Subito;Tombamento;Com Vitimas Feridas;Pleno dia
+322114.0;2020-11-18;quarta-feira;01:00:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+322713.0;2020-11-20;sexta-feira;20:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+322854.0;2020-11-21;sabado;11:55:00;RJ;101;305.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+323320.0;2020-11-23;segunda-feira;13:45:00;RJ;101;305.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;Pleno dia
+323597.0;2020-11-24;terca-feira;20:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite
+323770.0;2020-10-24;sabado;07:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+323993.0;2020-11-27;sexta-feira;01:50:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite
+324382.0;2020-11-28;sabado;17:29:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia
+324515.0;2020-11-21;sabado;19:40:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+324578.0;2020-11-29;domingo;11:10:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+325260.0;2020-12-02;quarta-feira;23:00:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Plena Noite
+325553.0;2020-12-04;sexta-feira;11:00:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+325577.0;2020-12-04;sexta-feira;16:40:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer
+325871.0;2020-12-05;sabado;18:30:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+326169.0;2020-12-06;domingo;20:45:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Colisao frontal;Com Vitimas Feridas;Plena Noite
+326696.0;2020-12-09;quarta-feira;08:30:00;RJ;101;328.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia
+326978.0;2020-12-10;quinta-feira;18:50:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite
+326995.0;2020-12-10;quinta-feira;20:55:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+327678.0;2020-12-13;domingo;17:20:00;RJ;101;311.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;Anoitecer
+328442.0;2020-09-20;domingo;13:27:00;RJ;101;316.9;SAO GONCALO;Falta de Atencao a Conducao;Danos eventuais;Com Vitimas Feridas;Pleno dia
+328580.0;2020-12-18;sexta-feira;02:45:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+329268.0;2020-12-20;domingo;12:45:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+329320.0;2020-12-20;domingo;18:05:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer
+329719.0;2020-12-19;sabado;00:10:00;RJ;101;319.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+329739.0;2020-12-22;terca-feira;16:50:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer
+329848.0;2020-12-22;terca-feira;23:30:00;RJ;101;318.4;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite
+330328.0;2020-12-24;quinta-feira;20:10:00;RJ;101;316.0;SAO GONCALO;Ingestao de Alcool;Colisao com objeto estatico;Sem Vitimas;Plena Noite
+330494.0;2020-12-25;sexta-feira;15:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia
+330625.0;2020-12-26;sabado;12:10:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+330913.0;2020-12-27;domingo;20:55:00;RJ;101;316.0;SAO GONCALO;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Plena Noite
+331037.0;2020-12-28;segunda-feira;14:00:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia
+331038.0;2020-12-28;segunda-feira;12:40:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+331081.0;2020-12-28;segunda-feira;17:00:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+331100.0;2020-12-28;segunda-feira;17:30:00;RJ;101;318.0;NITEROI;Desobediencia as normas de transito pelo condutor;Tombamento;Com Vitimas Feridas;Anoitecer
+331112.0;2020-12-28;segunda-feira;20:30:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite
+331125.0;2020-12-28;segunda-feira;19:50:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite
+331226.0;2020-12-29;terca-feira;14:50:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+331294.0;2020-12-29;terca-feira;20:30:00;RJ;101;312.0;SAO GONCALO;Velocidade Incompativel;Colisao lateral;Com Vitimas Fatais;Plena Noite
+331376.0;2020-12-30;quarta-feira;11:10:00;RJ;101;313.0;SAO GONCALO;Condutor Dormindo;Colisao lateral;Com Vitimas Feridas;Pleno dia
+331461.0;2020-12-30;quarta-feira;17:40:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+331632.0;2020-12-31;quinta-feira;16:30:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia
+364457.0;2020-12-17;quinta-feira;13:20:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia
+509758.0;2020-03-16;segunda-feira;14:40:00;RJ;101;325.3;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia

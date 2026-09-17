@@ -1,0 +1,664 @@
+id;data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia
+652778;2025-01-02;quinta-feira;14:30:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+653470;2025-01-06;segunda-feira;08:40:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+659086;2025-02-03;segunda-feira;16:30:00;RJ;101;327.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+662145;2025-02-16;domingo;23:50:00;RJ;101;305.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Colisao traseira;Sem Vitimas;Plena Noite
+667092;2025-03-14;sexta-feira;05:55:00;RJ;101;333.0;RIO DE JANEIRO;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;Pleno dia
+668093;2025-03-18;terca-feira;15:46:00;RJ;101;319.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+668141;2025-03-18;terca-feira;22:45:00;RJ;101;321.0;NITEROI;Carga excessiva e/ou mal acondicionada;Capotamento;Com Vitimas Fatais;Plena Noite
+668800;2025-03-18;terca-feira;16:20:00;RJ;101;315.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia
+670756;2025-03-24;segunda-feira;17:30:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+671672;2025-04-05;sabado;04:20:00;RJ;101;321.0;NITEROI;Acumulo de agua sobre o pavimento;Colisao com objeto;Sem Vitimas;Plena Noite
+672561;2025-04-09;quarta-feira;07:05:00;RJ;101;327.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao traseira;Com Vitimas Feridas;Pleno dia
+672788;2025-04-10;quinta-feira;15:00:00;RJ;101;331.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+687839;2025-04-28;segunda-feira;07:40:00;RJ;101;306.0;SAO GONCALO;Problema com o freio;Engavetamento;Com Vitimas Feridas;Pleno dia
+691420;2025-05-15;quinta-feira;07:30:00;RJ;101;328.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+694288;2025-05-24;sabado;04:15:00;RJ;101;307.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Plena Noite
+695649;2025-06-03;terca-feira;18:25:00;RJ;101;331.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+696478;2025-06-07;sabado;09:00:00;RJ;101;318.0;SAO GONCALO;Transitar no Acostamento;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+697186;2025-06-10;terca-feira;09:17:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+697358;2025-06-11;quarta-feira;07:45:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+698062;2025-06-14;sabado;06:50:00;RJ;101;316.0;NITEROI;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+698121;2025-06-14;sabado;16:26:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+699039;2025-06-18;quarta-feira;20:15:00;RJ;101;327.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+700614;2025-06-26;quinta-feira;11:20:00;RJ;101;327.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao traseira;Com Vitimas Feridas;Pleno dia
+702008;2025-07-02;quarta-feira;14:15:00;RJ;101;326.0;NITEROI;Ausencia de sinalizacao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+703257;2025-07-07;segunda-feira;19:30:00;RJ;101;324.0;NITEROI;Condutor usando celular;Colisao traseira;Com Vitimas Feridas;Plena Noite
+708457;2025-07-31;quinta-feira;16:40:00;RJ;101;327.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia
+708801;2025-08-02;sabado;03:40:00;RJ;101;309.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+709273;2025-08-04;segunda-feira;00:45:00;RJ;101;314.0;SAO GONCALO;Deficiencia do Sistema de Iluminacao/Sinalizacao;Colisao traseira;Com Vitimas Fatais;Plena Noite
+709549;2025-08-05;terca-feira;11:40:00;RJ;101;327.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+709780;2025-08-06;quarta-feira;12:20:00;RJ;101;327.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Colisao traseira;Com Vitimas Feridas;Pleno dia
+715648;2025-09-02;terca-feira;12:15:00;RJ;101;324.0;NITEROI;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+717656;2025-09-11;quinta-feira;16:30:00;RJ;101;322.0;NITEROI;Carga excessiva e/ou mal acondicionada;Derramamento de carga;Sem Vitimas;Pleno dia
+718900;2025-09-17;quarta-feira;01:00:00;RJ;101;326.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+719277;2025-09-18;quinta-feira;20:40:00;RJ;101;330.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Fatais;Plena Noite
+720184;2025-09-16;terca-feira;03:55:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Fatais;Plena Noite
+721649;2025-09-25;quinta-feira;04:30:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Amanhecer
+722641;2025-10-04;sabado;06:10:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia
+726765;2025-10-22;quarta-feira;09:40:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+727038;2025-10-23;quinta-feira;19:00:00;RJ;101;309.0;SAO GONCALO;Manobra de mudanca de faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+727969;2025-10-27;segunda-feira;13:40:00;RJ;101;314.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+728112;2025-10-28;terca-feira;12:30:00;RJ;101;304.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+729060;2025-11-02;domingo;01:00:00;RJ;101;329.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite
+729643;2025-11-04;terca-feira;17:30:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+729783;2025-11-05;quarta-feira;12:00:00;RJ;101;331.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+730994;2025-11-10;segunda-feira;15:00:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+731165;2025-10-26;domingo;22:10:00;RJ;101;313.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite
+733383;2025-11-21;sexta-feira;11:00:00;RJ;101;303.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+734593;2025-11-27;quinta-feira;02:00:00;RJ;101;302.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+735924;2025-11-28;sexta-feira;15:15:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+736262;2025-11-27;quinta-feira;01:25:00;RJ;101;310.0;SAO GONCALO;Pedestre andava na pista;Colisao traseira;Com Vitimas Feridas;Plena Noite
+741421;2025-12-24;quarta-feira;09:02:00;RJ;101;327.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+691250;2025-05-14;quarta-feira;16:25:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+742455;2025-12-29;segunda-feira;15:20:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+652616;2025-01-01;quarta-feira;17:38:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+652693;2025-01-02;quinta-feira;06:35:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+653249;2025-01-05;domingo;00:05:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Plena Noite
+653522;2025-01-06;segunda-feira;11:45:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+653725;2025-01-07;terca-feira;16:50:00;RJ;101;307.0;SAO GONCALO;Demais falhas na via;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+653730;2025-01-07;terca-feira;17:50:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+653825;2025-01-08;quarta-feira;09:43:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+653918;2025-01-08;quarta-feira;11:00:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+654043;2025-01-09;quinta-feira;12:20:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+654169;2025-01-10;sexta-feira;07:50:00;RJ;101;308.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+654208;2025-01-10;sexta-feira;10:00:00;RJ;101;319.0;NITEROI;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+654530;2025-01-11;sabado;07:15:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+654679;2025-01-08;quarta-feira;16:00:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Engavetamento;Com Vitimas Feridas;Pleno dia
+654797;2025-01-13;segunda-feira;07:20:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+654849;2025-01-13;segunda-feira;12:20:00;RJ;101;325.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Engavetamento;Sem Vitimas;Pleno dia
+654888;2025-01-13;segunda-feira;16:45:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+655291;2025-01-15;quarta-feira;17:50:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Anoitecer
+655332;2025-01-15;quarta-feira;12:26:00;RJ;101;333.4;RIO DE JANEIRO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+655706;2025-01-17;sexta-feira;20:08:00;RJ;101;326.0;NITEROI;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+655770;2025-01-18;sabado;04:15:00;RJ;101;318.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+655821;2025-01-18;sabado;10:00:00;RJ;101;302.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+655841;2025-01-18;sabado;11:00:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+656014;2025-01-19;domingo;11:20:00;RJ;101;308.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+656236;2025-01-20;segunda-feira;07:05:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+656239;2025-01-20;segunda-feira;07:30:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+656378;2025-01-20;segunda-feira;12:10:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+656499;2025-01-21;terca-feira;16:30:00;RJ;101;318.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+656784;2025-01-19;domingo;21:23:00;RJ;101;313.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+656809;2025-01-23;quinta-feira;06:05:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+656812;2025-01-11;sabado;10:10:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+656999;2025-01-24;sexta-feira;10:00:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia
+657563;2025-01-26;domingo;21:05:00;RJ;101;327.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+657713;2025-01-21;terca-feira;01:45:00;RJ;101;316.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+658020;2025-01-09;quinta-feira;18:00:00;RJ;101;331.0;RIO DE JANEIRO;Chuva;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+658224;2025-01-30;quinta-feira;13:35:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+658304;2025-01-30;quinta-feira;21:00:00;RJ;101;326.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+658324;2025-01-31;sexta-feira;03:30:00;RJ;101;309.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+658514;2025-01-31;sexta-feira;18:50:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+658682;2025-02-01;sabado;18:30:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Plena Noite
+659054;2025-02-03;segunda-feira;14:20:00;RJ;101;317.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+659085;2025-02-03;segunda-feira;16:20:00;RJ;101;306.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+659132;2025-02-03;segunda-feira;21:20:00;RJ;101;312.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+659180;2025-02-04;terca-feira;08:50:00;RJ;101;307.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+659203;2025-02-04;terca-feira;08:40:00;RJ;101;315.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+659308;2025-02-04;terca-feira;17:00:00;RJ;101;322.0;NITEROI;Afundamento ou ondulacao no pavimento;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+659375;2025-02-05;quarta-feira;08:10:00;RJ;101;313.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+659556;2025-02-06;quinta-feira;08:10:00;RJ;101;320.4;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+659583;2025-02-06;quinta-feira;11:35:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+659822;2025-02-07;sexta-feira;11:00:00;RJ;101;317.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+659858;2025-02-07;sexta-feira;13:30:00;RJ;101;326.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+659906;2025-02-07;sexta-feira;20:10:00;RJ;101;308.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+659911;2025-02-07;sexta-feira;19:27:00;RJ;101;306.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Plena Noite
+659920;2025-02-07;sexta-feira;20:00:00;RJ;101;300.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao frontal;Com Vitimas Feridas;Plena Noite
+659965;2025-02-08;sabado;05:20:00;RJ;101;329.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer
+660339;2025-02-05;quarta-feira;16:20:00;RJ;101;333.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+660421;2025-02-09;domingo;14:50:00;RJ;101;306.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+660445;2025-02-10;segunda-feira;06:20:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+660472;2025-02-10;segunda-feira;07:40:00;RJ;101;325.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+660537;2025-02-10;segunda-feira;10:45:00;RJ;101;305.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;Pleno dia
+660566;2025-02-10;segunda-feira;17:20:00;RJ;101;310.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+660577;2025-02-10;segunda-feira;18:50:00;RJ;101;322.8;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+660708;2025-02-11;terca-feira;12:00:00;RJ;101;317.0;SAO GONCALO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+660740;2025-02-11;terca-feira;15:35:00;RJ;101;321.0;NITEROI;Velocidade Incompativel;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+660817;2025-02-11;terca-feira;17:40:00;RJ;101;332.5;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+660922;2025-02-12;quarta-feira;08:00:00;RJ;101;325.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+661155;2025-02-13;quinta-feira;17:30:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+661162;2025-02-13;quinta-feira;14:30:00;RJ;101;319.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+661163;2025-02-13;quinta-feira;16:00:00;RJ;101;311.0;SAO GONCALO;Problema com o freio;Engavetamento;Com Vitimas Feridas;Pleno dia
+661386;2025-02-14;sexta-feira;19:50:00;RJ;101;324.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+661654;2025-02-16;domingo;01:10:00;RJ;101;310.0;SAO GONCALO;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+661880;2025-02-17;segunda-feira;01:20:00;RJ;101;322.0;NITEROI;Condutor Dormindo;Colisao com objeto;Sem Vitimas;Pleno dia
+661973;2025-02-17;segunda-feira;11:50:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+662012;2025-02-17;segunda-feira;09:42:00;RJ;101;326.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+662061;2025-02-17;segunda-feira;19:40:00;RJ;101;306.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+662067;2025-02-17;segunda-feira;11:20:00;RJ;101;323.0;NITEROI;Manobra de mudanca de faixa;Tombamento;Com Vitimas Feridas;Pleno dia
+662285;2025-02-19;quarta-feira;04:00:00;RJ;101;321.0;NITEROI;Velocidade Incompativel;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite
+662364;2025-02-19;quarta-feira;12:00:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+662616;2025-02-20;quinta-feira;20:00:00;RJ;101;326.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+662636;2025-02-20;quinta-feira;23:35:00;RJ;101;318.0;NITEROI;Condutor Dormindo;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+662772;2025-02-21;sexta-feira;17:35:00;RJ;101;312.1;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+662886;2025-02-22;sabado;09:30:00;RJ;101;327.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+662927;2025-02-22;sabado;13:35:00;RJ;101;330.3;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+663122;2025-02-23;domingo;05:22:00;RJ;101;333.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Sem Vitimas;Amanhecer
+663180;2025-02-23;domingo;15:20:00;RJ;101;316.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+663247;2025-02-23;domingo;17:45:00;RJ;101;323.0;NITEROI;Chuva;Colisao traseira;Com Vitimas Feridas;Pleno dia
+663751;2025-02-26;quarta-feira;07:30:00;RJ;101;310.7;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+663882;2025-02-26;quarta-feira;10:30:00;RJ;101;306.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+664277;2025-02-28;sexta-feira;16:50:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+664287;2025-02-24;segunda-feira;07:45:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia
+664601;2025-03-01;sabado;20:20:00;RJ;101;308.0;SAO GONCALO;Transitar na contramao;Colisao frontal;Sem Vitimas;Plena Noite
+664723;2025-03-02;domingo;11:30:00;RJ;101;321.1;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+664802;2025-03-02;domingo;18:00:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+664803;2025-03-02;domingo;16:35:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+664958;2025-03-03;segunda-feira;12:45:00;RJ;101;310.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+665023;2025-03-03;segunda-feira;19:50:00;RJ;101;329.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+665039;2025-03-03;segunda-feira;22:20:00;RJ;101;303.0;SAO GONCALO;Ingestao de alcool pelo condutor;Capotamento;Sem Vitimas;Plena Noite
+665135;2025-03-04;terca-feira;13:00:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+665249;2025-03-05;quarta-feira;00:45:00;RJ;101;326.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite
+665261;2025-03-05;quarta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+665393;2025-03-05;quarta-feira;15:20:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+665466;2025-03-06;quinta-feira;09:18:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+665715;2025-03-07;sexta-feira;11:30:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+665916;2025-03-08;sabado;09:15:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+665954;2025-03-08;sabado;14:00:00;RJ;101;306.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Pleno dia
+665996;2025-03-08;sabado;18:20:00;RJ;101;334.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+666015;2025-03-08;sabado;18:30:00;RJ;101;300.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite
+666140;2025-03-09;domingo;09:15:00;RJ;101;320.0;NITEROI;Acessar a via sem observar a presenca dos outros veiculos;Colisao transversal;Com Vitimas Feridas;Pleno dia
+666196;2025-03-09;domingo;16:00:00;RJ;101;316.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+666303;2025-03-10;segunda-feira;06:30:00;RJ;101;322.0;NITEROI;Suicidio (presumido);Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+666347;2025-03-06;quinta-feira;08:40:00;RJ;101;301.0;SAO GONCALO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Pleno dia
+666365;2025-03-10;segunda-feira;13:20:00;RJ;101;322.0;NITEROI;Condutor Dormindo;Engavetamento;Com Vitimas Feridas;Pleno dia
+666429;2025-03-10;segunda-feira;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite
+666486;2025-03-10;segunda-feira;10:00:00;RJ;101;304.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+666537;2025-03-11;terca-feira;09:30:00;RJ;101;303.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;Pleno dia
+666707;2025-03-12;quarta-feira;08:10:00;RJ;101;306.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+667090;2025-03-14;sexta-feira;05:40:00;RJ;101;329.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Amanhecer
+667218;2025-03-14;sexta-feira;16:35:00;RJ;101;319.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+667299;2025-03-14;sexta-feira;23:00:00;RJ;101;300.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+667513;2025-03-16;domingo;00:01:00;RJ;101;312.0;SAO GONCALO;Ingestao de alcool pelo condutor;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite
+667714;2025-03-16;domingo;16:30:00;RJ;101;304.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+667724;2025-03-16;domingo;22:35:00;RJ;101;318.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto;Sem Vitimas;Plena Noite
+667962;2025-03-14;sexta-feira;08:00:00;RJ;101;316.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+668019;2025-03-18;terca-feira;11:30:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+668333;2025-03-19;quarta-feira;23:00:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Plena Noite
+668519;2025-03-20;quinta-feira;17:10:00;RJ;101;321.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+668822;2025-03-22;sabado;11:30:00;RJ;101;308.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+668968;2025-03-23;domingo;02:00:00;RJ;101;304.0;SAO GONCALO;Deficiencia do Sistema de Iluminacao/Sinalizacao;Colisao traseira;Com Vitimas Feridas;Plena Noite
+669122;2025-03-23;domingo;19:00:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+669175;2025-03-23;domingo;23:00:00;RJ;101;307.0;SAO GONCALO;Ingestao de alcool pelo condutor;Capotamento;Com Vitimas Fatais;Plena Noite
+669190;2025-03-24;segunda-feira;03:30:00;RJ;101;329.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Colisao traseira;Com Vitimas Feridas;Plena Noite
+669461;2025-03-05;quarta-feira;06:00:00;RJ;101;327.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+669490;2025-03-25;terca-feira;11:00:00;RJ;101;329.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+669534;2025-03-25;terca-feira;17:30:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Anoitecer
+669575;2025-03-25;terca-feira;19:00:00;RJ;101;320.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+669626;2025-03-26;quarta-feira;07:30:00;RJ;101;301.5;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+669713;2025-03-26;quarta-feira;08:06:00;RJ;101;318.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+669733;2025-03-26;quarta-feira;16:57:00;RJ;101;325.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Amanhecer
+669745;2025-03-26;quarta-feira;18:00:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Anoitecer
+669762;2025-03-26;quarta-feira;19:59:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+670593;2025-03-30;domingo;20:00:00;RJ;101;303.0;SAO GONCALO;Transitar na contramao;Colisao frontal;Com Vitimas Feridas;Plena Noite
+670826;2025-03-31;segunda-feira;20:00:00;RJ;101;320.0;SAO GONCALO;Pedestre - Ingestao de alcool/ substancias psicoativas;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+671036;2025-04-02;quarta-feira;07:20:00;RJ;101;312.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+671180;2025-04-02;quarta-feira;20:18:00;RJ;101;320.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+671324;2025-04-03;quinta-feira;17:00:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Anoitecer
+671407;2025-04-04;sexta-feira;03:25:00;RJ;101;324.0;NITEROI;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite
+671574;2025-04-04;sexta-feira;14:48:00;RJ;101;321.0;NITEROI;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+671591;2025-04-04;sexta-feira;18:00:00;RJ;101;319.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+671614;2025-04-04;sexta-feira;21:10:00;RJ;101;331.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite
+671636;2025-04-04;sexta-feira;23:15:00;RJ;101;319.0;NITEROI;Acumulo de agua sobre o pavimento;Tombamento;Com Vitimas Feridas;Plena Noite
+671820;2025-04-05;sabado;15:40:00;RJ;101;316.5;SAO GONCALO;Acumulo de oleo sobre o pavimento;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+671862;2025-04-05;sabado;22:40:00;RJ;101;316.0;SAO GONCALO;Ausencia de sinalizacao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite
+672131;2025-04-07;segunda-feira;08:07:00;RJ;101;326.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+672253;2025-04-07;segunda-feira;19:54:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+672343;2025-04-08;terca-feira;08:45:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+672571;2025-04-08;terca-feira;06:00:00;RJ;101;310.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Fatais;Amanhecer
+672580;2025-04-09;quarta-feira;16:05:00;RJ;101;303.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+672635;2025-04-05;sabado;12:20:00;RJ;101;326.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+672734;2025-04-10;quinta-feira;11:47:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+673015;2025-04-11;sexta-feira;20:30:00;RJ;101;321.0;NITEROI;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+673035;2025-04-11;sexta-feira;21:00:00;RJ;101;328.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+673506;2025-04-13;domingo;17:20:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Anoitecer
+673533;2025-04-13;domingo;21:00:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+673822;2025-04-15;terca-feira;10:45:00;RJ;101;302.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+673849;2025-04-15;terca-feira;14:00:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+673893;2025-04-15;terca-feira;17:40:00;RJ;101;333.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Anoitecer
+675926;2025-04-16;quarta-feira;05:35:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Amanhecer
+685398;2025-04-17;quinta-feira;07:25:00;RJ;101;324.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+685442;2025-04-17;quinta-feira;14:50:00;RJ;101;303.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia
+685495;2025-04-16;quarta-feira;17:55:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+685701;2025-04-18;sexta-feira;10:20:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia
+685707;2025-04-18;sexta-feira;10:00:00;RJ;101;312.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao transversal;Com Vitimas Feridas;Pleno dia
+686133;2025-04-20;domingo;07:57:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+686304;2025-04-20;domingo;19:50:00;RJ;101;311.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Plena Noite
+686312;2025-04-16;quarta-feira;17:40:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+686320;2025-04-16;quarta-feira;17:35:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+686684;2025-04-16;quarta-feira;08:00:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+687423;2025-04-26;sabado;07:25:00;RJ;101;319.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+687566;2025-04-26;sabado;20:10:00;RJ;101;314.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+687698;2025-04-27;domingo;02:00:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+687742;2025-04-27;domingo;06:30:00;RJ;101;304.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+687768;2025-04-27;domingo;23:30:00;RJ;101;305.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+687808;2025-04-28;segunda-feira;06:20:00;RJ;101;311.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+687878;2025-04-28;segunda-feira;08:00:00;RJ;101;313.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+688202;2025-04-30;quarta-feira;05:40:00;RJ;101;331.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Amanhecer
+688390;2025-04-30;quarta-feira;21:55:00;RJ;101;331.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+688454;2025-05-01;quinta-feira;09:00:00;RJ;101;313.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+688484;2025-05-01;quinta-feira;07:00:00;RJ;101;302.7;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+688490;2025-05-01;quinta-feira;14:00:00;RJ;101;307.2;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+688507;2025-05-01;quinta-feira;10:30:00;RJ;101;300.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+688574;2025-05-01;quinta-feira;18:40:00;RJ;101;311.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Plena Noite
+689125;2025-05-04;domingo;19:35:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Sem Vitimas;Plena Noite
+689173;2025-05-01;quinta-feira;07:00:00;RJ;101;302.7;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+689602;2025-05-07;quarta-feira;09:30:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Engavetamento;Com Vitimas Feridas;Pleno dia
+689642;2025-05-07;quarta-feira;14:20:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+689714;2025-05-07;quarta-feira;19:50:00;RJ;101;313.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+689742;2025-05-07;quarta-feira;12:00:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+689767;2025-05-08;quinta-feira;07:40:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+689775;2025-05-05;segunda-feira;00:30:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+689793;2025-05-08;quinta-feira;08:46:00;RJ;101;326.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+689795;2025-05-08;quinta-feira;09:20:00;RJ;101;331.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+690454;2025-05-11;domingo;01:30:00;RJ;101;313.0;SAO GONCALO;Transitar no Acostamento;Colisao com objeto;Sem Vitimas;Plena Noite
+690564;2025-05-11;domingo;07:00:00;RJ;101;334.0;RIO DE JANEIRO;Objeto estatico sobre o leito carrocavel;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+690645;2025-05-11;domingo;17:50:00;RJ;101;333.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+690703;2025-05-11;domingo;23:20:00;RJ;101;327.0;NITEROI;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+690795;2025-05-12;segunda-feira;07:40:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+690828;2025-05-12;segunda-feira;14:30:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+691208;2025-05-12;segunda-feira;19:00:00;RJ;101;319.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Sem Vitimas;Plena Noite
+691293;2025-05-14;quarta-feira;18:35:00;RJ;101;334.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+691401;2025-04-29;terca-feira;08:40:00;RJ;101;309.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+691426;2025-05-15;quinta-feira;11:30:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+691428;2025-05-15;quinta-feira;07:10:00;RJ;101;328.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+691454;2025-05-15;quinta-feira;10:24:00;RJ;101;316.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+691617;2025-05-16;sexta-feira;09:50:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+691802;2025-05-17;sabado;02:00:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+691818;2025-05-17;sabado;11:10:00;RJ;101;321.0;NITEROI;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+692130;2025-05-18;domingo;16:50:00;RJ;101;307.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+692230;2025-05-19;segunda-feira;00:50:00;RJ;101;300.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Capotamento;Com Vitimas Feridas;Plena Noite
+692300;2025-05-19;segunda-feira;07:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+692305;2025-05-19;segunda-feira;08:50:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Tombamento;Com Vitimas Feridas;Pleno dia
+692387;2025-05-19;segunda-feira;17:00:00;RJ;101;307.4;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Anoitecer
+692601;2025-05-20;terca-feira;11:00:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+692645;2025-05-20;terca-feira;13:00:00;RJ;101;310.0;SAO GONCALO;Problema com o freio;Colisao traseira;Sem Vitimas;Pleno dia
+692756;2025-05-20;terca-feira;20:10:00;RJ;101;312.0;SAO GONCALO;Mal subito do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+692951;2025-05-22;quinta-feira;12:45:00;RJ;101;313.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+693017;2025-05-22;quinta-feira;17:50:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Plena Noite
+693200;2025-05-23;sexta-feira;15:13:00;RJ;101;315.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+693874;2025-05-26;segunda-feira;08:00:00;RJ;101;317.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+694144;2025-05-27;terca-feira;17:40:00;RJ;101;325.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+694345;2025-05-28;quarta-feira;02:00:00;RJ;101;307.0;SAO GONCALO;Ausencia de sinalizacao;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+694374;2025-05-28;quarta-feira;20:00:00;RJ;101;333.0;RIO DE JANEIRO;Estacionar ou parar em local proibido;Tombamento;Com Vitimas Feridas;Plena Noite
+694852;2025-05-31;sabado;09:15:00;RJ;101;320.0;NITEROI;Pista Escorregadia;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+694880;2025-05-31;sabado;09:50:00;RJ;101;313.0;SAO GONCALO;Mal subito do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+694903;2025-05-31;sabado;07:50:00;RJ;101;305.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+695125;2025-06-01;domingo;13:00:00;RJ;101;312.0;SAO GONCALO;Ausencia de sinalizacao;Engavetamento;Com Vitimas Feridas;Pleno dia
+695167;2025-06-01;domingo;13:15:00;RJ;101;330.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+695354;2025-06-02;segunda-feira;12:00:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+695414;2025-06-02;segunda-feira;18:05:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+695561;2025-06-03;terca-feira;13:25:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+695843;2025-06-04;quarta-feira;10:51:00;RJ;101;313.0;SAO GONCALO;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+696209;2025-04-24;quinta-feira;00:20:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+696926;2025-06-09;segunda-feira;05:40:00;RJ;101;322.0;NITEROI;Pista Escorregadia;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer
+697109;2025-06-09;segunda-feira;18:00:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao transversal;Com Vitimas Feridas;Anoitecer
+697125;2025-06-09;segunda-feira;21:50:00;RJ;101;323.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Plena Noite
+697264;2025-06-07;sabado;03:20:00;RJ;101;330.0;RIO DE JANEIRO;Condutor Dormindo;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+697265;2025-06-10;terca-feira;17:53:00;RJ;101;329.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+697391;2025-06-11;quarta-feira;09:30:00;RJ;101;330.0;RIO DE JANEIRO;Condutor usando celular;Colisao traseira;Com Vitimas Feridas;Pleno dia
+697906;2025-06-13;sexta-feira;10:30:00;RJ;101;319.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+698214;2025-06-15;domingo;01:00:00;RJ;101;320.0;NITEROI;Transitar na contramao;Colisao frontal;Com Vitimas Feridas;Plena Noite
+698401;2025-06-15;domingo;22:25:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Capotamento;Com Vitimas Feridas;Plena Noite
+698795;2025-06-17;terca-feira;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite
+698963;2025-06-18;quarta-feira;15:30:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+699073;2025-06-19;quinta-feira;02:18:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+699208;2025-06-19;quinta-feira;12:30:00;RJ;101;304.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia
+699360;2025-06-20;sexta-feira;12:55:00;RJ;101;303.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+699440;2025-06-20;sexta-feira;17:20:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+699586;2025-06-21;sabado;15:20:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+699602;2025-06-21;sabado;16:05:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+699716;2025-06-19;quinta-feira;19:00:00;RJ;101;317.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+699846;2025-06-22;domingo;19:20:00;RJ;101;328.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+699879;2025-06-22;domingo;22:00:00;RJ;101;312.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+699993;2025-06-23;segunda-feira;07:00:00;RJ;101;313.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+700015;2025-06-23;segunda-feira;14:20:00;RJ;101;327.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+700320;2025-06-24;terca-feira;18:40:00;RJ;101;322.0;NITEROI;Mal subito do condutor;Eventos atipicos;Com Vitimas Feridas;Plena Noite
+700359;2025-06-25;quarta-feira;06:28:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao transversal;Com Vitimas Feridas;Pleno dia
+700515;2025-06-25;quarta-feira;15:00:00;RJ;101;313.8;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+700613;2025-06-26;quinta-feira;09:00:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+700662;2025-06-26;quinta-feira;15:15:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+700807;2025-06-27;sexta-feira;08:00:00;RJ;101;308.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+700814;2025-06-27;sexta-feira;04:40:00;RJ;101;309.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite
+701096;2025-06-28;sabado;12:50:00;RJ;101;309.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+701174;2025-06-28;sabado;12:00:00;RJ;101;322.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+701346;2025-06-29;domingo;15:00:00;RJ;101;303.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+701416;2025-06-29;domingo;16:15:00;RJ;101;310.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Fatais;Pleno dia
+701723;2025-07-01;terca-feira;06:20:00;RJ;101;330.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+701755;2025-07-01;terca-feira;08:00:00;RJ;101;316.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+701908;2025-07-02;quarta-feira;06:50:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+702142;2025-07-03;quinta-feira;08:40:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+702221;2025-07-03;quinta-feira;17:35:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+702279;2025-07-03;quinta-feira;20:25:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+702371;2025-07-04;sexta-feira;09:50:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+702402;2025-07-04;sexta-feira;13:09:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+702446;2025-07-04;sexta-feira;16:46:00;RJ;101;328.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao transversal;Com Vitimas Feridas;Anoitecer
+702500;2025-07-04;sexta-feira;19:20:00;RJ;101;315.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+702502;2025-07-04;sexta-feira;20:30:00;RJ;101;320.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+702563;2025-07-05;sabado;02:19:00;RJ;101;333.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Plena Noite
+702639;2025-07-05;sabado;10:35:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+702769;2025-07-05;sabado;16:30:00;RJ;101;299.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Atropelamento de Pedestre;Com Vitimas Fatais;Anoitecer
+702822;2025-07-05;sabado;23:00:00;RJ;101;313.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto;Sem Vitimas;Plena Noite
+703075;2025-07-07;segunda-feira;06:00:00;RJ;101;300.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Fatais;Amanhecer
+703159;2025-07-07;segunda-feira;13:15:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+703173;2025-07-07;segunda-feira;11:00:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia
+703202;2025-07-03;quinta-feira;17:00:00;RJ;101;310.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+703554;2025-07-09;quarta-feira;09:20:00;RJ;101;327.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+703563;2025-07-09;quarta-feira;09:40:00;RJ;101;303.7;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+704288;2025-07-12;sabado;05:10:00;RJ;101;326.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Amanhecer
+704530;2025-07-13;domingo;10:00:00;RJ;101;311.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+704630;2025-07-14;segunda-feira;00:30:00;RJ;101;302.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao transversal;Com Vitimas Feridas;Plena Noite
+704761;2025-07-14;segunda-feira;08:10:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+704773;2025-07-14;segunda-feira;14:30:00;RJ;101;334.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+705140;2025-07-16;quarta-feira;07:15:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+705186;2025-07-16;quarta-feira;15:30:00;RJ;101;320.0;NITEROI;Manobra de mudanca de faixa;Colisao frontal;Com Vitimas Feridas;Pleno dia
+705546;2025-07-18;sexta-feira;13:20:00;RJ;101;331.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+705754;2025-07-19;sabado;07:53:00;RJ;101;304.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+705793;2025-07-19;sabado;10:10:00;RJ;101;312.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+706282;2025-07-20;domingo;23:00:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Plena Noite
+706354;2025-07-21;segunda-feira;19:20:00;RJ;101;334.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+706388;2025-07-19;sabado;05:55:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Amanhecer
+706712;2025-07-23;quarta-feira;08:00:00;RJ;101;316.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao transversal;Com Vitimas Feridas;Pleno dia
+706736;2025-07-23;quarta-feira;07:27:00;RJ;101;323.0;NITEROI;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+707444;2025-07-26;sabado;10:45:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+707457;2025-07-26;sabado;13:20:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+707541;2025-07-23;quarta-feira;23:55:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+707892;2025-07-24;quinta-feira;15:30:00;RJ;101;313.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+708167;2025-07-30;quarta-feira;07:48:00;RJ;101;313.0;SAO GONCALO;Animais na Pista;Colisao traseira;Com Vitimas Feridas;Pleno dia
+708257;2025-07-30;quarta-feira;17:00:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+708367;2025-07-31;quinta-feira;07:30:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+708502;2025-07-31;quinta-feira;19:00:00;RJ;101;319.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+708631;2025-08-01;sexta-feira;12:35:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+708769;2025-08-01;sexta-feira;22:45:00;RJ;101;305.0;SAO GONCALO;Animais na Pista;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+708797;2025-08-02;sabado;01:28:00;RJ;101;330.0;RIO DE JANEIRO;Condutor Dormindo;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+709070;2025-08-03;domingo;08:10:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+709235;2025-08-03;domingo;21:05:00;RJ;101;330.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+709356;2025-08-04;segunda-feira;07:40:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+709407;2025-08-04;segunda-feira;13:15:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+709585;2025-08-05;terca-feira;11:00:00;RJ;101;308.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+709756;2025-08-06;quarta-feira;12:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+710029;2025-08-07;quinta-feira;14:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+710109;2025-08-07;quinta-feira;21:00:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+710454;2025-08-09;sabado;10:15:00;RJ;101;319.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia
+710618;2025-08-09;sabado;20:20:00;RJ;101;315.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+710656;2025-08-10;domingo;01:15:00;RJ;101;331.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite
+711005;2025-08-11;segunda-feira;12:35:00;RJ;101;322.0;NITEROI;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+711033;2025-07-28;segunda-feira;07:05:00;RJ;101;319.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+711044;2025-08-11;segunda-feira;15:00:00;RJ;101;304.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+711092;2025-08-11;segunda-feira;18:08:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+711119;2025-08-11;segunda-feira;16:20:00;RJ;101;307.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao transversal;Sem Vitimas;Pleno dia
+711269;2025-08-12;terca-feira;13:40:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+711421;2025-08-09;sabado;17:20:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer
+711428;2025-08-13;quarta-feira;07:00:00;RJ;101;313.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+711435;2025-08-13;quarta-feira;10:30:00;RJ;101;312.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+711837;2025-08-15;sexta-feira;15:53:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+711843;2025-08-15;sexta-feira;03:40:00;RJ;101;315.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Fatais;Plena Noite
+711940;2025-08-16;sabado;07:00:00;RJ;101;322.0;NITEROI;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+712113;2025-08-16;sabado;22:20:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+712224;2025-08-17;domingo;11:10:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+712241;2025-08-17;domingo;14:30:00;RJ;101;313.0;SAO GONCALO;Transitar na contramao;Colisao frontal;Com Vitimas Feridas;Pleno dia
+712302;2025-08-17;domingo;20:00:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Plena Noite
+712339;2025-08-17;domingo;21:25:00;RJ;101;301.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Plena Noite
+712561;2025-08-18;segunda-feira;11:00:00;RJ;101;309.0;SAO GONCALO;Transtornos Mentais (exceto suicidio);Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+712711;2025-08-19;terca-feira;12:30:00;RJ;101;319.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia
+712754;2025-08-19;terca-feira;22:20:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+712812;2025-08-20;quarta-feira;07:30:00;RJ;101;333.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+713331;2025-08-22;sexta-feira;15:50:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+713444;2025-08-23;sabado;08:00:00;RJ;101;311.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+713458;2025-08-23;sabado;08:30:00;RJ;101;309.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+713505;2025-08-23;sabado;07:10:00;RJ;101;320.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+713739;2025-08-24;domingo;10:40:00;RJ;101;311.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+713748;2025-08-24;domingo;13:40:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+714243;2025-07-25;sexta-feira;11:54:00;RJ;101;323.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+714358;2025-08-27;quarta-feira;17:45:00;RJ;101;317.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+714417;2025-08-27;quarta-feira;20:20:00;RJ;101;314.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+714460;2025-08-27;quarta-feira;14:20:00;RJ;101;321.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+714481;2025-08-28;quinta-feira;07:40:00;RJ;101;323.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+714628;2025-08-28;quinta-feira;18:30:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Plena Noite
+714629;2025-08-28;quinta-feira;19:20:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+714801;2025-08-29;sexta-feira;15:40:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+715011;2025-08-30;sabado;12:45:00;RJ;101;322.0;NITEROI;Chuva;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+715074;2025-08-30;sabado;16:30:00;RJ;101;318.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+715430;2025-09-01;segunda-feira;07:50:00;RJ;101;309.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+715448;2025-09-01;segunda-feira;08:30:00;RJ;101;304.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+715523;2025-09-01;segunda-feira;16:30:00;RJ;101;333.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+715565;2025-09-01;segunda-feira;09:00:00;RJ;101;307.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+715567;2025-09-01;segunda-feira;18:20:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Tombamento;Com Vitimas Feridas;Anoitecer
+715794;2025-09-03;quarta-feira;07:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao transversal;Com Vitimas Feridas;Pleno dia
+715806;2025-09-03;quarta-feira;07:15:00;RJ;101;329.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+715865;2025-09-03;quarta-feira;13:30:00;RJ;101;306.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;Pleno dia
+715897;2025-09-03;quarta-feira;07:00:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+715912;2025-09-03;quarta-feira;17:00:00;RJ;101;326.5;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+715929;2025-09-03;quarta-feira;18:50:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+716028;2025-09-04;quinta-feira;08:50:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+716048;2025-09-04;quinta-feira;08:30:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+716178;2025-09-04;quinta-feira;23:00:00;RJ;101;305.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+716196;2025-09-05;sexta-feira;04:20:00;RJ;101;330.0;RIO DE JANEIRO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite
+716251;2025-09-05;sexta-feira;08:30:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+716254;2025-09-05;sexta-feira;06:52:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+716275;2025-09-05;sexta-feira;11:30:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+716371;2025-09-05;sexta-feira;15:40:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+716396;2025-09-05;sexta-feira;20:40:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+716452;2025-09-05;sexta-feira;23:30:00;RJ;101;332.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Plena Noite
+716490;2025-09-02;terca-feira;18:30:00;RJ;101;313.0;SAO GONCALO;Frear bruscamente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+716823;2025-09-07;domingo;16:10:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+716989;2025-09-08;segunda-feira;09:45:00;RJ;101;325.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Pleno dia
+717135;2025-09-08;segunda-feira;18:30:00;RJ;101;332.0;RIO DE JANEIRO;Demais falhas na via;Tombamento;Com Vitimas Feridas;Plena Noite
+717145;2025-09-08;segunda-feira;08:20:00;RJ;101;315.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer
+717386;2025-09-10;quarta-feira;06:40:00;RJ;101;308.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+717409;2025-09-10;quarta-feira;13:30:00;RJ;101;313.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+717472;2025-09-10;quarta-feira;18:55:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+717626;2025-09-11;quinta-feira;14:10:00;RJ;101;333.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+717832;2025-09-12;sexta-feira;13:45:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+717949;2025-09-12;sexta-feira;10:20:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+718277;2025-09-14;domingo;05:50:00;RJ;101;330.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+718287;2025-09-14;domingo;07:00:00;RJ;101;322.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+718683;2025-09-15;segunda-feira;19:45:00;RJ;101;323.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+718787;2025-09-16;terca-feira;11:50:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+718861;2025-09-16;terca-feira;18:40:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Plena Noite
+718868;2025-09-16;terca-feira;18:15:00;RJ;101;322.0;NITEROI;Demais Fenomenos da natureza;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+718941;2025-09-17;quarta-feira;08:50:00;RJ;101;316.0;SAO GONCALO;Animais na Pista;Colisao traseira;Com Vitimas Feridas;Pleno dia
+718982;2025-09-17;quarta-feira;12:30:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+719015;2025-09-17;quarta-feira;14:10:00;RJ;101;313.0;SAO GONCALO;Transitar na contramao;Colisao frontal;Com Vitimas Feridas;Pleno dia
+719118;2025-09-18;quinta-feira;07:50:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+719289;2025-09-19;sexta-feira;00:37:00;RJ;101;322.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+719384;2025-09-19;sexta-feira;07:40:00;RJ;101;318.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+719528;2025-09-19;sexta-feira;06:40:00;RJ;101;325.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+719586;2025-09-20;sabado;05:30:00;RJ;101;316.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;Amanhecer
+719652;2025-09-20;sabado;11:40:00;RJ;101;302.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Pleno dia
+720053;2025-09-21;domingo;20:15:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+720063;2025-09-21;domingo;20:20:00;RJ;101;304.0;SAO GONCALO;Ingestao de alcool pelo condutor;Colisao frontal;Com Vitimas Feridas;Plena Noite
+720152;2025-09-22;segunda-feira;08:40:00;RJ;101;309.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+720258;2025-09-22;segunda-feira;13:50:00;RJ;101;315.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Capotamento;Com Vitimas Feridas;Pleno dia
+720311;2025-09-22;segunda-feira;18:15:00;RJ;101;318.0;SAO GONCALO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+720313;2025-09-22;segunda-feira;18:30:00;RJ;101;304.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+720399;2025-09-23;terca-feira;08:00:00;RJ;101;309.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+720490;2025-09-23;terca-feira;16:50:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+720501;2025-09-23;terca-feira;12:44:00;RJ;101;320.0;NITEROI;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+720529;2025-09-23;terca-feira;21:15:00;RJ;101;325.0;NITEROI;Ingestao de alcool pelo condutor;Colisao com objeto;Sem Vitimas;Plena Noite
+720582;2025-09-24;quarta-feira;06:15:00;RJ;101;324.0;NITEROI;Mal subito do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+720672;2025-09-24;quarta-feira;17:40:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+720709;2025-09-24;quarta-feira;09:30:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+720943;2025-09-26;sexta-feira;08:00:00;RJ;101;310.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+720997;2025-08-19;terca-feira;11:48:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+721238;2025-09-23;terca-feira;21:30:00;RJ;101;312.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+721329;2025-09-27;sabado;16:25:00;RJ;101;324.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+721771;2025-09-29;segunda-feira;20:30:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+721850;2025-09-26;sexta-feira;23:30:00;RJ;101;318.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+721910;2025-09-30;terca-feira;09:25:00;RJ;101;312.0;SAO GONCALO;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+722003;2025-10-01;quarta-feira;07:10:00;RJ;101;310.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+722094;2025-10-01;quarta-feira;17:15:00;RJ;101;326.0;RIO DE JANEIRO;Demais Fenomenos da natureza;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+722190;2025-10-02;quinta-feira;07:20:00;RJ;101;323.0;NITEROI;Mal subito do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+722244;2025-10-02;quinta-feira;13:20:00;RJ;101;326.0;RIO DE JANEIRO;Mal subito do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+722337;2025-10-02;quinta-feira;20:05:00;RJ;101;317.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+722407;2025-10-03;sexta-feira;08:35:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+722458;2025-10-03;sexta-feira;09:40:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+722462;2025-10-03;sexta-feira;11:00:00;RJ;101;329.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia
+722496;2025-10-03;sexta-feira;10:50:00;RJ;101;329.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia
+722657;2025-10-04;sabado;08:30:00;RJ;101;322.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+722930;2025-10-02;quinta-feira;03:30:00;RJ;101;307.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite
+723174;2025-09-22;segunda-feira;18:22:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+723433;2025-10-07;terca-feira;06:05:00;RJ;101;328.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+723436;2025-10-07;terca-feira;11:50:00;RJ;101;334.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+723470;2025-10-07;terca-feira;16:58:00;RJ;101;319.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+723887;2025-10-09;quinta-feira;18:00:00;RJ;101;313.6;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+724074;2025-10-10;sexta-feira;16:10:00;RJ;101;332.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Fatais;Pleno dia
+724215;2025-10-08;quarta-feira;05:30:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Amanhecer
+724277;2025-10-11;sabado;10:30:00;RJ;101;306.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+724360;2025-10-11;sabado;17:25:00;RJ;101;310.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+724422;2025-10-11;sabado;21:31:00;RJ;101;331.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+724560;2025-10-12;domingo;14:00:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+724777;2025-10-09;quinta-feira;14:20:00;RJ;101;317.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+725231;2025-10-15;quarta-feira;18:00:00;RJ;101;312.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+725462;2025-10-13;segunda-feira;08:33:00;RJ;101;329.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+725512;2025-10-16;quinta-feira;19:00:00;RJ;101;313.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite
+725549;2025-10-17;sexta-feira;08:20:00;RJ;101;325.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+725573;2025-10-17;sexta-feira;09:20:00;RJ;101;319.0;NITEROI;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+725743;2025-10-17;sexta-feira;22:00:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+725926;2025-10-18;sabado;17:20:00;RJ;101;306.0;SAO GONCALO;Ausencia de reacao do condutor;Saida de leito carrocavel;Com Vitimas Feridas;Anoitecer
+726012;2025-10-19;domingo;02:45:00;RJ;101;314.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+726164;2025-10-19;domingo;16:55:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Fatais;Anoitecer
+726388;2025-10-20;segunda-feira;17:30:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+726426;2025-10-20;segunda-feira;17:40:00;RJ;101;314.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Anoitecer
+726550;2025-10-21;terca-feira;09:00:00;RJ;101;311.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+726554;2025-10-21;terca-feira;07:30:00;RJ;101;311.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+726576;2025-10-21;terca-feira;09:40:00;RJ;101;302.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Fatais;Pleno dia
+726651;2025-10-21;terca-feira;14:00:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+726903;2025-10-23;quinta-feira;08:45:00;RJ;101;307.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+727035;2025-10-23;quinta-feira;20:00:00;RJ;101;322.0;NITEROI;Retorno proibido;Colisao transversal;Com Vitimas Feridas;Plena Noite
+727066;2025-10-23;quinta-feira;23:10:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+727163;2025-10-24;sexta-feira;12:30:00;RJ;101;310.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+727291;2025-10-24;sexta-feira;20:00:00;RJ;101;309.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral sentido oposto;Sem Vitimas;Plena Noite
+727415;2025-10-25;sabado;12:50:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+727424;2025-10-25;sabado;12:05:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia
+727431;2025-10-25;sabado;15:00:00;RJ;101;327.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Colisao traseira;Com Vitimas Feridas;Pleno dia
+727495;2025-10-25;sabado;19:00:00;RJ;101;304.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite
+727744;2025-10-26;domingo;08:15:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+727996;2025-10-27;segunda-feira;17:40:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+728074;2025-10-28;terca-feira;09:30:00;RJ;101;300.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+728126;2025-10-28;terca-feira;15:00:00;RJ;101;308.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+728231;2025-10-29;quarta-feira;07:20:00;RJ;101;306.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia
+728454;2025-10-30;quinta-feira;08:15:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Sem Vitimas;Pleno dia
+728555;2025-10-30;quinta-feira;13:35:00;RJ;101;325.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+728557;2025-10-30;quinta-feira;14:20:00;RJ;101;324.0;NITEROI;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Pleno dia
+728608;2025-10-30;quinta-feira;18:30:00;RJ;101;320.0;NITEROI;Ingestao de alcool pelo condutor;Engavetamento;Sem Vitimas;Plena Noite
+728909;2025-11-01;sabado;09:30:00;RJ;101;305.0;SAO GONCALO;Frear bruscamente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+728913;2025-10-28;terca-feira;11:30:00;RJ;101;303.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+729086;2025-11-02;domingo;00:30:00;RJ;101;318.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Plena Noite
+729595;2025-09-25;quinta-feira;09:25:00;RJ;101;310.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+729712;2025-11-05;quarta-feira;08:15:00;RJ;101;311.9;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+729714;2025-11-05;quarta-feira;08:20:00;RJ;101;334.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+729811;2025-11-05;quarta-feira;15:30:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+729826;2025-11-05;quarta-feira;17:55:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+729836;2025-11-05;quarta-feira;13:00:00;RJ;101;324.0;RIO BONITO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Amanhecer
+729843;2025-11-01;sabado;09:40:00;RJ;101;306.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+730054;2025-11-07;sexta-feira;00:56:00;RJ;101;324.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+730110;2025-11-07;sexta-feira;07:54:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+730209;2025-11-07;sexta-feira;10:20:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+730224;2025-11-07;sexta-feira;16:20:00;RJ;101;326.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+730334;2025-11-08;sabado;02:50:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+730916;2025-11-10;segunda-feira;11:50:00;RJ;101;312.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+730995;2025-11-10;segunda-feira;13:00:00;RJ;101;318.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+731241;2025-11-11;terca-feira;21:30:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer
+731257;2025-11-12;quarta-feira;04:40:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+731399;2025-11-12;quarta-feira;17:00:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+731573;2025-11-01;sabado;19:20:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+731581;2025-11-13;quinta-feira;08:00:00;RJ;101;308.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+731629;2025-11-13;quinta-feira;19:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+731703;2025-11-14;sexta-feira;06:00:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+731892;2025-11-14;sexta-feira;18:30:00;RJ;101;299.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+732182;2025-11-16;domingo;05:00:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Amanhecer
+732391;2025-11-16;domingo;22:20:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite
+732611;2025-10-26;domingo;17:52:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Anoitecer
+732794;2025-11-18;terca-feira;16:00:00;RJ;101;317.0;SAO GONCALO;Pista Escorregadia;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+732893;2025-11-19;quarta-feira;06:00:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;Pleno dia
+732911;2025-11-19;quarta-feira;07:45:00;RJ;101;316.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+733110;2025-11-19;quarta-feira;23:00:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Plena Noite
+733155;2025-11-08;sabado;16:45:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia
+733218;2025-11-20;quinta-feira;15:15:00;RJ;101;328.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia
+733465;2025-11-21;sexta-feira;14:00:00;RJ;101;305.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+733662;2025-11-22;sabado;07:00:00;RJ;101;310.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+733988;2025-11-23;domingo;22:45:00;RJ;101;305.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+734005;2025-11-24;segunda-feira;00:20:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Plena Noite
+734177;2025-11-24;segunda-feira;07:30:00;RJ;101;319.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+734259;2025-11-25;terca-feira;07:15:00;RJ;101;322.0;NITEROI;Chuva;Tombamento;Com Vitimas Feridas;Pleno dia
+734265;2025-11-25;terca-feira;06:30:00;RJ;101;332.0;RIO DE JANEIRO;Chuva;Tombamento;Com Vitimas Feridas;Pleno dia
+734340;2025-11-25;terca-feira;17:15:00;RJ;101;327.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Anoitecer
+734399;2025-11-26;quarta-feira;04:50:00;RJ;101;322.0;NITEROI;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Amanhecer
+734436;2025-11-26;quarta-feira;07:05:00;RJ;101;313.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+734524;2025-11-26;quarta-feira;12:17:00;RJ;101;322.0;NITEROI;Pista Escorregadia;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+734537;2025-11-26;quarta-feira;08:38:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+734546;2025-11-26;quarta-feira;10:22:00;RJ;101;326.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+734564;2025-11-26;quarta-feira;20:10:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+734629;2025-11-27;quinta-feira;07:45:00;RJ;101;309.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia
+734635;2025-11-27;quinta-feira;07:20:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia
+734677;2025-11-23;domingo;17:39:00;RJ;101;313.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Anoitecer
+734846;2025-11-28;sexta-feira;07:15:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+734865;2025-11-28;sexta-feira;10:00:00;RJ;101;326.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+735224;2025-11-29;sabado;07:00:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+735306;2025-11-29;sabado;16:40:00;RJ;101;311.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+735559;2025-11-30;domingo;02:00:00;RJ;101;320.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Tombamento;Com Vitimas Feridas;Plena Noite
+735806;2025-12-01;segunda-feira;20:15:00;RJ;101;303.0;SAO GONCALO;Mal subito do condutor;Tombamento;Com Vitimas Feridas;Plena Noite
+735997;2025-12-02;terca-feira;20:50:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+736160;2025-12-03;quarta-feira;11:00:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+736403;2025-12-04;quinta-feira;16:40:00;RJ;101;314.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+736565;2025-12-05;sexta-feira;11:20:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+736683;2025-12-05;sexta-feira;18:50:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+736706;2025-12-05;sexta-feira;08:42:00;RJ;101;302.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+736713;2025-12-05;sexta-feira;22:30:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+736743;2025-12-05;sexta-feira;22:50:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+736781;2025-12-06;sabado;08:00:00;RJ;101;329.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia
+737035;2025-12-07;domingo;09:13:00;RJ;101;322.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia
+737036;2025-11-28;sexta-feira;16:30:00;RJ;101;314.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia
+737429;2025-12-08;segunda-feira;12:45:00;RJ;101;332.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia
+737582;2025-12-09;terca-feira;08:30:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia
+737596;2025-12-09;terca-feira;15:30:00;RJ;101;323.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+737724;2025-12-10;quarta-feira;05:15:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+737757;2025-12-10;quarta-feira;09:10:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+737908;2025-12-11;quinta-feira;01:20:00;RJ;101;306.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite
+738006;2025-11-21;sexta-feira;10:30:00;RJ;101;305.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+738192;2025-12-12;sexta-feira;11:40:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Pleno dia
+738312;2025-12-12;sexta-feira;18:21:00;RJ;101;325.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+738324;2025-12-12;sexta-feira;11:30:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+738623;2025-12-13;sabado;12:20:00;RJ;101;321.0;NITEROI;Chuva;Tombamento;Com Vitimas Feridas;Pleno dia
+738878;2025-12-14;domingo;15:30:00;RJ;101;329.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Fatais;Pleno dia
+738964;2025-12-14;domingo;22:50:00;RJ;101;332.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+739033;2025-12-11;quinta-feira;08:00:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia
+739058;2025-12-15;segunda-feira;13:35:00;RJ;101;325.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+739261;2025-12-12;sexta-feira;19:20:00;RJ;101;313.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+739282;2025-12-16;terca-feira;13:40:00;RJ;101;314.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+739579;2025-12-17;quarta-feira;18:10:00;RJ;101;315.0;SAO GONCALO;Mal subito do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer
+739645;2025-12-18;quinta-feira;02:40:00;RJ;101;322.0;NITEROI;Velocidade Incompativel;Colisao com objeto;Sem Vitimas;Plena Noite
+739706;2025-12-18;quinta-feira;07:15:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+739718;2025-12-18;quinta-feira;08:30:00;RJ;101;305.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia
+739741;2025-12-14;domingo;13:00:00;RJ;101;319.0;NITEROI;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+739759;2025-12-18;quinta-feira;03:00:00;RJ;101;306.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite
+739932;2025-12-19;sexta-feira;08:40:00;RJ;101;318.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+740002;2025-12-19;sexta-feira;15:30:00;RJ;101;329.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+740006;2025-12-19;sexta-feira;16:45:00;RJ;101;317.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia
+740010;2025-12-12;sexta-feira;19:40:00;RJ;101;313.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite
+740071;2025-12-19;sexta-feira;19:00:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+740099;2025-12-19;sexta-feira;20:30:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Plena Noite
+740364;2025-12-20;sabado;17:30:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia
+740429;2025-12-20;sabado;22:55:00;RJ;101;330.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite
+740730;2025-12-22;segunda-feira;03:30:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Plena Noite
+741152;2025-12-23;terca-feira;18:00:00;RJ;101;307.0;SAO GONCALO;Animais na Pista;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer
+741156;2025-12-23;terca-feira;17:00:00;RJ;101;300.0;SAO GONCALO;Acesso irregular;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+741176;2025-12-23;terca-feira;17:30:00;RJ;101;313.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Fatais;Anoitecer
+741329;2025-12-24;quarta-feira;14:25:00;RJ;101;311.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+741372;2025-12-24;quarta-feira;10:30:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+741425;2025-12-24;quarta-feira;13:50:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+741509;2025-12-25;quinta-feira;09:35:00;RJ;101;316.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Eventos atipicos;Com Vitimas Feridas;Pleno dia
+741792;2025-12-26;sexta-feira;17:30:00;RJ;101;306.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+741798;2025-12-26;sexta-feira;19:10:00;RJ;101;304.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+741895;2025-12-27;sabado;08:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia
+742097;2025-12-28;domingo;07:10:00;RJ;101;305.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia
+742161;2025-12-28;domingo;13:10:00;RJ;101;302.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;Pleno dia
+742194;2025-12-28;domingo;17:35:00;RJ;101;308.0;SAO GONCALO;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia
+742334;2025-12-29;segunda-feira;09:00:00;RJ;101;329.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia
+742451;2025-12-29;segunda-feira;19:10:00;RJ;101;327.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite
+742536;2025-12-30;terca-feira;08:05:00;RJ;101;326.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia
+742666;2025-12-30;terca-feira;20:30:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite
+742749;2025-09-03;quarta-feira;00:25:00;RJ;101;300.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite
+742803;2025-12-31;quarta-feira;16:00:00;RJ;101;314.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia

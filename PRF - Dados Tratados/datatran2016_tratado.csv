@@ -1,0 +1,516 @@
+id;data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia
+83427160;01/01/16;Sexta;06:00:00;RJ;101;331.0;RIO DE JANEIRO;Dormindo;Colisao traseira;Sem Vitimas;Pleno dia
+83428110;08/01/16;Sexta;18:00:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83428734;10/01/16;Domingo;13:50:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83428802;10/01/16;Domingo;07:50:00;RJ;101;321.0;NITEROI;Velocidade incompativel;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83428916;11/01/16;Segunda;08:25:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer
+83429284;12/01/16;Terca;12:15:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83429651;13/01/16;Quarta;13:17:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83429865;12/01/16;Terca;23:30:00;RJ;101;313.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83429903;10/01/16;Domingo;22:45:00;RJ;101;313.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+83430224;15/01/16;Sexta;12:30:00;RJ;101;328.0;NITEROI;Velocidade incompativel;Capotamento;Com Vitimas Feridas;Pleno dia
+83430559;16/01/16;Sabado;12:30:00;RJ;101;319.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+83430894;17/01/16;Domingo;15:44:00;RJ;101;324.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83430930;17/01/16;Domingo;18:00:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83431080;18/01/16;Segunda;07:04:00;RJ;101;319.0;SAO GONCALO;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83431081;18/01/16;Segunda;07:04:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83431476;19/01/16;Terca;07:13:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83432073;19/01/16;Terca;22:20:00;RJ;101;313.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+83432152;21/01/16;Quinta;13:30:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83432173;21/01/16;Quinta;09:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83432316;18/01/16;Segunda;19:55:00;RJ;101;322.0;NITEROI;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83432747;23/01/16;Sabado;14:32:00;RJ;101;319.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83432791;23/01/16;Sabado;18:55:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83432912;24/01/16;Domingo;05:20:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83433172;25/01/16;Segunda;04:00:00;RJ;101;314.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Ignorado;Plena noite
+83434249;28/01/16;Quinta;22:18:00;RJ;101;320.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83434296;25/01/16;Segunda;23:23:00;RJ;101;321.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+83434690;30/01/16;Sabado;13:00:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83434996;31/01/16;Domingo;17:55:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83435046;31/01/16;Domingo;19:10:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Anoitecer
+83435088;01/02/16;Segunda;00:01:00;RJ;101;309.0;SAO GONCALO;Defeito na via;Atropelamento de animal;Sem Vitimas;Plena noite
+83435119;16/01/16;Sabado;07:30:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+83435166;01/02/16;Segunda;05:50:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83435223;01/02/16;Segunda;12:15:00;RJ;101;328.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+83435672;02/02/16;Terca;16:20:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83435835;31/01/16;Domingo;04:30:00;RJ;101;325.0;NITEROI;Dormindo;Colisao Transversal;Com Vitimas Feridas;Plena noite
+83435853;03/02/16;Quarta;11:00:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83436251;02/02/16;Terca;18:20:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83436285;04/02/16;Quinta;18:53:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83436292;04/02/16;Quinta;18:15:00;RJ;101;300.6;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+83436319;04/02/16;Quinta;15:41:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+83436401;05/02/16;Sexta;05:50:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer
+83436412;04/02/16;Quinta;09:55:00;RJ;101;330.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+83436629;05/02/16;Sexta;19:00:00;RJ;101;301.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer
+83436676;05/02/16;Sexta;20:00:00;RJ;101;305.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer
+83436739;06/02/16;Sabado;04:50:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83436804;30/01/16;Sabado;01:00:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Feridas;Pleno dia
+83436808;06/02/16;Sabado;08:00:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83437250;07/02/16;Domingo;08:35:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83437369;08/02/16;Segunda;00:30:00;RJ;101;328.0;SILVA JARDIM;Outras;Saida de Pista;Sem Vitimas;Plena noite
+83437511;08/02/16;Segunda;14:00:00;RJ;101;319.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83438322;04/02/16;Quinta;15:00:00;RJ;101;325.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+83438450;06/02/16;Sabado;05:00:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer
+83439051;06/02/16;Sabado;12:22:00;RJ;101;310.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83439094;14/02/16;Domingo;06:50:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer
+83439095;07/02/16;Domingo;03:50:00;RJ;101;321.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+83439115;14/02/16;Domingo;07:10:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83439422;15/02/16;Segunda;11:30:00;RJ;101;332.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83439511;15/02/16;Segunda;16:45:00;RJ;101;310.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia
+83439716;01/02/16;Segunda;00:15:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83440216;29/01/16;Sexta;07:30:00;RJ;101;307.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83440375;19/02/16;Sexta;00:15:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+83440665;20/02/16;Sabado;00:40:00;RJ;101;315.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83440886;20/02/16;Sabado;21:00:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao com objeto fixo;Ignorado;Plena noite
+83440905;20/02/16;Sabado;22:10:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83442205;25/02/16;Quinta;08:00:00;RJ;101;316.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83442463;22/02/16;Segunda;14:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83442566;04/01/16;Segunda;18:33:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Anoitecer
+83442940;27/02/16;Sabado;22:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83443150;28/02/16;Domingo;20:40:00;RJ;101;322.0;NITEROI;Desobediencia a sinalizacao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83443244;25/02/16;Quinta;16:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83443317;21/02/16;Domingo;18:30:00;RJ;101;315.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer
+83444015;02/03/16;Quarta;14:45:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83444416;04/03/16;Sexta;00:05:00;RJ;101;309.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+83444613;23/01/16;Sabado;19:57:00;RJ;101;324.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83444638;04/03/16;Sexta;15:30:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83444699;04/03/16;Sexta;21:50:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83444956;05/03/16;Sabado;17:40:00;RJ;101;324.0;NITEROI;Defeito mecanico em veiculo;Capotamento;Com Vitimas Feridas;Pleno dia
+83445364;05/03/16;Sabado;17:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83445416;07/03/16;Segunda;12:40:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83445513;07/03/16;Segunda;17:50:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83445611;08/03/16;Terca;08:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83445919;09/03/16;Quarta;09:30:00;RJ;101;322.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83446007;09/03/16;Quarta;16:15:00;RJ;101;322.0;NITEROI;Outras;Incendio;Sem Vitimas;Pleno dia
+83446373;11/03/16;Sexta;01:30:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83446424;07/03/16;Segunda;19:14:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83446547;11/03/16;Sexta;13:50:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Feridas;Pleno dia
+83446682;11/03/16;Sexta;22:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Fatais;Plena noite
+83446770;04/03/16;Sexta;13:40:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83446794;12/03/16;Sabado;10:00:00;RJ;101;330.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83447017;13/03/16;Domingo;01:35:00;RJ;101;315.0;SAO GONCALO;Ingestao de alcool;Colisao com objeto fixo;Ignorado;Plena noite
+83447138;08/03/16;Terca;06:40:00;RJ;101;321.7;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83447375;14/03/16;Segunda;06:40:00;RJ;101;300.6;SAO GONCALO;Animais na Pista;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83447401;14/03/16;Segunda;07:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83447406;14/03/16;Segunda;09:30:00;RJ;101;328.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83447420;14/03/16;Segunda;07:10:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83447545;14/03/16;Segunda;19:00:00;RJ;101;319.5;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83447791;12/03/16;Sabado;01:00:00;RJ;101;328.0;NITEROI;Ingestao de alcool;Capotamento;Sem Vitimas;Plena noite
+83448095;16/03/16;Quarta;18:15:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83448201;10/03/16;Quinta;01:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83448559;18/03/16;Sexta;11:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83448772;11/03/16;Sexta;23:45:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83449715;22/03/16;Terca;11:50:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83449944;23/03/16;Quarta;01:50:00;RJ;101;321.0;NITEROI;Dormindo;Tombamento;Com Vitimas Fatais;Plena noite
+83449952;23/03/16;Quarta;06:20:00;RJ;101;318.8;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer
+83450040;23/03/16;Quarta;11:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83450138;23/03/16;Quarta;19:00:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83450250;23/03/16;Quarta;23:15:00;RJ;101;316.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+83450349;24/03/16;Quinta;14:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83450545;24/03/16;Quinta;22:55:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83450546;24/03/16;Quinta;23:01:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83450550;25/03/16;Sexta;01:00:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Ignorado;Plena noite
+83450778;25/03/16;Sexta;14:30:00;RJ;101;322.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83451514;16/03/16;Quarta;11:20:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83451668;28/03/16;Segunda;14:05:00;RJ;101;329.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83451963;29/03/16;Terca;12:35:00;RJ;101;322.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83452105;27/03/16;Domingo;01:00:00;RJ;101;325.0;NITEROI;Ingestao de alcool;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83452916;02/04/16;Sabado;09:30:00;RJ;101;318.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia
+83452987;30/03/16;Quarta;23:00:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite
+83453098;29/03/16;Terca;23:30:00;RJ;101;302.0;SAO GONCALO;Velocidade incompativel;Colisao lateral;Com Vitimas Fatais;Plena noite
+83453521;04/04/16;Segunda;06:40:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83453583;04/04/16;Segunda;16:50:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Anoitecer
+83453619;04/04/16;Segunda;14:30:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83453868;05/04/16;Terca;17:20:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83454509;08/04/16;Sexta;05:20:00;RJ;101;304.0;SAO GONCALO;Ingestao de alcool;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83454572;13/01/16;Quarta;06:37:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83454861;09/04/16;Sabado;06:13:00;RJ;101;331.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83454916;09/04/16;Sabado;09:46:00;RJ;101;325.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83455470;11/04/16;Segunda;11:30:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83455600;11/04/16;Segunda;16:50:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83455768;12/04/16;Terca;12:54:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83455840;12/04/16;Terca;19:00:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer
+83455922;12/04/16;Terca;20:40:00;RJ;101;316.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83456130;13/04/16;Quarta;18:05:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83456388;10/04/16;Domingo;23:00:00;RJ;101;303.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+83456436;23/03/16;Quarta;12:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83456472;15/04/16;Sexta;07:20:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83456573;15/04/16;Sexta;15:19:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83456602;15/04/16;Sexta;14:20:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83456628;15/04/16;Sexta;18:20:00;RJ;101;301.2;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite
+83456799;16/04/16;Sabado;12:00:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83456834;16/04/16;Sabado;16:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83456988;16/04/16;Sabado;22:00:00;RJ;101;305.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite
+83457507;18/04/16;Segunda;19:30:00;RJ;101;307.4;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite
+83457606;19/04/16;Terca;11:25:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+83457607;19/04/16;Terca;09:00:00;RJ;101;319.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83457667;19/04/16;Terca;12:33:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83457727;19/04/16;Terca;07:55:00;RJ;101;312.9;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83457864;18/04/16;Segunda;10:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83457967;20/04/16;Quarta;07:40:00;RJ;101;331.0;RIO DE JANEIRO;Ultrapassagem indevida;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83458067;20/04/16;Quarta;23:55:00;RJ;101;307.0;SAO GONCALO;Dormindo;Capotamento;Com Vitimas Feridas;Plena noite
+83458224;21/04/16;Quinta;13:20:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83458658;15/04/16;Sexta;23:15:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena noite
+83458704;23/04/16;Sabado;06:35:00;RJ;101;331.0;RIO DE JANEIRO;Dormindo;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83458734;06/01/16;Quarta;10:50:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83458817;23/04/16;Sabado;22:10:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83458858;24/04/16;Domingo;05:00:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Amanhecer
+83458895;24/04/16;Domingo;09:00:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83459065;22/04/16;Sexta;21:20:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+83459280;21/04/16;Quinta;18:00:00;RJ;101;314.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83459316;25/04/16;Segunda;15:15:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+83459507;22/04/16;Sexta;18:30:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83459583;26/04/16;Terca;08:15:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83459588;26/04/16;Terca;16:00:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao com objeto fixo;Ignorado;Pleno dia
+83459683;23/03/16;Quarta;19:32:00;RJ;101;327.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+83459854;27/04/16;Quarta;07:35:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83460151;28/04/16;Quinta;18:30:00;RJ;101;307.9;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+83460276;25/04/16;Segunda;08:55:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83460470;29/04/16;Sexta;20:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83460903;01/05/16;Domingo;09:10:00;RJ;101;312.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83461016;19/04/16;Terca;05:50:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao frontal;Sem Vitimas;Amanhecer
+83461158;02/05/16;Segunda;08:15:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83461163;28/01/16;Quinta;23:00:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83461396;03/05/16;Terca;07:45:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83461502;03/05/16;Terca;16:30:00;RJ;101;321.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+83462124;05/05/16;Quinta;20:00:00;RJ;101;324.3;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite
+83462147;05/05/16;Quinta;20:00:00;RJ;101;319.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite
+83462390;06/05/16;Sexta;18:40:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83462660;07/05/16;Sabado;06:40:00;RJ;101;318.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83462667;07/05/16;Sabado;14:15:00;RJ;101;315.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+83462842;04/05/16;Quarta;12:37:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83463181;06/05/16;Sexta;04:10:00;RJ;101;329.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83463420;06/05/16;Sexta;22:30:00;RJ;101;304.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83463670;10/05/16;Terca;19:15:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite
+83463832;11/05/16;Quarta;07:50:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83464454;13/05/16;Sexta;16:10:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83464813;14/05/16;Sabado;20:26:00;RJ;101;327.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Plena noite
+83464823;14/05/16;Sabado;20:31:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83465102;15/05/16;Domingo;09:18:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia
+83465407;27/04/16;Quarta;05:00:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Ignorado;Pleno dia
+83465409;16/05/16;Segunda;19:00:00;RJ;101;303.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Pleno dia
+83465416;16/05/16;Segunda;23:54:00;RJ;101;317.0;SAO GONCALO;Dormindo;Saida de Pista;Sem Vitimas;Plena noite
+83465734;18/05/16;Quarta;06:40:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83465775;18/05/16;Quarta;10:00:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia
+83465788;15/05/16;Domingo;20:22:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83465834;18/05/16;Quarta;14:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83465858;15/05/16;Domingo;19:40:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83465863;15/05/16;Domingo;19:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Feridas;Plena noite
+83465898;15/05/16;Domingo;18:57:00;RJ;101;309.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite
+83465968;19/05/16;Quinta;03:45:00;RJ;101;311.0;SAO GONCALO;Outras;Tombamento;Sem Vitimas;Amanhecer
+83466327;15/05/16;Domingo;10:33:00;RJ;101;306.0;SAO GONCALO;Velocidade incompativel;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83466415;16/05/16;Segunda;06:00:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer
+83466493;20/05/16;Sexta;18:30:00;RJ;101;313.0;SAO GONCALO;Velocidade incompativel;Colisao lateral;Com Vitimas Feridas;Plena noite
+83466775;21/05/16;Sabado;22:00:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83466961;22/05/16;Domingo;10:15:00;RJ;101;322.0;NITEROI;Desobediencia a sinalizacao;Colisao traseira;Sem Vitimas;Pleno dia
+83467112;23/05/16;Segunda;07:50:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83467141;23/05/16;Segunda;09:45:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83467581;21/05/16;Sabado;01:30:00;RJ;101;309.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83467590;24/05/16;Terca;17:45:00;RJ;101;320.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Anoitecer
+83467838;25/05/16;Quarta;06:25:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Amanhecer
+83468099;26/04/16;Terca;13:30:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83468158;23/05/16;Segunda;22:40:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83468165;26/05/16;Quinta;19:25:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite
+83468267;19/05/16;Quinta;22:45:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83468314;27/05/16;Sexta;05:05:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer
+83468458;27/05/16;Sexta;18:50:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83468966;29/05/16;Domingo;17:45:00;RJ;101;303.0;SAO GONCALO;Animais na Pista;Capotamento;Sem Vitimas;Anoitecer
+83469004;29/05/16;Domingo;17:47:00;RJ;101;303.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83469182;30/05/16;Segunda;13:20:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83469592;16/05/16;Segunda;07:45:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83469600;16/05/16;Segunda;07:30:00;RJ;101;310.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83469917;02/06/16;Quinta;09:05:00;RJ;101;314.4;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83470134;03/06/16;Sexta;04:25:00;RJ;101;319.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Fatais;Plena noite
+83470169;03/06/16;Sexta;06:45:00;RJ;101;321.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+83471033;03/06/16;Sexta;00:25:00;RJ;101;332.0;RIO DE JANEIRO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite
+83471335;07/06/16;Terca;05:10:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+83471792;08/06/16;Quarta;16:00:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+83471884;08/06/16;Quarta;20:00:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao Transversal;Com Vitimas Feridas;Plena noite
+83472362;10/06/16;Sexta;18:16:00;RJ;101;320.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena noite
+83472580;11/06/16;Sabado;12:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83473296;14/06/16;Terca;08:02:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83473647;11/06/16;Sabado;22:10:00;RJ;101;327.0;NITEROI;Defeito mecanico em veiculo;Colisao lateral;Com Vitimas Feridas;Plena noite
+83473797;12/06/16;Domingo;22:30:00;RJ;101;318.0;SAO GONCALO;Defeito na via;Colisao frontal;Com Vitimas Feridas;Plena noite
+83473874;16/06/16;Quinta;13:37:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83473894;13/06/16;Segunda;01:15:00;RJ;101;314.0;SAO GONCALO;Dormindo;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83473948;16/06/16;Quinta;19:30:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83473979;13/06/16;Segunda;01:20:00;RJ;101;318.0;SAO GONCALO;Ingestao de alcool;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83474795;19/06/16;Domingo;19:20:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer
+83475034;19/06/16;Domingo;02:00:00;RJ;101;318.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+83475220;21/06/16;Terca;07:50:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83475242;17/06/16;Sexta;18:45:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Incendio;Sem Vitimas;Plena noite
+83475313;21/05/16;Sabado;04:30:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Amanhecer
+83475316;18/06/16;Sabado;03:30:00;RJ;101;309.0;SAO GONCALO;Animais na Pista;Saida de Pista;Sem Vitimas;Plena noite
+83475333;21/06/16;Terca;10:30:00;RJ;101;317.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer
+83475653;22/06/16;Quarta;18:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Anoitecer
+83476426;25/06/16;Sabado;22:15:00;RJ;101;323.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Plena noite
+83476515;22/06/16;Quarta;07:15:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83476558;26/06/16;Domingo;09:10:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83476563;26/06/16;Domingo;11:20:00;RJ;101;311.0;SAO GONCALO;Animais na Pista;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83476821;27/06/16;Segunda;06:20:00;RJ;101;307.0;SAO GONCALO;Dormindo;Colisao traseira;Com Vitimas Fatais;Amanhecer
+83477217;28/06/16;Terca;18:50:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83477318;29/06/16;Quarta;08:20:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83477489;25/06/16;Sabado;18:30:00;RJ;101;323.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83478020;01/07/16;Sexta;20:30:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83478347;02/07/16;Sabado;23:30:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83478874;04/07/16;Segunda;17:15:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83479039;05/07/16;Terca;06:50:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83479267;11/05/16;Quarta;18:10:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83479348;06/07/16;Quarta;18:32:00;RJ;101;324.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83479659;29/06/16;Quarta;16:00:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83479668;29/06/16;Quarta;16:10:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83479827;08/07/16;Sexta;11:50:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+83479857;08/07/16;Sexta;15:50:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+83479883;08/07/16;Sexta;17:45:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Anoitecer
+83480229;09/07/16;Sabado;20:40:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83480595;11/07/16;Segunda;08:00:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer
+83481130;10/07/16;Domingo;02:00:00;RJ;101;318.0;SAO GONCALO;Outras;Incendio;Ignorado;Plena noite
+83481449;02/07/16;Sabado;12:02:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83481489;13/04/16;Quarta;11:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83481526;14/07/16;Quinta;16:05:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83481854;15/07/16;Sexta;18:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83481867;11/07/16;Segunda;18:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83482056;16/07/16;Sabado;11:15:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83482149;16/07/16;Sabado;15:55:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83482163;16/07/16;Sabado;20:00:00;RJ;101;309.9;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+83482259;17/07/16;Domingo;02:09:00;RJ;101;310.0;SAO GONCALO;Animais na Pista;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83482353;17/07/16;Domingo;11:10:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83482400;17/07/16;Domingo;14:35:00;RJ;101;312.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83482715;02/07/16;Sabado;10:20:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83482757;18/07/16;Segunda;07:50:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83482936;19/07/16;Terca;13:30:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83483269;13/05/16;Sexta;23:09:00;RJ;101;322.0;NITEROI;Desobediencia a sinalizacao;Colisao com objeto fixo;Ignorado;Plena noite
+83483389;21/07/16;Quinta;07:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83483632;22/07/16;Sexta;06:50:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83483657;18/07/16;Segunda;09:00:00;RJ;101;320.0;NITEROI;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+83484039;23/07/16;Sabado;17:00:00;RJ;101;317.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83484317;24/07/16;Domingo;15:05:00;RJ;101;303.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+83484813;26/07/16;Terca;07:10:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83484997;27/07/16;Quarta;04:20:00;RJ;101;322.0;NITEROI;Dormindo;Saida de Pista;Com Vitimas Feridas;Plena noite
+83485368;28/07/16;Quinta;14:20:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83485711;29/07/16;Sexta;21:20:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83486580;01/08/16;Segunda;18:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83486591;01/08/16;Segunda;17:55:00;RJ;101;319.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer
+83486626;30/07/16;Sabado;04:10:00;RJ;101;313.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83486643;02/08/16;Terca;07:30:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer
+83486812;02/08/16;Terca;17:40:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83486824;02/08/16;Terca;19:20:00;RJ;101;312.0;SAO GONCALO;Dormindo;Saida de Pista;Com Vitimas Feridas;Plena noite
+83487193;14/07/16;Quinta;14:02:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83487422;01/08/16;Segunda;23:00:00;RJ;101;313.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite
+83487493;05/08/16;Sexta;14:00:00;RJ;101;301.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83487842;06/08/16;Sabado;19:30:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83487886;06/08/16;Sabado;17:50:00;RJ;101;304.7;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Anoitecer
+83487974;01/08/16;Segunda;21:40:00;RJ;101;320.5;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83488275;31/07/16;Domingo;21:45:00;RJ;101;318.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+83488277;04/08/16;Quinta;09:00:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83488861;10/08/16;Quarta;10:50:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83488896;10/08/16;Quarta;15:30:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+83488916;10/08/16;Quarta;17:16:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Anoitecer
+83489135;11/08/16;Quinta;16:10:00;RJ;101;318.0;SAO GONCALO;Velocidade incompativel;Saida de Pista;Sem Vitimas;Pleno dia
+83489144;11/08/16;Quinta;12:45:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Fatais;Plena noite
+83489181;11/08/16;Quinta;18:20:00;RJ;101;333.0;RIO DE JANEIRO;Ultrapassagem indevida;Colisao traseira;Sem Vitimas;Anoitecer
+83489295;08/08/16;Segunda;18:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83489464;12/08/16;Sexta;18:30:00;RJ;101;329.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83489556;13/08/16;Sabado;07:20:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+83489719;13/08/16;Sabado;19:00:00;RJ;101;319.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83490004;14/08/16;Domingo;19:40:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83490216;15/08/16;Segunda;14:00:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83490667;16/08/16;Terca;14:45:00;RJ;101;299.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83491078;18/08/16;Quinta;09:10:00;RJ;101;299.8;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83491157;18/08/16;Quinta;19:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83491214;19/08/16;Sexta;03:50:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao com objeto fixo;Ignorado;Plena noite
+83491804;17/08/16;Quarta;16:40:00;RJ;101;310.7;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83491913;15/08/16;Segunda;19:35:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83491978;21/08/16;Domingo;09:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83492147;22/08/16;Segunda;03:00:00;RJ;101;300.6;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83492244;19/08/16;Sexta;05:10:00;RJ;101;312.8;SAO GONCALO;Dormindo;Saida de Pista;Sem Vitimas;Plena noite
+83492315;22/08/16;Segunda;14:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83492582;23/08/16;Terca;16:50:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83492650;23/08/16;Terca;19:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite
+83493096;25/08/16;Quinta;18:25:00;RJ;101;312.5;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83493368;26/08/16;Sexta;11:40:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83493524;27/08/16;Sabado;06:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Amanhecer
+83493529;22/08/16;Segunda;22:50:00;RJ;101;319.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83493783;28/08/16;Domingo;04:50:00;RJ;101;321.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+83494541;31/05/16;Terca;19:15:00;RJ;101;318.9;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Plena noite
+83494594;30/08/16;Terca;19:28:00;RJ;101;328.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Plena noite
+83494600;31/08/16;Quarta;01:12:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83495203;28/08/16;Domingo;19:15:00;RJ;101;321.0;NITEROI;Ingestao de alcool;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83495301;02/09/16;Sexta;19:08:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite
+83495395;03/09/16;Sabado;02:57:00;RJ;101;304.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite
+83495406;03/09/16;Sabado;04:38:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83495527;03/09/16;Sabado;16:10:00;RJ;101;305.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+83495597;03/09/16;Sabado;15:30:00;RJ;101;303.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83495647;04/09/16;Domingo;00:10:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83495820;07/05/16;Sabado;09:09:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83496573;07/09/16;Quarta;11:10:00;RJ;101;306.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+83496661;08/09/16;Quinta;00:01:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83496844;28/08/16;Domingo;23:40:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83496851;01/09/16;Quinta;18:50:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83496912;08/09/16;Quinta;17:57:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83497013;16/08/16;Terca;06:27:00;RJ;101;306.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83497171;09/09/16;Sexta;17:00:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83497319;10/09/16;Sabado;12:50:00;RJ;101;321.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83497346;10/09/16;Sabado;15:10:00;RJ;101;307.8;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+83497459;10/09/16;Sabado;18:44:00;RJ;101;322.0;NITEROI;Ingestao de alcool;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83497480;11/09/16;Domingo;00:15:00;RJ;101;317.0;SAO GONCALO;Falta de atencao;Saida de Pista;Sem Vitimas;Plena noite
+83497824;12/09/16;Segunda;06:30:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83497860;12/09/16;Segunda;07:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+83497881;12/09/16;Segunda;11:30:00;RJ;101;313.0;SAO GONCALO;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83497996;12/09/16;Segunda;16:51:00;RJ;101;319.0;SAO GONCALO;Outras;Incendio;Ignorado;Pleno dia
+83498010;12/09/16;Segunda;06:40:00;RJ;101;311.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao com objeto movel;Com Vitimas Feridas;Amanhecer
+83498143;09/09/16;Sexta;14:15:00;RJ;101;330.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83498340;11/09/16;Domingo;02:50:00;RJ;101;320.0;NITEROI;Defeito mecanico em veiculo;Incendio;Sem Vitimas;Plena noite
+83498395;14/09/16;Quarta;11:00:00;RJ;101;303.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83498490;14/09/16;Quarta;13:40:00;RJ;101;306.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83498524;15/09/16;Quinta;00:20:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83498544;17/07/16;Domingo;17:30:00;RJ;101;315.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Anoitecer
+83498737;15/09/16;Quinta;22:30:00;RJ;101;320.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83498972;16/09/16;Sexta;21:10:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83499289;18/09/16;Domingo;00:30:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite
+83499612;18/09/16;Domingo;17:40:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83499841;19/09/16;Segunda;23:20:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao com objeto fixo;Ignorado;Plena noite
+83500221;18/09/16;Domingo;01:40:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83500543;22/09/16;Quinta;19:40:00;RJ;101;308.0;SAO GONCALO;Ingestao de alcool;Colisao com bicicleta;Com Vitimas Feridas;Plena noite
+83500555;22/09/16;Quinta;18:30:00;RJ;101;304.0;SAO GONCALO;Ingestao de alcool;Colisao traseira;Com Vitimas Feridas;Plena noite
+83500872;24/09/16;Sabado;03:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83501341;25/09/16;Domingo;14:00:00;RJ;101;299.0;RIO DE JANEIRO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia
+83501440;22/09/16;Quinta;09:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83501462;18/06/16;Sabado;05:20:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83501621;26/09/16;Segunda;14:30:00;RJ;101;310.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83501658;26/09/16;Segunda;20:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83501736;24/09/16;Sabado;00:20:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83502017;24/09/16;Sabado;18:00:00;RJ;101;321.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83502077;28/09/16;Quarta;10:30:00;RJ;101;303.0;SAO GONCALO;Outras;Tombamento;Sem Vitimas;Pleno dia
+83502131;28/09/16;Quarta;17:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83502292;25/08/16;Quinta;00:10:00;RJ;101;329.0;NITEROI;Falta de atencao;Capotamento;Com Vitimas Feridas;Plena noite
+83502299;25/08/16;Quinta;00:10:00;RJ;101;320.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Plena noite
+83502335;29/09/16;Quinta;08:15:00;RJ;101;309.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+83503184;02/10/16;Domingo;06:25:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Amanhecer
+83503427;28/09/16;Quarta;11:15:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83503502;21/09/16;Quarta;23:00:00;RJ;101;313.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83503508;25/09/16;Domingo;07:00:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Capotamento;Sem Vitimas;Pleno dia
+83503556;30/09/16;Sexta;01:06:00;RJ;101;314.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite
+83503835;29/09/16;Quinta;09:00:00;RJ;101;324.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia
+83504009;30/09/16;Sexta;22:15:00;RJ;101;321.0;NITEROI;Velocidade incompativel;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83504394;05/10/16;Quarta;15:00:00;RJ;101;330.5;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83504480;28/09/16;Quarta;15:30:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Pleno dia
+83504999;07/10/16;Sexta;11:59:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83505034;03/10/16;Segunda;23:54:00;RJ;101;324.5;NITEROI;Outras;Colisao com objeto fixo;Ignorado;Plena noite
+83505179;06/09/16;Terca;19:20:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite
+83505312;08/10/16;Sabado;10:00:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83505425;08/10/16;Sabado;14:48:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83505428;08/10/16;Sabado;13:30:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83505605;08/10/16;Sabado;22:42:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83505608;09/10/16;Domingo;00:29:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Fatais;Plena noite
+83505730;09/10/16;Domingo;12:50:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83505996;13/09/16;Terca;12:40:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83506147;29/09/16;Quinta;15:30:00;RJ;101;316.0;SAO GONCALO;Velocidade incompativel;Colisao lateral;Sem Vitimas;Pleno dia
+83506170;11/10/16;Terca;00:20:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83506421;11/10/16;Terca;17:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83506441;11/10/16;Terca;23:00:00;RJ;101;306.0;SAO GONCALO;Falta de atencao;Colisao Transversal;Com Vitimas Feridas;Plena noite
+83507218;14/10/16;Sexta;10:50:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83507403;14/10/16;Sexta;19:02:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83507549;15/10/16;Sabado;10:00:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83507641;15/10/16;Sabado;12:30:00;RJ;101;304.0;SAO GONCALO;Velocidade incompativel;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83507771;16/10/16;Domingo;10:46:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83507998;17/10/16;Segunda;07:00:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia
+83508837;15/10/16;Sabado;16:10:00;RJ;101;322.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Pleno dia
+83508853;15/10/16;Sabado;12:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83509220;20/10/16;Quinta;19:40:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83509321;18/10/16;Terca;00:00:00;RJ;101;315.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Fatais;Plena noite
+83509348;21/10/16;Sexta;07:30:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia
+83509359;21/10/16;Sexta;09:30:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer
+83510224;21/10/16;Sexta;00:30:00;RJ;101;320.0;NITEROI;Outras;Derramamento de Carga;Sem Vitimas;Plena noite
+83510278;24/10/16;Segunda;11:50:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83510283;24/10/16;Segunda;09:15:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83510709;23/10/16;Domingo;04:56:00;RJ;101;309.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer
+83510980;27/10/16;Quinta;06:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Amanhecer
+83511137;19/10/16;Quarta;21:50:00;RJ;101;316.0;SAO GONCALO;Outras;Incendio;Com Vitimas Fatais;Plena noite
+83511177;24/10/16;Segunda;05:35:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+83511450;29/10/16;Sabado;05:45:00;RJ;101;314.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83511474;29/10/16;Sabado;07:00:00;RJ;101;314.0;SAO GONCALO;Dormindo;Saida de Pista;Com Vitimas Feridas;Pleno dia
+83511741;30/10/16;Domingo;08:00:00;RJ;101;317.0;SAO GONCALO;Defeito mecanico em veiculo;Tombamento;Sem Vitimas;Pleno dia
+83511946;11/10/16;Terca;21:45:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83512015;31/10/16;Segunda;14:00:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83512460;29/10/16;Sabado;11:30:00;RJ;101;302.0;SAO GONCALO;Defeito na via;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83512641;03/11/16;Quinta;08:15:00;RJ;101;314.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83512725;03/11/16;Quinta;16:00:00;RJ;101;319.0;NITEROI;Falta de atencao;Colisao com bicicleta;Com Vitimas Feridas;Pleno dia
+83512786;03/11/16;Quinta;20:34:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite
+83513010;31/10/16;Segunda;06:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83513200;05/11/16;Sabado;12:20:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83513312;05/11/16;Sabado;17:40:00;RJ;101;320.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83513506;06/11/16;Domingo;15:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83513627;07/11/16;Segunda;05:00:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer
+83514493;30/10/16;Domingo;03:00:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83514548;10/11/16;Quinta;16:25:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83514833;11/11/16;Sexta;18:10:00;RJ;101;329.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Anoitecer
+83515435;09/11/16;Quarta;10:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83515853;14/11/16;Segunda;17:45:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83515896;15/11/16;Terca;02:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83516911;18/11/16;Sexta;14:40:00;RJ;101;324.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia
+83516953;18/11/16;Sexta;19:30:00;RJ;101;321.5;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite
+83517144;19/11/16;Sabado;16:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Fatais;Pleno dia
+83517406;20/11/16;Domingo;05:00:00;RJ;101;326.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83517697;18/11/16;Sexta;04:00:00;RJ;101;320.0;NITEROI;Velocidade incompativel;Colisao com objeto fixo;Com Vitimas Fatais;Plena noite
+83517894;22/11/16;Terca;06:50:00;RJ;101;321.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83518005;22/11/16;Terca;09:30:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83518429;23/11/16;Quarta;19:01:00;RJ;101;318.0;SAO GONCALO;Velocidade incompativel;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Anoitecer
+83518507;20/11/16;Domingo;10:30:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83518754;05/11/16;Sabado;10:30:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83518976;26/11/16;Sabado;05:40:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Amanhecer
+83519327;27/11/16;Domingo;17:20:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao Transversal;Sem Vitimas;Pleno dia
+83519367;23/11/16;Quarta;18:00:00;RJ;101;318.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83519751;25/11/16;Sexta;16:30:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83519825;29/11/16;Terca;13:30:00;RJ;101;322.0;NITEROI;Velocidade incompativel;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83520050;30/11/16;Quarta;08:10:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83520521;28/11/16;Segunda;23:30:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83520572;01/12/16;Quinta;00:54:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite
+83520680;29/11/16;Terca;00:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite
+83520870;03/12/16;Sabado;15:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83520955;03/12/16;Sabado;06:30:00;RJ;101;309.0;SAO GONCALO;Ingestao de alcool;Capotamento;Com Vitimas Feridas;Pleno dia
+83521030;03/12/16;Sabado;19:05:00;RJ;101;303.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Plena noite
+83521643;06/12/16;Terca;07:15:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83521702;06/12/16;Terca;08:00:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83522077;07/12/16;Quarta;22:15:00;RJ;101;309.0;SAO GONCALO;Desobediencia a sinalizacao;Colisao frontal;Com Vitimas Feridas;Plena noite
+83522101;08/12/16;Quinta;02:28:00;RJ;101;309.7;SAO GONCALO;Desobediencia a sinalizacao;Colisao com objeto fixo;Sem Vitimas;Plena noite
+83522130;12/05/16;Quinta;16:50:00;RJ;101;325.0;NITEROI;Outras;Danos Eventuais;Sem Vitimas;Anoitecer
+83522170;05/12/16;Segunda;02:10:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83522248;08/12/16;Quinta;14:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83522257;08/12/16;Quinta;09:00:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83522321;08/12/16;Quinta;16:00:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83522374;09/12/16;Sexta;00:15:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite
+83522486;09/12/16;Sexta;12:10:00;RJ;101;318.0;RIO BONITO;Outras;Saida de Pista;Com Vitimas Feridas;Pleno dia
+83522507;09/12/16;Sexta;12:50:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83522656;09/12/16;Sexta;20:00:00;RJ;101;313.0;SAO GONCALO;Ultrapassagem indevida;Colisao frontal;Com Vitimas Feridas;Plena noite
+83522725;06/12/16;Terca;23:40:00;RJ;101;309.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite
+83522955;10/12/16;Sabado;20:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite
+83523462;12/12/16;Segunda;14:00:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia
+83523989;25/09/16;Domingo;13:20:00;RJ;101;322.0;NITEROI;Defeito na via;Colisao com objeto fixo;Ignorado;Pleno dia
+83524281;15/12/16;Quinta;09:00:00;RJ;101;315.8;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83524431;15/12/16;Quinta;18:40:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer
+83524466;15/12/16;Quinta;06:52:00;RJ;101;328.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer
+83524477;15/12/16;Quinta;11:13:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83524574;13/12/16;Terca;01:00:00;RJ;101;312.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite
+83525000;17/12/16;Sabado;12:00:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83525109;18/12/16;Domingo;03:15:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao com objeto fixo;Ignorado;Plena noite
+83525267;18/12/16;Domingo;16:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83526259;22/12/16;Quinta;00:30:00;RJ;101;316.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite
+83526707;23/12/16;Sexta;08:30:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia
+83526745;23/12/16;Sexta;08:10:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83526878;23/12/16;Sexta;16:45:00;RJ;101;319.9;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83526880;23/12/16;Sexta;19:00:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83527146;24/12/16;Sabado;14:30:00;RJ;101;303.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia
+83527206;24/12/16;Sabado;17:30:00;RJ;101;324.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83527233;24/12/16;Sabado;20:00:00;RJ;101;324.0;NITEROI;Desobediencia a sinalizacao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite
+83527282;20/12/16;Terca;09:00:00;RJ;101;303.0;SAO GONCALO;Velocidade incompativel;Capotamento;Com Vitimas Fatais;Pleno dia
+83527752;26/12/16;Segunda;12:30:00;RJ;101;305.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83527860;26/12/16;Segunda;15:00:00;RJ;101;303.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83528132;27/12/16;Terca;16:20:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83528347;28/12/16;Quarta;10:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83528395;28/12/16;Quarta;09:30:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia
+83528449;28/12/16;Quarta;14:27:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia
+83528588;29/12/16;Quinta;07:10:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia
+83529400;31/12/16;Sabado;22:40:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia
+83529576;26/12/16;Segunda;18:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia
+83529654;28/12/16;Quarta;21:50:00;RJ;101;311.0;SAO GONCALO;Defeito mecanico em veiculo;Incendio;Sem Vitimas;Plena noite
