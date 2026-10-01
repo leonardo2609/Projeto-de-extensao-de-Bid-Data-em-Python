@@ -22,7 +22,7 @@ Este projeto tem como objetivo realizar uma análise baseada em Big Data das oco
 * **Análise de Sazonalidade**: Compreender a sazonalidade das colisões ao longo do ano.
 
 ## 🔬 Metodologia e Dados
-A metodologia central da pesquisa consiste na correlação profunda de diversas variáveis presentes nos registros de trânsito. O projeto faz uso de bases de dados robustas, como os dados brutos da PRF (incluindo a base `datatran2007.csv`), processados inteiramente em Python. 
+A metodologia central da pesquisa consiste na correlação profunda de diversas variáveis presentes nos registros de trânsito. O projeto faz uso de bases de dados robustas, como os dados brutos da PRF, processados inteiramente em Python. 
 
 O cruzamento de dados foca nas seguintes variáveis espaço-temporais:
 * **Data e Dia da semana**
@@ -33,8 +33,8 @@ O cruzamento de dados foca nas seguintes variáveis espaço-temporais:
 | Tecnologia | Aplicação no Projeto |
 |---|---|
 | **Python** | Linguagem principal de processamento e análise. |
-| **Pandas / PySpark** | Estruturação, limpeza e manipulação do Big Data. |
-| **Matplotlib / Seaborn** | Geração de gráficos para visualização da sazonalidade e padrões. |
+| **Pandas** | Estruturação, limpeza e manipulação do Big Data. |
+| **Matplotlib** | Geração de gráficos para visualização da sazonalidade e padrões. |
 
 ## 🚀 Como Executar o Projeto
 
