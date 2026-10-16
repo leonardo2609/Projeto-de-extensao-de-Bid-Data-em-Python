@@ -35,9 +35,3 @@ O cruzamento de dados foca nas seguintes variáveis espaço-temporais:
 | **Python** | Linguagem principal de processamento e análise. |
 | **Pandas** | Estruturação, limpeza e manipulação do Big Data. |
 | **Matplotlib** | Geração de gráficos para visualização da sazonalidade e padrões. |
-
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
