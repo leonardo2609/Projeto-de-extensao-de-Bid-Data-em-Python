@@ -5,6 +5,7 @@ import glob
 import re
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
 
 def remove_acents(texto):
     if isinstance(texto, str):
@@ -72,40 +73,29 @@ def filtro(arquivo):
 
     return arquivo
 
-def regressao_linear(arquivo, nome_arquivo):
+def regressao_linear(arquivo):
     try:
-        # Ajustes para a regressão linear
-        arquivo['data_inversa'] = pd.to_datetime(arquivo['data_inversa'], format='mixed', dayfirst=True)
-        arquivo['mes'] = arquivo['data_inversa'].dt.month
-        sazonalidade_mensal = arquivo.groupby('mes').size().reset_index(name='total_acidentes')
-
-
-        match = re.search(r'\d{4}', nome_arquivo)
-
-        X_meses = sazonalidade_mensal['mes'].to_numpy()
-        y_acidentes = sazonalidade_mensal['total_acidentes'].to_numpy()
-
-        coeficientes_mes = np.polyfit(X_meses, y_acidentes, 1)
-        reta_tendencia_mes = np.poly1d(coeficientes_mes)
-
-        plt.figure(figsize=(10, 5))
-
-
-        plt.plot(X_meses, y_acidentes, marker='o', color='blue', linewidth=2, label='Acidentes Reais (Sazonalidade)')
-        plt.plot(X_meses, reta_tendencia_mes(X_meses), color='red', linestyle='--', label=f'Tendência Linear (y = {coeficientes_mes[0]:.2f}x + {coeficientes_mes[1]:.0f})')
-
-        meses_labels = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez']
-        plt.xticks(range(1, 13), meses_labels)
-        plt.xlim(1, 12)
-        plt.title(f'Sazonalidade Temporal: Acidentes ao Longo dos Meses do ano de {match.group()}', fontsize=14)
-        plt.xlabel('Mês do Ano')
-        plt.ylabel('Volume de Acidentes')
-        plt.legend()
-        plt.grid(True, alpha=0.4)
-        plt.show()
-
+        df_modelo = arquivo[['fase_dia', 'condicao_metereologica', 'veiculos']].copy()
+        
+        X = pd.get_dummies(df_modelo[['fase_dia', 'condicao_metereologica']], drop_first=True)
+        y = df_modelo['veiculos']
+        
+        modelo = LinearRegression()
+        modelo.fit(X, y)
+        
+        tabela_coeficientes = pd.DataFrame({
+            'Fator_Visibilidade': X.columns,
+            'Coeficiente': modelo.coef_
+        })
+        
+        tabela_coeficientes = tabela_coeficientes.sort_values(by='Aumento_Medio_Veiculos', ascending=False)
+        
+        print("=== IMPACTO DA VISIBILIDADE NO NÚMERO DE VEÍCULOS ===")
+        print(tabela_coeficientes)
+        
+        print(f"\nMédia base de veículos por acidente (Condições Normais): {modelo.intercept_:.2f}")
     except Exception as e:
-        print(f"Erro ao calcular a regressão linear: {e}")
+        print(f"Erro ao realizar regressão linear: {e}")
 
 if __name__ == "__main__":
     # Definição dos diretorios principais dos arquivos csv
@@ -134,9 +124,13 @@ if __name__ == "__main__":
             df = filtro(df)
 
             match = re.search(r'\d{4}', arquivo)
+            ano = match.group() if match else 'sem_ano'
+            
+            nome_saida = f'datatran{ano}_tratado.csv'
+            caminho_saida = os.path.join(prf_tratado, nome_saida)
 
             df.to_csv(
-                f'./PRF - Dados Tratados/datatran{match.group()}_tratado.csv',
+                caminho_saida,
                 index=False,
                 sep=';',
                 encoding='utf-8',
@@ -172,20 +166,12 @@ if __name__ == "__main__":
         encoding='utf-8'
     )
     print(f"Total de registros: {len(df_consolidado)}")
+    
+    csv_consolidado = pd.read_csv(
+        'datatran_consolidado.csv',
+        sep=';',
+        encoding='utf-8',
+        low_memory=False
+    )
 
-    '''
-    if not arquivo_csv_tratado:
-        print("Nenhum arquivo CSV tratado encontrado no diretório especificado.")
-    else:
-        for arquivo in arquivo_csv_tratado:
-            print(f"Processando arquivo tratado: {arquivo}")
-            df = pd.read_csv(
-                arquivo,
-                encoding='utf-8',
-                sep=';',
-                na_values=['', ' ', 'NA', 'N/A', 'na', 'n/a', 'null', 'NULL'],
-                low_memory=False
-            )
-
-            df = regressao_linear(df, arquivo)
-      '''
+    regressao_linear(csv_consolidado)
