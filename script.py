@@ -18,11 +18,11 @@ def limpeza_e_processamento(arquivo):
         # Limpeza dos dados para padronização do dataframe
         if arquivo.shape[1] <= 26:
             arquivo = arquivo.drop(columns=[
-                'sentido_via', 'ano', 'feridos_leves', 'ilesos', 'ignorados', 'feridos', 'id'
+                'sentido_via', 'ano', 'feridos_leves', 'feridos_graves', 'ilesos', 'ignorados', 'id'
             ], errors='ignore')
         else:
             arquivo = arquivo.drop(columns=[
-                'sentido_via', 'ano', 'feridos_leves', 'ilesos', 'ignorados', 'feridos', 'latitude', 'longitude', 'regional', 'delegacia', 'uop', 'id'
+                'sentido_via', 'ano', 'feridos_leves', 'feridos_graves', 'ilesos', 'ignorados', 'latitude', 'longitude', 'regional', 'delegacia', 'uop', 'id'
             ], errors='ignore')
 
 
@@ -87,15 +87,77 @@ def regressao_linear(arquivo):
             'Fator_Visibilidade': X.columns,
             'Coeficiente': modelo.coef_
         })
+
+        tabela_coeficientes = tabela_coeficientes.sort_values(by='Coeficiente', ascending=False)
         
-        tabela_coeficientes = tabela_coeficientes.sort_values(by='Aumento_Medio_Veiculos', ascending=False)
-        
-        print("=== IMPACTO DA VISIBILIDADE NO NÚMERO DE VEÍCULOS ===")
+        print("=== IMPACTO DA VISIBILIDADE NO NUMERO DE VEICULOS ===")
         print(tabela_coeficientes)
         
-        print(f"\nMédia base de veículos por acidente (Condições Normais): {modelo.intercept_:.2f}")
+        print(f"\nMedia base de veiculos por acidente (Condicoes Normais): {modelo.intercept_:.2f}")
     except Exception as e:
-        print(f"Erro ao realizar regressão linear: {e}")
+        print(f"Erro ao realizar a primeira regressao linear: {e}")
+        
+    try:
+        arquivo['horario'] = pd.to_datetime(arquivo['horario'], format='%H:%M:%S', errors='coerce').dt.hour
+        arquivo['vitimas_graves_mortes'] = arquivo['mortos'] + arquivo['feridos']
+        
+        def categorizar_periodo(h):
+            if 0 <= h < 6:
+                return 'Madrugada'
+            elif 6 <= h < 12:
+                return 'Manha'
+            elif 12 <= h < 18:
+                return 'Tarde'
+            else:
+                return 'Noite'
+            
+        arquivo['periodo_dia'] = arquivo['horario'].apply(categorizar_periodo)
+        
+        X = pd.get_dummies(arquivo[['periodo_dia']], drop_first=True)
+        y = arquivo['vitimas_graves_mortes']
+        
+        modelo_2 = LinearRegression()
+        modelo_2.fit(X, y)
+        
+        # Corrigido para modelo_2
+        print(f"\nIntercepto (Media de Vitimas na Madrugada): {modelo_2.intercept_:.4f}")
+        print("\nImpacto dos demais periodos em relacao a Madrugada:")
+
+        # Corrigido para modelo_2
+        tabela_coeficientes = pd.DataFrame({
+            'Periodo': X.columns.str.replace('periodo_dia_', ''),
+            'Diferenca em relacao a Madrugada': modelo_2.coef_
+        })
+
+        print(tabela_coeficientes.to_string(index=False))
+        
+        # Ajustado para usar 'arquivo' e a coluna 'horario'
+        agrupado_hora = arquivo.groupby('horario').agg(
+            media_vitimas=('vitimas_graves_mortes', 'mean'),
+            total_acidentes=('horario', 'count')
+        ).reset_index()
+
+        fig, ax1 = plt.subplots(figsize=(12, 5))
+
+        # Volume de Acidentes
+        color = 'tab:blue'
+        ax1.set_xlabel('Hora do Dia (0h - 23h)')
+        ax1.set_ylabel('Total de Acidentes (Volume)', color=color)
+        ax1.bar(agrupado_hora['horario'], agrupado_hora['total_acidentes'], color=color, alpha=0.3)
+        ax1.set_xticks(range(0, 24))
+
+        # Taxa de Gravidade Calculada
+        ax2 = ax1.twinx()
+        color = 'tab:red'
+        ax2.set_ylabel('Média de Vítimas por Acidente', color=color)
+        ax2.plot(agrupado_hora['horario'], agrupado_hora['media_vitimas'], color=color, marker='o', linewidth=2)
+
+        plt.title('Regressão Linear (scikit-learn): Severidade por Horário vs. Volume de Sinistros')
+        plt.grid(True, linestyle='--', alpha=0.5)
+        plt.show()
+        
+    except Exception as e:
+        print(f"Erro ao realizar a segunda regressao linear: {e}")
 
 if __name__ == "__main__":
     # Definição dos diretorios principais dos arquivos csv
@@ -145,7 +207,7 @@ if __name__ == "__main__":
       print("Nenhum arquivo tratado encontrado.")
     else:
       for arquivo in arquivo_csv_tratado:
-        print(f"Lendo arquivo para junção: {arquivo}")
+        print(f"Lendo arquivo para juncao: {arquivo}")
         df_ano = pd.read_csv(
             arquivo,
             sep=';',

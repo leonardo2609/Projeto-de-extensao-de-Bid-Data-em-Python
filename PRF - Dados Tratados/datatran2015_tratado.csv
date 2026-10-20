@@ -1,7 +1,7 @@
-data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia;condicao_metereologica;tipo_pista;tracado_via;uso_solo;pessoas;mortos;feridos_graves;veiculos
+data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia;condicao_metereologica;tipo_pista;tracado_via;uso_solo;pessoas;mortos;feridos;veiculos
 2015-01-01;quinta-feira;00:05:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-01;quinta-feira;16:00:00;RJ;101;321.5;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-01-02;sexta-feira;15:10:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-01-02;sexta-feira;15:10:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-01-03;sabado;15:47:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-01-03;sabado;19:15:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-01-04;domingo;09:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
@@ -17,7 +17,7 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-07;quarta-feira;10:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-07;quarta-feira;15:57:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-07;quarta-feira;18:00:00;RJ;101;319.5;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-01-04;domingo;23:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;7;0;0;4
+2015-01-04;domingo;23:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;7;0;3;4
 2015-01-05;segunda-feira;00:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-01-08;quinta-feira;07:00:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-01-08;quinta-feira;12:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
@@ -26,17 +26,17 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-09;sexta-feira;13:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Curva;Urbano;2;0;0;2
 2015-01-09;sexta-feira;10:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-01-09;sexta-feira;14:15:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
-2015-01-09;sexta-feira;20:52:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-01-09;sexta-feira;20:52:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-01-09;sexta-feira;22:45:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-10;sabado;15:50:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-01-10;sabado;15:15:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
 2015-01-10;sabado;18:12:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-01-10;sabado;18:40:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;0;4
 2015-01-10;sabado;19:10:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-01-10;sabado;15:15:00;RJ;101;330.0;RIO DE JANEIRO;Dormindo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;5;0;0;2
+2015-01-10;sabado;15:15:00;RJ;101;330.0;RIO DE JANEIRO;Dormindo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;5;0;3;2
 2015-01-11;domingo;16:00:00;RJ;101;322.8;NITEROI;Desobediencia a sinalizacao;Colisao Transversal;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-01-09;sexta-feira;06:00:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;0;3
-2015-01-12;segunda-feira;13:45:00;RJ;101;320.0;NITEROI;Outras;Incendio;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-01-12;segunda-feira;13:45:00;RJ;101;320.0;NITEROI;Outras;Incendio;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
 2015-01-12;segunda-feira;21:30:00;RJ;101;332.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-12;segunda-feira;18:00:00;RJ;101;326.0;NITEROI;Outras;Incendio;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-01-10;sabado;00:05:00;RJ;101;321.0;NITEROI;Outras;Capotamento;Ignorado;Plena noite;Ceu Claro;Simples;Curva;Urbano;1;0;0;1
@@ -45,7 +45,7 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-13;terca-feira;23:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Feridas;Plena noite;Nublado;Simples;Curva;Urbano;2;0;1;2
 2015-01-14;quarta-feira;06:45:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-14;quarta-feira;10:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-01-14;quarta-feira;16:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-01-14;quarta-feira;16:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
 2015-01-14;quarta-feira;19:30:00;RJ;101;322.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Curva;Urbano;3;0;0;3
 2015-01-14;quarta-feira;17:38:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-11;domingo;08:30:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Sol;Simples;Reta;Urbano;1;0;0;1
@@ -64,7 +64,7 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-17;sabado;08:30:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao com objeto movel;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;1;0;0;1
 2015-01-17;sabado;08:30:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-01-17;sabado;13:40:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
-2015-01-17;sabado;18:45:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-01-17;sabado;18:45:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-01-17;sabado;19:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-01-14;quarta-feira;20:00:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-18;domingo;08:35:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
@@ -76,7 +76,7 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-19;segunda-feira;22:40:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-12;segunda-feira;23:30:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Ignorado;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-01-21;quarta-feira;07:40:00;RJ;101;299.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-01-21;quarta-feira;06:30:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-01-21;quarta-feira;06:30:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-01-21;quarta-feira;17:30:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-01-21;quarta-feira;23:00:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;1;0;0;1
 2015-01-21;quarta-feira;11:00:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
@@ -85,7 +85,7 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-20;terca-feira;00:40:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-23;sexta-feira;12:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-01-16;sexta-feira;07:45:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-01-20;terca-feira;11:11:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Urbano;3;0;0;3
+2015-01-20;terca-feira;11:11:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Urbano;3;0;1;3
 2015-01-23;sexta-feira;18:45:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao Transversal;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;3;0;0;3
 2015-01-20;terca-feira;19:10:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-24;sabado;11:40:00;RJ;101;306.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
@@ -93,16 +93,16 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-24;sabado;15:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-01-25;domingo;18:40:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
 2015-01-26;segunda-feira;06:05:00;RJ;101;320.5;NITEROI;Outras;Colisao lateral;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-01-26;segunda-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-01-26;segunda-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;2;2
 2015-01-26;segunda-feira;07:20:00;RJ;101;302.8;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;2;0;2
 2015-01-26;segunda-feira;11:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-01-26;segunda-feira;12:30:00;RJ;101;320.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
 2015-01-26;segunda-feira;09:20:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
 2015-01-26;segunda-feira;15:30:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-01-27;terca-feira;07:30:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-01-28;quarta-feira;00:32:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-01-29;quinta-feira;00:10:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-01-29;quinta-feira;05:45:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-01-28;quarta-feira;00:32:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-01-29;quinta-feira;00:10:00;RJ;101;310.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-01-29;quinta-feira;05:45:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-01-29;quinta-feira;13:57:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-29;quinta-feira;14:39:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-29;quinta-feira;17:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
@@ -111,19 +111,19 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-01-29;quinta-feira;19:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-01-31;sabado;05:30:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Ignorado;Amanhecer;Chuva;Dupla;Reta;Urbano;1;0;0;1
 2015-01-31;sabado;07:50:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;5;0;0;4
-2015-01-31;sabado;16:30:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-02-01;domingo;06:30:00;RJ;101;322.0;NITEROI;Dormindo;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;0;1
-2015-02-01;domingo;23:00:00;RJ;101;306.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
-2015-01-29;quinta-feira;18:20:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-01-31;sabado;16:30:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-02-01;domingo;06:30:00;RJ;101;322.0;NITEROI;Dormindo;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;2;1
+2015-02-01;domingo;23:00:00;RJ;101;306.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;1;2
+2015-01-29;quinta-feira;18:20:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
 2015-02-02;segunda-feira;14:40:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Rural;1;0;0;1
 2015-02-02;segunda-feira;17:50:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-02-02;segunda-feira;18:45:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nevoeiro/neblina;Multipla;Reta;Urbano;1;0;0;1
+2015-02-02;segunda-feira;18:45:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nevoeiro/neblina;Multipla;Reta;Urbano;1;0;1;1
 2015-01-31;sabado;00:30:00;RJ;101;331.5;RIO DE JANEIRO;Nao guardar distancia de seguranca;Capotamento;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-02-03;terca-feira;08:30:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-02-03;terca-feira;08:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-02-03;terca-feira;11:10:00;RJ;101;302.7;SAO GONCALO;Desobediencia a sinalizacao;Colisao frontal;Sem Vitimas;Pleno dia;Nublado;Simples;Curva;Urbano;2;0;0;2
 2015-02-03;terca-feira;15:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Simples;Curva;Urbano;2;0;0;2
-2015-02-03;terca-feira;17:10:00;RJ;101;332.0;RIO DE JANEIRO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;5;0;0;3
+2015-02-03;terca-feira;17:10:00;RJ;101;332.0;RIO DE JANEIRO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;5;0;3;3
 2015-02-03;terca-feira;17:30:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Urbano;2;0;0;2
 2015-02-03;terca-feira;22:10:00;RJ;101;313.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;2;2
 2015-02-04;quarta-feira;05:45:00;RJ;101;329.0;RIO DE JANEIRO;Dormindo;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
@@ -133,28 +133,28 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-02-05;quinta-feira;18:50:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-02-05;quinta-feira;19:30:00;RJ;101;311.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Urbano;2;0;1;1
 2015-02-06;sexta-feira;20:40:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;3
-2015-02-07;sabado;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;4;0;0;2
-2015-02-07;sabado;23:00:00;RJ;101;323.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;1;0;0;1
-2015-02-07;sabado;21:30:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;2
+2015-02-07;sabado;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;4;0;2;2
+2015-02-07;sabado;23:00:00;RJ;101;323.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;1;0;1;1
+2015-02-07;sabado;21:30:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;2;2
 2015-02-08;domingo;02:00:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-02-07;sabado;16:40:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ignorada;Dupla;Reta;Urbano;3;0;0;3
 2015-02-09;segunda-feira;06:30:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-02-03;terca-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-10;terca-feira;08:00:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-02-10;terca-feira;08:30:00;RJ;101;326.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
+2015-02-10;terca-feira;08:30:00;RJ;101;326.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
 2015-02-10;terca-feira;08:45:00;RJ;101;324.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-02-10;terca-feira;08:55:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-10;terca-feira;13:15:00;RJ;101;329.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-10;terca-feira;07:10:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-02-10;terca-feira;14:30:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-02-10;terca-feira;19:15:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-02-11;quarta-feira;06:30:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-02-11;quarta-feira;06:30:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
 2015-02-11;quarta-feira;08:50:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-11;quarta-feira;09:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-11;quarta-feira;10:35:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-07;sabado;19:00:00;RJ;101;320.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-07;sabado;21:30:00;RJ;101;303.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
-2015-02-11;quarta-feira;09:15:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-02-11;quarta-feira;09:15:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;2;2
 2015-02-11;quarta-feira;18:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-02-12;quinta-feira;14:10:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-12;quinta-feira;11:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
@@ -164,59 +164,59 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-02-12;quinta-feira;17:22:00;RJ;101;328.0;NITEROI;Ultrapassagem indevida;Colisao Transversal;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-10;terca-feira;18:10:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-02-12;quinta-feira;22:40:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-02-12;quinta-feira;20:50:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;0;2
+2015-02-12;quinta-feira;20:50:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;3;2
 2015-02-13;sexta-feira;00:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Curva;Urbano;2;0;0;2
 2015-02-13;sexta-feira;09:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;0;2
 2015-02-13;sexta-feira;06:50:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-02-09;segunda-feira;09:20:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
 2015-02-13;sexta-feira;08:00:00;RJ;101;306.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-13;sexta-feira;16:30:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Curva;Urbano;2;0;0;2
-2015-02-13;sexta-feira;07:39:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Reta;Urbano;1;0;0;1
-2015-02-13;sexta-feira;04:55:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;5;0;0;3
+2015-02-13;sexta-feira;07:39:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Reta;Urbano;1;0;1;1
+2015-02-13;sexta-feira;04:55:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;5;0;1;3
 2015-02-14;sabado;03:17:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-02-14;sabado;05:30:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-14;sabado;07:00:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-02-14;sabado;06:00:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-02-14;sabado;13:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-14;sabado;15:10:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;3
-2015-02-14;sabado;18:30:00;RJ;101;324.0;NITEROI;Dormindo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
+2015-02-14;sabado;18:30:00;RJ;101;324.0;NITEROI;Dormindo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
 2015-02-14;sabado;17:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
-2015-02-14;sabado;21:30:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-02-14;sabado;21:30:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-02-15;domingo;07:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;0;2
 2015-02-15;domingo;09:20:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
 2015-02-15;domingo;16:15:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-16;segunda-feira;08:25:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-02-13;sexta-feira;06:00:00;RJ;101;326.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-02-13;sexta-feira;14:55:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-02-13;sexta-feira;08:50:00;RJ;101;321.8;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-02-18;quarta-feira;22:40:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;2
+2015-02-13;sexta-feira;06:00:00;RJ;101;326.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
+2015-02-13;sexta-feira;14:55:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-02-13;sexta-feira;08:50:00;RJ;101;321.8;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-02-18;quarta-feira;22:40:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;2;2
 2015-02-19;quinta-feira;08:30:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
-2015-02-19;quinta-feira;15:09:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;0;2
+2015-02-19;quinta-feira;15:09:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;1;2
 2015-02-19;quinta-feira;18:00:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-02-19;quinta-feira;17:30:00;RJ;101;300.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;3
-2015-02-09;segunda-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
-2015-02-12;quinta-feira;17:40:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Rural;2;0;0;2
+2015-02-19;quinta-feira;17:30:00;RJ;101;300.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;1;3
+2015-02-09;segunda-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Rural;2;0;1;2
+2015-02-12;quinta-feira;17:40:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Rural;2;0;1;2
 2015-02-20;sexta-feira;22:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-02-21;sabado;18:08:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
+2015-02-21;sabado;18:08:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;1;2
 2015-02-21;sabado;08:44:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;0;4
-2015-02-22;domingo;08:45:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;2
-2015-02-22;domingo;08:15:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;4;0;0;2
-2015-02-22;domingo;15:20:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-02-22;domingo;08:45:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;1;2
+2015-02-22;domingo;08:15:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;4;0;4;2
+2015-02-22;domingo;15:20:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-02-19;quinta-feira;14:00:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-19;quinta-feira;09:00:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-23;segunda-feira;12:10:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-02-24;terca-feira;07:55:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-02-24;terca-feira;07:50:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-02-24;terca-feira;07:50:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-02-24;terca-feira;09:10:00;RJ;101;332.2;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-02-24;terca-feira;11:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-24;terca-feira;10:25:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-02-24;terca-feira;19:30:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;1;0;0;1
+2015-02-24;terca-feira;19:30:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;1;0;1;1
 2015-02-14;sabado;05:00:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;3
 2015-02-21;sabado;23:00:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;3;0;0;3
 2015-02-25;quarta-feira;06:35:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;3
 2015-02-25;quarta-feira;09:05:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-02-26;quinta-feira;07:40:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-02-26;quinta-feira;20:06:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;3;0;0;2
+2015-02-26;quinta-feira;20:06:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;3;0;1;2
 2015-02-23;segunda-feira;16:10:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-02-27;sexta-feira;14:00:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-02-27;sexta-feira;13:40:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
@@ -224,18 +224,18 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-02-27;sexta-feira;22:05:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Curva;Urbano;2;0;0;2
 2015-02-28;sabado;10:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-02-28;sabado;17:00:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-02-28;sabado;21:15:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
+2015-02-28;sabado;21:15:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;1;1
 2015-03-01;domingo;17:50:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-03-01;domingo;16:45:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-03-01;domingo;20:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;1;2
+2015-03-01;domingo;20:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;2;2
 2015-03-01;domingo;20:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
 2015-03-02;segunda-feira;06:15:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-03-02;segunda-feira;17:55:00;RJ;101;308.0;SAO GONCALO;Outras;Saida de Pista;Ignorado;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
 2015-03-03;terca-feira;09:20:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-03-03;terca-feira;07:10:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-02-21;sabado;18:30:00;RJ;101;316.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;0;3
+2015-02-21;sabado;18:30:00;RJ;101;316.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;2;3
 2015-03-04;quarta-feira;05:50:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-03-04;quarta-feira;08:49:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-03-04;quarta-feira;08:49:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-03-04;quarta-feira;19:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-03-04;quarta-feira;19:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-03-05;quinta-feira;10:15:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
@@ -256,12 +256,12 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-03-09;segunda-feira;16:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-03-09;segunda-feira;07:40:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Urbano;2;0;0;2
 2015-03-10;terca-feira;06:15:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Urbano;3;0;0;3
-2015-03-10;terca-feira;08:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-03-10;terca-feira;11:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-03-10;terca-feira;08:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-03-10;terca-feira;11:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-03-10;terca-feira;14:10:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-03-11;quarta-feira;09:00:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;3;0;0;3
-2015-03-11;quarta-feira;06:45:00;RJ;101;317.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;3;0;0;3
-2015-03-11;quarta-feira;06:10:00;RJ;101;313.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;1;0;0;1
+2015-03-11;quarta-feira;06:45:00;RJ;101;317.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;3;0;1;3
+2015-03-11;quarta-feira;06:10:00;RJ;101;313.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;1;0;1;1
 2015-03-11;quarta-feira;16:00:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-03-12;quinta-feira;01:00:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-03-12;quinta-feira;07:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Simples;Reta;Urbano;2;0;0;2
@@ -279,51 +279,51 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-03-13;sexta-feira;17:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-03-17;terca-feira;09:18:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Rural;1;0;0;1
 2015-03-13;sexta-feira;17:45:00;RJ;101;326.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-03-17;terca-feira;09:35:00;RJ;101;322.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-03-17;terca-feira;09:35:00;RJ;101;322.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-03-17;terca-feira;16:00:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Curva;Urbano;2;0;0;2
 2015-03-17;terca-feira;18:10:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-03-18;quarta-feira;07:55:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-03-18;quarta-feira;07:38:00;RJ;101;315.6;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-03-18;quarta-feira;07:38:00;RJ;101;315.6;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-01-19;segunda-feira;19:30:00;RJ;101;317.0;NITEROI;Falta de atencao;Colisao com objeto movel;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;4;0;0;4
-2015-03-17;terca-feira;02:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Curva;Urbano;3;0;0;2
+2015-03-17;terca-feira;02:50:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Curva;Urbano;3;0;2;2
 2015-03-20;sexta-feira;12:50:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-03-20;sexta-feira;15:19:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-03-20;sexta-feira;15:19:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
 2015-03-17;terca-feira;18:05:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;4;0;0;4
 2015-03-21;sabado;01:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-03-09;segunda-feira;19:00:00;RJ;101;309.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
+2015-03-09;segunda-feira;19:00:00;RJ;101;309.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
 2015-03-17;terca-feira;18:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-03-21;sabado;10:35:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-03-21;sabado;21:30:00;RJ;101;319.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-03-22;domingo;13:00:00;RJ;101;307.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-03-22;domingo;16:30:00;RJ;101;321.0;NITEROI;Outras;Colisao frontal;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Curva;Urbano;6;0;0;2
+2015-03-22;domingo;13:00:00;RJ;101;307.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-03-22;domingo;16:30:00;RJ;101;321.0;NITEROI;Outras;Colisao frontal;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Curva;Urbano;6;0;6;2
 2015-03-22;domingo;22:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-03-23;segunda-feira;19:30:00;RJ;101;319.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Ignorada;Dupla;Reta;Urbano;2;0;0;2
 2015-03-23;segunda-feira;23:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-03-21;sabado;04:50:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;5;0;3;1
+2015-03-21;sabado;04:50:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;5;0;4;1
 2015-03-24;terca-feira;06:43:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-02-24;terca-feira;06:50:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;3
 2015-03-04;quarta-feira;19:00:00;RJ;101;317.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-03-24;terca-feira;18:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Multipla;Reta;Urbano;2;0;0;2
-2015-03-24;terca-feira;19:52:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-03-25;quarta-feira;13:15:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;1;0;0;1
+2015-03-24;terca-feira;19:52:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-03-25;quarta-feira;13:15:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;1;0;1;1
 2015-03-26;quinta-feira;06:20:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-03-26;quinta-feira;08:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-03-26;quinta-feira;07:10:00;RJ;101;320.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-03-26;quinta-feira;08:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
+2015-03-26;quinta-feira;07:10:00;RJ;101;320.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-03-26;quinta-feira;23:30:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-03-26;quinta-feira;22:40:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
-2015-03-26;quinta-feira;23:15:00;RJ;101;316.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-03-26;quinta-feira;23:40:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;7;0;0;3
-2015-03-27;sexta-feira;06:30:00;RJ;101;328.5;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;2
-2015-03-24;terca-feira;19:20:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-03-26;quinta-feira;23:15:00;RJ;101;316.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-03-26;quinta-feira;23:40:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;7;0;4;3
+2015-03-27;sexta-feira;06:30:00;RJ;101;328.5;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;1;2
+2015-03-24;terca-feira;19:20:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-03-24;terca-feira;20:05:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-03-28;sabado;13:00:00;RJ;101;333.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-03-28;sabado;22:30:00;RJ;101;326.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Plena noite;Chuva;Multipla;Reta;Urbano;2;0;0;2
 2015-03-29;domingo;03:17:00;RJ;101;311.1;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;1;1
-2015-03-29;domingo;14:20:00;RJ;101;319.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;1
+2015-03-29;domingo;14:20:00;RJ;101;319.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;2;1
 2015-03-29;domingo;17:30:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;3;0;0;3
-2015-03-26;quinta-feira;17:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Rural;2;0;0;2
+2015-03-26;quinta-feira;17:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Rural;2;0;1;2
 2015-03-30;segunda-feira;13:18:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-03-30;segunda-feira;18:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-03-30;segunda-feira;18:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-03-30;segunda-feira;21:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-03-31;terca-feira;03:50:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-03-31;terca-feira;11:00:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
@@ -335,56 +335,56 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-04-02;quinta-feira;21:45:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-04-02;quinta-feira;20:10:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-03;sexta-feira;15:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;0;2
-2015-04-03;sexta-feira;19:30:00;RJ;101;325.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-04-03;sexta-feira;19:30:00;RJ;101;325.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-03-31;terca-feira;18:40:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-03-31;terca-feira;18:35:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;6;0;0;4
+2015-03-31;terca-feira;18:35:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;6;0;3;4
 2015-04-06;segunda-feira;07:11:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;3
 2015-04-06;segunda-feira;10:30:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;0;3
 2015-04-06;segunda-feira;17:40:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Anoitecer;Nublado;Simples;Reta;Urbano;2;0;0;2
 2015-04-07;terca-feira;06:50:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
-2015-04-08;quarta-feira;20:30:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-04-06;segunda-feira;15:00:00;RJ;101;314.0;SAO GONCALO;Falta de atencao;Saida de Pista;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;1;0;0;1
-2015-04-05;domingo;18:30:00;RJ;101;311.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;2
+2015-04-08;quarta-feira;20:30:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-04-06;segunda-feira;15:00:00;RJ;101;314.0;SAO GONCALO;Falta de atencao;Saida de Pista;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;1;0;1;1
+2015-04-05;domingo;18:30:00;RJ;101;311.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;1;2
 2015-04-10;sexta-feira;09:00:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-04-06;segunda-feira;11:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-04-06;segunda-feira;11:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-04-06;segunda-feira;22:50:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-10;sexta-feira;20:35:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-11;sabado;10:40:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-11;sabado;06:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-04-11;sabado;06:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-04-11;sabado;12:52:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;0;5
-2015-04-11;sabado;06:40:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao frontal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;0;2
+2015-04-11;sabado;06:40:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao frontal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;1;2
 2015-04-11;sabado;21:10:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-12;domingo;05:05:00;RJ;101;323.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-04-08;quarta-feira;17:50:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-04-12;domingo;15:10:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Urbano;3;0;0;2
+2015-04-12;domingo;15:10:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Urbano;3;0;1;2
 2015-04-12;domingo;12:10:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Multipla;Reta;Urbano;3;0;0;3
 2015-04-08;quarta-feira;12:50:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;0;4
 2015-04-09;quinta-feira;22:00:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-13;segunda-feira;06:30:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;0;2
-2015-04-09;quinta-feira;07:20:00;RJ;101;312.0;SAO GONCALO;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
+2015-04-13;segunda-feira;06:30:00;RJ;101;313.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;1;2
+2015-04-09;quinta-feira;07:20:00;RJ;101;312.0;SAO GONCALO;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
 2015-04-13;segunda-feira;11:20:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
 2015-04-13;segunda-feira;11:30:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-13;segunda-feira;15:55:00;RJ;101;311.0;SAO GONCALO;Animais na Pista;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;1;0;0;1
 2015-04-15;quarta-feira;06:35:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-15;quarta-feira;09:00:00;RJ;101;320.0;NITEROI;Outras;Tombamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;3;0;0;2
-2015-04-15;quarta-feira;07:40:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;5;0;0;5
+2015-04-15;quarta-feira;07:40:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;5;0;1;5
 2015-04-15;quarta-feira;10:20:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;3;0;0;3
 2015-04-15;quarta-feira;05:25:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Amanhecer;Chuva;Simples;Reta;Urbano;3;0;0;2
-2015-04-15;quarta-feira;18:40:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;15;0;0;3
+2015-04-15;quarta-feira;18:40:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;15;0;12;3
 2015-04-15;quarta-feira;18:05:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-04-15;quarta-feira;19:30:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-04-15;quarta-feira;19:30:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;2;2
 2015-04-15;quarta-feira;11:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-15;quarta-feira;19:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Reta;Urbano;5;0;0;3
-2015-04-15;quarta-feira;18:35:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-04-15;quarta-feira;19:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Reta;Urbano;5;0;1;3
+2015-04-15;quarta-feira;18:35:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
 2015-04-15;quarta-feira;18:00:00;RJ;101;333.5;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-16;quinta-feira;07:40:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-04-16;quinta-feira;08:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-04-16;quinta-feira;07:40:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-04-16;quinta-feira;08:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-04-11;sabado;09:15:00;RJ;101;315.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-04-16;quinta-feira;21:00:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-16;quinta-feira;19:10:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-04-16;quinta-feira;19:10:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
 2015-04-16;quinta-feira;23:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-04-17;sexta-feira;06:50:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-04-17;sexta-feira;17:20:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;2
+2015-04-17;sexta-feira;06:50:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
+2015-04-17;sexta-feira;17:20:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;2;2
 2015-04-18;sabado;07:45:00;RJ;101;318.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;1;0;0;1
 2015-04-14;terca-feira;22:30:00;RJ;101;330.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto movel;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-04-18;sabado;09:00:00;RJ;101;329.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
@@ -393,63 +393,63 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-04-12;domingo;14:00:00;RJ;101;330.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-18;sabado;16:43:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-18;sabado;21:40:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-18;sabado;21:20:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;7;0;0;3
-2015-04-19;domingo;14:05:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;1
+2015-04-18;sabado;21:20:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;7;0;4;3
+2015-04-19;domingo;14:05:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;2;1
 2015-04-20;segunda-feira;08:40:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-20;segunda-feira;16:00:00;RJ;101;320.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Curva;Urbano;1;0;0;1
-2015-02-19;quinta-feira;08:50:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-04-20;segunda-feira;16:00:00;RJ;101;320.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Curva;Urbano;1;0;1;1
+2015-02-19;quinta-feira;08:50:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;2;2
 2015-04-18;sabado;05:30:00;RJ;101;304.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite;Nevoeiro/neblina;Dupla;Reta;Urbano;2;0;1;1
-2015-04-22;quarta-feira;18:00:00;RJ;101;322.0;NITEROI;Velocidade incompativel;Colisao traseira;Com Vitimas Fatais;Plena noite;Chuva;Dupla;Reta;Urbano;8;1;0;5
-2015-04-20;segunda-feira;05:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-04-22;quarta-feira;18:00:00;RJ;101;322.0;NITEROI;Velocidade incompativel;Colisao traseira;Com Vitimas Fatais;Plena noite;Chuva;Dupla;Reta;Urbano;8;1;4;5
+2015-04-20;segunda-feira;05:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-04-23;quinta-feira;13:50:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-04-22;quarta-feira;17:00:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Urbano;2;0;0;1
+2015-04-22;quarta-feira;17:00:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Urbano;2;0;1;1
 2015-04-23;quinta-feira;14:50:00;RJ;101;303.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Rural;1;0;0;1
-2015-04-23;quinta-feira;15:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-04-23;quinta-feira;15:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-04-24;sexta-feira;08:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
 2015-04-24;sexta-feira;13:20:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Rural;1;0;0;1
 2015-04-24;sexta-feira;16:30:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-22;quarta-feira;01:30:00;RJ;101;314.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Fatais;Plena noite;Nublado;Dupla;Reta;Urbano;1;1;0;1
-2015-04-14;terca-feira;09:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
+2015-04-14;terca-feira;09:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;3
 2015-04-25;sabado;13:58:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-04-22;quarta-feira;10:15:00;RJ;101;321.8;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-22;quarta-feira;17:20:00;RJ;101;313.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;1;0;0;1
-2015-04-18;sabado;17:50:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Curva;Urbano;2;0;0;2
+2015-04-22;quarta-feira;17:20:00;RJ;101;313.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;1;0;1;1
+2015-04-18;sabado;17:50:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Curva;Urbano;2;0;1;2
 2015-04-26;domingo;14:30:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
 2015-04-26;domingo;17:00:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-27;segunda-feira;00:10:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-27;segunda-feira;02:40:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de animal;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
 2015-04-27;segunda-feira;14:30:00;RJ;101;315.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Nublado;Simples;Reta;Urbano;2;0;0;2
 2015-04-27;segunda-feira;15:30:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-04-27;segunda-feira;15:05:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
+2015-04-27;segunda-feira;15:05:00;RJ;101;326.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
 2015-04-27;segunda-feira;23:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-28;terca-feira;08:19:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-04-28;terca-feira;06:40:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-04-28;terca-feira;11:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;0;2
 2015-04-28;terca-feira;14:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-04-28;terca-feira;10:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-04-28;terca-feira;12:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-04-26;domingo;08:30:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Reta;Urbano;2;0;0;2
-2015-04-26;domingo;17:50:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;2
+2015-04-28;terca-feira;10:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-04-28;terca-feira;12:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-04-26;domingo;08:30:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Reta;Urbano;2;0;1;2
+2015-04-26;domingo;17:50:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;2;2
 2015-04-29;quarta-feira;08:30:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-04-30;quinta-feira;06:30:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-04-30;quinta-feira;06:30:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;3;0;0;2
 2015-04-30;quinta-feira;08:25:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-03-05;quinta-feira;06:50:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
-2015-04-26;domingo;19:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;6;0;0;3
+2015-04-26;domingo;19:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;6;0;3;3
 2015-04-30;quinta-feira;17:50:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;3;0;0;3
 2015-04-30;quinta-feira;22:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-04-30;quinta-feira;23:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;5;0;0;4
+2015-04-30;quinta-feira;23:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;5;0;1;4
 2015-05-01;sexta-feira;01:00:00;RJ;101;326.0;NITEROI;Ingestao de alcool;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-05-02;sabado;01:30:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-05-02;sabado;01:30:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-04-28;terca-feira;12:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-02;sabado;10:15:00;RJ;101;321.0;NITEROI;Defeito na via;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;1;0;0;1
-2015-05-02;sabado;08:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;5;0;0;4
+2015-05-02;sabado;08:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;5;0;1;4
 2015-04-29;quarta-feira;05:00:00;RJ;101;299.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-05-03;domingo;05:26:00;RJ;101;333.0;RIO DE JANEIRO;Dormindo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Fatais;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;1;1;0;1
-2015-05-01;sexta-feira;17:45:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Curva;Urbano;2;0;0;2
-2015-05-03;domingo;15:10:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;0;4
+2015-05-01;sexta-feira;17:45:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Curva;Urbano;2;0;1;2
+2015-05-03;domingo;15:10:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;2;4
 2015-04-29;quarta-feira;07:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-05-03;domingo;10:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;8;0;0;3
+2015-05-03;domingo;10:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;8;0;1;3
 2015-05-04;segunda-feira;10:20:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-05-04;segunda-feira;15:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-05-05;terca-feira;05:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Amanhecer;Chuva;Dupla;Reta;Urbano;2;0;0;2
@@ -461,19 +461,19 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-05-06;quarta-feira;07:30:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-02;sabado;10:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-06;quarta-feira;09:10:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-05-06;quarta-feira;17:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;3;0;0;2
+2015-05-06;quarta-feira;17:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;3;0;1;2
 2015-05-06;quarta-feira;09:10:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;3
 2015-03-04;quarta-feira;22:30:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-07;quinta-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-05-07;quinta-feira;16:10:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Multipla;Reta;Urbano;4;0;0;4
 2015-05-07;quinta-feira;18:40:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;3
-2015-05-07;quinta-feira;17:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
+2015-05-07;quinta-feira;17:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;1;2
 2015-05-07;quinta-feira;20:20:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Multipla;Reta;Urbano;2;0;0;2
 2015-05-08;sexta-feira;18:30:00;RJ;101;329.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;3
 2015-05-08;sexta-feira;19:00:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;3
-2015-05-08;sexta-feira;16:30:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Reta;Urbano;1;0;0;1
-2015-05-09;sabado;06:10:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
-2015-05-09;sabado;15:40:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;10;0;0;5
+2015-05-08;sexta-feira;16:30:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Reta;Urbano;1;0;1;1
+2015-05-09;sabado;06:10:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
+2015-05-09;sabado;15:40:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;10;0;5;5
 2015-05-09;sabado;14:30:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;0;4
 2015-05-09;sabado;16:00:00;RJ;101;328.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
 2015-05-09;sabado;20:08:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
@@ -487,13 +487,13 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-05-08;sexta-feira;03:25:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Chuva;Simples;Reta;Urbano;2;0;0;2
 2015-05-11;segunda-feira;12:45:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-05-11;segunda-feira;17:20:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;3;0;1;2
-2015-05-04;segunda-feira;08:40:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-05-04;segunda-feira;08:40:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-05-04;segunda-feira;22:10:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-05-11;segunda-feira;14:21:00;RJ;101;322.0;NITEROI;Desobediencia a sinalizacao;Colisao Transversal;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-04-26;domingo;11:30:00;RJ;101;318.0;SAO GONCALO;Ultrapassagem indevida;Colisao frontal;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-12;terca-feira;12:00:00;RJ;101;300.0;SAO GONCALO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-05-12;terca-feira;15:30:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Urbano;2;0;0;2
-2015-05-12;terca-feira;16:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-05-12;terca-feira;16:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;2;3
 2015-05-12;terca-feira;19:30:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-05-13;quarta-feira;06:15:00;RJ;101;320.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-05-13;quarta-feira;08:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
@@ -501,17 +501,17 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-05-13;quarta-feira;13:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-05-10;domingo;16:00:00;RJ;101;327.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-05-15;sexta-feira;07:00:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-05-15;sexta-feira;08:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;1;2
+2015-05-15;sexta-feira;08:30:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;2;2
 2015-05-15;sexta-feira;12:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-05-15;sexta-feira;18:40:00;RJ;101;326.0;NITEROI;Outras;Colisao com objeto movel;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-05-15;sexta-feira;18:40:00;RJ;101;326.0;NITEROI;Outras;Colisao com objeto movel;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-05-16;sabado;08:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Urbano;2;0;0;2
 2015-05-16;sabado;07:00:00;RJ;101;324.0;NITEROI;Ingestao de alcool;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
 2015-05-16;sabado;16:40:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Urbano;4;0;0;4
-2015-05-16;sabado;18:00:00;RJ;101;306.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Fatais;Anoitecer;Ceu Claro;Dupla;Reta;Rural;5;1;2;1
+2015-05-16;sabado;18:00:00;RJ;101;306.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Fatais;Anoitecer;Ceu Claro;Dupla;Reta;Rural;5;1;4;1
 2015-05-17;domingo;08:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
 2015-05-17;domingo;14:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-18;segunda-feira;12:40:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;0;2
-2015-05-18;segunda-feira;17:15:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-05-18;segunda-feira;17:15:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;3;0;2;2
 2015-05-19;terca-feira;06:40:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-15;sexta-feira;19:15:00;RJ;101;300.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;4;0;0;4
 2015-05-19;terca-feira;15:30:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;0;2
@@ -519,7 +519,7 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-05-19;terca-feira;19:36:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-05-19;terca-feira;17:15:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-19;terca-feira;11:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Curva;Urbano;2;0;0;2
-2015-05-19;terca-feira;13:55:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;4;0;1;2
+2015-05-19;terca-feira;13:55:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;4;0;2;2
 2015-05-20;quarta-feira;11:30:00;RJ;101;320.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-05-19;terca-feira;23:30:00;RJ;101;327.7;NITEROI;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
 2015-05-20;quarta-feira;16:45:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
@@ -527,14 +527,14 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-05-20;quarta-feira;18:40:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Rural;1;0;0;1
 2015-05-21;quinta-feira;07:40:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
 2015-05-21;quinta-feira;11:40:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Simples;Reta;Urbano;2;0;0;2
-2015-05-21;quinta-feira;16:40:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Urbano;2;0;0;1
+2015-05-21;quinta-feira;16:40:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Urbano;2;0;2;1
 2015-05-22;sexta-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-05-22;sexta-feira;07:25:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-05-22;sexta-feira;21:50:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-05-22;sexta-feira;21:50:00;RJ;101;304.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-05-23;sabado;09:45:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
 2015-05-24;domingo;01:00:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-05-24;domingo;18:00:00;RJ;101;322.0;NITEROI;Ultrapassagem indevida;Colisao lateral;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-05-25;segunda-feira;07:35:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-05-25;segunda-feira;07:35:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-05-16;sabado;15:00:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
 2015-05-24;domingo;10:00:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao com objeto fixo;Ignorado;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-05-25;segunda-feira;16:30:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
@@ -552,27 +552,27 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-05-29;sexta-feira;06:50:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Pleno dia;Chuva;Simples;Reta;Urbano;1;0;0;1
 2015-05-29;sexta-feira;11:55:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-05-29;sexta-feira;15:15:00;RJ;101;330.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;3
-2015-05-29;sexta-feira;06:30:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;2
+2015-05-29;sexta-feira;06:30:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;2;2
 2015-05-29;sexta-feira;21:20:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-05-30;sabado;08:00:00;RJ;101;323.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-05-31;domingo;08:00:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;1
-2015-05-31;domingo;06:00:00;RJ;101;325.0;NITEROI;Desobediencia a sinalizacao;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-05-31;domingo;08:00:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;2;1
+2015-05-31;domingo;06:00:00;RJ;101;325.0;NITEROI;Desobediencia a sinalizacao;Colisao com objeto fixo;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-05-31;domingo;06:15:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;5;0;4;3
 2015-05-28;quinta-feira;11:10:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-05-28;quinta-feira;22:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-05-28;quinta-feira;22:10:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-05-31;domingo;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;3;0;0;2
-2015-05-31;domingo;23:50:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Curva;Urbano;3;0;0;2
-2015-06-01;segunda-feira;12:00:00;RJ;101;334.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao com objeto movel;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Rural;2;0;0;2
-2015-06-01;segunda-feira;13:45:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;2
+2015-05-31;domingo;23:50:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Curva;Urbano;3;0;3;2
+2015-06-01;segunda-feira;12:00:00;RJ;101;334.0;RIO DE JANEIRO;Defeito mecanico em veiculo;Colisao com objeto movel;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Rural;2;0;1;2
+2015-06-01;segunda-feira;13:45:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;1;2
 2015-06-01;segunda-feira;06:30:00;RJ;101;314.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-06-02;terca-feira;07:20:00;RJ;101;325.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-06-02;terca-feira;13:30:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
+2015-06-02;terca-feira;07:20:00;RJ;101;325.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-06-02;terca-feira;13:30:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
 2015-06-02;terca-feira;13:20:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-06-02;terca-feira;19:10:00;RJ;101;328.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-06-02;terca-feira;18:30:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-06-02;terca-feira;23:00:00;RJ;101;325.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
 2015-06-03;quarta-feira;07:50:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;4;0;0;4
-2015-05-30;sabado;08:20:00;RJ;101;320.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-05-30;sabado;08:20:00;RJ;101;320.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-06-03;quarta-feira;18:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Rural;3;0;0;3
 2015-06-03;quarta-feira;18:15:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-04;quinta-feira;06:10:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
@@ -580,7 +580,7 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-05-28;quinta-feira;13:00:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-06-01;segunda-feira;06:30:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;5;0;0;5
 2015-06-05;sexta-feira;10:30:00;RJ;101;319.3;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Multipla;Reta;Urbano;2;0;0;2
-2015-06-05;sexta-feira;16:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-06-05;sexta-feira;16:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-06-06;sabado;07:30:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nevoeiro/neblina;Dupla;Reta;Urbano;3;0;0;3
 2015-06-06;sabado;13:45:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-06;sabado;11:30:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Pleno dia;Sol;Dupla;Reta;Urbano;2;1;0;1
@@ -588,28 +588,28 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-06-07;domingo;13:00:00;RJ;101;308.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Rural;4;0;0;4
 2015-06-07;domingo;11:30:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-07;domingo;17:00:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-06-08;segunda-feira;09:40:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
-2015-06-08;segunda-feira;08:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;3;0;0;3
-2015-06-08;segunda-feira;09:31:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Curva;Urbano;3;0;0;1
+2015-06-08;segunda-feira;09:40:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;1;1
+2015-06-08;segunda-feira;08:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;3;0;1;3
+2015-06-08;segunda-feira;09:31:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Curva;Urbano;3;0;1;1
 2015-06-08;segunda-feira;19:10:00;RJ;101;321.0;NITEROI;Dormindo;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
 2015-06-08;segunda-feira;20:30:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
 2015-06-09;terca-feira;18:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-06-10;quarta-feira;07:55:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Reta;Urbano;3;0;0;2
+2015-06-10;quarta-feira;07:55:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Reta;Urbano;3;0;1;2
 2015-06-10;quarta-feira;07:15:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
 2015-06-10;quarta-feira;07:50:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-06-10;quarta-feira;21:20:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-11;quinta-feira;12:40:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-06-11;quinta-feira;16:10:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-03-19;quinta-feira;08:40:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;2
+2015-03-19;quinta-feira;08:40:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;2;2
 2015-06-11;quinta-feira;16:10:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;0;3
 2015-06-12;sexta-feira;06:00:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;5;0;0;3
 2015-06-05;sexta-feira;15:00:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;0;5
-2015-06-09;terca-feira;23:00:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
+2015-06-09;terca-feira;23:00:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;2;1
 2015-06-13;sabado;11:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-13;sabado;14:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-13;sabado;16:20:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-06-14;domingo;06:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-06-14;domingo;09:15:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-06-14;domingo;09:15:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
 2015-06-14;domingo;18:20:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-15;segunda-feira;08:00:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-15;segunda-feira;06:30:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
@@ -617,73 +617,73 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-06-13;sabado;13:50:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-06-16;terca-feira;20:40:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-06-19;sexta-feira;21:55:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;3
-2015-06-13;sabado;04:15:00;RJ;101;312.6;SAO GONCALO;Ingestao de alcool;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;1
+2015-06-13;sabado;04:15:00;RJ;101;312.6;SAO GONCALO;Ingestao de alcool;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;3;1
 2015-06-20;sabado;17:20:00;RJ;101;306.0;SAO GONCALO;Desobediencia a sinalizacao;Colisao Transversal;Com Vitimas Fatais;Anoitecer;Nublado;Dupla;Reta;Urbano;2;1;0;2
 2015-06-21;domingo;00:00:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
 2015-06-18;quinta-feira;03:05:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Fatais;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;1;0;1
-2015-06-17;quarta-feira;17:10:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
+2015-06-17;quarta-feira;17:10:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
 2015-06-17;quarta-feira;12:50:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-21;domingo;19:15:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Curva;Urbano;2;0;0;2
-2015-06-22;segunda-feira;04:30:00;RJ;101;307.0;SAO GONCALO;Velocidade incompativel;Capotamento;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-06-22;segunda-feira;07:46:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
+2015-06-22;segunda-feira;04:30:00;RJ;101;307.0;SAO GONCALO;Velocidade incompativel;Capotamento;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-06-22;segunda-feira;07:46:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;3
 2015-06-22;segunda-feira;18:00:00;RJ;101;318.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
 2015-05-01;sexta-feira;00:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-05-01;sexta-feira;00:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-06-17;quarta-feira;13:45:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-06-26;sexta-feira;07:05:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;2
-2015-06-26;sexta-feira;18:00:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-06-26;sexta-feira;07:05:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;1;2
+2015-06-26;sexta-feira;18:00:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-06-27;sabado;06:40:00;RJ;101;332.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-06-27;sabado;15:20:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao frontal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;0;2
-2015-06-28;domingo;06:15:00;RJ;101;305.0;SAO GONCALO;Ingestao de alcool;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;3;2
+2015-06-27;sabado;15:20:00;RJ;101;318.0;SAO GONCALO;Falta de atencao;Colisao frontal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;2;2
+2015-06-28;domingo;06:15:00;RJ;101;305.0;SAO GONCALO;Ingestao de alcool;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;4;2
 2015-06-30;terca-feira;05:55:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Amanhecer;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
 2015-07-01;quarta-feira;06:15:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-07-02;quinta-feira;11:00:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-07-02;quinta-feira;19:05:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-07-02;quinta-feira;16:44:00;RJ;101;327.0;NITEROI;Defeito mecanico em veiculo;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-07-02;quinta-feira;19:05:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-07-02;quinta-feira;16:44:00;RJ;101;327.0;NITEROI;Defeito mecanico em veiculo;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
 2015-07-03;sexta-feira;07:30:00;RJ;101;321.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Nublado;Dupla;Curva;Urbano;1;0;0;1
 2015-07-04;sabado;16:00:00;RJ;101;320.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Anoitecer;Ceu Claro;Dupla;Curva;Urbano;4;1;0;1
-2015-07-05;domingo;07:00:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;0;2
-2015-07-02;quinta-feira;18:30:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-07-05;domingo;07:00:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;1;2
+2015-07-02;quinta-feira;18:30:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-07-06;segunda-feira;15:37:00;RJ;101;331.1;RIO DE JANEIRO;Defeito mecanico em veiculo;Capotamento;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
 2015-06-03;quarta-feira;07:33:00;RJ;101;320.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-06-29;segunda-feira;19:40:00;RJ;101;313.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-07-10;sexta-feira;15:30:00;RJ;101;332.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
 2015-07-10;sexta-feira;15:30:00;RJ;101;332.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-07-11;sabado;07:40:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;2
-2015-07-11;sabado;10:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-07-12;domingo;16:20:00;RJ;101;307.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
-2015-07-12;domingo;17:20:00;RJ;101;304.8;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
-2015-07-10;sexta-feira;04:00:00;RJ;101;319.0;NITEROI;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Rural;3;0;0;1
+2015-07-11;sabado;07:40:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;1;2
+2015-07-11;sabado;10:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-07-12;domingo;16:20:00;RJ;101;307.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
+2015-07-12;domingo;17:20:00;RJ;101;304.8;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
+2015-07-10;sexta-feira;04:00:00;RJ;101;319.0;NITEROI;Outras;Saida de Pista;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Rural;3;0;2;1
 2015-07-13;segunda-feira;06:30:00;RJ;101;327.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-07-13;segunda-feira;13:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-07-13;segunda-feira;15:20:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
 2015-07-14;terca-feira;11:20:00;RJ;101;327.0;NITEROI;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-07-14;terca-feira;15:50:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Simples;Reta;Urbano;2;0;0;2
-2015-07-14;terca-feira;16:13:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-07-14;terca-feira;16:13:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
 2015-07-14;terca-feira;17:45:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-07-15;quarta-feira;08:30:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;5;0;0;5
-2015-07-11;sabado;15:50:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-05-04;segunda-feira;22:15:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;6;0;2;3
+2015-07-11;sabado;15:50:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
+2015-05-04;segunda-feira;22:15:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;6;0;3;3
 2015-07-16;quinta-feira;01:45:00;RJ;101;317.0;SAO GONCALO;Dormindo;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-07-11;sabado;14:30:00;RJ;101;318.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;1;1
 2015-07-17;sexta-feira;16:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;3
 2015-07-17;sexta-feira;18:00:00;RJ;101;320.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-07-18;sabado;12:25:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-07-11;sabado;23:40:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-07-11;sabado;13:50:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-07-11;sabado;13:50:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-07-19;domingo;16:10:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;3;0;0;3
-2015-07-15;quarta-feira;16:45:00;RJ;101;325.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-07-15;quarta-feira;05:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-07-15;quarta-feira;19:10:00;RJ;101;323.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-07-15;quarta-feira;07:00:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;1
+2015-07-15;quarta-feira;16:45:00;RJ;101;325.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
+2015-07-15;quarta-feira;05:30:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
+2015-07-15;quarta-feira;19:10:00;RJ;101;323.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-07-15;quarta-feira;07:00:00;RJ;101;322.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;1;1
 2015-07-20;segunda-feira;13:30:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;3
 2015-07-21;terca-feira;08:40:00;RJ;101;317.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-07-21;terca-feira;10:32:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;1;4
-2015-07-19;domingo;03:30:00;RJ;101;316.0;SAO GONCALO;Velocidade incompativel;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Reta;Urbano;2;0;1;1
-2015-07-24;sexta-feira;06:03:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-07-21;terca-feira;10:32:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;2;4
+2015-07-19;domingo;03:30:00;RJ;101;316.0;SAO GONCALO;Velocidade incompativel;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Simples;Reta;Urbano;2;0;2;1
+2015-07-24;sexta-feira;06:03:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-07-24;sexta-feira;14:50:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;6;0;1;6
 2015-07-25;sabado;10:00:00;RJ;101;307.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
-2015-07-25;sabado;17:20:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Urbano;3;0;0;2
+2015-07-25;sabado;17:20:00;RJ;101;325.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Urbano;3;0;2;2
 2015-07-26;domingo;03:50:00;RJ;101;307.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;1
 2015-07-26;domingo;07:50:00;RJ;101;304.9;SAO GONCALO;Dormindo;Colisao com bicicleta;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-07-27;segunda-feira;03:45:00;RJ;101;304.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
@@ -694,104 +694,104 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-07-29;quarta-feira;14:43:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-07-26;domingo;21:20:00;RJ;101;305.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;1
 2015-07-24;sexta-feira;14:45:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-07-31;sexta-feira;16:39:00;RJ;101;322.5;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;0;4
+2015-07-31;sexta-feira;16:39:00;RJ;101;322.5;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;1;4
 2015-07-31;sexta-feira;12:30:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-08-01;sabado;14:50:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
+2015-08-01;sabado;14:50:00;RJ;101;322.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;1;1
 2015-08-01;sabado;10:34:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-08-02;domingo;08:20:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-08-02;domingo;12:40:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
-2015-08-02;domingo;15:40:00;RJ;101;327.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-07-31;sexta-feira;12:50:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
-2015-08-02;domingo;22:00:00;RJ;101;305.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-07-28;terca-feira;14:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;0;2
-2015-08-03;segunda-feira;08:36:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-08-03;segunda-feira;10:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-08-05;quarta-feira;07:15:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-08-02;domingo;08:20:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-08-02;domingo;12:40:00;RJ;101;327.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;2;1
+2015-08-02;domingo;15:40:00;RJ;101;327.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-07-31;sexta-feira;12:50:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
+2015-08-02;domingo;22:00:00;RJ;101;305.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-07-28;terca-feira;14:00:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;2;0;1;2
+2015-08-03;segunda-feira;08:36:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-08-03;segunda-feira;10:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
+2015-08-05;quarta-feira;07:15:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-08-05;quarta-feira;15:00:00;RJ;101;324.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
-2015-08-07;sexta-feira;05:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-08-08;sabado;06:20:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
+2015-08-07;sexta-feira;05:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
+2015-08-08;sabado;06:20:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;1;2
 2015-08-08;sabado;06:18:00;RJ;101;314.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;1;0;0;1
 2015-08-08;sabado;20:00:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-08-09;domingo;12:35:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-08-09;domingo;12:35:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-08-10;segunda-feira;08:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-08-12;quarta-feira;07:40:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-08-12;quarta-feira;07:40:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-08-12;quarta-feira;07:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-08-13;quinta-feira;09:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;2
-2015-08-13;quinta-feira;13:00:00;RJ;101;318.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-08-13;quinta-feira;09:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;1;2
+2015-08-13;quinta-feira;13:00:00;RJ;101;318.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-08-14;sexta-feira;18:30:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-08-16;domingo;01:55:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-08-17;segunda-feira;11:25:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;0;3
-2015-08-19;quarta-feira;07:00:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-08-17;segunda-feira;05:30:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-08-17;segunda-feira;11:25:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;4;0;2;3
+2015-08-19;quarta-feira;07:00:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
+2015-08-17;segunda-feira;05:30:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-08-20;quinta-feira;16:10:00;RJ;101;319.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-08-20;quinta-feira;15:55:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-08-20;quinta-feira;18:00:00;RJ;101;311.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-08-20;quinta-feira;18:00:00;RJ;101;311.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-08-21;sexta-feira;08:00:00;RJ;101;306.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;1;1;1
 2015-08-21;sexta-feira;14:31:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-08-21;sexta-feira;16:07:00;RJ;101;323.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-08-21;sexta-feira;20:51:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;6;0;0;3
-2015-08-22;sabado;13:50:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-08-22;sabado;15:30:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;1;0;0;1
-2015-08-22;sabado;14:10:00;RJ;101;312.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;1
+2015-08-21;sexta-feira;20:51:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;6;0;3;3
+2015-08-22;sabado;13:50:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-08-22;sabado;15:30:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;1;0;1;1
+2015-08-22;sabado;14:10:00;RJ;101;312.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;1
 2015-08-16;domingo;16:00:00;RJ;101;304.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
 2015-08-23;domingo;14:00:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;1;0;2
-2015-08-23;domingo;10:31:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-08-23;domingo;10:31:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-08-23;domingo;21:40:00;RJ;101;310.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite;Ceu Claro;Dupla;Reta;Urbano;6;1;0;1
-2015-08-25;terca-feira;11:24:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Reta;Urbano;3;0;0;1
+2015-08-25;terca-feira;11:24:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Reta;Urbano;3;0;2;1
 2015-08-25;terca-feira;17:00:00;RJ;101;318.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Urbano;1;0;1;1
 2015-08-26;quarta-feira;07:30:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-08-26;quarta-feira;07:35:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Urbano;2;0;0;2
-2015-08-23;domingo;19:15:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao Transversal;Com Vitimas Feridas;Plena noite;Ignorada;Dupla;Reta;Urbano;4;0;0;2
-2015-08-27;quinta-feira;09:00:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-08-26;quarta-feira;07:35:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Urbano;2;0;1;2
+2015-08-23;domingo;19:15:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao Transversal;Com Vitimas Feridas;Plena noite;Ignorada;Dupla;Reta;Urbano;4;0;2;2
+2015-08-27;quinta-feira;09:00:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-08-03;segunda-feira;10:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-08-24;segunda-feira;10:15:00;RJ;101;304.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;1
+2015-08-24;segunda-feira;10:15:00;RJ;101;304.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;1
 2015-08-29;sabado;10:00:00;RJ;101;313.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
 2015-08-29;sabado;14:30:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
-2015-08-31;segunda-feira;06:44:00;RJ;101;321.0;NITEROI;Desobediencia a sinalizacao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-08-31;segunda-feira;14:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-09-01;terca-feira;17:21:00;RJ;101;320.0;NITEROI;Outras;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-08-31;segunda-feira;06:44:00;RJ;101;321.0;NITEROI;Desobediencia a sinalizacao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-08-31;segunda-feira;14:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
+2015-09-01;terca-feira;17:21:00;RJ;101;320.0;NITEROI;Outras;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-08-12;quarta-feira;16:00:00;RJ;101;317.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-09-02;quarta-feira;06:30:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;4;0;0;3
+2015-09-02;quarta-feira;06:30:00;RJ;101;312.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;4;0;1;3
 2015-09-02;quarta-feira;07:50:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;1;0;0;1
 2015-05-18;segunda-feira;20:40:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-09-04;sexta-feira;18:35:00;RJ;101;328.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-09-04;sexta-feira;08:25:00;RJ;101;314.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;1
+2015-09-04;sexta-feira;18:35:00;RJ;101;328.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-09-04;sexta-feira;08:25:00;RJ;101;314.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;2;1
 2015-06-15;segunda-feira;13:30:00;RJ;101;313.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Rural;1;0;0;1
-2015-06-07;domingo;01:50:00;RJ;101;327.0;RIO DE JANEIRO;Dormindo;Colisao Transversal;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-07-14;terca-feira;20:30:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
-2015-09-03;quinta-feira;20:30:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Simples;Reta;Urbano;4;0;1;3
+2015-06-07;domingo;01:50:00;RJ;101;327.0;RIO DE JANEIRO;Dormindo;Colisao Transversal;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
+2015-07-14;terca-feira;20:30:00;RJ;101;318.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
+2015-09-03;quinta-feira;20:30:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Simples;Reta;Urbano;4;0;2;3
 2015-02-19;quinta-feira;18:00:00;RJ;101;317.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-09-08;terca-feira;09:40:00;RJ;101;314.8;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-09-04;sexta-feira;19:15:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-09-05;sabado;00:35:00;RJ;101;322.0;NITEROI;Ingestao de alcool;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;5;0;0;2
+2015-09-08;terca-feira;09:40:00;RJ;101;314.8;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-09-04;sexta-feira;19:15:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-09-05;sabado;00:35:00;RJ;101;322.0;NITEROI;Ingestao de alcool;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;5;0;3;2
 2015-09-08;terca-feira;12:20:00;RJ;101;325.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-09-08;terca-feira;14:30:00;RJ;101;313.5;SAO GONCALO;Dormindo;Saida de Pista;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
 2015-09-08;terca-feira;17:55:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-09-08;terca-feira;18:00:00;RJ;101;315.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Rural;3;0;0;2
+2015-09-08;terca-feira;18:00:00;RJ;101;315.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Rural;3;0;2;2
 2015-09-10;quinta-feira;07:34:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-05-28;quinta-feira;22:15:00;RJ;101;321.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-06-06;sabado;21:30:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;10;0;0;2
+2015-05-28;quinta-feira;22:15:00;RJ;101;321.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-06-06;sabado;21:30:00;RJ;101;319.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;10;0;8;2
 2015-09-12;sabado;19:20:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
-2015-09-12;sabado;15:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;5;0;0;3
+2015-09-12;sabado;15:00:00;RJ;101;323.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;5;0;4;3
 2015-09-13;domingo;01:00:00;RJ;101;313.6;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite;Chuva;Dupla;Reta;Urbano;3;1;0;2
-2015-09-13;domingo;19:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;2
-2015-06-05;sexta-feira;21:00:00;RJ;101;303.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-09-14;segunda-feira;16:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-09-14;segunda-feira;18:32:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-09-11;sexta-feira;19:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;3
-2015-09-15;terca-feira;13:23:00;RJ;101;333.3;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-09-13;domingo;19:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;1;2
+2015-06-05;sexta-feira;21:00:00;RJ;101;303.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;3;2
+2015-09-14;segunda-feira;16:30:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-09-14;segunda-feira;18:32:00;RJ;101;329.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-09-11;sexta-feira;19:45:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;1;3
+2015-09-15;terca-feira;13:23:00;RJ;101;333.3;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-09-16;quarta-feira;07:15:00;RJ;101;307.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-09-17;quinta-feira;19:20:00;RJ;101;318.5;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-09-18;sexta-feira;07:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-09-17;quinta-feira;19:20:00;RJ;101;318.5;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-09-18;sexta-feira;07:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-09-18;sexta-feira;16:58:00;RJ;101;329.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
-2015-09-20;domingo;08:00:00;RJ;101;321.0;NITEROI;Velocidade incompativel;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Urbano;1;0;0;1
-2015-09-21;segunda-feira;18:00:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Rural;4;0;0;3
+2015-09-20;domingo;08:00:00;RJ;101;321.0;NITEROI;Velocidade incompativel;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Urbano;1;0;1;1
+2015-09-21;segunda-feira;18:00:00;RJ;101;321.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Rural;4;0;4;3
 2015-09-21;segunda-feira;14:20:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Rural;3;0;2;2
-2015-09-22;terca-feira;17:00:00;RJ;101;309.0;SAO GONCALO;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;1
+2015-09-22;terca-feira;17:00:00;RJ;101;309.0;SAO GONCALO;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;2;1
 2015-09-20;domingo;18:11:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Fatais;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;1;0;3
 2015-09-21;segunda-feira;01:48:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-09-23;quarta-feira;13:00:00;RJ;101;304.0;SAO GONCALO;Animais na Pista;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;0;2
-2015-09-18;sexta-feira;16:50:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
+2015-09-23;quarta-feira;13:00:00;RJ;101;304.0;SAO GONCALO;Animais na Pista;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;1;2
+2015-09-18;sexta-feira;16:50:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;2;0;1;2
 2015-09-24;quinta-feira;13:05:00;RJ;101;322.0;NITEROI;Defeito mecanico em veiculo;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
 2015-09-24;quinta-feira;22:20:00;RJ;101;303.0;SAO GONCALO;Outras;Capotamento;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-09-24;quinta-feira;22:20:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
@@ -799,155 +799,155 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2015-09-25;sexta-feira;09:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-01-08;quinta-feira;16:00:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
 2015-09-25;sexta-feira;23:00:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Curva;Rural;3;0;0;3
-2015-09-28;segunda-feira;13:15:00;RJ;101;321.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Urbano;1;0;0;1
+2015-09-28;segunda-feira;13:15:00;RJ;101;321.0;NITEROI;Falta de atencao;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Urbano;1;0;1;1
 2015-09-22;terca-feira;04:35:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao Transversal;Com Vitimas Fatais;Plena noite;Ignorada;Dupla;Reta;Rural;4;1;1;2
 2015-09-11;sexta-feira;21:00:00;RJ;101;319.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Ignorado;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-10-01;quinta-feira;09:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;2
-2015-10-02;sexta-feira;08:10:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-10-02;sexta-feira;19:30:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-10-02;sexta-feira;21:09:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Curva;Urbano;1;0;0;1
+2015-10-01;quinta-feira;09:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;2;2
+2015-10-02;sexta-feira;08:10:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;2;2
+2015-10-02;sexta-feira;19:30:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
+2015-10-02;sexta-feira;21:09:00;RJ;101;321.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Curva;Urbano;1;0;1;1
 2015-10-02;sexta-feira;16:39:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;3;0;2;2
-2015-10-02;sexta-feira;22:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;0;1
-2015-10-03;sabado;15:30:00;RJ;101;320.1;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Rural;3;0;0;1
+2015-10-02;sexta-feira;22:00:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;2;1
+2015-10-03;sabado;15:30:00;RJ;101;320.1;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Rural;3;0;3;1
 2015-10-03;sabado;19:15:00;RJ;101;321.0;NITEROI;Ingestao de alcool;Atropelamento de pessoa;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
-2015-10-04;domingo;05:50:00;RJ;101;325.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;6;0;0;3
+2015-10-04;domingo;05:50:00;RJ;101;325.0;NITEROI;Outras;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;6;0;4;3
 2015-10-05;segunda-feira;06:20:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
-2015-10-05;segunda-feira;09:00:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
-2015-10-05;segunda-feira;09:49:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
+2015-10-05;segunda-feira;09:00:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;1;2
+2015-10-05;segunda-feira;09:49:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;1;2
 2015-10-07;quarta-feira;15:00:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
-2015-10-07;quarta-feira;14:30:00;RJ;101;324.0;NITEROI;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;1
+2015-10-07;quarta-feira;14:30:00;RJ;101;324.0;NITEROI;Defeito mecanico em veiculo;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;2;1
 2015-10-08;quinta-feira;14:17:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-10-09;sexta-feira;15:40:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-10-10;sabado;11:30:00;RJ;101;307.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
+2015-10-10;sabado;11:30:00;RJ;101;307.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-10-13;terca-feira;16:51:00;RJ;101;301.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-10-14;quarta-feira;05:40:00;RJ;101;311.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;3;0;1;3
-2015-10-10;sabado;07:40:00;RJ;101;305.0;SAO GONCALO;Desobediencia a sinalizacao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Sol;Simples;Reta;Urbano;2;0;0;1
+2015-10-10;sabado;07:40:00;RJ;101;305.0;SAO GONCALO;Desobediencia a sinalizacao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Sol;Simples;Reta;Urbano;2;0;1;1
 2015-10-10;sabado;11:30:00;RJ;101;325.0;NITEROI;Velocidade incompativel;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
-2015-10-15;quinta-feira;09:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;4;0;0;3
+2015-10-15;quinta-feira;09:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;4;0;2;3
 2015-10-15;quinta-feira;13:00:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Multipla;Curva;Urbano;3;0;0;2
 2015-10-15;quinta-feira;13:30:00;RJ;101;320.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-10-17;sabado;07:00:00;RJ;101;310.0;SAO GONCALO;Dormindo;Capotamento;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
-2015-10-20;terca-feira;07:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-10-18;domingo;01:00:00;RJ;101;330.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-10-23;sexta-feira;11:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
-2015-10-23;sexta-feira;16:30:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;0;2
+2015-10-20;terca-feira;07:30:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-10-18;domingo;01:00:00;RJ;101;330.0;NITEROI;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-10-23;sexta-feira;11:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao frontal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;2;0;1;2
+2015-10-23;sexta-feira;16:30:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;3;0;2;2
 2015-10-23;sexta-feira;21:00:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-07-26;domingo;06:40:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;0;2
+2015-07-26;domingo;06:40:00;RJ;101;326.0;NITEROI;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;5;0;3;2
 2015-10-25;domingo;16:00:00;RJ;101;319.0;SAO GONCALO;Velocidade incompativel;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-10-25;domingo;02:42:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;7;0;3;2
-2015-10-27;terca-feira;10:30:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-10-25;domingo;02:42:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;7;0;7;2
+2015-10-27;terca-feira;10:30:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-10-28;quarta-feira;10:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Nublado;Dupla;Curva;Urbano;1;0;0;1
-2015-10-28;quarta-feira;13:00:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-10-29;quinta-feira;07:20:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-10-30;sexta-feira;11:30:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
+2015-10-28;quarta-feira;13:00:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-10-29;quinta-feira;07:20:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-10-30;sexta-feira;11:30:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
 2015-10-30;sexta-feira;10:30:00;RJ;101;300.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-11-03;terca-feira;01:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
-2015-11-03;terca-feira;06:30:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Chuva;Dupla;Reta;Urbano;3;0;0;3
-2015-11-03;terca-feira;20:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;3
+2015-11-03;terca-feira;01:00:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;1;2
+2015-11-03;terca-feira;06:30:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Chuva;Dupla;Reta;Urbano;3;0;1;3
+2015-11-03;terca-feira;20:30:00;RJ;101;311.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;1;3
 2015-11-04;quarta-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-06-23;terca-feira;16:50:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
 2015-06-23;terca-feira;16:50:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-09-01;terca-feira;18:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
+2015-09-01;terca-feira;18:00:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
 2015-11-04;quarta-feira;17:30:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-11-05;quinta-feira;17:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-11-05;quinta-feira;23:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;3
+2015-11-05;quinta-feira;17:00:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-11-05;quinta-feira;23:30:00;RJ;101;332.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;1;3
 2015-11-06;sexta-feira;08:00:00;RJ;101;321.0;NITEROI;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
 2015-11-02;segunda-feira;23:55:00;RJ;101;321.0;NITEROI;Outras;Capotamento;Sem Vitimas;Plena noite;Chuva;Dupla;Curva;Urbano;1;0;0;1
-2015-11-06;sexta-feira;18:30:00;RJ;101;302.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;1
-2015-11-07;sabado;10:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-11-07;sabado;06:35:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;5;0;0;3
+2015-11-06;sexta-feira;18:30:00;RJ;101;302.0;SAO GONCALO;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;2;1
+2015-11-07;sabado;10:10:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-11-07;sabado;06:35:00;RJ;101;327.0;NITEROI;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;5;0;3;3
 2015-07-26;domingo;06:40:00;RJ;101;326.0;NITEROI;Outras;Colisao com objeto movel;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-02-01;domingo;15:30:00;RJ;101;309.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Sol;Simples;Reta;Urbano;1;0;0;1
-2015-11-09;segunda-feira;10:50:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-11-10;terca-feira;07:25:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-11-10;terca-feira;09:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-11-11;quarta-feira;09:35:00;RJ;101;321.0;NITEROI;Velocidade incompativel;Capotamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Urbano;1;0;0;1
+2015-11-09;segunda-feira;10:50:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-11-10;terca-feira;07:25:00;RJ;101;318.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-11-10;terca-feira;09:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
+2015-11-11;quarta-feira;09:35:00;RJ;101;321.0;NITEROI;Velocidade incompativel;Capotamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Urbano;1;0;1;1
 2015-11-11;quarta-feira;14:10:00;RJ;101;309.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;3
-2015-11-09;segunda-feira;10:40:00;RJ;101;303.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
+2015-11-09;segunda-feira;10:40:00;RJ;101;303.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
 2015-11-12;quinta-feira;23:00:00;RJ;101;311.0;SAO GONCALO;Defeito mecanico em veiculo;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
 2015-11-13;sexta-feira;07:15:00;RJ;101;319.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;1;2
 2015-11-13;sexta-feira;07:55:00;RJ;101;310.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;1;1
 2015-11-13;sexta-feira;17:20:00;RJ;101;321.0;NITEROI;Falta de atencao;Colisao com objeto fixo;Com Vitimas Fatais;Pleno dia;Sol;Dupla;Reta;Urbano;1;1;0;1
-2015-11-14;sabado;07:55:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;0;2
+2015-11-14;sabado;07:55:00;RJ;101;313.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;4;0;1;2
 2015-11-06;sexta-feira;22:15:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Simples;Reta;Urbano;2;0;0;2
-2015-11-15;domingo;06:40:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-11-15;domingo;06:40:00;RJ;101;328.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-11-11;quarta-feira;16:50:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao com objeto fixo;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;1;0;2
 2015-11-14;sabado;00:52:00;RJ;101;320.0;NITEROI;Outras;Tombamento;Sem Vitimas;Plena noite;Nublado;Dupla;Curva;Urbano;1;0;0;1
-2015-09-19;sabado;14:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
+2015-09-19;sabado;14:30:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
 2015-11-19;quinta-feira;11:30:00;RJ;101;317.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-11-19;quinta-feira;18:00:00;RJ;101;319.0;SAO GONCALO;Velocidade incompativel;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
+2015-11-19;quinta-feira;18:00:00;RJ;101;319.0;SAO GONCALO;Velocidade incompativel;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;1;1
 2015-11-20;sexta-feira;04:50:00;RJ;101;314.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;2;1
-2015-11-20;sexta-feira;18:50:00;RJ;101;319.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-11-20;sexta-feira;22:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Urbano;4;0;0;3
+2015-11-20;sexta-feira;18:50:00;RJ;101;319.0;NITEROI;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-11-20;sexta-feira;22:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Urbano;4;0;1;3
 2015-11-21;sabado;12:00:00;RJ;101;299.0;SAO GONCALO;Outras;Saida de Pista;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Urbano;1;0;0;1
-2015-11-22;domingo;01:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Curva;Urbano;5;0;0;2
-2015-11-18;quarta-feira;20:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;0;4
-2015-11-23;segunda-feira;09:30:00;RJ;101;331.0;RIO DE JANEIRO;Ultrapassagem indevida;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-11-23;segunda-feira;10:26:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;3
-2015-11-19;quinta-feira;18:00:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
-2015-11-23;segunda-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;0;2
+2015-11-22;domingo;01:00:00;RJ;101;331.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Curva;Urbano;5;0;4;2
+2015-11-18;quarta-feira;20:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;2;4
+2015-11-23;segunda-feira;09:30:00;RJ;101;331.0;RIO DE JANEIRO;Ultrapassagem indevida;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;1;0;1;1
+2015-11-23;segunda-feira;10:26:00;RJ;101;308.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;1;3
+2015-11-19;quinta-feira;18:00:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;1;2
+2015-11-23;segunda-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Urbano;2;0;1;2
 2015-11-25;quarta-feira;04:20:00;RJ;101;321.8;NITEROI;Outras;Derramamento de Carga;Sem Vitimas;Plena noite;Nublado;Dupla;Curva;Urbano;1;0;0;1
 2015-06-08;segunda-feira;01:40:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Rural;2;0;0;2
-2015-11-27;sexta-feira;07:52:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-11-27;sexta-feira;11:10:00;RJ;101;326.0;NITEROI;Falta de atencao;Capotamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;0;1
-2015-11-27;sexta-feira;23:17:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-11-28;sabado;23:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;0;2
-2015-12-01;terca-feira;05:30:00;RJ;101;321.0;NITEROI;Outras;Tombamento;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Curva;Urbano;1;0;0;1
+2015-11-27;sexta-feira;07:52:00;RJ;101;327.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-11-27;sexta-feira;11:10:00;RJ;101;326.0;NITEROI;Falta de atencao;Capotamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;1;0;1;1
+2015-11-27;sexta-feira;23:17:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Reta;Urbano;2;0;1;2
+2015-11-28;sabado;23:20:00;RJ;101;322.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;2;0;1;2
+2015-12-01;terca-feira;05:30:00;RJ;101;321.0;NITEROI;Outras;Tombamento;Com Vitimas Feridas;Plena noite;Nublado;Dupla;Curva;Urbano;1;0;1;1
 2015-12-02;quarta-feira;07:00:00;RJ;101;310.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-11-16;segunda-feira;08:25:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-08-20;quinta-feira;14:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;4;0;0;4
-2015-12-02;quarta-feira;17:55:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Rural;3;0;0;3
+2015-08-20;quinta-feira;14:00:00;RJ;101;333.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;4;0;1;4
+2015-12-02;quarta-feira;17:55:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Rural;3;0;1;3
 2015-02-13;sexta-feira;08:00:00;RJ;101;306.0;SAO GONCALO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-12-04;sexta-feira;01:01:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;3;0;0;2
-2015-12-05;sabado;00:45:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;0;2
-2015-12-05;sabado;13:55:00;RJ;101;322.0;NITEROI;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;1
+2015-12-05;sabado;00:45:00;RJ;101;314.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Dupla;Reta;Urbano;3;0;2;2
+2015-12-05;sabado;13:55:00;RJ;101;322.0;NITEROI;Falta de atencao;Atropelamento de pessoa;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;1
 2015-12-06;domingo;06:40:00;RJ;101;321.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Nublado;Dupla;Curva;Urbano;1;0;0;1
-2015-12-06;domingo;16:04:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;1;0;3
+2015-12-06;domingo;16:04:00;RJ;101;327.0;RIO DE JANEIRO;Outras;Colisao com objeto movel;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;1;1;3
 2015-12-08;terca-feira;11:45:00;RJ;101;300.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Urbano;2;0;0;2
-2015-12-09;quarta-feira;13:25:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;0;2
-2015-12-09;quarta-feira;19:05:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-12-09;quarta-feira;13:25:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;3;0;1;2
+2015-12-09;quarta-feira;19:05:00;RJ;101;330.0;RIO DE JANEIRO;Outras;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-12-10;quinta-feira;10:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
-2015-12-10;quinta-feira;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;0;3
+2015-12-10;quinta-feira;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Urbano;3;0;1;3
 2015-12-07;segunda-feira;18:45:00;RJ;101;325.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Urbano;2;0;0;2
 2015-12-11;sexta-feira;20:20:00;RJ;101;320.0;NITEROI;Outras;Colisao lateral;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
-2015-12-12;sabado;17:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-12-12;sabado;17:00:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;4;0;1;3
 2015-12-13;domingo;06:30:00;RJ;101;300.0;SAO GONCALO;Outras;Capotamento;Com Vitimas Fatais;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;1;1;0;1
 2015-12-14;segunda-feira;13:00:00;RJ;101;321.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-12-15;terca-feira;17:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;16;0;0;7
-2015-12-12;sabado;20:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Multipla;Reta;Urbano;3;0;1;2
+2015-12-15;terca-feira;17:30:00;RJ;101;318.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Urbano;16;0;4;7
+2015-12-12;sabado;20:40:00;RJ;101;323.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Chuva;Multipla;Reta;Urbano;3;0;2;2
 2015-12-17;quinta-feira;17:30:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;2;0;0;2
-2015-12-17;quinta-feira;13:57:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-12-17;quinta-feira;13:57:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-12-18;sexta-feira;02:10:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao com objeto fixo;Sem Vitimas;Plena noite;Nublado;Dupla;Reta;Urbano;1;0;0;1
-2015-12-18;sexta-feira;20:00:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-12-19;sabado;13:00:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Sol;Dupla;Reta;Urbano;8;0;0;3
+2015-12-18;sexta-feira;20:00:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-12-19;sabado;13:00:00;RJ;101;303.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Sol;Dupla;Reta;Urbano;8;0;2;3
 2015-12-16;quarta-feira;19:30:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-12-20;domingo;11:12:00;RJ;101;334.0;RIO DE JANEIRO;Outras;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Curva;Urbano;2;0;0;2
-2015-12-19;sabado;01:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Rural;3;0;0;2
-2015-12-21;segunda-feira;14:27:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
-2015-12-21;segunda-feira;14:41:00;RJ;101;327.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
+2015-12-19;sabado;01:00:00;RJ;101;316.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Plena noite;Ceu Claro;Dupla;Reta;Rural;3;0;2;2
+2015-12-21;segunda-feira;14:27:00;RJ;101;327.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
+2015-12-21;segunda-feira;14:41:00;RJ;101;327.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
 2015-12-21;segunda-feira;15:40:00;RJ;101;333.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-12-23;quarta-feira;08:00:00;RJ;101;318.0;SAO GONCALO;Ingestao de alcool;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Urbano;1;0;0;1
 2015-12-23;quarta-feira;10:43:00;RJ;101;322.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Urbano;1;0;0;1
-2015-12-21;segunda-feira;03:00:00;RJ;101;319.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Fatais;Plena noite;Ignorada;Dupla;Reta;Urbano;3;2;0;1
-2015-12-26;sabado;12:00:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;0;2
-2015-12-27;domingo;06:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;3;0;0;2
+2015-12-21;segunda-feira;03:00:00;RJ;101;319.0;SAO GONCALO;Outras;Saida de Pista;Com Vitimas Fatais;Plena noite;Ignorada;Dupla;Reta;Urbano;3;2;1;1
+2015-12-26;sabado;12:00:00;RJ;101;306.0;SAO GONCALO;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Rural;3;0;1;2
+2015-12-27;domingo;06:00:00;RJ;101;307.0;SAO GONCALO;Outras;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Urbano;3;0;2;2
 2015-12-27;domingo;10:00:00;RJ;101;326.0;NITEROI;Outras;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Urbano;5;0;0;4
 2015-12-20;domingo;07:40:00;RJ;101;324.0;NITEROI;Outras;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-12-24;quinta-feira;18:30:00;RJ;101;330.0;NITEROI;Falta de atencao;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;5;0;0;5
 2015-12-25;sexta-feira;04:20:00;RJ;101;316.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
 2015-12-24;quinta-feira;21:30:00;RJ;101;306.0;SAO GONCALO;Outras;Atropelamento de pessoa;Com Vitimas Fatais;Plena noite;Ignorada;Dupla;Reta;Urbano;2;1;0;1
-2015-12-29;terca-feira;14:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;0;2
-2015-12-29;terca-feira;16:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;0;3
+2015-12-29;terca-feira;14:00:00;RJ;101;322.0;NITEROI;Outras;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Urbano;2;0;1;2
+2015-12-29;terca-feira;16:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de atencao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;3;0;2;3
 2015-12-29;terca-feira;19:35:00;RJ;101;322.0;NITEROI;Falta de atencao;Colisao lateral;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-12-29;terca-feira;23:00:00;RJ;101;313.0;SAO GONCALO;Desobediencia a sinalizacao;Colisao traseira;Sem Vitimas;Plena noite;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
 2015-10-24;sabado;07:50:00;RJ;101;302.0;SAO GONCALO;Outras;Colisao com objeto fixo;Sem Vitimas;Pleno dia;Ignorada;Dupla;Reta;Urbano;1;0;0;1
 2015-09-06;domingo;09:20:00;RJ;101;316.0;SAO GONCALO;Desobediencia a sinalizacao;Colisao frontal;Ignorado;Pleno dia;Ignorada;Dupla;Reta;Urbano;3;0;0;3
 2015-12-07;segunda-feira;06:15:00;RJ;101;313.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Sem Vitimas;Amanhecer;Ignorada;Dupla;Reta;Urbano;3;0;0;2
 2015-12-27;domingo;05:20:00;RJ;101;324.0;NITEROI;Outras;Colisao com objeto fixo;Sem Vitimas;Amanhecer;Ceu Claro;Multipla;Reta;Urbano;1;0;0;1
-2015-12-07;segunda-feira;06:40:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;0;2
+2015-12-07;segunda-feira;06:40:00;RJ;101;330.0;RIO DE JANEIRO;Falta de atencao;Colisao com objeto fixo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;2;0;1;2
 2015-07-21;terca-feira;07:18:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Saida de Pista;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-11-19;quinta-feira;06:20:00;RJ;101;319.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;0;1
-2015-06-29;segunda-feira;07:20:00;RJ;101;315.7;SAO GONCALO;Outras;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;0;3
+2015-11-19;quinta-feira;06:20:00;RJ;101;319.0;SAO GONCALO;Outras;Queda de motocicleta / bicicleta / veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;1;0;1;1
+2015-06-29;segunda-feira;07:20:00;RJ;101;315.7;SAO GONCALO;Outras;Colisao Transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Urbano;4;0;2;3
 2015-12-15;terca-feira;18:00:00;RJ;101;304.0;SAO GONCALO;Outras;Colisao traseira;Sem Vitimas;Anoitecer;Ignorada;Dupla;Reta;Urbano;3;0;0;2
 2015-11-23;segunda-feira;18:40:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Anoitecer;Chuva;Dupla;Reta;Urbano;2;0;0;2
 2015-11-23;segunda-feira;18:40:00;RJ;101;309.0;SAO GONCALO;Falta de atencao;Colisao com objeto fixo;Sem Vitimas;Anoitecer;Chuva;Dupla;Reta;Urbano;2;0;0;2

@@ -1,184 +1,184 @@
-data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia;condicao_metereologica;tipo_pista;tracado_via;uso_solo;pessoas;mortos;feridos_graves;veiculos
+data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia;condicao_metereologica;tipo_pista;tracado_via;uso_solo;pessoas;mortos;feridos;veiculos
 2017-01-04;quarta-feira;10:50:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;0;5
-2017-01-11;quarta-feira;04:00:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
-2017-01-11;quarta-feira;15:53:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;0;4
+2017-01-11;quarta-feira;04:00:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
+2017-01-11;quarta-feira;15:53:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;2;4
 2017-01-18;quarta-feira;07:00:00;RJ;101;308.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-01-23;segunda-feira;05:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Declive;Nao;19;0;0;5
+2017-01-23;segunda-feira;05:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Declive;Nao;19;0;14;5
 2017-01-26;quinta-feira;00:20:00;RJ;101;308.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Capotamento;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
 2017-01-29;domingo;01:15:00;RJ;101;311.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;0;4
 2017-02-03;sexta-feira;05:00:00;RJ;101;321.2;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Curva;Sim;1;0;0;1
-2017-02-08;quarta-feira;19:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-02-15;quarta-feira;16:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Aclive;Sim;2;0;0;2
+2017-02-08;quarta-feira;19:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-02-15;quarta-feira;16:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Aclive;Sim;2;0;1;2
 2017-02-26;domingo;02:55:00;RJ;101;317.0;SAO GONCALO;Defeito Mecanico no Veiculo;Danos eventuais;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;5;0;0;3
 2017-03-08;quarta-feira;18:23:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Anoitecer;Garoa/Chuvisco;Simples;Reta;Sim;1;0;0;1
-2017-03-13;segunda-feira;07:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;0;3
-2017-03-18;sabado;16:50:00;RJ;101;305.0;SAO GONCALO;Restricao de Visibilidade;Tombamento;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Sim;1;0;0;1
+2017-03-13;segunda-feira;07:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;1;3
+2017-03-18;sabado;16:50:00;RJ;101;305.0;SAO GONCALO;Restricao de Visibilidade;Tombamento;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Sim;1;0;1;1
 2017-03-30;quinta-feira;13:50:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-04-04;terca-feira;12:29:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
+2017-04-04;terca-feira;12:29:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
 2017-04-05;quarta-feira;12:45:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-04-06;quinta-feira;08:30:00;RJ;101;309.6;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Viaduto;Sim;3;0;0;2
+2017-04-06;quinta-feira;08:30:00;RJ;101;309.6;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Viaduto;Sim;3;0;1;2
 2017-04-13;quinta-feira;02:52:00;RJ;101;299.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Sem Vitimas;Plena Noite;Chuva;Dupla;Reta;Nao;2;0;0;2
-2017-04-13;quinta-feira;06:17:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Aclive;Nao;6;0;0;2
+2017-04-13;quinta-feira;06:17:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Aclive;Nao;6;0;5;2
 2017-04-15;sabado;08:30:00;RJ;101;315.0;SAO GONCALO;Ultrapassagem Indevida;Saida de leito carrocavel;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-05-18;quinta-feira;12:40:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;0;2
+2017-05-18;quinta-feira;12:40:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
 2017-05-19;sexta-feira;12:12:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Nao;1;0;0;1
 2017-05-29;segunda-feira;06:05:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Aclive;Nao;2;0;0;2
 2017-05-30;terca-feira;02:00:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Nevoeiro/Neblina;Dupla;Reta;Nao;2;0;0;2
-2017-06-04;domingo;22:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;3
-2017-06-05;segunda-feira;01:30:00;RJ;101;317.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;0;5
+2017-06-04;domingo;22:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
+2017-06-05;segunda-feira;01:30:00;RJ;101;317.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;2;5
 2017-06-18;domingo;07:30:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
 2017-06-30;sexta-feira;08:15:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;0;4
-2017-07-10;segunda-feira;18:00:00;RJ;101;309.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-07-24;segunda-feira;16:10:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;0;5
-2017-07-29;sabado;04:40:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-07-10;segunda-feira;18:00:00;RJ;101;309.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-07-24;segunda-feira;16:10:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;1;5
+2017-07-29;sabado;04:40:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-08-04;sexta-feira;09:25:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;2;0;0;2
-2017-08-10;quinta-feira;04:10:00;RJ;101;331.0;RIO DE JANEIRO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Curva;Nao;2;0;0;2
-2017-08-21;segunda-feira;18:10:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;4;0;0;3
-2017-08-16;quarta-feira;03:50:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Intersecao de Vias;Sim;1;0;0;1
+2017-08-10;quinta-feira;04:10:00;RJ;101;331.0;RIO DE JANEIRO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Curva;Nao;2;0;1;2
+2017-08-21;segunda-feira;18:10:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;4;0;1;3
+2017-08-16;quarta-feira;03:50:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Intersecao de Vias;Sim;1;0;1;1
 2017-08-23;quarta-feira;00:30:00;RJ;101;309.2;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Nublado;Dupla;Reta;Sim;2;1;0;2
-2017-09-04;segunda-feira;16:06:00;RJ;101;333.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao com objeto em movimento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
+2017-09-04;segunda-feira;16:06:00;RJ;101;333.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao com objeto em movimento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
 2017-09-12;terca-feira;07:00:00;RJ;101;313.3;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-09-18;segunda-feira;20:50:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Simples;Curva;Sim;2;0;0;2
 2017-09-23;sabado;09:40:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-26;terca-feira;15:20:00;RJ;101;328.0;NITEROI;Nao guardar distancia de seguranca;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-09-26;terca-feira;15:20:00;RJ;101;328.0;NITEROI;Nao guardar distancia de seguranca;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-09-28;quinta-feira;16:10:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Sol;Dupla;Ponte;Nao;1;0;0;1
 2017-10-14;sabado;06:32:00;RJ;101;301.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-10-26;quinta-feira;00:30:00;RJ;101;311.0;SAO GONCALO;Restricao de Visibilidade;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;0;4
+2017-10-26;quinta-feira;00:30:00;RJ;101;311.0;SAO GONCALO;Restricao de Visibilidade;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;1;4
 2017-10-30;segunda-feira;17:50:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
 2017-11-08;quarta-feira;22:40:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;0;4
 2017-11-10;sexta-feira;11:25:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-11-11;sabado;20:20:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Chuva;Dupla;Reta;Sim;2;1;0;2
-2017-11-13;segunda-feira;23:30:00;RJ;101;313.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-11-14;terca-feira;07:15:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-11-13;segunda-feira;23:30:00;RJ;101;313.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-11-14;terca-feira;07:15:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-11-16;quinta-feira;06:20:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-11-22;quarta-feira;02:30:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;1;1
-2017-11-23;quinta-feira;14:29:00;RJ;101;329.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Sim;4;0;0;3
+2017-11-22;quarta-feira;02:30:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;2;1
+2017-11-23;quinta-feira;14:29:00;RJ;101;329.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Sim;4;0;3;3
 2017-11-29;quarta-feira;06:10:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-12-11;segunda-feira;03:00:00;RJ;101;312.1;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;0;2
-2017-12-22;sexta-feira;18:30:00;RJ;101;322.0;NITEROI;Ingestao de Alcool;Colisao frontal;Com Vitimas Feridas;Anoitecer;Ceu Claro;Simples;Reta;Nao;3;0;0;2
+2017-12-11;segunda-feira;03:00:00;RJ;101;312.1;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;1;2
+2017-12-22;sexta-feira;18:30:00;RJ;101;322.0;NITEROI;Ingestao de Alcool;Colisao frontal;Com Vitimas Feridas;Anoitecer;Ceu Claro;Simples;Reta;Nao;3;0;2;2
 2017-09-27;quarta-feira;11:16:00;RJ;101;315.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;0;2
 2017-03-02;quinta-feira;16:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
 2017-12-04;segunda-feira;19:30:00;RJ;101;308.3;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;0;2
 2017-01-01;domingo;09:20:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-01-03;terca-feira;06:30:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-01-06;sexta-feira;13:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2017-01-06;sexta-feira;16:50:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
-2017-01-07;sabado;12:20:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;"Ponte;Reta";Nao;3;0;0;2
-2017-01-08;domingo;07:20:00;RJ;101;308.2;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;1;0;1
+2017-01-03;terca-feira;06:30:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-01-06;sexta-feira;13:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
+2017-01-06;sexta-feira;16:50:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
+2017-01-07;sabado;12:20:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;"Ponte;Reta";Nao;3;0;1;2
+2017-01-08;domingo;07:20:00;RJ;101;308.2;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;1;1;1
 2017-01-08;domingo;16:00:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Nao;1;0;0;1
-2017-01-09;segunda-feira;09:00:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-01-09;segunda-feira;17:18:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Nao;2;0;0;2
+2017-01-09;segunda-feira;09:00:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-01-09;segunda-feira;17:18:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Nao;2;0;1;2
 2017-01-09;segunda-feira;22:00:00;RJ;101;305.0;SAO GONCALO;Animais na Pista;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-01-10;terca-feira;15:00:00;RJ;101;320.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-01-11;quarta-feira;10:10:00;RJ;101;326.2;NITEROI;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Ponte;Nao;3;0;0;2
-2017-01-11;quarta-feira;14:00:00;RJ;101;316.0;SAO GONCALO;Velocidade Incompativel;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-01-11;quarta-feira;10:10:00;RJ;101;326.2;NITEROI;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Ponte;Nao;3;0;2;2
+2017-01-11;quarta-feira;14:00:00;RJ;101;316.0;SAO GONCALO;Velocidade Incompativel;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-01-13;sexta-feira;17:51:00;RJ;101;318.0;SAO GONCALO;Fenomenos da Natureza;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Nao;1;0;0;1
-2017-01-14;sabado;01:05:00;RJ;101;321.1;NITEROI;Velocidade Incompativel;Capotamento;Com Vitimas Fatais;Plena Noite;Nublado;Dupla;Curva;Sim;4;3;0;1
+2017-01-14;sabado;01:05:00;RJ;101;321.1;NITEROI;Velocidade Incompativel;Capotamento;Com Vitimas Fatais;Plena Noite;Nublado;Dupla;Curva;Sim;4;3;1;1
 2017-01-14;sabado;06:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto em movimento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-01-14;sabado;11:28:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
-2017-01-15;domingo;14:00:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-01-16;segunda-feira;04:40:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Declive;Nao;1;0;0;1
+2017-01-14;sabado;11:28:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
+2017-01-15;domingo;14:00:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-01-16;segunda-feira;04:40:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Declive;Nao;1;0;1;1
 2017-01-17;terca-feira;13:30:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-01-17;terca-feira;10:35:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-01-18;quarta-feira;10:30:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;0;2
-2017-01-20;sexta-feira;08:20:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;0;3
+2017-01-17;terca-feira;10:35:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-01-18;quarta-feira;10:30:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
+2017-01-20;sexta-feira;08:20:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;1;3
 2017-01-20;sexta-feira;13:10:00;RJ;101;306.0;SAO GONCALO;Velocidade Incompativel;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;"Reta;Ponte";Sim;3;0;2;2
-2017-01-20;sexta-feira;14:20:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Aclive;Sim;2;0;0;2
+2017-01-20;sexta-feira;14:20:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Aclive;Sim;2;0;1;2
 2017-01-22;domingo;07:20:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2017-01-24;terca-feira;11:20:00;RJ;101;333.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Simples;Reta;Nao;1;0;0;1
+2017-01-24;terca-feira;11:20:00;RJ;101;333.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Simples;Reta;Nao;1;0;1;1
 2017-01-24;terca-feira;13:25:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2017-01-25;quarta-feira;17:14:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;0;2
+2017-01-25;quarta-feira;17:14:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
 2017-01-25;quarta-feira;22:40:00;RJ;101;311.0;SAO GONCALO;Mal Subito;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
 2017-01-28;sabado;23:15:00;RJ;101;322.0;NITEROI;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;Reta;Sim;1;0;1;1
-2017-01-30;segunda-feira;08:00:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-01-30;segunda-feira;08:00:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-01-30;segunda-feira;08:42:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-01-30;segunda-feira;13:43:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
+2017-01-30;segunda-feira;13:43:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
 2017-01-31;terca-feira;12:50:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2017-01-31;terca-feira;20:07:00;RJ;101;323.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;0;1
+2017-01-31;terca-feira;20:07:00;RJ;101;323.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;2;1
 2017-02-03;sexta-feira;16:45:00;RJ;101;322.0;NITEROI;Objeto estatico sobre o leito carrocavel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2017-02-03;sexta-feira;15:30:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;0;2
-2017-02-03;sexta-feira;17:50:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;0;2
-2017-02-04;sabado;16:00:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-02-04;sabado;22:40:00;RJ;101;304.0;SAO GONCALO;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-02-03;sexta-feira;15:30:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
+2017-02-03;sexta-feira;17:50:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
+2017-02-04;sabado;16:00:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
+2017-02-04;sabado;22:40:00;RJ;101;304.0;SAO GONCALO;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-02-06;segunda-feira;02:35:00;RJ;101;307.8;SAO GONCALO;Nao guardar distancia de seguranca;Saida de leito carrocavel;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-02-06;segunda-feira;08:20:00;RJ;101;315.4;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-02-09;quinta-feira;08:16:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-02-10;sexta-feira;01:34:00;RJ;101;334.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;4;0;0;1
-2017-02-14;terca-feira;20:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-02-15;quarta-feira;08:10:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-02-18;sabado;05:27:00;RJ;101;317.0;SAO GONCALO;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-02-10;sexta-feira;01:34:00;RJ;101;334.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;4;0;2;1
+2017-02-14;terca-feira;20:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
+2017-02-15;quarta-feira;08:10:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-02-18;sabado;05:27:00;RJ;101;317.0;SAO GONCALO;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-02-19;domingo;04:00:00;RJ;101;320.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-02-19;domingo;18:10:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
 2017-02-20;segunda-feira;01:50:00;RJ;101;322.0;NITEROI;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ignorado;Dupla;Reta;Nao;1;0;0;1
-2017-02-20;segunda-feira;14:15:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2017-02-21;terca-feira;06:45:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-02-20;segunda-feira;14:15:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
+2017-02-21;terca-feira;06:45:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-02-21;terca-feira;22:00:00;RJ;101;303.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-02-21;terca-feira;23:15:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-02-22;quarta-feira;15:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-02-21;terca-feira;23:15:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
+2017-02-22;quarta-feira;15:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-02-23;quinta-feira;01:40:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-02-23;quinta-feira;19:15:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;0;2
+2017-02-23;quinta-feira;19:15:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;2;2
 2017-02-24;sexta-feira;02:15:00;RJ;101;309.0;SAO GONCALO;Ingestao de Alcool;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;0;2
-2017-02-25;sabado;09:50:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-02-25;sabado;11:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-02-25;sabado;21:40:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-03-01;quarta-feira;05:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
-2017-03-02;quinta-feira;19:15:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;4;0;0;3
+2017-02-25;sabado;09:50:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-02-25;sabado;11:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;2
+2017-02-25;sabado;21:40:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
+2017-03-01;quarta-feira;05:30:00;RJ;101;328.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
+2017-03-02;quinta-feira;19:15:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;4;0;1;3
 2017-03-03;sexta-feira;17:20:00;RJ;101;330.0;RIO DE JANEIRO;Mal Subito;Colisao lateral;Sem Vitimas;Pleno dia;Chuva;Multipla;Reta;Nao;1;0;0;1
-2017-03-06;segunda-feira;06:20:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-03-08;quarta-feira;07:20:00;RJ;101;310.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-03-09;quinta-feira;10:00:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Ponte;Nao;2;0;0;2
-2017-03-09;quinta-feira;23:00:00;RJ;101;315.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;1
-2017-03-11;sabado;17:50:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-03-12;domingo;19:21:00;RJ;101;329.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;1;0;0;1
-2017-01-22;domingo;23:50:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ignorado;Dupla;Reta;Nao;2;0;0;2
+2017-03-06;segunda-feira;06:20:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-03-08;quarta-feira;07:20:00;RJ;101;310.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;2
+2017-03-09;quinta-feira;10:00:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Ponte;Nao;2;0;1;2
+2017-03-09;quinta-feira;23:00:00;RJ;101;315.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
+2017-03-11;sabado;17:50:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-03-12;domingo;19:21:00;RJ;101;329.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
+2017-01-22;domingo;23:50:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ignorado;Dupla;Reta;Nao;2;0;1;2
 2017-03-13;segunda-feira;21:20:00;RJ;101;324.0;NITEROI;Ingestao de Alcool;Colisao transversal;Sem Vitimas;Plena Noite;Chuva;Dupla;Reta;Nao;2;0;0;2
-2017-03-23;quinta-feira;09:00:00;RJ;101;317.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2017-03-25;sabado;05:20:00;RJ;101;320.0;NITEROI;Sinalizacao da via insuficiente ou inadequada;Colisao traseira;Com Vitimas Feridas;Amanhecer;Nublado;Multipla;Em Obras;Sim;2;0;0;2
-2017-03-27;segunda-feira;03:30:00;RJ;101;311.0;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-03-28;terca-feira;10:00:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
+2017-03-23;quinta-feira;09:00:00;RJ;101;317.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
+2017-03-25;sabado;05:20:00;RJ;101;320.0;NITEROI;Sinalizacao da via insuficiente ou inadequada;Colisao traseira;Com Vitimas Feridas;Amanhecer;Nublado;Multipla;Em Obras;Sim;2;0;1;2
+2017-03-27;segunda-feira;03:30:00;RJ;101;311.0;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
+2017-03-28;terca-feira;10:00:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
 2017-03-29;quarta-feira;05:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
 2017-03-30;quinta-feira;08:45:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2017-04-03;segunda-feira;17:45:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Sim;2;0;0;2
+2017-04-03;segunda-feira;17:45:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Sim;2;0;1;2
 2017-04-04;terca-feira;06:20:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;5;0;0;5
-2017-04-06;quinta-feira;23:26:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;1
-2017-04-08;sabado;02:10:00;RJ;101;304.0;SAO GONCALO;Pista Escorregadia;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;0;1
-2017-04-08;sabado;06:10:00;RJ;101;319.0;SAO GONCALO;Pista Escorregadia;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;0;3
+2017-04-06;quinta-feira;23:26:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;1
+2017-04-08;sabado;02:10:00;RJ;101;304.0;SAO GONCALO;Pista Escorregadia;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;2;1
+2017-04-08;sabado;06:10:00;RJ;101;319.0;SAO GONCALO;Pista Escorregadia;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;1;3
 2017-04-08;sabado;06:20:00;RJ;101;318.0;SAO GONCALO;Pista Escorregadia;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-04-08;sabado;13:15:00;RJ;101;307.9;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;5;0;0;2
-2017-04-08;sabado;17:30:00;RJ;101;313.0;SAO GONCALO;Sinalizacao da via insuficiente ou inadequada;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Rotatoria;Sim;3;0;0;2
-2017-04-10;segunda-feira;06:55:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-04-08;sabado;13:15:00;RJ;101;307.9;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;5;0;1;2
+2017-04-08;sabado;17:30:00;RJ;101;313.0;SAO GONCALO;Sinalizacao da via insuficiente ou inadequada;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Rotatoria;Sim;3;0;1;2
+2017-04-10;segunda-feira;06:55:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-04-10;segunda-feira;12:40:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Ponte;Nao;1;0;0;1
-2017-04-10;segunda-feira;19:15:00;RJ;101;324.6;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
-2017-04-10;segunda-feira;22:32:00;RJ;101;306.7;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;1
-2017-04-11;terca-feira;09:20:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-04-10;segunda-feira;19:15:00;RJ;101;324.6;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
+2017-04-10;segunda-feira;22:32:00;RJ;101;306.7;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
+2017-04-11;terca-feira;09:20:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-04-15;sabado;01:30:00;RJ;101;306.0;SAO GONCALO;Animais na Pista;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ignorado;Dupla;Reta;Nao;1;0;0;1
-2017-04-15;sabado;15:50:00;RJ;101;329.2;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
+2017-04-15;sabado;15:50:00;RJ;101;329.2;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;3;2
 2017-04-17;segunda-feira;07:00:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-04-19;quarta-feira;09:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;0;3
-2017-04-19;quarta-feira;20:45:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-04-20;quinta-feira;08:35:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-04-21;sexta-feira;07:00:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;4;0;0;2
-2017-04-21;sexta-feira;23:30:00;RJ;101;303.0;SAO GONCALO;Ingestao de Alcool;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
+2017-04-19;quarta-feira;09:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;1;3
+2017-04-19;quarta-feira;20:45:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-04-20;quinta-feira;08:35:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
+2017-04-21;sexta-feira;07:00:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;4;0;1;2
+2017-04-21;sexta-feira;23:30:00;RJ;101;303.0;SAO GONCALO;Ingestao de Alcool;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
 2017-04-22;sabado;22:31:00;RJ;101;317.0;SAO GONCALO;Condutor Dormindo;Colisao lateral;Sem Vitimas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;1;0;0;1
 2017-04-22;sabado;22:30:00;RJ;101;317.7;SAO GONCALO;Condutor Dormindo;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;0;2
-2017-04-25;terca-feira;17:30:00;RJ;101;319.6;NITEROI;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-04-27;quinta-feira;07:20:00;RJ;101;320.6;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
+2017-04-25;terca-feira;17:30:00;RJ;101;319.6;NITEROI;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
+2017-04-27;quinta-feira;07:20:00;RJ;101;320.6;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
 2017-04-28;sexta-feira;00:50:00;RJ;101;315.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;0;2
-2017-04-29;sabado;15:50:00;RJ;101;322.5;NITEROI;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;3;0;1;2
-2017-04-29;sabado;16:00:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Intersecao de Vias;Sim;2;0;0;2
+2017-04-29;sabado;15:50:00;RJ;101;322.5;NITEROI;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;3;0;2;2
+2017-04-29;sabado;16:00:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Intersecao de Vias;Sim;2;0;1;2
 2017-04-30;domingo;06:00:00;RJ;101;300.6;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-05-02;terca-feira;07:30:00;RJ;101;319.0;SAO GONCALO;Condutor Dormindo;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;0;5
-2017-05-03;quarta-feira;16:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;0;2
-2017-05-03;quarta-feira;17:32:00;RJ;101;334.0;NITEROI;Velocidade Incompativel;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;0;2
-2017-05-03;quarta-feira;23:10:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-05-05;sexta-feira;17:50:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Sim;2;0;0;2
-2017-05-07;domingo;02:40:00;RJ;101;317.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-05-08;segunda-feira;05:36:00;RJ;101;321.1;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Curva;Sim;2;0;0;2
-2017-05-11;quinta-feira;17:44:00;RJ;101;327.5;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-02-17;sexta-feira;18:10:00;RJ;101;330.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;9;0;0;4
-2017-05-12;sexta-feira;18:30:00;RJ;101;324.6;NITEROI;Desobediencia as normas de transito pelo condutor;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
-2017-05-13;sabado;09:00:00;RJ;101;309.7;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-05-14;domingo;05:30:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
+2017-05-03;quarta-feira;16:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
+2017-05-03;quarta-feira;17:32:00;RJ;101;334.0;NITEROI;Velocidade Incompativel;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
+2017-05-03;quarta-feira;23:10:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-05-05;sexta-feira;17:50:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Sim;2;0;1;2
+2017-05-07;domingo;02:40:00;RJ;101;317.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-05-08;segunda-feira;05:36:00;RJ;101;321.1;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Curva;Sim;2;0;1;2
+2017-05-11;quinta-feira;17:44:00;RJ;101;327.5;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-02-17;sexta-feira;18:10:00;RJ;101;330.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;9;0;5;4
+2017-05-12;sexta-feira;18:30:00;RJ;101;324.6;NITEROI;Desobediencia as normas de transito pelo condutor;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
+2017-05-13;sabado;09:00:00;RJ;101;309.7;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
+2017-05-14;domingo;05:30:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
 2017-05-14;domingo;09:10:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Sol;Dupla;Curva;Sim;1;0;0;1
 2017-05-15;segunda-feira;03:45:00;RJ;101;317.0;SAO GONCALO;Defeito Mecanico no Veiculo;Danos eventuais;Sem Vitimas;Plena Noite;Ignorado;Dupla;Reta;Nao;1;0;0;1
 2017-05-15;segunda-feira;05:02:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
@@ -186,278 +186,278 @@ data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;
 2017-05-17;quarta-feira;05:34:00;RJ;101;317.0;SAO GONCALO;Fenomenos da Natureza;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Nevoeiro/Neblina;Dupla;Reta;Nao;1;0;0;1
 2017-05-17;quarta-feira;09:40:00;RJ;101;334.0;RIO DE JANEIRO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
 2017-05-18;quinta-feira;10:20:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-05-18;quinta-feira;18:30:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-05-18;quinta-feira;18:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;6;0;0;2
+2017-05-18;quinta-feira;18:30:00;RJ;101;311.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
+2017-05-18;quinta-feira;18:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;6;0;5;2
 2017-05-19;sexta-feira;08:35:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Chuva;Dupla;Curva;Nao;1;0;0;1
-2017-05-21;domingo;01:20:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-05-23;terca-feira;05:50:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2017-05-23;terca-feira;17:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;3
+2017-05-21;domingo;01:20:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-05-23;terca-feira;05:50:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
+2017-05-23;terca-feira;17:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
 2017-05-26;sexta-feira;17:46:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;6;0;0;6
-2017-05-27;sabado;23:31:00;RJ;101;330.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
-2017-05-28;domingo;06:40:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;1;0;0;1
+2017-05-27;sabado;23:31:00;RJ;101;330.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
+2017-05-28;domingo;06:40:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;1;0;1;1
 2017-05-29;segunda-feira;05:27:00;RJ;101;328.0;NITEROI;Velocidade Incompativel;Colisao lateral;Sem Vitimas;Amanhecer;Nublado;Dupla;Ponte;Nao;2;0;0;2
-2017-05-29;segunda-feira;13:40:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-05-30;terca-feira;06:42:00;RJ;101;329.0;RIO DE JANEIRO;Restricao de Visibilidade;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nevoeiro/Neblina;Dupla;Reta;Sim;1;0;0;1
-2017-05-31;quarta-feira;07:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-05-31;quarta-feira;13:30:00;RJ;101;330.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-06-01;quinta-feira;18:45:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;3;0;0;3
+2017-05-29;segunda-feira;13:40:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-05-30;terca-feira;06:42:00;RJ;101;329.0;RIO DE JANEIRO;Restricao de Visibilidade;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nevoeiro/Neblina;Dupla;Reta;Sim;1;0;1;1
+2017-05-31;quarta-feira;07:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
+2017-05-31;quarta-feira;13:30:00;RJ;101;330.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-06-01;quinta-feira;18:45:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
 2017-06-01;quinta-feira;22:10:00;RJ;101;300.2;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-06-04;domingo;07:38:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;5;0;0;5
-2017-06-06;terca-feira;19:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;1
-2017-06-07;quarta-feira;13:50:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-06-07;quarta-feira;18:10:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
+2017-06-04;domingo;07:38:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;5;0;1;5
+2017-06-06;terca-feira;19:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
+2017-06-07;quarta-feira;13:50:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
+2017-06-07;quarta-feira;18:10:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
 2017-06-08;quinta-feira;11:00:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;0;4
 2017-06-08;quinta-feira;18:00:00;RJ;101;305.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-05-23;terca-feira;20:55:00;RJ;101;313.3;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;1;0;2
-2017-06-13;terca-feira;07:45:00;RJ;101;312.8;SAO GONCALO;Restricao de Visibilidade;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;0;2
+2017-06-13;terca-feira;07:45:00;RJ;101;312.8;SAO GONCALO;Restricao de Visibilidade;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
 2017-06-14;quarta-feira;06:30:00;RJ;101;305.0;SAO GONCALO;Pista Escorregadia;Colisao lateral;Sem Vitimas;Amanhecer;Chuva;Dupla;Reta;Sim;1;0;0;1
-2017-06-14;quarta-feira;11:30:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
+2017-06-14;quarta-feira;11:30:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
 2017-06-16;sexta-feira;09:20:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-06-17;sabado;07:00:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nevoeiro/Neblina;Dupla;Reta;Sim;1;0;0;1
-2017-06-18;domingo;03:30:00;RJ;101;307.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
+2017-06-17;sabado;07:00:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nevoeiro/Neblina;Dupla;Reta;Sim;1;0;1;1
+2017-06-18;domingo;03:30:00;RJ;101;307.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
 2017-06-19;segunda-feira;12:04:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2017-06-19;segunda-feira;15:40:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-06-19;segunda-feira;15:25:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
+2017-06-19;segunda-feira;15:40:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-06-19;segunda-feira;15:25:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
 2017-03-20;segunda-feira;18:40:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Animal;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-06-20;terca-feira;18:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;4;0;0;3
+2017-06-20;terca-feira;18:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;4;0;2;3
 2017-06-21;quarta-feira;17:00:00;RJ;101;313.0;SAO GONCALO;Restricao de Visibilidade;Colisao traseira;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Sim;2;0;0;2
 2017-06-22;quinta-feira;18:00:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;0;2
 2017-06-24;sabado;19:12:00;RJ;101;324.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-06-27;terca-feira;10:50:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;5;0;0;4
-2017-06-29;quinta-feira;06:30:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto em movimento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-06-29;quinta-feira;10:45:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;0;1
-2017-06-30;sexta-feira;13:25:00;RJ;101;327.6;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
+2017-06-27;terca-feira;10:50:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;5;0;2;4
+2017-06-29;quinta-feira;06:30:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto em movimento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-06-29;quinta-feira;10:45:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;1;1
+2017-06-30;sexta-feira;13:25:00;RJ;101;327.6;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
 2017-06-30;sexta-feira;23:18:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Simples;Reta;Sim;1;0;0;1
-2017-07-01;sabado;12:15:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-07-01;sabado;12:15:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-07-03;segunda-feira;10:00:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
 2017-07-04;terca-feira;09:45:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;0;3
-2017-07-04;terca-feira;10:00:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;0;2
+2017-07-04;terca-feira;10:00:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
 2017-06-02;sexta-feira;21:55:00;RJ;101;322.5;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;3;0;0;3
-2017-07-05;quarta-feira;19:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-07-05;quarta-feira;23:25:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;0;1
-2017-07-07;sexta-feira;06:04:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Reta;Nao;2;0;0;2
-2017-07-07;sexta-feira;07:10:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Curva;Nao;2;0;0;2
+2017-07-05;quarta-feira;19:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
+2017-07-05;quarta-feira;23:25:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;4;1
+2017-07-07;sexta-feira;06:04:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
+2017-07-07;sexta-feira;07:10:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Curva;Nao;2;0;1;2
 2017-07-08;sabado;03:30:00;RJ;101;320.0;NITEROI;Mal Subito;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;3;0;0;2
-2017-07-08;sabado;16:48:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Curva;Sim;3;0;0;2
-2017-07-08;sabado;19:20:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Ponte;Nao;1;0;0;1
+2017-07-08;sabado;16:48:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Curva;Sim;3;0;2;2
+2017-07-08;sabado;19:20:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Ponte;Nao;1;0;1;1
 2017-07-09;domingo;05:43:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Simples;Reta;Sim;3;0;0;2
 2017-07-09;domingo;15:32:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2017-07-10;segunda-feira;08:26:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;1;3
+2017-07-10;segunda-feira;08:26:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;3;3
 2017-07-07;sexta-feira;06:00:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;0;2
 2017-07-11;terca-feira;21:13:00;RJ;101;314.4;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-07-14;sexta-feira;07:30:00;RJ;101;312.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
+2017-07-14;sexta-feira;07:30:00;RJ;101;312.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
 2017-07-16;domingo;07:50:00;RJ;101;331.8;RIO DE JANEIRO;Ingestao de Alcool;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;5;0;0;3
-2017-07-17;segunda-feira;15:35:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-07-17;segunda-feira;15:35:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-07-17;segunda-feira;20:10:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Multipla;Ponte;Sim;3;0;0;3
 2017-07-22;sabado;23:50:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
 2017-07-23;domingo;15:28:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Nao;3;0;0;3
-2017-07-23;domingo;11:30:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;0;1
-2017-07-22;sabado;19:58:00;RJ;101;304.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-07-23;domingo;11:30:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;2;1
+2017-07-22;sabado;19:58:00;RJ;101;304.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-07-22;sabado;09:19:00;RJ;101;329.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;0;4
 2017-07-26;quarta-feira;05:20:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2017-07-28;sexta-feira;20:05:00;RJ;101;331.3;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Nao;2;0;0;2
+2017-07-28;sexta-feira;20:05:00;RJ;101;331.3;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Nao;2;0;1;2
 2017-07-29;sabado;21:09:00;RJ;101;313.5;SAO GONCALO;Ultrapassagem Indevida;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;3
-2017-07-31;segunda-feira;11:22:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;1;0;0;1
-2017-08-01;terca-feira;08:54:00;RJ;101;326.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-08-02;quarta-feira;05:30:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Sim;4;0;0;2
+2017-07-31;segunda-feira;11:22:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;1;0;1;1
+2017-08-01;terca-feira;08:54:00;RJ;101;326.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
+2017-08-02;quarta-feira;05:30:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Sim;4;0;1;2
 2017-08-03;quinta-feira;20:23:00;RJ;101;311.4;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-08-04;sexta-feira;01:55:00;RJ;101;309.3;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2017-08-04;sexta-feira;11:20:00;RJ;101;307.3;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Animal;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;0;1
-2017-08-04;sexta-feira;18:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-08-04;sexta-feira;01:55:00;RJ;101;309.3;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
+2017-08-04;sexta-feira;11:20:00;RJ;101;307.3;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Animal;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
+2017-08-04;sexta-feira;18:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-08-05;sabado;00:01:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;2;1
 2017-08-05;sabado;01:52:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Nao;1;0;0;1
 2017-08-05;sabado;03:12:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Chuva;Dupla;Reta;Nao;3;0;0;3
-2017-08-06;domingo;01:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;0;2
-2017-08-07;segunda-feira;08:00:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
+2017-08-06;domingo;01:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;4;2
+2017-08-07;segunda-feira;08:00:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
 2017-08-08;terca-feira;07:10:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
 2017-08-08;terca-feira;09:05:00;RJ;101;312.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2017-08-10;quinta-feira;06:30:00;RJ;101;308.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-08-10;quinta-feira;06:30:00;RJ;101;308.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-08-11;sexta-feira;22:10:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-08-12;sabado;05:12:00;RJ;101;318.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-08-12;sabado;16:00:00;RJ;101;312.0;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;0;1
-2017-08-13;domingo;12:10:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-08-12;sabado;16:00:00;RJ;101;312.0;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
+2017-08-13;domingo;12:10:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-08-14;segunda-feira;01:00:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-08-14;segunda-feira;05:22:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;4;0;0;3
-2017-08-14;segunda-feira;06:50:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;1;0;0;1
-2017-08-14;segunda-feira;11:27:00;RJ;101;312.6;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;0;1
-2017-07-26;quarta-feira;13:30:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-08-16;quarta-feira;17:14:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Intersecao de Vias;Nao;2;0;0;1
-2017-08-17;quinta-feira;09:45:00;RJ;101;301.7;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-08-14;segunda-feira;05:22:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;4;0;1;3
+2017-08-14;segunda-feira;06:50:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;1;0;1;1
+2017-08-14;segunda-feira;11:27:00;RJ;101;312.6;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;2;1
+2017-07-26;quarta-feira;13:30:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-08-16;quarta-feira;17:14:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Intersecao de Vias;Nao;2;0;2;1
+2017-08-17;quinta-feira;09:45:00;RJ;101;301.7;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-08-20;domingo;20:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Nao;3;0;0;2
 2017-08-22;terca-feira;06:24:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Sim;1;0;0;1
 2017-07-30;domingo;14:30:00;RJ;101;307.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Sim;4;0;0;4
 2017-08-22;terca-feira;18:00:00;RJ;101;331.8;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2017-08-24;quinta-feira;17:31:00;RJ;101;332.0;RIO DE JANEIRO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Nao;2;0;0;2
-2017-08-25;sexta-feira;20:00:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
+2017-08-24;quinta-feira;17:31:00;RJ;101;332.0;RIO DE JANEIRO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Nao;2;0;1;2
+2017-08-25;sexta-feira;20:00:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
 2017-08-26;sabado;16:30:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
 2017-08-26;sabado;11:40:00;RJ;101;313.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;2
-2017-08-26;sabado;19:10:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
+2017-08-26;sabado;19:10:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
 2017-08-27;domingo;10:00:00;RJ;101;324.8;NITEROI;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2017-08-28;segunda-feira;01:30:00;RJ;101;308.9;SAO GONCALO;Ingestao de Alcool;Colisao frontal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;0;2
-2017-08-28;segunda-feira;06:30:00;RJ;101;307.3;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-08-28;segunda-feira;17:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-08-28;segunda-feira;01:30:00;RJ;101;308.9;SAO GONCALO;Ingestao de Alcool;Colisao frontal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;2;2
+2017-08-28;segunda-feira;06:30:00;RJ;101;307.3;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-08-28;segunda-feira;17:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-08-29;terca-feira;16:25:00;RJ;101;316.4;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-08-31;quinta-feira;09:29:00;RJ;101;323.1;NITEROI;Restricao de Visibilidade;Engavetamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;4;0;0;3
+2017-08-31;quinta-feira;09:29:00;RJ;101;323.1;NITEROI;Restricao de Visibilidade;Engavetamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;4;0;2;3
 2017-08-31;quinta-feira;16:00:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;Intersecao de Vias;Sim;1;0;0;1
-2017-09-01;sexta-feira;10:47:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;0;1
+2017-09-01;sexta-feira;10:47:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;1;1
 2017-09-02;sabado;22:40:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Fatais;Plena Noite;Nublado;Dupla;Reta;Sim;2;1;0;2
-2017-09-03;domingo;18:00:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;4;0;0;3
-2017-09-03;domingo;18:46:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;3;0;0;2
+2017-09-03;domingo;18:00:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;4;0;1;3
+2017-09-03;domingo;18:46:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;3;0;1;2
 2017-09-04;segunda-feira;12:21:00;RJ;101;328.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-09-05;terca-feira;15:20:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-05;terca-feira;17:15:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-09-05;terca-feira;17:15:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-09-06;quarta-feira;10:25:00;RJ;101;314.0;SAO GONCALO;Ingestao de Substancias Psicoativas;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;3;0;0;3
 2017-09-07;quinta-feira;06:40:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2017-09-08;sexta-feira;11:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-08;sexta-feira;07:20:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-08;sexta-feira;10:00:00;RJ;101;305.1;SAO GONCALO;Velocidade Incompativel;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;1
-2017-09-08;sexta-feira;17:00:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;3;0;0;2
-2017-09-10;domingo;17:20:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;3;0;0;3
-2017-09-12;terca-feira;10:00:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;0;3
-2017-08-28;segunda-feira;19:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-09-13;quarta-feira;17:40:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Nao;2;0;0;2
-2017-09-13;quarta-feira;16:30:00;RJ;101;312.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-13;quarta-feira;16:30:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-13;quarta-feira;16:30:00;RJ;101;313.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;1
+2017-09-08;sexta-feira;11:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-09-08;sexta-feira;07:20:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-09-08;sexta-feira;10:00:00;RJ;101;305.1;SAO GONCALO;Velocidade Incompativel;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
+2017-09-08;sexta-feira;17:00:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;3;0;2;2
+2017-09-10;domingo;17:20:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;3;0;1;3
+2017-09-12;terca-feira;10:00:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
+2017-08-28;segunda-feira;19:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-09-13;quarta-feira;17:40:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Nao;2;0;1;2
+2017-09-13;quarta-feira;16:30:00;RJ;101;312.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-09-13;quarta-feira;16:30:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-09-13;quarta-feira;16:30:00;RJ;101;313.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
 2017-09-14;quinta-feira;07:53:00;RJ;101;308.6;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;1;3
-2017-09-15;sexta-feira;07:00:00;RJ;101;317.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-09-15;sexta-feira;07:00:00;RJ;101;317.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-07-24;segunda-feira;16:19:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2017-09-18;segunda-feira;07:45:00;RJ;101;313.4;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-21;quinta-feira;07:20:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;0;0;2
-2017-09-22;sexta-feira;07:42:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Aclive;Nao;4;0;0;3
-2017-09-22;sexta-feira;18:07:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;0;3
+2017-09-18;segunda-feira;07:45:00;RJ;101;313.4;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-09-21;quinta-feira;07:20:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;0;1;2
+2017-09-22;sexta-feira;07:42:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer;Sol;Dupla;Aclive;Nao;4;0;1;3
+2017-09-22;sexta-feira;18:07:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;2;3
 2017-09-22;sexta-feira;20:27:00;RJ;101;322.7;NITEROI;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-09-22;sexta-feira;20:46:00;RJ;101;304.3;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ignorado;Dupla;Reta;Nao;3;0;0;2
-2017-09-24;domingo;05:00:00;RJ;101;327.0;NITEROI;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-09-25;segunda-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;1;2
-2017-09-26;terca-feira;07:00:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-26;terca-feira;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;4;0;0;2
+2017-09-22;sexta-feira;20:46:00;RJ;101;304.3;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ignorado;Dupla;Reta;Nao;3;0;2;2
+2017-09-24;domingo;05:00:00;RJ;101;327.0;NITEROI;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-09-25;segunda-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;2;2
+2017-09-26;terca-feira;07:00:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-09-26;terca-feira;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;4;0;2;2
 2017-09-28;quinta-feira;08:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-09-28;quinta-feira;08:15:00;RJ;101;311.3;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-09-29;sexta-feira;06:56:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Viaduto;Sim;1;0;0;1
+2017-09-28;quinta-feira;08:15:00;RJ;101;311.3;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
+2017-09-29;sexta-feira;06:56:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Viaduto;Sim;1;0;1;1
 2017-09-29;sexta-feira;21:15:00;RJ;101;316.0;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ignorado;Multipla;Reta;Sim;2;0;0;2
 2017-09-30;sabado;23:20:00;RJ;101;316.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Curva;Nao;1;0;0;1
 2017-10-01;domingo;06:00:00;RJ;101;318.1;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer;Ceu Claro;Simples;Curva;Sim;2;0;2;1
-2017-10-02;segunda-feira;06:30:00;RJ;101;314.7;SAO GONCALO;Falta de Atencao do Pedestre;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-10-02;segunda-feira;18:24:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;3;0;0;3
-2017-10-03;terca-feira;21:50:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-10-04;quarta-feira;06:38:00;RJ;101;317.0;SAO GONCALO;Restricao de Visibilidade;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-10-04;quarta-feira;15:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Declive;Nao;2;0;0;2
-2017-10-06;sexta-feira;17:11:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-10-10;terca-feira;19:30:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-10-11;quarta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-10-11;quarta-feira;11:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-10-02;segunda-feira;06:30:00;RJ;101;314.7;SAO GONCALO;Falta de Atencao do Pedestre;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;3;0;3;3
+2017-10-02;segunda-feira;18:24:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;3;0;1;3
+2017-10-03;terca-feira;21:50:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-10-04;quarta-feira;06:38:00;RJ;101;317.0;SAO GONCALO;Restricao de Visibilidade;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;2;2
+2017-10-04;quarta-feira;15:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Declive;Nao;2;0;1;2
+2017-10-06;sexta-feira;17:11:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-10-10;terca-feira;19:30:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-10-11;quarta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-10-11;quarta-feira;11:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-10-11;quarta-feira;21:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-10-14;sabado;11:10:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2017-10-15;domingo;06:00:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer;Chuva;Dupla;Reta;Nao;2;0;0;1
+2017-10-15;domingo;06:00:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer;Chuva;Dupla;Reta;Nao;2;0;1;1
 2017-10-15;domingo;14:01:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;0;1
-2017-10-16;segunda-feira;06:50:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Nao;2;0;0;2
+2017-10-16;segunda-feira;06:50:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Nao;2;0;1;2
 2017-10-16;segunda-feira;14:50:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;0;2
-2017-10-16;segunda-feira;14:19:00;RJ;101;318.0;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;0;1
-2017-10-17;terca-feira;08:30:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-10-18;quarta-feira;08:00:00;RJ;101;323.9;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-10-16;segunda-feira;14:19:00;RJ;101;318.0;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
+2017-10-17;terca-feira;08:30:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-10-18;quarta-feira;08:00:00;RJ;101;323.9;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-10-15;domingo;08:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-10-19;quinta-feira;17:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-10-20;sexta-feira;21:36:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;0;4
-2017-10-22;domingo;21:20:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;1;0;0;1
+2017-10-19;quinta-feira;17:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-10-20;sexta-feira;21:36:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;1;4
+2017-10-22;domingo;21:20:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;1;0;1;1
 2017-08-06;domingo;07:20:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;0;3
 2017-10-23;segunda-feira;17:10:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Garoa/Chuvisco;Multipla;"Ponte;Reta";Sim;3;0;0;3
 2017-10-26;quinta-feira;22:00:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-10-27;sexta-feira;21:25:00;RJ;101;324.0;NITEROI;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;2;0;0;2
-2017-10-28;sabado;12:40:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;1;0;0;1
-2017-10-28;sabado;11:44:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;0;2
+2017-10-27;sexta-feira;21:25:00;RJ;101;324.0;NITEROI;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;2;0;1;2
+2017-10-28;sabado;12:40:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;1;0;1;1
+2017-10-28;sabado;11:44:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;1;2
 2017-10-28;sabado;22:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Chuva;Dupla;Curva;Sim;1;0;0;1
 2017-10-29;domingo;09:20:00;RJ;101;303.5;SAO GONCALO;Restricao de Visibilidade;Capotamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
 2017-10-29;domingo;17:25:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;2;2
-2017-10-31;terca-feira;05:50:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Nao;2;0;0;2
-2017-10-31;terca-feira;10:20:00;RJ;101;315.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-10-31;terca-feira;05:50:00;RJ;101;321.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Nao;2;0;1;2
+2017-10-31;terca-feira;10:20:00;RJ;101;315.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-11-02;quinta-feira;06:50:00;RJ;101;317.8;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;0;2
 2017-11-04;sabado;23:30:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-11-05;domingo;04:45:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
 2017-11-06;segunda-feira;06:00:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-11-06;segunda-feira;18:43:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;1
+2017-11-06;segunda-feira;18:43:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
 2017-11-06;segunda-feira;22:55:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;3;0;1;3
 2017-11-06;segunda-feira;01:35:00;RJ;101;312.0;SAO GONCALO;Pista Escorregadia;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ignorado;Dupla;Reta;Nao;1;0;0;1
-2017-11-10;sexta-feira;07:15:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-11-10;sexta-feira;07:15:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-11-10;sexta-feira;20:07:00;RJ;101;333.0;RIO DE JANEIRO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2017-11-11;sabado;16:00:00;RJ;101;322.5;NITEROI;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Nao;1;0;0;1
+2017-11-11;sabado;16:00:00;RJ;101;322.5;NITEROI;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Nao;1;0;1;1
 2017-11-11;sabado;19:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Chuva;Multipla;Reta;Sim;2;0;0;2
-2017-11-12;domingo;06:30:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-11-13;segunda-feira;01:05:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Nao;1;0;0;1
+2017-11-12;domingo;06:30:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
+2017-11-13;segunda-feira;01:05:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Nao;1;0;1;1
 2017-11-16;quinta-feira;01:44:00;RJ;101;308.3;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-11-18;sabado;05:00:00;RJ;101;307.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
 2017-11-18;sabado;11:20:00;RJ;101;306.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;3;0;1;2
-2017-11-18;sabado;13:00:00;RJ;101;310.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;0;2
+2017-11-18;sabado;13:00:00;RJ;101;310.9;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;2;2
 2017-11-19;domingo;03:05:00;RJ;101;321.1;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Garoa/Chuvisco;Dupla;Curva;Sim;1;0;0;1
 2017-11-19;domingo;21:10:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;0;2
 2017-11-19;domingo;23:10:00;RJ;101;312.5;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Chuva;Dupla;Reta;Sim;2;1;0;2
 2017-11-20;segunda-feira;06:30:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Chuva;Dupla;Rotatoria;Nao;1;0;0;1
-2017-11-20;segunda-feira;05:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;3;0;0;2
-2017-11-20;segunda-feira;21:45:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-11-21;terca-feira;13:40:00;RJ;101;321.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;0;2
+2017-11-20;segunda-feira;05:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;3;0;2;2
+2017-11-20;segunda-feira;21:45:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
+2017-11-21;terca-feira;13:40:00;RJ;101;321.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
 2017-11-23;quinta-feira;21:20:00;RJ;101;307.4;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;1;0;0;1
-2017-11-24;sexta-feira;07:58:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;1
+2017-11-24;sexta-feira;07:58:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
 2017-11-24;sexta-feira;18:50:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2017-11-24;sexta-feira;22:22:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;5;0;1;3
-2017-11-25;sabado;11:04:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
-2017-11-29;quarta-feira;13:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Sim;2;0;0;1
+2017-11-24;sexta-feira;22:22:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;5;0;5;3
+2017-11-25;sabado;11:04:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
+2017-11-29;quarta-feira;13:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Sim;2;0;2;1
 2017-11-29;quarta-feira;12:20:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;5;0;0;5
-2017-11-30;quinta-feira;06:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2017-11-30;quinta-feira;16:40:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;0;2
-2017-11-30;quinta-feira;20:48:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;0;2
+2017-11-30;quinta-feira;06:50:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
+2017-11-30;quinta-feira;16:40:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;1;2
+2017-11-30;quinta-feira;20:48:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;1;2
 2017-12-01;sexta-feira;01:20:00;RJ;101;320.5;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Garoa/Chuvisco;Dupla;Curva;Sim;1;0;0;1
-2017-12-02;sabado;07:05:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-12-02;sabado;07:05:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-12-02;sabado;19:30:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ignorado;Multipla;Curva;Sim;1;0;0;1
-2017-12-03;domingo;19:32:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;0;1
+2017-12-03;domingo;19:32:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;1
 2017-12-04;segunda-feira;04:00:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;1;0;0;1
-2017-12-05;terca-feira;17:30:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Ponte;Nao;2;0;0;2
+2017-12-05;terca-feira;17:30:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Ponte;Nao;2;0;1;2
 2017-12-07;quinta-feira;22:10:00;RJ;101;318.0;SAO GONCALO;Ingestao de Alcool;Colisao frontal;Sem Vitimas;Plena Noite;Ceu Claro;Simples;"Curva;Declive;Retorno Regulamentado";Sim;2;0;0;2
 2017-12-07;quinta-feira;09:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2017-12-08;sexta-feira;07:00:00;RJ;101;318.1;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;0;2
-2017-12-08;sexta-feira;18:11:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;4;0;0;4
+2017-12-08;sexta-feira;07:00:00;RJ;101;318.1;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;1;2
+2017-12-08;sexta-feira;18:11:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;4;0;1;4
 2017-12-09;sabado;07:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2017-12-10;domingo;07:07:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;3;0;0;3
-2017-12-11;segunda-feira;15:50:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2017-12-11;segunda-feira;21:35:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-12-10;domingo;07:07:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;3;0;1;3
+2017-12-11;segunda-feira;15:50:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
+2017-12-11;segunda-feira;21:35:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-12-12;terca-feira;05:30:00;RJ;101;300.6;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Nublado;Dupla;Reta;Sim;1;0;0;1
-2017-12-12;terca-feira;13:07:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-12-14;quinta-feira;17:00:00;RJ;101;328.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-10-04;quarta-feira;15:47:00;RJ;101;316.9;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Aclive;Nao;4;0;0;4
-2017-12-16;sabado;14:05:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Nao;3;0;0;2
-2017-12-17;domingo;12:00:00;RJ;101;330.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;0;2
+2017-12-12;terca-feira;13:07:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
+2017-12-14;quinta-feira;17:00:00;RJ;101;328.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
+2017-10-04;quarta-feira;15:47:00;RJ;101;316.9;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Aclive;Nao;4;0;1;4
+2017-12-16;sabado;14:05:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Nao;3;0;2;2
+2017-12-17;domingo;12:00:00;RJ;101;330.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
 2017-12-17;domingo;16:45:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2017-12-18;segunda-feira;11:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;1
-2017-12-18;segunda-feira;11:10:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
+2017-12-18;segunda-feira;11:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
+2017-12-18;segunda-feira;11:10:00;RJ;101;325.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
 2017-12-18;segunda-feira;21:00:00;RJ;101;308.0;SAO GONCALO;Restricao de Visibilidade;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-11-13;segunda-feira;09:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;0;4
+2017-11-13;segunda-feira;09:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;2;4
 2017-12-16;sabado;14:31:00;RJ;101;318.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Sem Vitimas;Pleno dia;Sol;Multipla;Curva;Nao;2;0;0;2
-2017-12-20;quarta-feira;17:00:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Nao;6;0;0;3
+2017-12-20;quarta-feira;17:00:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Nao;6;0;1;3
 2017-12-20;quarta-feira;22:15:00;RJ;101;300.6;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;0;1
-2017-12-21;quinta-feira;10:26:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
-2017-12-22;sexta-feira;10:05:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;0;1
-2017-12-22;sexta-feira;14:50:00;RJ;101;319.0;SAO GONCALO;Restricao de Visibilidade;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-12-23;sabado;22:15:00;RJ;101;304.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;3;0;0;1
+2017-12-21;quinta-feira;10:26:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
+2017-12-22;sexta-feira;10:05:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
+2017-12-22;sexta-feira;14:50:00;RJ;101;319.0;SAO GONCALO;Restricao de Visibilidade;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
+2017-12-23;sabado;22:15:00;RJ;101;304.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;3;0;1;1
 2017-12-24;domingo;00:22:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;0;2
 2017-12-25;segunda-feira;10:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;7;0;0;7
-2017-12-25;segunda-feira;16:30:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;5;0;0;4
+2017-12-25;segunda-feira;16:30:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;5;0;1;4
 2017-12-26;terca-feira;15:00:00;RJ;101;324.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
 2017-12-27;quarta-feira;15:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
 2017-12-28;quinta-feira;20:30:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;1
-2017-12-28;quinta-feira;23:12:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;0;2
-2017-12-29;sexta-feira;15:45:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;0;2
+2017-12-28;quinta-feira;23:12:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;1;2
+2017-12-29;sexta-feira;15:45:00;RJ;101;322.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;1;2
 2017-12-30;sabado;12:00:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Sim;1;0;0;1
-2017-12-31;domingo;00:45:00;RJ;101;327.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;0;1
-2017-07-24;segunda-feira;17:45:00;RJ;101;326.5;NITEROI;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;1;0;0;1
+2017-12-31;domingo;00:45:00;RJ;101;327.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;1;1
+2017-07-24;segunda-feira;17:45:00;RJ;101;326.5;NITEROI;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
 2017-09-21;quinta-feira;07:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;1;0;0;1
-2017-10-14;sabado;19:40:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
+2017-10-14;sabado;19:40:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
 2017-12-26;terca-feira;04:35:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;1;0;2
-2017-07-28;sexta-feira;18:47:00;RJ;101;326.5;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;0;1
+2017-07-28;sexta-feira;18:47:00;RJ;101;326.5;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;2;1
 2017-10-19;quinta-feira;11:30:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2017-02-25;sabado;04:33:00;RJ;101;316.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2017-07-28;sexta-feira;22:45:00;RJ;101;307.9;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2017-05-30;terca-feira;15:23:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2017-12-28;quinta-feira;17:26:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;3;0;0;2
+2017-02-25;sabado;04:33:00;RJ;101;316.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
+2017-07-28;sexta-feira;22:45:00;RJ;101;307.9;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
+2017-05-30;terca-feira;15:23:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
+2017-12-28;quinta-feira;17:26:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;3;0;2;2
 2017-02-26;domingo;06:30:00;RJ;101;309.0;SAO GONCALO;Condutor Dormindo;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Retorno Regulamentado;Sim;1;0;1;1
-2017-09-10;domingo;10:00:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;0;3
-2017-10-18;quarta-feira;14:00:00;RJ;101;320.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
+2017-09-10;domingo;10:00:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;1;3
+2017-10-18;quarta-feira;14:00:00;RJ;101;320.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
 2017-12-21;quinta-feira;11:10:00;RJ;101;318.5;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Plena Noite;Ignorado;Dupla;Reta;Nao;1;0;1;1
