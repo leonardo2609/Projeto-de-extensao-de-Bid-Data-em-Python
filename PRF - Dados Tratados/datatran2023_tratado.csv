@@ -1,522 +1,522 @@
 data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia;condicao_metereologica;tipo_pista;tracado_via;uso_solo;pessoas;mortos;feridos;veiculos
-2023-01-03;terca-feira;07:10:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2023-01-23;segunda-feira;22:30:00;RJ;101;310.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral sentido oposto;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;2;0;1;2
-2023-01-24;terca-feira;17:45:00;RJ;101;326.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;Anoitecer;Nublado;Dupla;Reta;Sim;3;0;0;3
-2023-01-28;sabado;11:35:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;6;0;3;6
-2023-02-05;domingo;05:55:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2023-03-06;segunda-feira;13:30:00;RJ;101;312.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2023-03-01;quarta-feira;17:00:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-03-21;terca-feira;17:40:00;RJ;101;331.0;RIO DE JANEIRO;Demais Fenomenos da natureza;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;4;0;1;4
-2023-03-31;sexta-feira;02:10:00;RJ;101;319.0;NITEROI;Mal subito do condutor;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;1;0;1;1
-2023-03-29;quarta-feira;19:24:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
-2023-04-06;quinta-feira;13:50:00;RJ;101;319.0;NITEROI;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2023-04-19;quarta-feira;22:00:00;RJ;101;315.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-05-04;quinta-feira;19:30:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao transversal;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2023-05-24;quarta-feira;09:00:00;RJ;101;328.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;1;0;2
-2023-05-27;sabado;15:20:00;RJ;101;328.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;1;4
-2023-06-06;terca-feira;22:20:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nevoeiro/Neblina;Dupla;Reta;Sim;2;0;1;2
-2023-06-07;quarta-feira;17:00:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;"Ponte;Reta";Nao;2;0;1;2
-2023-06-07;quarta-feira;11:30:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2023-07-06;quinta-feira;08:15:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-07-10;segunda-feira;17:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-07-31;segunda-feira;20:25:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-08-01;terca-feira;09:17:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;"Declive;Ponte;Reta";Nao;3;0;0;3
-2023-08-18;sexta-feira;14:55:00;RJ;101;332.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Reta;Ponte";Sim;2;0;1;2
-2023-08-24;quinta-feira;10:52:00;RJ;101;333.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2023-08-28;segunda-feira;19:00:00;RJ;101;308.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Plena Noite;Chuva;Dupla;Reta;Sim;2;0;0;2
-2023-06-26;segunda-feira;18:00:00;RJ;101;309.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Fatais;Anoitecer;Ignorado;Dupla;Reta;Sim;4;1;0;3
-2023-09-04;segunda-feira;08:05:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;0;1;2
-2023-09-04;segunda-feira;14:45:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Fatais;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;1;0;3
-2023-05-11;quinta-feira;16:15:00;RJ;101;313.0;SAO GONCALO;Acesso irregular;Atropelamento de Pedestre;Com Vitimas Fatais;Pleno dia;Nublado;Dupla;Reta;Sim;2;1;0;2
-2023-09-21;quinta-feira;21:20:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;"Reta;Ponte";Sim;3;0;2;2
-2023-09-29;sexta-feira;09:24:00;RJ;101;310.0;SAO GONCALO;Frear bruscamente;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-10-11;quarta-feira;12:20:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2023-10-17;terca-feira;14:40:00;RJ;101;322.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;0;1
-2023-10-27;sexta-feira;02:00:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Fatais;Plena Noite;Nublado;Dupla;Reta;Sim;3;1;0;2
-2023-11-15;quarta-feira;04:35:00;RJ;101;309.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Colisao com objeto;Com Vitimas Fatais;Amanhecer;Ceu Claro;Dupla;Reta;Sim;3;1;1;2
-2023-11-17;sexta-feira;07:20:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Sim;3;0;1;2
-2023-12-01;sexta-feira;07:15:00;RJ;101;309.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2023-12-02;sabado;18:00:00;RJ;101;305.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
-2023-12-21;quinta-feira;07:00:00;RJ;101;308.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Reta;Viaduto";Nao;2;0;1;1
-2023-12-21;quinta-feira;13:10:00;RJ;101;328.0;NITEROI;Demais Fenomenos da natureza;Tombamento;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;"Ponte;Reta";Nao;2;0;0;2
-2023-12-12;terca-feira;14:50:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-01-24;terca-feira;15:20:00;RJ;101;308.4;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;1;4
-2023-02-27;segunda-feira;09:20:00;RJ;101;306.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2023-04-15;sabado;22:50:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;3;0;1;3
-2023-05-03;quarta-feira;08:50:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
-2023-05-13;sabado;11:00:00;RJ;101;328.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;"Reta;Declive;Ponte";Nao;3;0;1;3
-2023-10-18;quarta-feira;16:05:00;RJ;101;331.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;0;2
-2023-11-24;sexta-feira;20:00:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;6;0;0;5
-2023-01-01;domingo;06:47:00;RJ;101;307.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Fatais;Amanhecer;Ceu Claro;Dupla;Reta;Sim;1;1;0;1
-2023-01-01;domingo;08:42:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2023-01-02;segunda-feira;05:50:00;RJ;101;305.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;5;0;1;2
-2023-01-03;terca-feira;08:00:00;RJ;101;318.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-01-03;terca-feira;09:50:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;1;3
-2023-01-03;terca-feira;06:42:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2023-01-07;sabado;12:20:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;8;0;1;6
-2023-01-08;domingo;06:40:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Simples;Reta;Sim;1;0;1;1
-2023-01-08;domingo;17:50:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer;Garoa/Chuvisco;Dupla;Ponte;Sim;2;0;1;2
-2023-01-08;domingo;19:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;Reta;Nao;3;0;1;3
-2023-01-11;quarta-feira;06:10:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-01-12;quinta-feira;13:50:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Nao;2;0;0;2
-2023-01-12;quinta-feira;19:58:00;RJ;101;330.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;"Ponte;Reta";Sim;3;0;1;2
-2023-01-14;sabado;10:40:00;RJ;101;311.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;2;2
-2023-01-14;sabado;12:30:00;RJ;101;304.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;1;0;1;1
-2023-01-14;sabado;16:20:00;RJ;101;327.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;1;0;0;1
-2023-01-15;domingo;18:40:00;RJ;101;321.5;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;3;0;1;2
-2023-01-17;terca-feira;08:45:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-01-17;terca-feira;12:40:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Declive;Ponte;Reta";Sim;2;0;2;2
-2023-01-17;terca-feira;21:20:00;RJ;101;316.0;SAO GONCALO;Acumulo de areia ou detritos sobre o pavimento;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2023-01-19;quinta-feira;12:25:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-01-19;quinta-feira;19:00:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
-2023-01-20;sexta-feira;13:35:00;RJ;101;307.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-01-19;quinta-feira;20:46:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;Reta;Sim;2;0;1;2
-2023-01-25;quarta-feira;14:40:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-01-22;domingo;18:10:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;"Ponte;Reta";Sim;3;0;1;2
-2023-01-26;quinta-feira;07:25:00;RJ;101;309.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
-2023-01-22;domingo;20:20:00;RJ;101;315.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Sim;2;0;2;1
-2023-01-22;domingo;20:00:00;RJ;101;321.0;NITEROI;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-01-27;sexta-feira;06:00:00;RJ;101;305.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Animal;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2023-01-08;domingo;10:30:00;RJ;101;302.6;SAO GONCALO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;2;1
-2023-01-28;sabado;08:40:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2023-01-29;domingo;15:12:00;RJ;101;325.0;NITEROI;Condutor Dormindo;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Reta;Ponte";Nao;2;0;1;2
-2023-01-31;terca-feira;08:50:00;RJ;101;319.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2023-01-31;terca-feira;21:50:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Capotamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;Reta;Sim;1;0;1;1
-2023-02-01;quarta-feira;07:20:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;"Reta;Ponte";Sim;3;0;1;2
-2023-01-12;quinta-feira;07:10:00;RJ;101;324.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;4;0;1;2
-2023-02-02;quinta-feira;08:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-01-30;segunda-feira;16:40:00;RJ;101;311.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;1
-2023-02-03;sexta-feira;16:00:00;RJ;101;329.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Multipla;Reta;Nao;2;0;1;2
-2023-02-04;sabado;21:00:00;RJ;101;319.0;SAO GONCALO;Entrada inopinada do pedestre;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite;Ceu Claro;Simples;Reta;Nao;2;0;0;2
-2023-02-07;terca-feira;08:15:00;RJ;101;319.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2023-02-07;terca-feira;06:45:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;2;0;1;2
-2023-02-09;quinta-feira;07:40:00;RJ;101;325.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;0;2
-2023-02-13;segunda-feira;05:00:00;RJ;101;332.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Amanhecer;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
-2023-02-13;segunda-feira;10:10:00;RJ;101;327.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;1;4
-2023-02-13;segunda-feira;17:40:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;3;0;1;2
-2023-02-15;quarta-feira;12:55:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-02-16;quinta-feira;06:05:00;RJ;101;306.6;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Reta;Viaduto";Sim;11;0;7;2
-2023-02-13;segunda-feira;19:14:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite;Garoa/Chuvisco;Multipla;Reta;Nao;2;0;0;2
-2023-02-13;segunda-feira;02:30:00;RJ;101;318.0;SAO GONCALO;Ingestao de alcool e/ou substancias psicoativas pelo pedestre;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-02-16;quinta-feira;23:00:00;RJ;101;325.0;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;6;0;5;2
-2023-02-18;sabado;08:45:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-02-18;sabado;07:10:00;RJ;101;304.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-02-20;segunda-feira;21:05:00;RJ;101;307.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;7;0;4;2
-2023-02-21;terca-feira;07:52:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia;Ceu Claro;Simples;"Reta;Ponte";Sim;4;0;0;2
-2023-02-21;terca-feira;17:58:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-02-21;terca-feira;20:30:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;1;4
-2023-02-22;quarta-feira;11:50:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;1;1
-2023-02-22;quarta-feira;10:00:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;1;0;1;1
-2023-02-22;quarta-feira;13:30:00;RJ;101;309.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Sim;1;0;0;1
-2023-02-23;quinta-feira;07:00:00;RJ;101;307.8;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;0;2
-2023-02-23;quinta-feira;07:30:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-02-23;quinta-feira;12:40:00;RJ;101;306.7;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;1;2
-2023-02-25;sabado;15:10:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2023-02-26;domingo;06:12:00;RJ;101;330.0;RIO DE JANEIRO;Ingestao de alcool pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-02-26;domingo;05:30:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-02-27;segunda-feira;07:20:00;RJ;101;316.5;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;2;2
-2023-02-28;terca-feira;08:00:00;RJ;101;319.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-02-28;terca-feira;09:30:00;RJ;101;311.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2023-02-28;terca-feira;16:00:00;RJ;101;321.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;4;0;1;4
-2023-03-01;quarta-feira;14:00:00;RJ;101;307.0;SAO GONCALO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-03-02;quinta-feira;06:40:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-03-03;sexta-feira;10:20:00;RJ;101;318.0;SAO GONCALO;Acumulo de areia ou detritos sobre o pavimento;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Curva;Sim;1;0;1;1
-2023-03-03;sexta-feira;21:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;"Reta;Ponte";Sim;2;0;1;2
-2023-03-04;sabado;17:00:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Nao;2;0;0;2
-2023-03-05;domingo;19:00:00;RJ;101;317.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;2;0;0;1
-2023-03-06;segunda-feira;16:00:00;RJ;101;328.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;1;1
-2023-03-06;segunda-feira;07:25:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-03-07;terca-feira;07:35:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;5;0;2;5
-2023-03-08;quarta-feira;15:40:00;RJ;101;321.0;NITEROI;Velocidade Incompativel;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Nao;2;0;2;1
-2023-03-08;quarta-feira;22:00:00;RJ;101;306.0;SAO GONCALO;Ingestao de alcool pelo condutor;Capotamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2023-03-02;quinta-feira;07:10:00;RJ;101;317.0;SAO GONCALO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;2
-2023-03-10;sexta-feira;05:50:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-03-11;sabado;18:40:00;RJ;101;307.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite;Chuva;Simples;Reta;Sim;1;0;0;1
-2023-03-13;segunda-feira;07:37:00;RJ;101;316.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;5;0;2;2
-2023-03-13;segunda-feira;08:03:00;RJ;101;320.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;1;3
-2023-03-14;terca-feira;04:00:00;RJ;101;314.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;1;0;2
-2023-03-14;terca-feira;10:30:00;RJ;101;333.0;RIO DE JANEIRO;Frear bruscamente;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;0;1;2
-2023-03-15;quarta-feira;06:20:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-03-15;quarta-feira;08:00:00;RJ;101;318.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2023-03-15;quarta-feira;14:16:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Reta;Ponte";Nao;3;0;1;2
-2023-03-19;domingo;11:40:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
-2023-03-20;segunda-feira;07:30:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-03-20;segunda-feira;07:45:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-03-21;terca-feira;09:40:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Sim;3;0;0;3
-2023-03-22;quarta-feira;13:45:00;RJ;101;302.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Sem Vitimas;Pleno dia;Sol;Dupla;"Declive;Reta";Sim;4;0;0;3
-2023-03-22;quarta-feira;13:48:00;RJ;101;303.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-03-23;quinta-feira;09:20:00;RJ;101;326.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Reta;Ponte";Nao;2;0;1;2
-2023-03-24;sexta-feira;06:40:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-03-24;sexta-feira;07:00:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-03-26;domingo;21:40:00;RJ;101;333.0;RIO DE JANEIRO;Acessar a via sem observar a presenca dos outros veiculos;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;"Curva;Declive;Ponte";Nao;1;0;1;1
-2023-03-09;quinta-feira;15:35:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;"Ponte;Reta";Sim;4;0;1;3
-2023-03-30;quinta-feira;17:30:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;"Aclive;Curva";Sim;3;0;1;2
-2023-03-31;sexta-feira;20:48:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;1;0;1;1
-2023-04-01;sabado;10:30:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-04-03;segunda-feira;16:00:00;RJ;101;324.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-04-03;segunda-feira;18:00:00;RJ;101;312.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-03-31;sexta-feira;17:40:00;RJ;101;332.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-04-06;quinta-feira;15:20:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;"Reta;Ponte";Sim;3;0;1;3
-2023-04-06;quinta-feira;17:15:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-04-06;quinta-feira;19:10:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao transversal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-04-07;sexta-feira;20:20:00;RJ;101;309.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2023-04-04;terca-feira;09:00:00;RJ;101;316.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-04-09;domingo;07:58:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;2;0;2;1
-2023-04-10;segunda-feira;09:25:00;RJ;101;329.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;0;4
-2023-04-10;segunda-feira;16:00:00;RJ;101;315.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;1;2
-2023-04-11;terca-feira;20:06:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;4;0;2;2
-2023-02-11;sabado;10:00:00;RJ;101;332.0;RIO DE JANEIRO;Pedestre andava na pista;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;3;0;2;2
-2023-04-13;quinta-feira;19:30:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2023-04-14;sexta-feira;07:50:00;RJ;101;317.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-04-06;quinta-feira;07:30:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2023-04-15;sabado;15:30:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Curva;Sim;3;0;2;2
-2023-04-15;sabado;21:40:00;RJ;101;309.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;3;0;1;2
-2023-04-16;domingo;06:45:00;RJ;101;301.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;1;1
-2023-04-16;domingo;12:45:00;RJ;101;301.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;0;3
-2023-04-16;domingo;19:17:00;RJ;101;322.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Nublado;Multipla;"Reta;Ponte";Sim;4;0;2;2
-2023-04-17;segunda-feira;08:30:00;RJ;101;313.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;1
-2023-04-15;sabado;02:00:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-04-17;segunda-feira;03:30:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;3;0;2;1
-2023-04-20;quinta-feira;06:27:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
-2023-04-20;quinta-feira;07:14:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;1;0;1;1
-2023-04-20;quinta-feira;09:15:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Eventos atipicos;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Nao;1;0;1;1
-2023-04-21;sexta-feira;08:00:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-04-21;sexta-feira;10:30:00;RJ;101;308.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;1;3
-2023-04-21;sexta-feira;21:20:00;RJ;101;310.9;SAO GONCALO;Ingestao de alcool pelo condutor;Colisao com objeto;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2023-04-23;domingo;14:30:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;1;2
-2023-04-20;quinta-feira;23:00:00;RJ;101;312.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite;Ceu Claro;Simples;Reta;Sim;1;0;0;1
-2023-04-24;segunda-feira;11:50:00;RJ;101;305.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;3;0;2;2
-2023-04-25;terca-feira;08:00:00;RJ;101;315.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-04-26;quarta-feira;08:50:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;"Reta;Ponte";Sim;2;0;1;2
-2023-04-26;quarta-feira;13:20:00;RJ;101;324.0;NITEROI;Mal subito do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;1;4
-2023-04-26;quarta-feira;19:20:00;RJ;101;313.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;2;1
-2023-03-31;sexta-feira;09:40:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Nao;2;0;1;2
-2023-04-24;segunda-feira;20:55:00;RJ;101;333.0;RIO DE JANEIRO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;"Ponte;Reta";Sim;2;0;1;2
-2023-05-01;segunda-feira;18:50:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;"Reta;Aclive";Sim;2;0;1;2
-2023-05-03;quarta-feira;09:00:00;RJ;101;308.3;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2023-05-03;quarta-feira;11:10:00;RJ;101;303.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-03-05;domingo;03:50:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Multipla;Reta;Nao;5;1;1;3
-2023-05-03;quarta-feira;18:20:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;"Reta;Aclive";Nao;2;0;2;2
-2023-05-03;quarta-feira;23:15:00;RJ;101;320.0;NITEROI;Estacionar ou parar em local proibido;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Nao;2;0;1;2
-2023-05-04;quinta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
-2023-05-04;quinta-feira;15:30:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2023-05-05;sexta-feira;19:00:00;RJ;101;318.0;SAO GONCALO;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-05-06;sabado;09:40:00;RJ;101;333.0;RIO DE JANEIRO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Ponte;Reta";Sim;4;0;2;3
-2023-05-08;segunda-feira;17:40:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2023-05-08;segunda-feira;18:00:00;RJ;101;319.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-05-09;terca-feira;10:15:00;RJ;101;319.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-05-09;terca-feira;11:30:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2023-03-22;quarta-feira;13:00:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;0;1;2
-2023-05-06;sabado;23:30:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;2;1
-2023-05-12;sexta-feira;06:05:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Reta;Sim;2;0;1;2
-2023-05-10;quarta-feira;08:00:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Nao;2;0;1;2
-2023-05-08;segunda-feira;18:50:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-05-12;sexta-feira;13:40:00;RJ;101;321.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;1;0;0;1
-2023-05-12;sexta-feira;19:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;1;4
-2023-05-12;sexta-feira;22:36:00;RJ;101;299.5;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;4;0;1;2
-2023-05-13;sabado;04:50:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Sem Vitimas;Amanhecer;Garoa/Chuvisco;Simples;Reta;Sim;3;0;0;2
-2023-05-14;domingo;00:45:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2023-05-14;domingo;14:25:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Ponte;Reta";Nao;2;0;1;2
-2023-05-15;segunda-feira;19:20:00;RJ;101;333.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
-2023-05-15;segunda-feira;07:30:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;1;2
-2023-05-19;sexta-feira;19:25:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-05-20;sabado;14:40:00;RJ;101;325.0;NITEROI;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Nao;2;0;1;1
-2023-05-21;domingo;05:00:00;RJ;101;320.0;NITEROI;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Nevoeiro/Neblina;Simples;Reta;Sim;2;0;1;2
-2023-05-21;domingo;06:00:00;RJ;101;320.0;NITEROI;Mal subito do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Curva;Sim;2;0;2;1
-2023-05-18;quinta-feira;16:50:00;RJ;101;334.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Nao;1;0;1;1
-2023-05-24;quarta-feira;08:20:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Nao;3;0;2;2
-2023-05-22;segunda-feira;08:00:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
-2023-05-26;sexta-feira;09:50:00;RJ;101;309.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;1;2
-2023-05-01;segunda-feira;13:10:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Ponte;Aclive;Reta";Nao;4;0;1;4
-2023-05-28;domingo;10:00:00;RJ;101;310.0;SAO GONCALO;Ingestao de substancias psicoativas pelo condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;1;0;1;1
-2023-05-28;domingo;22:45:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2023-05-30;terca-feira;17:50:00;RJ;101;317.0;SAO GONCALO;Carga excessiva e/ou mal acondicionada;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Sim;4;0;2;3
-2023-05-04;quinta-feira;23:45:00;RJ;101;307.8;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2023-05-31;quarta-feira;10:00:00;RJ;101;329.0;RIO DE JANEIRO;Falta de acostamento;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-06-02;sexta-feira;16:25:00;RJ;101;334.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;1;3
-2023-06-04;domingo;18:20:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;6;0;1;2
-2023-06-06;terca-feira;07:20:00;RJ;101;328.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-06-07;quarta-feira;06:45:00;RJ;101;310.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;2;2
-2023-06-07;quarta-feira;07:35:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Reta;Aclive";Sim;2;0;1;2
-2023-06-09;sexta-feira;10:29:00;RJ;101;312.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;1;2
-2023-06-09;sexta-feira;18:54:00;RJ;101;311.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2023-06-15;quinta-feira;18:58:00;RJ;101;318.8;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-06-12;segunda-feira;10:40:00;RJ;101;313.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-06-17;sabado;05:40:00;RJ;101;313.0;SAO GONCALO;Chuva;Capotamento;Com Vitimas Feridas;Amanhecer;Chuva;Simples;Reta;Nao;2;0;1;2
-2023-06-18;domingo;09:30:00;RJ;101;329.0;RIO DE JANEIRO;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-06-19;segunda-feira;08:03:00;RJ;101;302.3;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;2;1
-2023-06-19;segunda-feira;10:00:00;RJ;101;333.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao frontal;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;"Ponte;Reta";Sim;3;0;2;2
-2023-06-20;terca-feira;06:20:00;RJ;101;329.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
-2023-06-20;terca-feira;09:50:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
-2023-06-21;quarta-feira;07:00:00;RJ;101;319.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-06-22;quinta-feira;12:45:00;RJ;101;320.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2023-06-23;sexta-feira;10:40:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Reta;Ponte";Nao;2;0;1;2
-2023-06-24;sabado;12:25:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-06-26;segunda-feira;06:50:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
-2023-06-27;terca-feira;07:48:00;RJ;101;302.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-06-28;quarta-feira;16:00:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;1;0;1;1
-2023-06-29;quinta-feira;08:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Sim;3;0;2;2
-2023-06-27;terca-feira;10:30:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;"Ponte;Reta";Nao;2;0;0;2
-2023-06-26;segunda-feira;05:30:00;RJ;101;305.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-06-30;sexta-feira;19:00:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;1;0;0;1
-2023-06-30;sexta-feira;21:00:00;RJ;101;319.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2023-07-01;sabado;11:30:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Ponte;Reta";Nao;4;0;2;3
-2023-07-02;domingo;18:39:00;RJ;101;307.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;5;0;1;2
-2023-07-03;segunda-feira;08:15:00;RJ;101;315.8;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Nao;2;0;1;1
-2023-07-05;quarta-feira;17:20:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-07-07;sexta-feira;18:30:00;RJ;101;329.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-07-08;sabado;18:00:00;RJ;101;308.0;SAO GONCALO;Mal subito do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-07-09;domingo;11:05:00;RJ;101;322.0;NITEROI;Mal subito do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;1;0;1;1
-2023-07-11;terca-feira;09:15:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;4;0;2;2
-2023-07-11;terca-feira;18:55:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-07-11;terca-feira;19:10:00;RJ;101;312.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-07-12;quarta-feira;08:40:00;RJ;101;300.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-07-14;sexta-feira;05:50:00;RJ;101;308.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Tombamento;Com Vitimas Feridas;Amanhecer;Garoa/Chuvisco;Dupla;Reta;Sim;1;0;1;1
-2023-07-15;sabado;02:20:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;1;0;1;1
-2023-07-16;domingo;05:40:00;RJ;101;307.0;SAO GONCALO;Deficiencia do Sistema de Iluminacao/Sinalizacao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Viaduto;Sim;3;0;2;2
-2023-07-16;domingo;19:50:00;RJ;101;323.0;NITEROI;Ingestao de alcool pelo condutor;Colisao lateral mesmo sentido;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2023-07-17;segunda-feira;16:45:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;1;0;1;1
-2023-07-17;segunda-feira;15:15:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;1;2
-2023-07-17;segunda-feira;10:30:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Aclive;Reta;Ponte";Sim;2;0;1;2
-2023-07-18;terca-feira;07:40:00;RJ;101;320.0;NITEROI;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-07-18;terca-feira;10:05:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-07-19;quarta-feira;16:50:00;RJ;101;333.0;RIO DE JANEIRO;Chuva;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;1
-2023-07-19;quarta-feira;18:55:00;RJ;101;314.0;SAO GONCALO;Frear bruscamente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;3;0;1;3
-2023-07-20;quinta-feira;21:10:00;RJ;101;323.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-07-22;sabado;10:50:00;RJ;101;302.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-07-22;sabado;19:30:00;RJ;101;320.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Curva;Sim;3;1;0;3
-2023-07-21;sexta-feira;21:20:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;"Reta;Ponte";Nao;2;0;1;2
-2023-07-24;segunda-feira;18:20:00;RJ;101;309.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-06-26;segunda-feira;17:40:00;RJ;101;319.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-07-25;terca-feira;16:40:00;RJ;101;322.0;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;5;0;3;2
-2023-07-26;quarta-feira;13:55:00;RJ;101;332.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-07-26;quarta-feira;14:05:00;RJ;101;328.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-07-26;quarta-feira;18:30:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-07-27;quinta-feira;22:50:00;RJ;101;334.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;3;0;1;2
-2023-07-28;sexta-feira;09:00:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;2;3
-2023-07-28;sexta-feira;17:00:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2023-07-29;sabado;00:00:00;RJ;101;315.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;3;0;1;3
-2023-07-30;domingo;20:00:00;RJ;101;312.6;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-07-30;domingo;20:10:00;RJ;101;313.1;SAO GONCALO;Transitar no Acostamento;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-07-31;segunda-feira;08:50:00;RJ;101;327.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;"Ponte;Reta";Sim;2;0;1;2
-2023-07-31;segunda-feira;21:20:00;RJ;101;329.0;RIO DE JANEIRO;Falta de acostamento;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;3;0;1;2
-2023-08-01;terca-feira;20:00:00;RJ;101;329.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-08-01;terca-feira;18:20:00;RJ;101;319.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-08-02;quarta-feira;14:15:00;RJ;101;322.0;NITEROI;Problema com o freio;Eventos atipicos;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2023-08-03;quinta-feira;03:20:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;"Ponte;Reta";Sim;2;0;1;1
-2023-08-03;quinta-feira;06:45:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2023-08-03;quinta-feira;11:20:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;1;0;1;1
-2023-07-27;quinta-feira;14:00:00;RJ;101;306.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-08-04;sexta-feira;05:50:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-08-04;sexta-feira;15:50:00;RJ;101;329.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;3;2
-2023-08-04;sexta-feira;21:30:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-07-26;quarta-feira;17:45:00;RJ;101;328.0;NITEROI;Frear bruscamente;Colisao traseira;Sem Vitimas;Anoitecer;Ceu Claro;Dupla;"Declive;Reta;Ponte";Nao;2;0;0;2
-2023-08-07;segunda-feira;09:15:00;RJ;101;323.0;NITEROI;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;4;0;1;4
-2023-08-06;domingo;15:20:00;RJ;101;331.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;1
-2023-08-08;terca-feira;19:45:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;3;0;1;2
-2023-08-09;quarta-feira;12:00:00;RJ;101;306.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2023-08-11;sexta-feira;20:20:00;RJ;101;306.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
-2023-08-12;sabado;09:15:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;"Curva;Ponte";Sim;3;0;2;2
-2023-08-12;sabado;14:00:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;3;4
-2023-08-12;sabado;15:00:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2023-08-13;domingo;12:30:00;RJ;101;310.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;0;3
-2023-08-13;domingo;23:30:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;"Declive;Reta";Nao;1;0;1;1
-2023-08-17;quinta-feira;09:40:00;RJ;101;318.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;2
-2023-08-17;quinta-feira;12:00:00;RJ;101;319.0;NITEROI;Mal subito do condutor;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;1;0;1;1
-2023-08-17;quinta-feira;12:45:00;RJ;101;324.0;NITEROI;Condutor usando celular;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-08-19;sabado;08:30:00;RJ;101;312.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-08-20;domingo;05:40:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Amanhecer;Garoa/Chuvisco;Dupla;Reta;Sim;3;0;2;2
-2023-08-21;segunda-feira;06:50:00;RJ;101;327.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;2;1
-2023-08-21;segunda-feira;15:20:00;RJ;101;304.0;SAO GONCALO;Frear bruscamente;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2023-08-21;segunda-feira;09:10:00;RJ;101;333.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-06-19;segunda-feira;06:45:00;RJ;101;322.0;NITEROI;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;3;0;1;3
-2023-08-23;quarta-feira;11:05:00;RJ;101;332.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Sol;Dupla;"Ponte;Reta";Nao;2;0;2;2
-2023-08-23;quarta-feira;15:00:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Nao;1;0;1;1
-2023-08-24;quinta-feira;17:00:00;RJ;101;306.0;SAO GONCALO;Manobra de mudanca de faixa;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-08-25;sexta-feira;11:20:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Sim;3;0;2;2
-2023-08-25;sexta-feira;14:20:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-08-26;sabado;00:30:00;RJ;101;317.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Multipla;Reta;Sim;3;0;1;2
-2023-08-26;sabado;16:30:00;RJ;101;314.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Nao;3;0;1;2
-2023-08-27;domingo;11:00:00;RJ;101;305.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Dupla;Reta;Sim;2;0;1;2
-2023-08-27;domingo;19:40:00;RJ;101;299.5;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;3;0;1;3
-2023-08-29;terca-feira;15:20:00;RJ;101;329.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;1;1
-2023-08-30;quarta-feira;07:15:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;"Ponte;Reta";Sim;1;0;1;1
-2023-08-30;quarta-feira;16:55:00;RJ;101;322.0;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Simples;"Declive;Ponte;Reta";Sim;2;0;1;2
-2023-09-01;sexta-feira;16:46:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-09-01;sexta-feira;17:45:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-09-02;sabado;02:20:00;RJ;101;314.0;SAO GONCALO;Velocidade Incompativel;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-09-02;sabado;11:50:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Declive;Reta";Nao;4;0;1;2
-2023-09-02;sabado;14:30:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Declive;Sim;4;0;1;3
-2023-09-03;domingo;00:30:00;RJ;101;321.0;NITEROI;Demais falhas na via;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Curva;Sim;1;0;1;1
-2023-09-03;domingo;13:30:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;2;2
-2023-09-04;segunda-feira;05:30:00;RJ;101;310.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2023-09-04;segunda-feira;07:30:00;RJ;101;309.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;7;0;1;2
-2023-09-04;segunda-feira;09:42:00;RJ;101;332.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-09-04;segunda-feira;08:00:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-09-04;segunda-feira;21:30:00;RJ;101;309.8;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-09-05;terca-feira;05:20:00;RJ;101;306.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Capotamento;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;1;1
-2023-09-05;terca-feira;09:30:00;RJ;101;322.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Garoa/Chuvisco;Dupla;Reta;Sim;1;0;0;1
-2023-09-05;terca-feira;19:05:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-09-05;terca-feira;08:10:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
-2023-08-29;terca-feira;05:00:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Simples;Reta;Sim;2;0;1;2
-2023-09-04;segunda-feira;04:00:00;RJ;101;321.0;NITEROI;Curva acentuada;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Curva;Sim;1;0;1;1
-2023-09-07;quinta-feira;14:20:00;RJ;101;302.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;"Viaduto;Reta";Sim;2;0;1;2
-2023-09-08;sexta-feira;08:47:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;1;0;1;1
-2023-09-08;sexta-feira;17:00:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Tombamento;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-09-09;sabado;12:40:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;0;2
-2023-09-10;domingo;00:20:00;RJ;101;328.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-09-10;domingo;02:10:00;RJ;101;305.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Animal;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;1;0;1
-2023-09-11;segunda-feira;06:00:00;RJ;101;306.0;SAO GONCALO;Frear bruscamente;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;5;0;1;4
-2023-09-11;segunda-feira;09:10:00;RJ;101;314.6;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Fatais;Pleno dia;Sol;Dupla;Reta;Sim;3;1;1;2
-2023-09-11;segunda-feira;08:40:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-09-11;segunda-feira;15:00:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;"Ponte;Reta";Nao;2;0;1;2
-2023-09-12;terca-feira;09:30:00;RJ;101;324.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;4;0;2;3
-2023-09-12;terca-feira;09:10:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-08-28;segunda-feira;17:25:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer;Nevoeiro/Neblina;Dupla;Reta;Nao;4;0;3;2
-2023-09-13;quarta-feira;11:45:00;RJ;101;326.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-09-13;quarta-feira;11:05:00;RJ;101;315.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-09-14;quinta-feira;06:00:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2023-09-15;sexta-feira;08:15:00;RJ;101;316.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;2;0;2;1
-2023-09-15;sexta-feira;14:10:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Multipla;Reta;Nao;2;0;1;2
-2023-09-16;sabado;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-09-16;sabado;00:45:00;RJ;101;328.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;4;0;2;3
-2023-09-18;segunda-feira;02:00:00;RJ;101;307.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;1
-2023-09-18;segunda-feira;17:10:00;RJ;101;325.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Reta;Declive";Nao;3;0;1;3
-2023-09-16;sabado;21:35:00;RJ;101;304.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-09-18;segunda-feira;18:15:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao transversal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2023-09-20;quarta-feira;07:50:00;RJ;101;326.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Aclive;Reta";Nao;6;0;2;3
-2023-09-20;quarta-feira;17:30:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Nao;2;0;2;1
-2023-02-02;quinta-feira;13:10:00;RJ;101;306.0;SAO GONCALO;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Pleno dia;Sol;Dupla;Reta;Sim;2;1;0;2
-2023-09-23;sabado;07:40:00;RJ;101;304.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;4;0;2;2
-2023-09-24;domingo;19:00:00;RJ;101;307.8;SAO GONCALO;Ingestao de alcool pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-09-24;domingo;17:44:00;RJ;101;302.0;SAO GONCALO;Ingestao de alcool pelo condutor;Capotamento;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Nao;3;0;1;1
-2023-09-25;segunda-feira;09:00:00;RJ;101;320.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-09-06;quarta-feira;08:10:00;RJ;101;333.0;RIO DE JANEIRO;Mal subito do condutor;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Chuva;Multipla;Reta;Nao;2;0;1;1
-2023-09-28;quinta-feira;13:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de sinalizacao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;1;2
-2023-09-29;sexta-feira;07:28:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-02-13;segunda-feira;17:00:00;RJ;101;328.0;NITEROI;Obstrucao na via;Tombamento;Com Vitimas Fatais;Pleno dia;Nublado;Dupla;Aclive;Nao;3;1;0;3
-2023-09-29;sexta-feira;15:10:00;RJ;101;318.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2023-09-29;sexta-feira;23:10:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-09-30;sabado;02:45:00;RJ;101;333.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;1
-2023-09-30;sabado;07:50:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-08-05;sabado;20:30:00;RJ;101;317.7;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;1;0;3
-2023-08-28;segunda-feira;02:49:00;RJ;101;311.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;5;0;1;4
-2023-10-01;domingo;06:30:00;RJ;101;314.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Garoa/Chuvisco;Simples;Reta;Nao;1;0;0;1
-2023-10-03;terca-feira;05:40:00;RJ;101;328.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Simples;"Reta;Ponte";Sim;1;0;1;1
-2023-10-03;terca-feira;11:00:00;RJ;101;328.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Reta;Ponte";Nao;4;0;1;3
-2023-10-05;quinta-feira;01:40:00;RJ;101;311.0;SAO GONCALO;Ingestao de substancias psicoativas pelo condutor;Capotamento;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;1;0;0;1
-2023-10-09;segunda-feira;21:08:00;RJ;101;303.0;SAO GONCALO;Mal subito do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;"Aclive;Reta";Sim;1;0;1;1
-2023-10-10;terca-feira;06:00:00;RJ;101;303.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao com objeto;Sem Vitimas;Pleno dia;Garoa/Chuvisco;Simples;Retorno Regulamentado;Nao;1;0;0;1
-2023-10-05;quinta-feira;20:10:00;RJ;101;327.0;NITEROI;Faixas de transito com largura insuficiente;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Chuva;Multipla;"Reta;Ponte";Nao;1;0;1;1
-2023-10-11;quarta-feira;06:10:00;RJ;101;327.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;"Reta;Aclive";Nao;1;0;1;1
-2023-09-28;quinta-feira;00:45:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Plena Noite;Chuva;Multipla;Reta;Nao;3;0;3;2
-2023-10-12;quinta-feira;14:20:00;RJ;101;330.0;RIO DE JANEIRO;Objeto estatico sobre o leito carrocavel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-10-12;quinta-feira;11:15:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-10-12;quinta-feira;21:50:00;RJ;101;317.0;NITEROI;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;1;0;1;1
-2023-10-14;sabado;18:20:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;1;0;1;1
-2023-10-15;domingo;05:50:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;Amanhecer;Nublado;Simples;Curva;Sim;5;0;1;1
-2023-10-11;quarta-feira;09:39:00;RJ;101;316.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-10-17;terca-feira;10:15:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-10-18;quarta-feira;13:40:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;"Reta;Declive";Nao;7;0;1;5
-2023-10-23;segunda-feira;12:00:00;RJ;101;323.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-10-23;segunda-feira;18:18:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;4;0;1;3
-2023-10-23;segunda-feira;19:30:00;RJ;101;306.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;"Reta;Ponte";Sim;2;1;0;2
-2023-10-24;terca-feira;16:00:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2023-10-26;quinta-feira;16:20:00;RJ;101;320.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Curva;Nao;2;0;1;1
-2023-10-26;quinta-feira;21:50:00;RJ;101;315.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Multipla;Reta;Nao;1;0;1;1
-2023-10-27;sexta-feira;08:00:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Simples;"Ponte;Reta";Sim;2;0;1;2
-2023-10-28;sabado;19:55:00;RJ;101;310.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;1;0;1
-2023-10-29;domingo;01:45:00;RJ;101;327.2;RIO DE JANEIRO;Ingestao de alcool pelo condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;"Reta;Ponte";Nao;4;0;1;2
-2023-10-30;segunda-feira;19:30:00;RJ;101;319.4;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;2;2
-2023-10-30;segunda-feira;19:30:00;RJ;101;319.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;1;0;1;1
-2023-10-31;terca-feira;10:00:00;RJ;101;334.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;6;0;0;4
-2023-10-31;terca-feira;07:50:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;3;2
-2023-10-31;terca-feira;17:10:00;RJ;101;323.0;NITEROI;Mal subito do condutor;Tombamento;Com Vitimas Feridas;Anoitecer;Chuva;Simples;"Reta;Ponte";Sim;1;0;1;1
-2023-10-31;terca-feira;17:55:00;RJ;101;329.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;1;0;1;1
-2023-11-01;quarta-feira;17:24:00;RJ;101;319.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Sim;2;0;1;2
-2023-10-16;segunda-feira;07:10:00;RJ;101;320.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2023-11-07;terca-feira;07:30:00;RJ;101;317.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-11-07;terca-feira;22:40:00;RJ;101;326.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Declive;Nao;1;0;1;1
-2023-11-08;quarta-feira;13:50:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;"Reta;Ponte";Sim;2;0;1;2
-2023-11-09;quinta-feira;11:45:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2023-11-09;quinta-feira;18:20:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2023-10-13;sexta-feira;18:40:00;RJ;101;328.0;NITEROI;Manobra de mudanca de faixa;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer;Ignorado;Multipla;Reta;Nao;3;0;1;3
-2023-11-10;sexta-feira;16:25:00;RJ;101;311.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-11-11;sabado;00:10:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;"Curva;Ponte";Nao;2;0;1;2
-2023-11-11;sabado;16:05:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Ponte;Nao;2;0;1;2
-2023-11-12;domingo;08:50:00;RJ;101;320.0;NITEROI;Demais falhas mecanicas ou eletricas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;1
-2023-11-12;domingo;17:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Tombamento;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-11-12;domingo;17:00:00;RJ;101;326.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao transversal;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2023-11-14;terca-feira;07:50:00;RJ;101;316.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;"Reta;Declive";Sim;5;0;1;3
-2023-11-14;terca-feira;17:37:00;RJ;101;329.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Nao;3;0;1;3
-2023-11-14;terca-feira;20:00:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Multipla;Reta;Nao;1;0;1;1
-2023-11-14;terca-feira;23:15:00;RJ;101;304.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Chuva;Simples;Reta;Sim;1;0;1;1
-2023-11-15;quarta-feira;20:00:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;1;0;1;1
-2023-11-15;quarta-feira;22:40:00;RJ;101;317.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2023-11-16;quinta-feira;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-11-16;quinta-feira;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2023-11-16;quinta-feira;16:18:00;RJ;101;313.0;SAO GONCALO;Mal subito do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;2;3
-2023-11-17;sexta-feira;11:20:00;RJ;101;307.0;SAO GONCALO;Problema com o freio;Colisao com objeto;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2023-11-19;domingo;11:09:00;RJ;101;319.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Dupla;Reta;Nao;1;0;1;1
-2023-11-20;segunda-feira;09:55:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
-2023-11-23;quinta-feira;16:35:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;2;0;1;2
-2023-11-23;quinta-feira;17:45:00;RJ;101;319.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;3;0;1;2
-2023-10-19;quinta-feira;18:50:00;RJ;101;318.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;"Reta;Retorno Regulamentado;Declive";Sim;1;0;0;1
-2023-11-26;domingo;19:15:00;RJ;101;299.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Nublado;Dupla;Reta;Sim;2;1;0;2
-2023-11-27;segunda-feira;06:15:00;RJ;101;307.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;5;0;2;2
-2023-11-27;segunda-feira;17:48:00;RJ;101;330.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;1;2
-2023-11-26;domingo;01:00:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Saida de leito carrocavel;Com Vitimas Feridas;Anoitecer;Ceu Claro;Simples;"Aclive;Curva;Retorno Regulamentado";Sim;1;0;1;1
-2023-11-30;quinta-feira;14:55:00;RJ;101;308.0;SAO GONCALO;Demais falhas na via;Eventos atipicos;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;1;0;1;1
-2023-11-30;quinta-feira;19:00:00;RJ;101;329.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2023-10-30;segunda-feira;20:30:00;RJ;101;299.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;Plena Noite;Nublado;Multipla;Reta;Nao;3;0;2;2
-2023-11-28;terca-feira;07:37:00;RJ;101;317.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-12-04;segunda-feira;06:05:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
-2023-10-09;segunda-feira;18:10:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2023-12-04;segunda-feira;08:00:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;4;0;1;2
-2023-10-17;terca-feira;23:30:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Curva;Sim;1;0;1;1
-2023-12-04;segunda-feira;14:15:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;4;0;2;2
-2023-12-05;terca-feira;09:40:00;RJ;101;314.0;SAO GONCALO;Transitar na contramao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;1;2
-2023-12-06;quarta-feira;17:00:00;RJ;101;331.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Simples;"Reta;Ponte";Sim;2;0;1;2
-2023-12-07;quinta-feira;09:40:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-12-07;quinta-feira;09:35:00;RJ;101;332.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Reta;Ponte";Sim;4;0;3;2
-2023-11-13;segunda-feira;17:30:00;RJ;101;333.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;2;2
-2023-12-07;quinta-feira;19:50:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-11-18;sabado;11:00:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2023-12-08;sexta-feira;08:30:00;RJ;101;311.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-12-08;sexta-feira;09:00:00;RJ;101;314.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2023-09-11;segunda-feira;17:40:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;"Reta;Aclive";Sim;2;0;1;1
-2023-12-06;quarta-feira;22:00:00;RJ;101;314.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2023-12-12;terca-feira;07:00:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;2;1
-2023-11-18;sabado;20:15:00;RJ;101;299.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Multipla;Reta;Sim;4;0;1;3
-2023-12-14;quinta-feira;13:00:00;RJ;101;325.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;1;4
-2023-12-02;sabado;22:00:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;1;0;1;1
-2023-12-15;sexta-feira;12:30:00;RJ;101;334.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;Pleno dia;Ceu Claro;Simples;"Curva;Aclive;Viaduto";Nao;1;0;0;1
-2023-12-16;sabado;16:50:00;RJ;101;319.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2023-12-16;sabado;17:10:00;RJ;101;328.9;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;2;2
-2023-12-17;domingo;15:56:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;3
-2023-12-17;domingo;04:22:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;0;1
-2023-12-18;segunda-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-12-18;segunda-feira;21:15:00;RJ;101;334.0;RIO DE JANEIRO;Transitar na contramao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;Reta;Sim;3;0;2;2
-2023-12-19;terca-feira;06:55:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2023-12-11;segunda-feira;08:48:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2023-12-20;quarta-feira;06:10:00;RJ;101;333.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;"Aclive;Reta";Nao;1;0;1;1
-2023-12-21;quinta-feira;06:04:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2023-12-21;quinta-feira;11:50:00;RJ;101;332.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2023-12-21;quinta-feira;20:30:00;RJ;101;315.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2023-12-22;sexta-feira;17:50:00;RJ;101;330.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;1;2
-2023-12-24;domingo;10:50:00;RJ;101;317.8;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral sentido oposto;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Retorno Regulamentado;Sim;2;0;1;2
-2023-12-25;segunda-feira;09:40:00;RJ;101;332.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2023-12-22;sexta-feira;16:00:00;RJ;101;316.0;SAO GONCALO;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-12-26;terca-feira;15:00:00;RJ;101;313.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2023-12-27;quarta-feira;14:36:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;"Aclive;Reta";Sim;2;0;1;2
-2023-12-30;sabado;07:15:00;RJ;101;331.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Chuva;Simples;"Reta;Ponte";Sim;2;0;2;1
-2023-12-31;domingo;14:00:00;RJ;101;330.0;RIO DE JANEIRO;Condutor Dormindo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;1;0;1;1
-2023-12-30;sabado;14:00:00;RJ;101;315.0;SAO GONCALO;Manobra de mudanca de faixa;Queda de ocupante de veiculo;Com Vitimas Fatais;Pleno dia;Nublado;Dupla;Curva;Sim;2;1;0;1
-2023-03-15;quarta-feira;17:35:00;RJ;101;326.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;Anoitecer;Nublado;Multipla;"Reta;Ponte;Aclive";Sim;3;0;2;2
-2023-12-20;quarta-feira;08:45:00;RJ;101;327.0;NITEROI;Condutor usando celular;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;4;0;1;2
-2023-11-04;sabado;08:00:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2023-12-16;sabado;16:40:00;RJ;101;306.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;2;3
-2023-11-25;sabado;06:10:00;RJ;101;300.0;SAO GONCALO;Transitar no Acostamento;Atropelamento de Pedestre;Com Vitimas Fatais;Amanhecer;Nublado;Dupla;Reta;Nao;5;1;4;2
-2023-12-12;terca-feira;19:00:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2023-07-12;quarta-feira;15:00:00;RJ;101;306.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;1;2
-2023-12-21;quinta-feira;04:45:00;RJ;101;324.0;NITEROI;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;2;2
+2023-01-03;terca-feira;07:10:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2023-01-23;segunda-feira;22:30:00;RJ;101;310.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral sentido oposto;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Nao;2;0;1;2
+2023-01-24;terca-feira;17:45:00;RJ;101;326.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;anoitecer;nublado;Dupla;Reta;Sim;3;0;0;3
+2023-01-28;sabado;11:35:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;6;0;3;6
+2023-02-05;domingo;05:55:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2023-03-06;segunda-feira;13:30:00;RJ;101;312.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Colisao lateral mesmo sentido;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2023-03-01;quarta-feira;17:00:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-03-21;terca-feira;17:40:00;RJ;101;331.0;RIO DE JANEIRO;Demais Fenomenos da natureza;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;4;0;1;4
+2023-03-31;sexta-feira;02:10:00;RJ;101;319.0;NITEROI;Mal subito do condutor;Saida de leito carrocavel;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Nao;1;0;1;1
+2023-03-29;quarta-feira;19:24:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;3;0;2;2
+2023-04-06;quinta-feira;13:50:00;RJ;101;319.0;NITEROI;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2023-04-19;quarta-feira;22:00:00;RJ;101;315.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-05-04;quinta-feira;19:30:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao transversal;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2023-05-24;quarta-feira;09:00:00;RJ;101;328.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Fatais;pleno dia;ceu claro;Dupla;Reta;Sim;2;1;0;2
+2023-05-27;sabado;15:20:00;RJ;101;328.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;1;4
+2023-06-06;terca-feira;22:20:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;nevoeiro/neblina;Dupla;Reta;Sim;2;0;1;2
+2023-06-07;quarta-feira;17:00:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;"Ponte;Reta";Nao;2;0;1;2
+2023-06-07;quarta-feira;11:30:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2023-07-06;quinta-feira;08:15:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-07-10;segunda-feira;17:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-07-31;segunda-feira;20:25:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-08-01;terca-feira;09:17:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;"Declive;Ponte;Reta";Nao;3;0;0;3
+2023-08-18;sexta-feira;14:55:00;RJ;101;332.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Reta;Ponte";Sim;2;0;1;2
+2023-08-24;quinta-feira;10:52:00;RJ;101;333.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2023-08-28;segunda-feira;19:00:00;RJ;101;308.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;plena noite;chuva;Dupla;Reta;Sim;2;0;0;2
+2023-06-26;segunda-feira;18:00:00;RJ;101;309.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Fatais;anoitecer;ignorado;Dupla;Reta;Sim;4;1;0;3
+2023-09-04;segunda-feira;08:05:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;3;0;1;2
+2023-09-04;segunda-feira;14:45:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Fatais;pleno dia;ceu claro;Multipla;Reta;Nao;3;1;0;3
+2023-05-11;quinta-feira;16:15:00;RJ;101;313.0;SAO GONCALO;Acesso irregular;Atropelamento de Pedestre;Com Vitimas Fatais;pleno dia;nublado;Dupla;Reta;Sim;2;1;0;2
+2023-09-21;quinta-feira;21:20:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Simples;"Reta;Ponte";Sim;3;0;2;2
+2023-09-29;sexta-feira;09:24:00;RJ;101;310.0;SAO GONCALO;Frear bruscamente;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-10-11;quarta-feira;12:20:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2023-10-17;terca-feira;14:40:00;RJ;101;322.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;0;1
+2023-10-27;sexta-feira;02:00:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Fatais;plena noite;nublado;Dupla;Reta;Sim;3;1;0;2
+2023-11-15;quarta-feira;04:35:00;RJ;101;309.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Colisao com objeto;Com Vitimas Fatais;amanhecer;ceu claro;Dupla;Reta;Sim;3;1;1;2
+2023-11-17;sexta-feira;07:20:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Curva;Sim;3;0;1;2
+2023-12-01;sexta-feira;07:15:00;RJ;101;309.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2023-12-02;sabado;18:00:00;RJ;101;305.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;3
+2023-12-21;quinta-feira;07:00:00;RJ;101;308.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Reta;Viaduto";Nao;2;0;1;1
+2023-12-21;quinta-feira;13:10:00;RJ;101;328.0;NITEROI;Demais Fenomenos da natureza;Tombamento;Sem Vitimas;pleno dia;ceu claro;Multipla;"Ponte;Reta";Nao;2;0;0;2
+2023-12-12;terca-feira;14:50:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-01-24;terca-feira;15:20:00;RJ;101;308.4;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;3;0;1;4
+2023-02-27;segunda-feira;09:20:00;RJ;101;306.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2023-04-15;sabado;22:50:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;3;0;1;3
+2023-05-03;quarta-feira;08:50:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;3
+2023-05-13;sabado;11:00:00;RJ;101;328.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;nublado;Multipla;"Reta;Declive;Ponte";Nao;3;0;1;3
+2023-10-18;quarta-feira;16:05:00;RJ;101;331.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;nublado;Dupla;Reta;Sim;3;0;0;2
+2023-11-24;sexta-feira;20:00:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;6;0;0;5
+2023-01-01;domingo;06:47:00;RJ;101;307.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Fatais;amanhecer;ceu claro;Dupla;Reta;Sim;1;1;0;1
+2023-01-01;domingo;08:42:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2023-01-02;segunda-feira;05:50:00;RJ;101;305.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;5;0;1;2
+2023-01-03;terca-feira;08:00:00;RJ;101;318.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-01-03;terca-feira;09:50:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;1;3
+2023-01-03;terca-feira;06:42:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2023-01-07;sabado;12:20:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Sim;8;0;1;6
+2023-01-08;domingo;06:40:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Simples;Reta;Sim;1;0;1;1
+2023-01-08;domingo;17:50:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;anoitecer;garoa/chuvisco;Dupla;Ponte;Sim;2;0;1;2
+2023-01-08;domingo;19:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;plena noite;ceu claro;Simples;Reta;Nao;3;0;1;3
+2023-01-11;quarta-feira;06:10:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-01-12;quinta-feira;13:50:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Simples;Reta;Nao;2;0;0;2
+2023-01-12;quinta-feira;19:58:00;RJ;101;330.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Simples;"Ponte;Reta";Sim;3;0;1;2
+2023-01-14;sabado;10:40:00;RJ;101;311.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;2;2
+2023-01-14;sabado;12:30:00;RJ;101;304.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;1;0;1;1
+2023-01-14;sabado;16:20:00;RJ;101;327.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;ceu claro;Multipla;Reta;Sim;1;0;0;1
+2023-01-15;domingo;18:40:00;RJ;101;321.5;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Sim;3;0;1;2
+2023-01-17;terca-feira;08:45:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-01-17;terca-feira;12:40:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Declive;Ponte;Reta";Sim;2;0;2;2
+2023-01-17;terca-feira;21:20:00;RJ;101;316.0;SAO GONCALO;Acumulo de areia ou detritos sobre o pavimento;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2023-01-19;quinta-feira;12:25:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-01-19;quinta-feira;19:00:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;3;0;1;3
+2023-01-20;sexta-feira;13:35:00;RJ;101;307.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-01-19;quinta-feira;20:46:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Simples;Reta;Sim;2;0;1;2
+2023-01-25;quarta-feira;14:40:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-01-22;domingo;18:10:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;"Ponte;Reta";Sim;3;0;1;2
+2023-01-26;quinta-feira;07:25:00;RJ;101;309.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;2
+2023-01-22;domingo;20:20:00;RJ;101;315.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Sim;2;0;2;1
+2023-01-22;domingo;20:00:00;RJ;101;321.0;NITEROI;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-01-27;sexta-feira;06:00:00;RJ;101;305.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Animal;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2023-01-08;domingo;10:30:00;RJ;101;302.6;SAO GONCALO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;2;0;2;1
+2023-01-28;sabado;08:40:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2023-01-29;domingo;15:12:00;RJ;101;325.0;NITEROI;Condutor Dormindo;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Reta;Ponte";Nao;2;0;1;2
+2023-01-31;terca-feira;08:50:00;RJ;101;319.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2023-01-31;terca-feira;21:50:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Capotamento;Com Vitimas Feridas;plena noite;ceu claro;Simples;Reta;Sim;1;0;1;1
+2023-02-01;quarta-feira;07:20:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;"Reta;Ponte";Sim;3;0;1;2
+2023-01-12;quinta-feira;07:10:00;RJ;101;324.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;4;0;1;2
+2023-02-02;quinta-feira;08:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-01-30;segunda-feira;16:40:00;RJ;101;311.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;1
+2023-02-03;sexta-feira;16:00:00;RJ;101;329.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;chuva;Multipla;Reta;Nao;2;0;1;2
+2023-02-04;sabado;21:00:00;RJ;101;319.0;SAO GONCALO;Entrada inopinada do pedestre;Colisao lateral mesmo sentido;Sem Vitimas;plena noite;ceu claro;Simples;Reta;Nao;2;0;0;2
+2023-02-07;terca-feira;08:15:00;RJ;101;319.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2023-02-07;terca-feira;06:45:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Nao;2;0;1;2
+2023-02-09;quinta-feira;07:40:00;RJ;101;325.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;pleno dia;sol;Dupla;Reta;Nao;2;0;0;2
+2023-02-13;segunda-feira;05:00:00;RJ;101;332.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;amanhecer;ceu claro;Multipla;Reta;Nao;1;0;1;1
+2023-02-13;segunda-feira;10:10:00;RJ;101;327.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;1;4
+2023-02-13;segunda-feira;17:40:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;3;0;1;2
+2023-02-15;quarta-feira;12:55:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-02-16;quinta-feira;06:05:00;RJ;101;306.6;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Reta;Viaduto";Sim;11;0;7;2
+2023-02-13;segunda-feira;19:14:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;plena noite;garoa/chuvisco;Multipla;Reta;Nao;2;0;0;2
+2023-02-13;segunda-feira;02:30:00;RJ;101;318.0;SAO GONCALO;Ingestao de alcool e/ou substancias psicoativas pelo pedestre;Colisao com objeto;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-02-16;quinta-feira;23:00:00;RJ;101;325.0;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;6;0;5;2
+2023-02-18;sabado;08:45:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-02-18;sabado;07:10:00;RJ;101;304.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-02-20;segunda-feira;21:05:00;RJ;101;307.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;7;0;4;2
+2023-02-21;terca-feira;07:52:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Sem Vitimas;pleno dia;ceu claro;Simples;"Reta;Ponte";Sim;4;0;0;2
+2023-02-21;terca-feira;17:58:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-02-21;terca-feira;20:30:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;4;0;1;4
+2023-02-22;quarta-feira;11:50:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;1;0;1;1
+2023-02-22;quarta-feira;10:00:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;1;0;1;1
+2023-02-22;quarta-feira;13:30:00;RJ;101;309.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;sol;Dupla;Reta;Sim;1;0;0;1
+2023-02-23;quinta-feira;07:00:00;RJ;101;307.8;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Sem Vitimas;pleno dia;sol;Dupla;Reta;Sim;2;0;0;2
+2023-02-23;quinta-feira;07:30:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-02-23;quinta-feira;12:40:00;RJ;101;306.7;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;2;0;1;2
+2023-02-25;sabado;15:10:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2023-02-26;domingo;06:12:00;RJ;101;330.0;RIO DE JANEIRO;Ingestao de alcool pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-02-26;domingo;05:30:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-02-27;segunda-feira;07:20:00;RJ;101;316.5;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;3;0;2;2
+2023-02-28;terca-feira;08:00:00;RJ;101;319.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-02-28;terca-feira;09:30:00;RJ;101;311.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2023-02-28;terca-feira;16:00:00;RJ;101;321.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;4;0;1;4
+2023-03-01;quarta-feira;14:00:00;RJ;101;307.0;SAO GONCALO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-03-02;quinta-feira;06:40:00;RJ;101;317.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-03-03;sexta-feira;10:20:00;RJ;101;318.0;SAO GONCALO;Acumulo de areia ou detritos sobre o pavimento;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Curva;Sim;1;0;1;1
+2023-03-03;sexta-feira;21:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Multipla;"Reta;Ponte";Sim;2;0;1;2
+2023-03-04;sabado;17:00:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Simples;Reta;Nao;2;0;0;2
+2023-03-05;domingo;19:00:00;RJ;101;317.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;2;0;0;1
+2023-03-06;segunda-feira;16:00:00;RJ;101;328.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;1;0;1;1
+2023-03-06;segunda-feira;07:25:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-03-07;terca-feira;07:35:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;5;0;2;5
+2023-03-08;quarta-feira;15:40:00;RJ;101;321.0;NITEROI;Velocidade Incompativel;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Curva;Nao;2;0;2;1
+2023-03-08;quarta-feira;22:00:00;RJ;101;306.0;SAO GONCALO;Ingestao de alcool pelo condutor;Capotamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2023-03-02;quinta-feira;07:10:00;RJ;101;317.0;SAO GONCALO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;2
+2023-03-10;sexta-feira;05:50:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-03-11;sabado;18:40:00;RJ;101;307.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;plena noite;chuva;Simples;Reta;Sim;1;0;0;1
+2023-03-13;segunda-feira;07:37:00;RJ;101;316.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;5;0;2;2
+2023-03-13;segunda-feira;08:03:00;RJ;101;320.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;1;3
+2023-03-14;terca-feira;04:00:00;RJ;101;314.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;2;1;0;2
+2023-03-14;terca-feira;10:30:00;RJ;101;333.0;RIO DE JANEIRO;Frear bruscamente;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;3;0;1;2
+2023-03-15;quarta-feira;06:20:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-03-15;quarta-feira;08:00:00;RJ;101;318.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2023-03-15;quarta-feira;14:16:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Reta;Ponte";Nao;3;0;1;2
+2023-03-19;domingo;11:40:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;1;0;1;1
+2023-03-20;segunda-feira;07:30:00;RJ;101;313.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-03-20;segunda-feira;07:45:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-03-21;terca-feira;09:40:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Sem Vitimas;pleno dia;ceu claro;Simples;Reta;Sim;3;0;0;3
+2023-03-22;quarta-feira;13:45:00;RJ;101;302.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Engavetamento;Sem Vitimas;pleno dia;sol;Dupla;"Declive;Reta";Sim;4;0;0;3
+2023-03-22;quarta-feira;13:48:00;RJ;101;303.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-03-23;quinta-feira;09:20:00;RJ;101;326.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Reta;Ponte";Nao;2;0;1;2
+2023-03-24;sexta-feira;06:40:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-03-24;sexta-feira;07:00:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-03-26;domingo;21:40:00;RJ;101;333.0;RIO DE JANEIRO;Acessar a via sem observar a presenca dos outros veiculos;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;"Curva;Declive;Ponte";Nao;1;0;1;1
+2023-03-09;quinta-feira;15:35:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Simples;"Ponte;Reta";Sim;4;0;1;3
+2023-03-30;quinta-feira;17:30:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;nublado;Dupla;"Aclive;Curva";Sim;3;0;1;2
+2023-03-31;sexta-feira;20:48:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;1;0;1;1
+2023-04-01;sabado;10:30:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-04-03;segunda-feira;16:00:00;RJ;101;324.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-04-03;segunda-feira;18:00:00;RJ;101;312.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-03-31;sexta-feira;17:40:00;RJ;101;332.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-04-06;quinta-feira;15:20:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Simples;"Reta;Ponte";Sim;3;0;1;3
+2023-04-06;quinta-feira;17:15:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-04-06;quinta-feira;19:10:00;RJ;101;311.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao transversal;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-04-07;sexta-feira;20:20:00;RJ;101;309.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2023-04-04;terca-feira;09:00:00;RJ;101;316.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-04-09;domingo;07:58:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Sim;2;0;2;1
+2023-04-10;segunda-feira;09:25:00;RJ;101;329.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;0;4
+2023-04-10;segunda-feira;16:00:00;RJ;101;315.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;2;0;1;2
+2023-04-11;terca-feira;20:06:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;4;0;2;2
+2023-02-11;sabado;10:00:00;RJ;101;332.0;RIO DE JANEIRO;Pedestre andava na pista;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Nao;3;0;2;2
+2023-04-13;quinta-feira;19:30:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2023-04-14;sexta-feira;07:50:00;RJ;101;317.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-04-06;quinta-feira;07:30:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;amanhecer;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2023-04-15;sabado;15:30:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;chuva;Dupla;Curva;Sim;3;0;2;2
+2023-04-15;sabado;21:40:00;RJ;101;309.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Nao;3;0;1;2
+2023-04-16;domingo;06:45:00;RJ;101;301.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;2;0;1;1
+2023-04-16;domingo;12:45:00;RJ;101;301.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;0;3
+2023-04-16;domingo;19:17:00;RJ;101;322.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;nublado;Multipla;"Reta;Ponte";Sim;4;0;2;2
+2023-04-17;segunda-feira;08:30:00;RJ;101;313.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;2;0;1;1
+2023-04-15;sabado;02:00:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-04-17;segunda-feira;03:30:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Sim;3;0;2;1
+2023-04-20;quinta-feira;06:27:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;2
+2023-04-20;quinta-feira;07:14:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;1;0;1;1
+2023-04-20;quinta-feira;09:15:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Eventos atipicos;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Curva;Nao;1;0;1;1
+2023-04-21;sexta-feira;08:00:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-04-21;sexta-feira;10:30:00;RJ;101;308.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;1;3
+2023-04-21;sexta-feira;21:20:00;RJ;101;310.9;SAO GONCALO;Ingestao de alcool pelo condutor;Colisao com objeto;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2023-04-23;domingo;14:30:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;4;0;1;2
+2023-04-20;quinta-feira;23:00:00;RJ;101;312.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;plena noite;ceu claro;Simples;Reta;Sim;1;0;0;1
+2023-04-24;segunda-feira;11:50:00;RJ;101;305.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;3;0;2;2
+2023-04-25;terca-feira;08:00:00;RJ;101;315.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-04-26;quarta-feira;08:50:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;"Reta;Ponte";Sim;2;0;1;2
+2023-04-26;quarta-feira;13:20:00;RJ;101;324.0;NITEROI;Mal subito do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;1;4
+2023-04-26;quarta-feira;19:20:00;RJ;101;313.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;2;1
+2023-03-31;sexta-feira;09:40:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Curva;Nao;2;0;1;2
+2023-04-24;segunda-feira;20:55:00;RJ;101;333.0;RIO DE JANEIRO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;ceu claro;Multipla;"Ponte;Reta";Sim;2;0;1;2
+2023-05-01;segunda-feira;18:50:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;"Reta;Aclive";Sim;2;0;1;2
+2023-05-03;quarta-feira;09:00:00;RJ;101;308.3;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2023-05-03;quarta-feira;11:10:00;RJ;101;303.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-03-05;domingo;03:50:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;ceu claro;Multipla;Reta;Nao;5;1;1;3
+2023-05-03;quarta-feira;18:20:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;"Reta;Aclive";Nao;2;0;2;2
+2023-05-03;quarta-feira;23:15:00;RJ;101;320.0;NITEROI;Estacionar ou parar em local proibido;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Nao;2;0;1;2
+2023-05-04;quinta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;2;2
+2023-05-04;quinta-feira;15:30:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2023-05-05;sexta-feira;19:00:00;RJ;101;318.0;SAO GONCALO;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-05-06;sabado;09:40:00;RJ;101;333.0;RIO DE JANEIRO;Frear bruscamente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Ponte;Reta";Sim;4;0;2;3
+2023-05-08;segunda-feira;17:40:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2023-05-08;segunda-feira;18:00:00;RJ;101;319.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-05-09;terca-feira;10:15:00;RJ;101;319.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-05-09;terca-feira;11:30:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2023-03-22;quarta-feira;13:00:00;RJ;101;333.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;3;0;1;2
+2023-05-06;sabado;23:30:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;2;1
+2023-05-12;sexta-feira;06:05:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;nublado;Simples;Reta;Sim;2;0;1;2
+2023-05-10;quarta-feira;08:00:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Curva;Nao;2;0;1;2
+2023-05-08;segunda-feira;18:50:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-05-12;sexta-feira;13:40:00;RJ;101;321.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;ceu claro;Dupla;Curva;Sim;1;0;0;1
+2023-05-12;sexta-feira;19:20:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;4;0;1;4
+2023-05-12;sexta-feira;22:36:00;RJ;101;299.5;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;4;0;1;2
+2023-05-13;sabado;04:50:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Sem Vitimas;amanhecer;garoa/chuvisco;Simples;Reta;Sim;3;0;0;2
+2023-05-14;domingo;00:45:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2023-05-14;domingo;14:25:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Ponte;Reta";Nao;2;0;1;2
+2023-05-15;segunda-feira;19:20:00;RJ;101;333.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;3;0;2;2
+2023-05-15;segunda-feira;07:30:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;2;0;1;2
+2023-05-19;sexta-feira;19:25:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-05-20;sabado;14:40:00;RJ;101;325.0;NITEROI;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Nao;2;0;1;1
+2023-05-21;domingo;05:00:00;RJ;101;320.0;NITEROI;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;amanhecer;nevoeiro/neblina;Simples;Reta;Sim;2;0;1;2
+2023-05-21;domingo;06:00:00;RJ;101;320.0;NITEROI;Mal subito do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Curva;Sim;2;0;2;1
+2023-05-18;quinta-feira;16:50:00;RJ;101;334.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Curva;Nao;1;0;1;1
+2023-05-24;quarta-feira;08:20:00;RJ;101;321.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Curva;Nao;3;0;2;2
+2023-05-22;segunda-feira;08:00:00;RJ;101;308.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;2
+2023-05-26;sexta-feira;09:50:00;RJ;101;309.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;2;0;1;2
+2023-05-01;segunda-feira;13:10:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Ponte;Aclive;Reta";Nao;4;0;1;4
+2023-05-28;domingo;10:00:00;RJ;101;310.0;SAO GONCALO;Ingestao de substancias psicoativas pelo condutor;Tombamento;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;1;0;1;1
+2023-05-28;domingo;22:45:00;RJ;101;312.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2023-05-30;terca-feira;17:50:00;RJ;101;317.0;SAO GONCALO;Carga excessiva e/ou mal acondicionada;Colisao traseira;Com Vitimas Feridas;anoitecer;nublado;Dupla;Reta;Sim;4;0;2;3
+2023-05-04;quinta-feira;23:45:00;RJ;101;307.8;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;0;1
+2023-05-31;quarta-feira;10:00:00;RJ;101;329.0;RIO DE JANEIRO;Falta de acostamento;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-06-02;sexta-feira;16:25:00;RJ;101;334.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;3;0;1;3
+2023-06-04;domingo;18:20:00;RJ;101;314.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;6;0;1;2
+2023-06-06;terca-feira;07:20:00;RJ;101;328.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-06-07;quarta-feira;06:45:00;RJ;101;310.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;2;2
+2023-06-07;quarta-feira;07:35:00;RJ;101;322.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Reta;Aclive";Sim;2;0;1;2
+2023-06-09;sexta-feira;10:29:00;RJ;101;312.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;3;0;1;2
+2023-06-09;sexta-feira;18:54:00;RJ;101;311.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2023-06-15;quinta-feira;18:58:00;RJ;101;318.8;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-06-12;segunda-feira;10:40:00;RJ;101;313.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-06-17;sabado;05:40:00;RJ;101;313.0;SAO GONCALO;Chuva;Capotamento;Com Vitimas Feridas;amanhecer;chuva;Simples;Reta;Nao;2;0;1;2
+2023-06-18;domingo;09:30:00;RJ;101;329.0;RIO DE JANEIRO;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-06-19;segunda-feira;08:03:00;RJ;101;302.3;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;2;0;2;1
+2023-06-19;segunda-feira;10:00:00;RJ;101;333.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao frontal;Com Vitimas Feridas;pleno dia;nublado;Multipla;"Ponte;Reta";Sim;3;0;2;2
+2023-06-20;terca-feira;06:20:00;RJ;101;329.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;1;0;1;1
+2023-06-20;terca-feira;09:50:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;2;0;1;2
+2023-06-21;quarta-feira;07:00:00;RJ;101;319.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-06-22;quinta-feira;12:45:00;RJ;101;320.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2023-06-23;sexta-feira;10:40:00;RJ;101;329.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Reta;Ponte";Nao;2;0;1;2
+2023-06-24;sabado;12:25:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-06-26;segunda-feira;06:50:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;2
+2023-06-27;terca-feira;07:48:00;RJ;101;302.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-06-28;quarta-feira;16:00:00;RJ;101;321.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;1;0;1;1
+2023-06-29;quinta-feira;08:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Curva;Sim;3;0;2;2
+2023-06-27;terca-feira;10:30:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;"Ponte;Reta";Nao;2;0;0;2
+2023-06-26;segunda-feira;05:30:00;RJ;101;305.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-06-30;sexta-feira;19:00:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;plena noite;nublado;Dupla;Reta;Sim;1;0;0;1
+2023-06-30;sexta-feira;21:00:00;RJ;101;319.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2023-07-01;sabado;11:30:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Ponte;Reta";Nao;4;0;2;3
+2023-07-02;domingo;18:39:00;RJ;101;307.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;5;0;1;2
+2023-07-03;segunda-feira;08:15:00;RJ;101;315.8;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Nao;2;0;1;1
+2023-07-05;quarta-feira;17:20:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-07-07;sexta-feira;18:30:00;RJ;101;329.0;RIO DE JANEIRO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-07-08;sabado;18:00:00;RJ;101;308.0;SAO GONCALO;Mal subito do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-07-09;domingo;11:05:00;RJ;101;322.0;NITEROI;Mal subito do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;1;0;1;1
+2023-07-11;terca-feira;09:15:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;4;0;2;2
+2023-07-11;terca-feira;18:55:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-07-11;terca-feira;19:10:00;RJ;101;312.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-07-12;quarta-feira;08:40:00;RJ;101;300.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-07-14;sexta-feira;05:50:00;RJ;101;308.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Tombamento;Com Vitimas Feridas;amanhecer;garoa/chuvisco;Dupla;Reta;Sim;1;0;1;1
+2023-07-15;sabado;02:20:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Nao;1;0;1;1
+2023-07-16;domingo;05:40:00;RJ;101;307.0;SAO GONCALO;Deficiencia do Sistema de Iluminacao/Sinalizacao;Colisao traseira;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Viaduto;Sim;3;0;2;2
+2023-07-16;domingo;19:50:00;RJ;101;323.0;NITEROI;Ingestao de alcool pelo condutor;Colisao lateral mesmo sentido;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;0;2
+2023-07-17;segunda-feira;16:45:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;1;0;1;1
+2023-07-17;segunda-feira;15:15:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;2;0;1;2
+2023-07-17;segunda-feira;10:30:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Aclive;Reta;Ponte";Sim;2;0;1;2
+2023-07-18;terca-feira;07:40:00;RJ;101;320.0;NITEROI;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-07-18;terca-feira;10:05:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-07-19;quarta-feira;16:50:00;RJ;101;333.0;RIO DE JANEIRO;Chuva;Tombamento;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;1
+2023-07-19;quarta-feira;18:55:00;RJ;101;314.0;SAO GONCALO;Frear bruscamente;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;3;0;1;3
+2023-07-20;quinta-feira;21:10:00;RJ;101;323.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-07-22;sabado;10:50:00;RJ;101;302.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-07-22;sabado;19:30:00;RJ;101;320.0;NITEROI;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Curva;Sim;3;1;0;3
+2023-07-21;sexta-feira;21:20:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;"Reta;Ponte";Nao;2;0;1;2
+2023-07-24;segunda-feira;18:20:00;RJ;101;309.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-06-26;segunda-feira;17:40:00;RJ;101;319.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-07-25;terca-feira;16:40:00;RJ;101;322.0;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;5;0;3;2
+2023-07-26;quarta-feira;13:55:00;RJ;101;332.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-07-26;quarta-feira;14:05:00;RJ;101;328.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-07-26;quarta-feira;18:30:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-07-27;quinta-feira;22:50:00;RJ;101;334.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Sim;3;0;1;2
+2023-07-28;sexta-feira;09:00:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;4;0;2;3
+2023-07-28;sexta-feira;17:00:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2023-07-29;sabado;00:00:00;RJ;101;315.0;SAO GONCALO;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;3;0;1;3
+2023-07-30;domingo;20:00:00;RJ;101;312.6;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-07-30;domingo;20:10:00;RJ;101;313.1;SAO GONCALO;Transitar no Acostamento;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-07-31;segunda-feira;08:50:00;RJ;101;327.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;"Ponte;Reta";Sim;2;0;1;2
+2023-07-31;segunda-feira;21:20:00;RJ;101;329.0;RIO DE JANEIRO;Falta de acostamento;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Nao;3;0;1;2
+2023-08-01;terca-feira;20:00:00;RJ;101;329.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-08-01;terca-feira;18:20:00;RJ;101;319.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-08-02;quarta-feira;14:15:00;RJ;101;322.0;NITEROI;Problema com o freio;Eventos atipicos;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2023-08-03;quinta-feira;03:20:00;RJ;101;325.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Multipla;"Ponte;Reta";Sim;2;0;1;1
+2023-08-03;quinta-feira;06:45:00;RJ;101;309.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2023-08-03;quinta-feira;11:20:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;1;0;1;1
+2023-07-27;quinta-feira;14:00:00;RJ;101;306.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-08-04;sexta-feira;05:50:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-08-04;sexta-feira;15:50:00;RJ;101;329.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;5;0;3;2
+2023-08-04;sexta-feira;21:30:00;RJ;101;328.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-07-26;quarta-feira;17:45:00;RJ;101;328.0;NITEROI;Frear bruscamente;Colisao traseira;Sem Vitimas;anoitecer;ceu claro;Dupla;"Declive;Reta;Ponte";Nao;2;0;0;2
+2023-08-07;segunda-feira;09:15:00;RJ;101;323.0;NITEROI;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;4;0;1;4
+2023-08-06;domingo;15:20:00;RJ;101;331.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;1
+2023-08-08;terca-feira;19:45:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Sim;3;0;1;2
+2023-08-09;quarta-feira;12:00:00;RJ;101;306.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2023-08-11;sexta-feira;20:20:00;RJ;101;306.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;3;0;2;2
+2023-08-12;sabado;09:15:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;"Curva;Ponte";Sim;3;0;2;2
+2023-08-12;sabado;14:00:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;3;4
+2023-08-12;sabado;15:00:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2023-08-13;domingo;12:30:00;RJ;101;310.0;SAO GONCALO;Ultrapassagem Indevida;Colisao lateral mesmo sentido;Sem Vitimas;pleno dia;nublado;Dupla;Reta;Sim;3;0;0;3
+2023-08-13;domingo;23:30:00;RJ;101;328.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;chuva;Dupla;"Declive;Reta";Nao;1;0;1;1
+2023-08-17;quinta-feira;09:40:00;RJ;101;318.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;2
+2023-08-17;quinta-feira;12:00:00;RJ;101;319.0;NITEROI;Mal subito do condutor;Saida de leito carrocavel;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;1;0;1;1
+2023-08-17;quinta-feira;12:45:00;RJ;101;324.0;NITEROI;Condutor usando celular;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-08-19;sabado;08:30:00;RJ;101;312.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-08-20;domingo;05:40:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;amanhecer;garoa/chuvisco;Dupla;Reta;Sim;3;0;2;2
+2023-08-21;segunda-feira;06:50:00;RJ;101;327.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;2;1
+2023-08-21;segunda-feira;15:20:00;RJ;101;304.0;SAO GONCALO;Frear bruscamente;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2023-08-21;segunda-feira;09:10:00;RJ;101;333.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-06-19;segunda-feira;06:45:00;RJ;101;322.0;NITEROI;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;3;0;1;3
+2023-08-23;quarta-feira;11:05:00;RJ;101;332.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;sol;Dupla;"Ponte;Reta";Nao;2;0;2;2
+2023-08-23;quarta-feira;15:00:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Nao;1;0;1;1
+2023-08-24;quinta-feira;17:00:00;RJ;101;306.0;SAO GONCALO;Manobra de mudanca de faixa;Capotamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-08-25;sexta-feira;11:20:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Sim;3;0;2;2
+2023-08-25;sexta-feira;14:20:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-08-26;sabado;00:30:00;RJ;101;317.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao com objeto;Com Vitimas Feridas;plena noite;garoa/chuvisco;Multipla;Reta;Sim;3;0;1;2
+2023-08-26;sabado;16:30:00;RJ;101;314.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Nao;3;0;1;2
+2023-08-27;domingo;11:00:00;RJ;101;305.0;SAO GONCALO;Pedestre cruzava a pista fora da faixa;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Dupla;Reta;Sim;2;0;1;2
+2023-08-27;domingo;19:40:00;RJ;101;299.5;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Sim;3;0;1;3
+2023-08-29;terca-feira;15:20:00;RJ;101;329.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;1;0;1;1
+2023-08-30;quarta-feira;07:15:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Multipla;"Ponte;Reta";Sim;1;0;1;1
+2023-08-30;quarta-feira;16:55:00;RJ;101;322.0;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Simples;"Declive;Ponte;Reta";Sim;2;0;1;2
+2023-09-01;sexta-feira;16:46:00;RJ;101;330.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-09-01;sexta-feira;17:45:00;RJ;101;304.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-09-02;sabado;02:20:00;RJ;101;314.0;SAO GONCALO;Velocidade Incompativel;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-09-02;sabado;11:50:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Declive;Reta";Nao;4;0;1;2
+2023-09-02;sabado;14:30:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Declive;Sim;4;0;1;3
+2023-09-03;domingo;00:30:00;RJ;101;321.0;NITEROI;Demais falhas na via;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Curva;Sim;1;0;1;1
+2023-09-03;domingo;13:30:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;3;0;2;2
+2023-09-04;segunda-feira;05:30:00;RJ;101;310.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2023-09-04;segunda-feira;07:30:00;RJ;101;309.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;7;0;1;2
+2023-09-04;segunda-feira;09:42:00;RJ;101;332.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-09-04;segunda-feira;08:00:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-09-04;segunda-feira;21:30:00;RJ;101;309.8;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-09-05;terca-feira;05:20:00;RJ;101;306.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Capotamento;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Nao;2;0;1;1
+2023-09-05;terca-feira;09:30:00;RJ;101;322.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;garoa/chuvisco;Dupla;Reta;Sim;1;0;0;1
+2023-09-05;terca-feira;19:05:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-09-05;terca-feira;08:10:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;2;2
+2023-08-29;terca-feira;05:00:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao com objeto;Com Vitimas Feridas;plena noite;garoa/chuvisco;Simples;Reta;Sim;2;0;1;2
+2023-09-04;segunda-feira;04:00:00;RJ;101;321.0;NITEROI;Curva acentuada;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Curva;Sim;1;0;1;1
+2023-09-07;quinta-feira;14:20:00;RJ;101;302.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;"Viaduto;Reta";Sim;2;0;1;2
+2023-09-08;sexta-feira;08:47:00;RJ;101;334.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Nao;1;0;1;1
+2023-09-08;sexta-feira;17:00:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Tombamento;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-09-09;sabado;12:40:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Sem Vitimas;pleno dia;ceu claro;Simples;Reta;Sim;2;0;0;2
+2023-09-10;domingo;00:20:00;RJ;101;328.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-09-10;domingo;02:10:00;RJ;101;305.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Animal;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;1;1;0;1
+2023-09-11;segunda-feira;06:00:00;RJ;101;306.0;SAO GONCALO;Frear bruscamente;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;5;0;1;4
+2023-09-11;segunda-feira;09:10:00;RJ;101;314.6;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Fatais;pleno dia;sol;Dupla;Reta;Sim;3;1;1;2
+2023-09-11;segunda-feira;08:40:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-09-11;segunda-feira;15:00:00;RJ;101;326.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;"Ponte;Reta";Nao;2;0;1;2
+2023-09-12;terca-feira;09:30:00;RJ;101;324.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;4;0;2;3
+2023-09-12;terca-feira;09:10:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-08-28;segunda-feira;17:25:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;anoitecer;nevoeiro/neblina;Dupla;Reta;Nao;4;0;3;2
+2023-09-13;quarta-feira;11:45:00;RJ;101;326.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-09-13;quarta-feira;11:05:00;RJ;101;315.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-09-14;quinta-feira;06:00:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2023-09-15;sexta-feira;08:15:00;RJ;101;316.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;2;0;2;1
+2023-09-15;sexta-feira;14:10:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Multipla;Reta;Nao;2;0;1;2
+2023-09-16;sabado;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-09-16;sabado;00:45:00;RJ;101;328.0;NITEROI;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;4;0;2;3
+2023-09-18;segunda-feira;02:00:00;RJ;101;307.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;1;1
+2023-09-18;segunda-feira;17:10:00;RJ;101;325.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Reta;Declive";Nao;3;0;1;3
+2023-09-16;sabado;21:35:00;RJ;101;304.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-09-18;segunda-feira;18:15:00;RJ;101;318.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao transversal;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2023-09-20;quarta-feira;07:50:00;RJ;101;326.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Aclive;Reta";Nao;6;0;2;3
+2023-09-20;quarta-feira;17:30:00;RJ;101;318.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Nao;2;0;2;1
+2023-02-02;quinta-feira;13:10:00;RJ;101;306.0;SAO GONCALO;Entrada inopinada do pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;pleno dia;sol;Dupla;Reta;Sim;2;1;0;2
+2023-09-23;sabado;07:40:00;RJ;101;304.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Capotamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;4;0;2;2
+2023-09-24;domingo;19:00:00;RJ;101;307.8;SAO GONCALO;Ingestao de alcool pelo condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-09-24;domingo;17:44:00;RJ;101;302.0;SAO GONCALO;Ingestao de alcool pelo condutor;Capotamento;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Nao;3;0;1;1
+2023-09-25;segunda-feira;09:00:00;RJ;101;320.0;NITEROI;Manobra de mudanca de faixa;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-09-06;quarta-feira;08:10:00;RJ;101;333.0;RIO DE JANEIRO;Mal subito do condutor;Colisao com objeto;Com Vitimas Feridas;pleno dia;chuva;Multipla;Reta;Nao;2;0;1;1
+2023-09-28;quinta-feira;13:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de sinalizacao;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;2;0;1;2
+2023-09-29;sexta-feira;07:28:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-02-13;segunda-feira;17:00:00;RJ;101;328.0;NITEROI;Obstrucao na via;Tombamento;Com Vitimas Fatais;pleno dia;nublado;Dupla;Aclive;Nao;3;1;0;3
+2023-09-29;sexta-feira;15:10:00;RJ;101;318.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2023-09-29;sexta-feira;23:10:00;RJ;101;321.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-09-30;sabado;02:45:00;RJ;101;333.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;1
+2023-09-30;sabado;07:50:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-08-05;sabado;20:30:00;RJ;101;317.7;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;4;1;0;3
+2023-08-28;segunda-feira;02:49:00;RJ;101;311.0;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Nao;5;0;1;4
+2023-10-01;domingo;06:30:00;RJ;101;314.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;garoa/chuvisco;Simples;Reta;Nao;1;0;0;1
+2023-10-03;terca-feira;05:40:00;RJ;101;328.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Simples;"Reta;Ponte";Sim;1;0;1;1
+2023-10-03;terca-feira;11:00:00;RJ;101;328.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Reta;Ponte";Nao;4;0;1;3
+2023-10-05;quinta-feira;01:40:00;RJ;101;311.0;SAO GONCALO;Ingestao de substancias psicoativas pelo condutor;Capotamento;Sem Vitimas;plena noite;nublado;Dupla;Reta;Sim;1;0;0;1
+2023-10-09;segunda-feira;21:08:00;RJ;101;303.0;SAO GONCALO;Mal subito do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;"Aclive;Reta";Sim;1;0;1;1
+2023-10-10;terca-feira;06:00:00;RJ;101;303.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao com objeto;Sem Vitimas;pleno dia;garoa/chuvisco;Simples;Retorno Regulamentado;Nao;1;0;0;1
+2023-10-05;quinta-feira;20:10:00;RJ;101;327.0;NITEROI;Faixas de transito com largura insuficiente;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;chuva;Multipla;"Reta;Ponte";Nao;1;0;1;1
+2023-10-11;quarta-feira;06:10:00;RJ;101;327.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Multipla;"Reta;Aclive";Nao;1;0;1;1
+2023-09-28;quinta-feira;00:45:00;RJ;101;329.0;NITEROI;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;plena noite;chuva;Multipla;Reta;Nao;3;0;3;2
+2023-10-12;quinta-feira;14:20:00;RJ;101;330.0;RIO DE JANEIRO;Objeto estatico sobre o leito carrocavel;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-10-12;quinta-feira;11:15:00;RJ;101;318.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-10-12;quinta-feira;21:50:00;RJ;101;317.0;NITEROI;Condutor Dormindo;Colisao com objeto;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Sim;1;0;1;1
+2023-10-14;sabado;18:20:00;RJ;101;321.0;NITEROI;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Nao;1;0;1;1
+2023-10-15;domingo;05:50:00;RJ;101;333.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao com objeto;Com Vitimas Feridas;amanhecer;nublado;Simples;Curva;Sim;5;0;1;1
+2023-10-11;quarta-feira;09:39:00;RJ;101;316.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-10-17;terca-feira;10:15:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-10-18;quarta-feira;13:40:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;"Reta;Declive";Nao;7;0;1;5
+2023-10-23;segunda-feira;12:00:00;RJ;101;323.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-10-23;segunda-feira;18:18:00;RJ;101;309.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;4;0;1;3
+2023-10-23;segunda-feira;19:30:00;RJ;101;306.0;SAO GONCALO;Pedestre andava na pista;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;ceu claro;Dupla;"Reta;Ponte";Sim;2;1;0;2
+2023-10-24;terca-feira;16:00:00;RJ;101;310.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2023-10-26;quinta-feira;16:20:00;RJ;101;320.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Multipla;Curva;Nao;2;0;1;1
+2023-10-26;quinta-feira;21:50:00;RJ;101;315.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Saida de leito carrocavel;Com Vitimas Feridas;plena noite;garoa/chuvisco;Multipla;Reta;Nao;1;0;1;1
+2023-10-27;sexta-feira;08:00:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Simples;"Ponte;Reta";Sim;2;0;1;2
+2023-10-28;sabado;19:55:00;RJ;101;310.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;1;1;0;1
+2023-10-29;domingo;01:45:00;RJ;101;327.2;RIO DE JANEIRO;Ingestao de alcool pelo condutor;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;"Reta;Ponte";Nao;4;0;1;2
+2023-10-30;segunda-feira;19:30:00;RJ;101;319.4;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;4;0;2;2
+2023-10-30;segunda-feira;19:30:00;RJ;101;319.0;SAO GONCALO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;1;0;1;1
+2023-10-31;terca-feira;10:00:00;RJ;101;334.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;6;0;0;4
+2023-10-31;terca-feira;07:50:00;RJ;101;325.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;5;0;3;2
+2023-10-31;terca-feira;17:10:00;RJ;101;323.0;NITEROI;Mal subito do condutor;Tombamento;Com Vitimas Feridas;anoitecer;chuva;Simples;"Reta;Ponte";Sim;1;0;1;1
+2023-10-31;terca-feira;17:55:00;RJ;101;329.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;1;0;1;1
+2023-11-01;quarta-feira;17:24:00;RJ;101;319.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;anoitecer;nublado;Dupla;Reta;Sim;2;0;1;2
+2023-10-16;segunda-feira;07:10:00;RJ;101;320.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2023-11-07;terca-feira;07:30:00;RJ;101;317.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-11-07;terca-feira;22:40:00;RJ;101;326.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Declive;Nao;1;0;1;1
+2023-11-08;quarta-feira;13:50:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Simples;"Reta;Ponte";Sim;2;0;1;2
+2023-11-09;quinta-feira;11:45:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2023-11-09;quinta-feira;18:20:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2023-10-13;sexta-feira;18:40:00;RJ;101;328.0;NITEROI;Manobra de mudanca de faixa;Queda de ocupante de veiculo;Com Vitimas Feridas;anoitecer;ignorado;Multipla;Reta;Nao;3;0;1;3
+2023-11-10;sexta-feira;16:25:00;RJ;101;311.0;SAO GONCALO;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-11-11;sabado;00:10:00;RJ;101;331.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Multipla;"Curva;Ponte";Nao;2;0;1;2
+2023-11-11;sabado;16:05:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Ponte;Nao;2;0;1;2
+2023-11-12;domingo;08:50:00;RJ;101;320.0;NITEROI;Demais falhas mecanicas ou eletricas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;1
+2023-11-12;domingo;17:00:00;RJ;101;322.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Tombamento;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-11-12;domingo;17:00:00;RJ;101;326.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao transversal;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2023-11-14;terca-feira;07:50:00;RJ;101;316.0;SAO GONCALO;Acessar a via sem observar a presenca dos outros veiculos;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;"Reta;Declive";Sim;5;0;1;3
+2023-11-14;terca-feira;17:37:00;RJ;101;329.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Nao;3;0;1;3
+2023-11-14;terca-feira;20:00:00;RJ;101;327.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;plena noite;nublado;Multipla;Reta;Nao;1;0;1;1
+2023-11-14;terca-feira;23:15:00;RJ;101;304.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;chuva;Simples;Reta;Sim;1;0;1;1
+2023-11-15;quarta-feira;20:00:00;RJ;101;322.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;1;0;1;1
+2023-11-15;quarta-feira;22:40:00;RJ;101;317.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2023-11-16;quinta-feira;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-11-16;quinta-feira;11:00:00;RJ;101;330.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2023-11-16;quinta-feira;16:18:00;RJ;101;313.0;SAO GONCALO;Mal subito do condutor;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;2;3
+2023-11-17;sexta-feira;11:20:00;RJ;101;307.0;SAO GONCALO;Problema com o freio;Colisao com objeto;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2023-11-19;domingo;11:09:00;RJ;101;319.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Dupla;Reta;Nao;1;0;1;1
+2023-11-20;segunda-feira;09:55:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Capotamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;1;0;1;1
+2023-11-23;quinta-feira;16:35:00;RJ;101;331.0;RIO DE JANEIRO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Nao;2;0;1;2
+2023-11-23;quinta-feira;17:45:00;RJ;101;319.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Nao;3;0;1;2
+2023-10-19;quinta-feira;18:50:00;RJ;101;318.0;NITEROI;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;plena noite;ceu claro;Dupla;"Reta;Retorno Regulamentado;Declive";Sim;1;0;0;1
+2023-11-26;domingo;19:15:00;RJ;101;299.0;SAO GONCALO;Ausencia de reacao do condutor;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;nublado;Dupla;Reta;Sim;2;1;0;2
+2023-11-27;segunda-feira;06:15:00;RJ;101;307.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;5;0;2;2
+2023-11-27;segunda-feira;17:48:00;RJ;101;330.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;2;0;1;2
+2023-11-26;domingo;01:00:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Saida de leito carrocavel;Com Vitimas Feridas;anoitecer;ceu claro;Simples;"Aclive;Curva;Retorno Regulamentado";Sim;1;0;1;1
+2023-11-30;quinta-feira;14:55:00;RJ;101;308.0;SAO GONCALO;Demais falhas na via;Eventos atipicos;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;1;0;1;1
+2023-11-30;quinta-feira;19:00:00;RJ;101;329.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2023-10-30;segunda-feira;20:30:00;RJ;101;299.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral mesmo sentido;Com Vitimas Feridas;plena noite;nublado;Multipla;Reta;Nao;3;0;2;2
+2023-11-28;terca-feira;07:37:00;RJ;101;317.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-12-04;segunda-feira;06:05:00;RJ;101;324.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;1;0;1;1
+2023-10-09;segunda-feira;18:10:00;RJ;101;319.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Engavetamento;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2023-12-04;segunda-feira;08:00:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;4;0;1;2
+2023-10-17;terca-feira;23:30:00;RJ;101;320.0;NITEROI;Ausencia de reacao do condutor;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Curva;Sim;1;0;1;1
+2023-12-04;segunda-feira;14:15:00;RJ;101;323.0;NITEROI;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;4;0;2;2
+2023-12-05;terca-feira;09:40:00;RJ;101;314.0;SAO GONCALO;Transitar na contramao;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;2;0;1;2
+2023-12-06;quarta-feira;17:00:00;RJ;101;331.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Simples;"Reta;Ponte";Sim;2;0;1;2
+2023-12-07;quinta-feira;09:40:00;RJ;101;321.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-12-07;quinta-feira;09:35:00;RJ;101;332.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Reta;Ponte";Sim;4;0;3;2
+2023-11-13;segunda-feira;17:30:00;RJ;101;333.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;2;2
+2023-12-07;quinta-feira;19:50:00;RJ;101;318.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-11-18;sabado;11:00:00;RJ;101;322.0;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2023-12-08;sexta-feira;08:30:00;RJ;101;311.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-12-08;sexta-feira;09:00:00;RJ;101;314.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Sem Vitimas;pleno dia;nublado;Dupla;Reta;Sim;2;0;0;2
+2023-09-11;segunda-feira;17:40:00;RJ;101;300.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;"Reta;Aclive";Sim;2;0;1;1
+2023-12-06;quarta-feira;22:00:00;RJ;101;314.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2023-12-12;terca-feira;07:00:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;2;1
+2023-11-18;sabado;20:15:00;RJ;101;299.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;garoa/chuvisco;Multipla;Reta;Sim;4;0;1;3
+2023-12-14;quinta-feira;13:00:00;RJ;101;325.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;4;0;1;4
+2023-12-02;sabado;22:00:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Nao;1;0;1;1
+2023-12-15;sexta-feira;12:30:00;RJ;101;334.0;RIO DE JANEIRO;Demais falhas mecanicas ou eletricas;Incendio;Sem Vitimas;pleno dia;ceu claro;Simples;"Curva;Aclive;Viaduto";Nao;1;0;0;1
+2023-12-16;sabado;16:50:00;RJ;101;319.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2023-12-16;sabado;17:10:00;RJ;101;328.9;NITEROI;Manobra de mudanca de faixa;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;2;2
+2023-12-17;domingo;15:56:00;RJ;101;322.0;NITEROI;Ausencia de reacao do condutor;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;3
+2023-12-17;domingo;04:22:00;RJ;101;313.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao com objeto;Sem Vitimas;amanhecer;ceu claro;Dupla;Reta;Nao;2;0;0;1
+2023-12-18;segunda-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-12-18;segunda-feira;21:15:00;RJ;101;334.0;RIO DE JANEIRO;Transitar na contramao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Simples;Reta;Sim;3;0;2;2
+2023-12-19;terca-feira;06:55:00;RJ;101;319.0;NITEROI;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2023-12-11;segunda-feira;08:48:00;RJ;101;323.0;NITEROI;Demais falhas mecanicas ou eletricas;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2023-12-20;quarta-feira;06:10:00;RJ;101;333.0;RIO DE JANEIRO;Trafegar com motocicleta (ou similar) entre as faixas;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;"Aclive;Reta";Nao;1;0;1;1
+2023-12-21;quinta-feira;06:04:00;RJ;101;327.0;NITEROI;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2023-12-21;quinta-feira;11:50:00;RJ;101;332.0;RIO DE JANEIRO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2023-12-21;quinta-feira;20:30:00;RJ;101;315.0;SAO GONCALO;Demais falhas mecanicas ou eletricas;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2023-12-22;sexta-feira;17:50:00;RJ;101;330.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;2;0;1;2
+2023-12-24;domingo;10:50:00;RJ;101;317.8;SAO GONCALO;Ausencia de reacao do condutor;Colisao lateral sentido oposto;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Retorno Regulamentado;Sim;2;0;1;2
+2023-12-25;segunda-feira;09:40:00;RJ;101;332.0;RIO DE JANEIRO;Ausencia de reacao do condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2023-12-22;sexta-feira;16:00:00;RJ;101;316.0;SAO GONCALO;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-12-26;terca-feira;15:00:00;RJ;101;313.0;SAO GONCALO;Condutor deixou de manter distancia do veiculo da frente;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2023-12-27;quarta-feira;14:36:00;RJ;101;310.0;SAO GONCALO;Ausencia de reacao do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;"Aclive;Reta";Sim;2;0;1;2
+2023-12-30;sabado;07:15:00;RJ;101;331.0;RIO DE JANEIRO;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;pleno dia;chuva;Simples;"Reta;Ponte";Sim;2;0;2;1
+2023-12-31;domingo;14:00:00;RJ;101;330.0;RIO DE JANEIRO;Condutor Dormindo;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;1;0;1;1
+2023-12-30;sabado;14:00:00;RJ;101;315.0;SAO GONCALO;Manobra de mudanca de faixa;Queda de ocupante de veiculo;Com Vitimas Fatais;pleno dia;nublado;Dupla;Curva;Sim;2;1;0;1
+2023-03-15;quarta-feira;17:35:00;RJ;101;326.0;NITEROI;Reacao tardia ou ineficiente do condutor;Tombamento;Com Vitimas Feridas;anoitecer;nublado;Multipla;"Reta;Ponte;Aclive";Sim;3;0;2;2
+2023-12-20;quarta-feira;08:45:00;RJ;101;327.0;NITEROI;Condutor usando celular;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;4;0;1;2
+2023-11-04;sabado;08:00:00;RJ;101;324.0;NITEROI;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2023-12-16;sabado;16:40:00;RJ;101;306.0;SAO GONCALO;Trafegar com motocicleta (ou similar) entre as faixas;Colisao lateral mesmo sentido;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;2;3
+2023-11-25;sabado;06:10:00;RJ;101;300.0;SAO GONCALO;Transitar no Acostamento;Atropelamento de Pedestre;Com Vitimas Fatais;amanhecer;nublado;Dupla;Reta;Nao;5;1;4;2
+2023-12-12;terca-feira;19:00:00;RJ;101;323.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2023-07-12;quarta-feira;15:00:00;RJ;101;306.0;SAO GONCALO;Reacao tardia ou ineficiente do condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;3;0;1;2
+2023-12-21;quinta-feira;04:45:00;RJ;101;324.0;NITEROI;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;2;2

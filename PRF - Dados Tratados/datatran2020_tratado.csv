@@ -1,372 +1,372 @@
 data_inversa;dia_semana;horario;uf;br;km;municipio;causa_acidente;tipo_acidente;classificacao_acidente;fase_dia;condicao_metereologica;tipo_pista;tracado_via;uso_solo;pessoas;mortos;feridos;veiculos
-2020-01-06;segunda-feira;01:05:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Garoa/Chuvisco;Simples;Viaduto;Sim;1;0;0;1
-2020-01-09;quinta-feira;23:30:00;RJ;101;309.4;SAO GONCALO;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2020-01-31;sexta-feira;17:20:00;RJ;101;328.5;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;1;0;2
-2020-02-05;quarta-feira;21:40:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;6;0;1;6
-2020-02-29;sabado;22:40:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;2;0;1;2
-2020-04-13;segunda-feira;18:55:00;RJ;101;305.3;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;2;4
-2020-04-17;sexta-feira;06:00:00;RJ;101;331.4;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Ponte;Sim;2;0;1;2
-2020-05-27;quarta-feira;16:45:00;RJ;101;322.4;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Ponte;Sim;3;0;0;3
-2020-05-31;domingo;16:50:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Aclive;Sim;2;0;1;2
-2020-06-01;segunda-feira;22:00:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;"Aclive;Curva;Retorno Regulamentado";Nao;3;0;1;2
-2020-06-18;quinta-feira;13:05:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;3;0;1;3
-2020-06-20;sabado;18:30:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2020-07-03;sexta-feira;17:20:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Nao;2;0;1;2
-2020-07-06;segunda-feira;11:17:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2020-07-16;quinta-feira;12:55:00;RJ;101;321.0;NITEROI;Carga excessiva e/ou mal acondicionada;Derramamento de carga;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;3;0;0;3
-2020-07-13;segunda-feira;18:10:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-08-18;terca-feira;05:30:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Fatais;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;1;0;2
-2020-08-25;terca-feira;13:45:00;RJ;101;329.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;0;2;2
-2020-09-02;quarta-feira;07:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;1;3
-2020-09-02;quarta-feira;11:10:00;RJ;101;299.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;1;3
-2020-09-05;sabado;04:00:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Ceu Claro;Multipla;Curva;Sim;2;0;0;2
-2020-09-06;domingo;08:01:00;RJ;101;314.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;4;0;2;4
-2020-09-18;sexta-feira;07:30:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-10-01;quinta-feira;11:40:00;RJ;101;324.8;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-10-05;segunda-feira;05:40:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-26;segunda-feira;06:40:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Multipla;Reta;Sim;2;0;1;2
-2020-10-07;quarta-feira;15:55:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;3;0;1;3
-2020-11-12;quinta-feira;16:35:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;1;2
-2020-11-16;segunda-feira;15:50:00;RJ;101;323.0;NITEROI;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Multipla;Reta;Nao;6;0;3;6
-2020-11-18;quarta-feira;13:40:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Fatais;Pleno dia;Ceu Claro;Multipla;Curva;Sim;4;1;0;4
-2020-11-25;quarta-feira;18:20:00;RJ;101;330.4;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-11-26;quinta-feira;07:30:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-11-28;sabado;15:20:00;RJ;101;312.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;1;0;3
-2020-12-06;domingo;04:45:00;RJ;101;323.0;NITEROI;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Amanhecer;Garoa/Chuvisco;Multipla;Reta;Sim;3;0;2;2
-2020-09-23;quarta-feira;00:46:00;RJ;101;318.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Sem Vitimas;Pleno dia;Nublado;Dupla;Curva;Nao;1;0;0;1
-2020-02-20;quinta-feira;13:35:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;6;0;3;4
-2020-01-05;domingo;02:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Chuva;Simples;Aclive;Nao;1;0;1;1
-2020-01-06;segunda-feira;12:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;3;0;2;2
-2020-01-06;segunda-feira;22:22:00;RJ;101;314.0;SAO GONCALO;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-01-08;quarta-feira;18:40:00;RJ;101;310.1;SAO GONCALO;Pista Escorregadia;Colisao lateral;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;2;0;1;2
-2020-01-09;quinta-feira;07:00:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;5;0;1;4
-2020-01-10;sexta-feira;00:07:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;1;0;2
-2020-01-10;sexta-feira;08:00:00;RJ;101;307.6;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2020-01-10;sexta-feira;13:11:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;3;0;1;3
-2020-01-10;sexta-feira;18:50:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-01-11;sabado;14:00:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-01-12;domingo;05:59:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-01-13;segunda-feira;10:10:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;2;1
-2020-01-16;quinta-feira;07:40:00;RJ;101;323.9;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2020-01-18;sabado;01:50:00;RJ;101;309.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;2;0;1;2
-2020-01-19;domingo;22:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-01-20;segunda-feira;21:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;3;0;0;3
-2020-01-21;terca-feira;09:20:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-01-21;terca-feira;17:00:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2020-01-21;terca-feira;16:11:00;RJ;101;309.0;SAO GONCALO;Agressao Externa;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Declive;Nao;1;0;1;1
-2020-01-21;terca-feira;18:21:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Nao;3;0;1;2
-2020-01-23;quinta-feira;03:46:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;3;0;1;2
-2020-01-24;sexta-feira;13:05:00;RJ;101;314.2;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-01-26;domingo;01:49:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-01-10;sexta-feira;17:10:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
-2020-01-26;domingo;09:45:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-01-26;domingo;20:50:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;4;0;2;2
-2020-01-27;segunda-feira;13:10:00;RJ;101;307.0;SAO GONCALO;Mal Subito;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-01-27;segunda-feira;22:12:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;4;0;1;4
-2020-01-28;terca-feira;09:00:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-01-28;terca-feira;18:15:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-01-29;quarta-feira;08:20:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2020-01-31;sexta-feira;15:20:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-02-02;domingo;01:42:00;RJ;101;307.5;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Nublado;Dupla;Reta;Sim;1;0;0;1
-2020-02-03;segunda-feira;00:50:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-02-04;terca-feira;21:00:00;RJ;101;334.0;RIO DE JANEIRO;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;Plena Noite;Nublado;Simples;Reta;Sim;4;0;3;3
-2020-02-07;sexta-feira;13:45:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Chuva;Dupla;Reta;Sim;2;0;0;2
-2020-02-09;domingo;09:30:00;RJ;101;322.6;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Intersecao de Vias;Sim;2;0;1;2
-2020-02-09;domingo;20:30:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Nao;8;0;5;2
-2020-02-10;segunda-feira;05:00:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-02-10;segunda-feira;12:20:00;RJ;101;307.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;2;2
-2020-02-10;segunda-feira;22:50:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;1;0;1;1
-2020-02-11;terca-feira;14:20:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Nao;3;0;1;2
-2020-02-11;terca-feira;17:20:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Sim;3;0;1;3
-2020-02-13;quinta-feira;10:20:00;RJ;101;318.1;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-02-14;sexta-feira;17:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-02-15;sabado;17:05:00;RJ;101;330.9;RIO DE JANEIRO;Condutor Dormindo;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2020-02-17;segunda-feira;17:40:00;RJ;101;313.2;SAO GONCALO;Condutor Dormindo;Engavetamento;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Nao;3;0;3;2
-2020-02-18;terca-feira;10:50:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2020-02-19;quarta-feira;06:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;0;2
-2020-02-19;quarta-feira;09:00:00;RJ;101;319.0;SAO GONCALO;Defeito na Via;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;2;1
-2020-02-20;quinta-feira;11:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-02-20;quinta-feira;07:10:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
-2020-02-21;sexta-feira;13:40:00;RJ;101;320.5;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Sim;1;0;1;1
-2020-02-21;sexta-feira;16:30:00;RJ;101;319.3;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-02-21;sexta-feira;18:40:00;RJ;101;315.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Anoitecer;Chuva;Multipla;Reta;Sim;1;0;1;1
-2020-02-22;sabado;13:00:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-02-24;segunda-feira;00:25:00;RJ;101;323.0;NITEROI;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-02-24;segunda-feira;07:14:00;RJ;101;332.0;RIO DE JANEIRO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-02-25;terca-feira;11:00:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-02-26;quarta-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Amanhecer;Nublado;Dupla;Reta;Sim;2;0;0;1
-2020-02-27;quinta-feira;16:28:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-02-28;sexta-feira;12:20:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Dupla;Reta;Sim;2;0;1;1
-2020-03-01;domingo;05:39:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Amanhecer;Chuva;Dupla;Reta;Nao;2;0;1;2
-2020-03-01;domingo;08:30:00;RJ;101;307.0;SAO GONCALO;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Declive;Sim;1;0;1;1
-2020-02-26;quarta-feira;11:30:00;RJ;101;334.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2020-03-01;domingo;19:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Simples;Viaduto;Sim;4;0;2;2
-2020-03-03;terca-feira;16:30:00;RJ;101;316.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;2;0;2;1
-2020-03-07;sabado;15:55:00;RJ;101;303.0;SAO GONCALO;Agressao Externa;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2020-03-07;sabado;22:25:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2020-03-09;segunda-feira;10:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Fatais;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;1;0;1
-2020-03-10;terca-feira;05:00:00;RJ;101;300.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Nevoeiro/Neblina;Dupla;Aclive;Sim;3;0;1;2
-2020-03-10;terca-feira;08:57:00;RJ;101;317.7;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;2
-2020-03-10;terca-feira;18:30:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;3;0;2;2
-2020-03-11;quarta-feira;13:45:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-03-11;quarta-feira;20:00:00;RJ;101;317.7;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2020-03-12;quinta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Declive;Sim;2;0;2;2
-2020-03-13;sexta-feira;14:18:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-03-13;sexta-feira;15:18:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;1;4
-2020-03-14;sabado;11:29:00;RJ;101;316.5;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;1;1
-2020-03-14;sabado;18:30:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-03-15;domingo;20:00:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;1;0;2
-2020-03-16;segunda-feira;06:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;4;0;3;1
-2020-03-16;segunda-feira;08:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;0;1
-2020-03-17;terca-feira;14:30:00;RJ;101;313.2;SAO GONCALO;Mal Subito;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Nao;1;0;1;1
-2020-03-20;sexta-feira;16:45:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Simples;Retorno Regulamentado;Sim;2;0;1;2
-2020-03-16;segunda-feira;08:00:00;RJ;101;309.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;1
-2020-03-26;quinta-feira;17:27:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
-2020-03-26;quinta-feira;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-04-01;quarta-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;2;2
-2020-04-02;quinta-feira;23:15:00;RJ;101;302.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-04-04;sabado;18:40:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-04-05;domingo;05:40:00;RJ;101;305.8;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;1;1
-2020-04-05;domingo;17:58:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer;Nublado;Multipla;Viaduto;Sim;1;0;1;1
-2020-04-06;segunda-feira;20:50:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-04-07;terca-feira;11:44:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;1;3
-2020-04-10;sexta-feira;09:40:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-04-11;sabado;19:30:00;RJ;101;305.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;3;0;3;2
-2020-03-13;sexta-feira;16:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;5;0;1;5
-2020-04-16;quinta-feira;15:00:00;RJ;101;307.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;2;2
-2020-04-18;sabado;08:03:00;RJ;101;317.6;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Pleno dia;Sol;Simples;Curva;Nao;3;0;1;2
-2020-04-28;terca-feira;05:25:00;RJ;101;314.9;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;1;0;2
-2020-04-28;terca-feira;14:35:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-04-28;terca-feira;19:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;3
-2020-05-01;sexta-feira;01:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2020-05-02;sabado;09:48:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-05-06;quarta-feira;19:30:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;1;0;1;1
-2020-05-07;quinta-feira;16:25:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Retorno Regulamentado;Sim;2;0;1;2
-2020-05-04;segunda-feira;15:25:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Ponte;Sim;2;0;1;2
-2020-05-11;segunda-feira;07:27:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Declive;Nao;2;0;1;2
-2020-05-11;segunda-feira;17:10:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2020-05-15;sexta-feira;09:35:00;RJ;101;319.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Garoa/Chuvisco;Multipla;Reta;Sim;2;0;1;2
-2020-05-20;quarta-feira;15:30:00;RJ;101;314.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Colisao com objeto em movimento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;1;0;1;1
-2020-05-21;quinta-feira;19:35:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-05-24;domingo;01:35:00;RJ;101;307.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;7;0;4;2
-2020-05-24;domingo;07:00:00;RJ;101;318.9;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;Pleno dia;Chuva;Dupla;Curva;Nao;1;0;0;1
-2020-05-26;terca-feira;07:35:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-05-27;quarta-feira;07:30:00;RJ;101;323.2;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;2;2
-2020-05-27;quarta-feira;07:05:00;RJ;101;326.0;NITEROI;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;6;0;2;5
-2020-05-30;sabado;15:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-05-30;sabado;16:32:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Reta;Sim;1;0;1;1
-2020-05-31;domingo;01:21:00;RJ;101;324.0;NITEROI;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-05-31;domingo;18:40:00;RJ;101;309.6;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-06-01;segunda-feira;00:20:00;RJ;101;313.2;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2020-06-02;terca-feira;19:20:00;RJ;101;307.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;4;0;1;3
-2020-06-03;quarta-feira;11:25:00;RJ;101;308.0;SAO GONCALO;Defeito na Via;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-06-06;sabado;22:20:00;RJ;101;319.5;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;1;0;1;1
-2020-06-08;segunda-feira;13:11:00;RJ;101;311.3;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2020-06-08;segunda-feira;16:51:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2020-06-09;terca-feira;15:34:00;RJ;101;324.0;NITEROI;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
-2020-06-11;quinta-feira;22:15:00;RJ;101;314.0;SAO GONCALO;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-06-12;sexta-feira;14:45:00;RJ;101;300.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;7;0;3;3
-2020-06-13;sabado;15:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
-2020-06-14;domingo;13:15:00;RJ;101;306.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-06-14;domingo;05:20:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;0;1
-2020-06-15;segunda-feira;07:30:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;1;2
-2020-06-19;sexta-feira;07:25:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;1
-2020-06-20;sabado;18:00:00;RJ;101;310.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Sim;4;0;2;3
-2020-06-20;sabado;18:55:00;RJ;101;318.0;SAO GONCALO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2020-06-20;sabado;19:45:00;RJ;101;319.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;7;0;5;2
-2020-06-21;domingo;07:15:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;4;0;3;3
-2020-06-22;segunda-feira;13:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;3;0;2;1
-2020-06-22;segunda-feira;18:40:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;2;5
-2020-06-23;terca-feira;10:45:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-06-24;quarta-feira;07:35:00;RJ;101;308.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;1
-2020-06-26;sexta-feira;17:30:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-06-28;domingo;15:00:00;RJ;101;328.0;RIO DE JANEIRO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;2;0;1;2
-2020-07-01;quarta-feira;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;4;0;2;2
-2020-07-02;quinta-feira;15:50:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-07-04;sabado;04:40:00;RJ;101;314.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Danos eventuais;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;0;1
-2020-07-04;sabado;10:10:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Intersecao de Vias;Sim;2;0;1;2
-2020-07-09;quinta-feira;10:30:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;1;0;1;1
-2020-07-09;quinta-feira;17:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Sim;4;0;1;3
-2020-07-12;domingo;05:00:00;RJ;101;326.0;NITEROI;Agressao Externa;Incendio;Com Vitimas Feridas;Amanhecer;Ignorado;Multipla;Reta;Nao;4;0;3;2
-2020-07-12;domingo;10:15:00;RJ;101;316.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-07-12;domingo;17:10:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-07-12;domingo;20:30:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;0;2
-2020-07-13;segunda-feira;23:00:00;RJ;101;302.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-07-13;segunda-feira;21:50:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-07-14;terca-feira;10:39:00;RJ;101;318.0;SAO GONCALO;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Pleno dia;Chuva;Multipla;Reta;Sim;1;0;1;1
-2020-07-17;sexta-feira;12:00:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;2;2
-2020-07-19;domingo;13:40:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;0;2
-2020-07-21;terca-feira;14:00:00;RJ;101;320.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2020-07-22;quarta-feira;09:00:00;RJ;101;301.0;SAO GONCALO;Agressao Externa;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;3;2
-2020-07-23;quinta-feira;18:00:00;RJ;101;307.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-07-23;quinta-feira;16:11:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Curva;Nao;1;0;1;1
-2020-07-30;quinta-feira;18:35:00;RJ;101;320.0;NITEROI;Ingestao de alcool e/ou substancias psicoativas pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Reta;Sim;2;0;1;2
-2020-07-31;sexta-feira;20:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-08-01;sabado;22:55:00;RJ;101;324.0;NITEROI;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2020-08-04;terca-feira;15:55:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2020-08-06;quinta-feira;12:10:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-08-07;sexta-feira;15:30:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;0;2
-2020-08-08;sabado;12:42:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Simples;Curva;Nao;1;0;1;1
-2020-08-08;sabado;20:10:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;0;2
-2020-07-25;sabado;13:45:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Curva;Sim;3;0;1;3
-2020-08-10;segunda-feira;18:40:00;RJ;101;325.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-08-11;terca-feira;20:30:00;RJ;101;331.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-08-09;domingo;04:20:00;RJ;101;327.0;NITEROI;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-08-12;quarta-feira;10:45:00;RJ;101;315.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Sim;2;0;2;1
-2020-08-12;quarta-feira;15:10:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
-2020-08-09;domingo;23:15:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Nao;2;0;1;2
-2020-08-13;quinta-feira;10:30:00;RJ;101;327.0;NITEROI;Mal Subito;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Ponte;Nao;1;0;1;1
-2020-08-15;sabado;01:35:00;RJ;101;319.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-08-15;sabado;07:47:00;RJ;101;308.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2020-08-15;sabado;11:20:00;RJ;101;330.0;RIO DE JANEIRO;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;2;1
-2020-08-17;segunda-feira;06:15:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;1;0;1;1
-2020-08-17;segunda-feira;06:50:00;RJ;101;322.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-08-17;segunda-feira;19:30:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Viaduto;Sim;1;0;1;1
-2020-08-18;terca-feira;21:35:00;RJ;101;305.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Em Obras;Sim;4;0;3;1
-2020-08-19;quarta-feira;19:30:00;RJ;101;319.5;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-08-22;sabado;04:50:00;RJ;101;325.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;1;0;1;1
-2020-08-22;sabado;14:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Nao;1;0;1;1
-2020-08-22;sabado;18:40:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Sim;4;0;3;3
-2020-08-22;sabado;21:00:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;7;0;4;3
-2020-08-23;domingo;04:05:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-08-23;domingo;12:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-08-24;segunda-feira;07:30:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;5;0;1;4
-2020-08-24;segunda-feira;09:40:00;RJ;101;327.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;2;0;1;2
-2020-08-24;segunda-feira;18:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;3;3
-2020-08-26;quarta-feira;14:20:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-08-26;quarta-feira;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;4;0;1;2
-2020-08-27;quinta-feira;07:35:00;RJ;101;315.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;5;0;2;3
-2020-08-28;sexta-feira;08:30:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-08-28;sexta-feira;11:15:00;RJ;101;319.0;NITEROI;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-08-29;sabado;05:15:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;3;0;0;2
-2020-08-29;sabado;06:20:00;RJ;101;325.0;NITEROI;Objeto estatico sobre o leito carrocavel;Tombamento;Com Vitimas Feridas;Amanhecer;Sol;Multipla;Reta;Nao;1;0;1;1
-2020-08-31;segunda-feira;03:15:00;RJ;101;307.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Fatais;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;1;2;1
-2020-09-01;terca-feira;06:50:00;RJ;101;318.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-09-01;terca-feira;12:50:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Aclive;Nao;2;0;0;2
-2020-09-02;quarta-feira;14:30:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-09-02;quarta-feira;23:15:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-09-03;quinta-feira;01:00:00;RJ;101;330.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-09-04;sexta-feira;07:00:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-09-04;sexta-feira;05:45:00;RJ;101;310.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Amanhecer;Ceu Claro;Simples;Reta;Sim;1;0;1;1
-2020-09-05;sabado;08:35:00;RJ;101;319.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-09-01;terca-feira;23:30:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-09-06;domingo;02:40:00;RJ;101;310.0;SAO GONCALO;Agressao Externa;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2020-09-02;quarta-feira;14:45:00;RJ;101;329.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Multipla;Reta;Nao;3;0;1;2
-2020-09-06;domingo;16:25:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Curva;Nao;1;0;1;1
-2020-09-09;quarta-feira;17:48:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Nao;3;0;2;2
-2020-09-10;quinta-feira;04:45:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;Curva;Sim;1;0;1;1
-2020-09-11;sexta-feira;11:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-09-11;sexta-feira;18:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Multipla;Reta;Sim;2;0;2;2
-2020-09-12;sabado;06:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-09-12;sabado;13:50:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-09-12;sabado;21:58:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2020-09-15;terca-feira;10:45:00;RJ;101;305.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;6;0;0;6
-2020-09-15;terca-feira;21:25:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-09-20;domingo;01:00:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-09-22;terca-feira;14:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Curva;Sim;1;0;1;1
-2020-09-23;quarta-feira;07:40:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;2;1
-2020-09-23;quarta-feira;15:50:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-09-23;quarta-feira;19:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-09-24;quinta-feira;16:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-09-25;sexta-feira;05:45:00;RJ;101;331.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Atropelamento de Pedestre;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Nao;2;0;2;2
-2020-09-27;domingo;15:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-09-27;domingo;22:40:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;4;1
-2020-09-28;segunda-feira;07:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;1;4
-2020-09-28;segunda-feira;09:30:00;RJ;101;317.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-09-30;quarta-feira;08:40:00;RJ;101;318.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;2;0;1;2
-2020-10-02;sexta-feira;17:38:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;4;0;1;4
-2020-10-02;sexta-feira;19:03:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-02;sexta-feira;22:00:00;RJ;101;315.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ignorado;Dupla;Curva;Sim;2;0;1;1
-2020-10-02;sexta-feira;22:30:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;0;2
-2020-10-04;domingo;10:25:00;RJ;101;324.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Ponte;Nao;1;0;1;1
-2020-10-06;terca-feira;21:15:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;2;0;2;2
-2020-10-08;quinta-feira;07:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-08;quinta-feira;18:27:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-09;sexta-feira;12:20:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;3;0;1;2
-2020-10-09;sexta-feira;14:00:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-10-10;sabado;16:16:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Sim;3;0;1;3
-2020-10-11;domingo;13:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;3;0;0;2
-2020-10-11;domingo;13:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-10-11;domingo;23:40:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-08;quinta-feira;19:00:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-12;segunda-feira;10:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;1;3
-2020-10-12;segunda-feira;14:52:00;RJ;101;304.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-10-14;quarta-feira;13:15:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;0;1;3
-2020-10-16;sexta-feira;17:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-17;sabado;05:40:00;RJ;101;304.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;Amanhecer;Ceu Claro;Dupla;Reta;Sim;5;0;1;2
-2020-10-17;sabado;22:45:00;RJ;101;311.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Multipla;Reta;Sim;2;0;0;2
-2020-10-18;domingo;03:20:00;RJ;101;321.0;NITEROI;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;1;0;1;1
-2020-10-18;domingo;10:20:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;6;0;3;3
-2020-10-19;segunda-feira;22:30:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;0;2
-2020-10-19;segunda-feira;23:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-10-21;quarta-feira;09:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-10-23;sexta-feira;06:50:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;2;1
-2020-10-20;terca-feira;07:00:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2020-10-25;domingo;08:50:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;0;2
-2020-10-26;segunda-feira;12:25:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-10-27;terca-feira;06:58:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-10-28;quarta-feira;06:50:00;RJ;101;318.0;NITEROI;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;4;0;2;3
-2020-10-25;domingo;22:25:00;RJ;101;324.5;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;4;0;2;2
-2020-10-29;quinta-feira;13:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Fatais;Pleno dia;Ceu Claro;Multipla;Reta;Sim;3;1;2;1
-2020-10-29;quinta-feira;09:10:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-10-30;sexta-feira;17:15:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Curva;Sim;1;0;1;1
-2020-11-01;domingo;18:40:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;Plena Noite;Ceu Claro;Multipla;Reta;Nao;2;0;0;2
-2020-10-30;sexta-feira;22:50:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Chuva;Multipla;Reta;Nao;1;0;1;1
-2020-11-03;terca-feira;17:40:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Ponte;Sim;2;0;1;2
-2020-11-04;quarta-feira;11:00:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;1;0;1;1
-2020-11-05;quinta-feira;09:50:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Sim;2;0;1;2
-2020-11-06;sexta-feira;09:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;4;0;1;3
-2020-11-06;sexta-feira;15:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Retorno Regulamentado;Sim;2;0;1;2
-2020-11-07;sabado;18:15:00;RJ;101;321.5;NITEROI;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;Plena Noite;Nublado;Multipla;Reta;Sim;1;0;0;1
-2020-11-09;segunda-feira;02:00:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Curva;Nao;1;0;1;1
-2020-11-12;quinta-feira;06:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;1;0;1;1
-2020-11-14;sabado;05:30:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Amanhecer;Nublado;Dupla;Em Obras;Sim;1;0;1;1
-2020-11-14;sabado;07:00:00;RJ;101;331.0;RIO DE JANEIRO;Condutor Dormindo;Queda de ocupante de veiculo;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;1;0;1;1
-2020-11-14;sabado;18:40:00;RJ;101;322.0;NITEROI;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Curva;Sim;2;0;1;2
-2020-11-15;domingo;21:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-11-15;domingo;22:30:00;RJ;101;317.0;SAO GONCALO;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;5;0;5;1
-2020-11-16;segunda-feira;07:00:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Sol;Dupla;Reta;Nao;3;0;3;2
-2020-11-17;terca-feira;16:20:00;RJ;101;323.0;NITEROI;Mal Subito;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;1;1
-2020-11-18;quarta-feira;01:00:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Multipla;Declive;Nao;2;0;1;2
-2020-11-20;sexta-feira;20:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-11-21;sabado;11:55:00;RJ;101;305.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-11-23;segunda-feira;13:45:00;RJ;101;305.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;Pleno dia;Nublado;Dupla;Reta;Sim;4;0;0;4
-2020-11-24;terca-feira;20:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;Plena Noite;Vento;Multipla;Reta;Nao;2;0;1;2
-2020-10-24;sabado;07:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;3;0;1;3
-2020-11-27;sexta-feira;01:50:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;Plena Noite;Ceu Claro;Simples;Curva;Sim;1;0;1;1
-2020-11-28;sabado;17:29:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;2;2
-2020-11-21;sabado;19:40:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-11-29;domingo;11:10:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
-2020-12-02;quarta-feira;23:00:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;3;0;1;2
-2020-12-04;sexta-feira;11:00:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Simples;Reta;Sim;4;0;0;4
-2020-12-04;sexta-feira;16:40:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-12-05;sabado;18:30:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Sim;2;0;1;2
-2020-12-06;domingo;20:45:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Colisao frontal;Com Vitimas Feridas;Plena Noite;Chuva;Multipla;Curva;Sim;1;0;1;1
-2020-12-09;quarta-feira;08:30:00;RJ;101;328.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Multipla;Reta;Nao;1;0;1;1
-2020-12-10;quinta-feira;18:50:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;4;0;1;2
-2020-12-10;quinta-feira;20:55:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-12-13;domingo;17:20:00;RJ;101;311.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;Anoitecer;Ceu Claro;Dupla;Reta;Sim;5;0;2;3
-2020-09-20;domingo;13:27:00;RJ;101;316.9;SAO GONCALO;Falta de Atencao a Conducao;Danos eventuais;Com Vitimas Feridas;Pleno dia;Chuva;Dupla;Reta;Sim;1;0;1;1
-2020-12-18;sexta-feira;02:45:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Nublado;Dupla;Reta;Nao;1;0;1;1
-2020-12-20;domingo;12:45:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;3;0;3;2
-2020-12-20;domingo;18:05:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;Anoitecer;Ceu Claro;Simples;Reta;Sim;2;0;1;2
-2020-12-19;sabado;00:10:00;RJ;101;319.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Saida de leito carrocavel;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Sim;1;0;1;1
-2020-12-22;terca-feira;16:50:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;Anoitecer;Chuva;Dupla;Reta;Sim;2;0;2;1
-2020-12-22;terca-feira;23:30:00;RJ;101;318.4;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;Plena Noite;Chuva;Dupla;Reta;Nao;1;0;1;1
-2020-12-24;quinta-feira;20:10:00;RJ;101;316.0;SAO GONCALO;Ingestao de Alcool;Colisao com objeto estatico;Sem Vitimas;Plena Noite;Chuva;Dupla;Reta;Nao;3;0;0;2
-2020-12-25;sexta-feira;15:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Chuva;Multipla;Reta;Sim;2;0;1;1
-2020-12-26;sabado;12:10:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;2;0;1;2
-2020-12-27;domingo;20:55:00;RJ;101;316.0;SAO GONCALO;Pista Escorregadia;Tombamento;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Curva;Sim;1;0;1;1
-2020-12-28;segunda-feira;14:00:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2020-12-28;segunda-feira;12:40:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;10;0;1;3
-2020-12-28;segunda-feira;17:00:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Nao;4;0;1;4
-2020-12-28;segunda-feira;17:30:00;RJ;101;318.0;NITEROI;Desobediencia as normas de transito pelo condutor;Tombamento;Com Vitimas Feridas;Anoitecer;Nublado;Dupla;Reta;Sim;1;0;1;1
-2020-12-28;segunda-feira;20:30:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Ceu Claro;Dupla;Reta;Nao;3;0;1;2
-2020-12-28;segunda-feira;19:50:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;Plena Noite;Garoa/Chuvisco;Dupla;Curva;Sim;4;0;2;2
-2020-12-29;terca-feira;14:50:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Curva;Sim;5;0;2;2
-2020-12-29;terca-feira;20:30:00;RJ;101;312.0;SAO GONCALO;Velocidade Incompativel;Colisao lateral;Com Vitimas Fatais;Plena Noite;Nublado;Dupla;Reta;Sim;2;1;0;2
-2020-12-30;quarta-feira;11:10:00;RJ;101;313.0;SAO GONCALO;Condutor Dormindo;Colisao lateral;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;4;0;1;3
-2020-12-30;quarta-feira;17:40:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;Pleno dia;Ceu Claro;Dupla;Reta;Nao;2;0;1;2
-2020-12-31;quinta-feira;16:30:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;Pleno dia;Nublado;Dupla;Reta;Sim;1;0;1;1
-2020-12-17;quinta-feira;13:20:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;Pleno dia;Ceu Claro;Dupla;Reta;Sim;3;0;0;3
-2020-03-16;segunda-feira;14:40:00;RJ;101;325.3;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;Pleno dia;Ceu Claro;Multipla;Reta;Nao;2;0;1;2
+2020-01-06;segunda-feira;01:05:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;plena noite;garoa/chuvisco;Simples;Viaduto;Sim;1;0;0;1
+2020-01-09;quinta-feira;23:30:00;RJ;101;309.4;SAO GONCALO;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2020-01-31;sexta-feira;17:20:00;RJ;101;328.5;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;pleno dia;ceu claro;Dupla;Reta;Nao;2;1;0;2
+2020-02-05;quarta-feira;21:40:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Sim;6;0;1;6
+2020-02-29;sabado;22:40:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Nao;2;0;1;2
+2020-04-13;segunda-feira;18:55:00;RJ;101;305.3;SAO GONCALO;Animais na Pista;Atropelamento de Animal;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;5;0;2;4
+2020-04-17;sexta-feira;06:00:00;RJ;101;331.4;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Ponte;Sim;2;0;1;2
+2020-05-27;quarta-feira;16:45:00;RJ;101;322.4;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Simples;Ponte;Sim;3;0;0;3
+2020-05-31;domingo;16:50:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Aclive;Sim;2;0;1;2
+2020-06-01;segunda-feira;22:00:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;plena noite;ceu claro;Simples;"Aclive;Curva;Retorno Regulamentado";Nao;3;0;1;2
+2020-06-18;quinta-feira;13:05:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;3;0;1;3
+2020-06-20;sabado;18:30:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2020-07-03;sexta-feira;17:20:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;anoitecer;nublado;Dupla;Reta;Nao;2;0;1;2
+2020-07-06;segunda-feira;11:17:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2020-07-16;quinta-feira;12:55:00;RJ;101;321.0;NITEROI;Carga excessiva e/ou mal acondicionada;Derramamento de carga;Sem Vitimas;pleno dia;ceu claro;Dupla;Curva;Sim;3;0;0;3
+2020-07-13;segunda-feira;18:10:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-08-18;terca-feira;05:30:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Fatais;amanhecer;ceu claro;Dupla;Reta;Nao;2;1;0;2
+2020-08-25;terca-feira;13:45:00;RJ;101;329.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;3;0;2;2
+2020-09-02;quarta-feira;07:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;3;0;1;3
+2020-09-02;quarta-feira;11:10:00;RJ;101;299.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;1;3
+2020-09-05;sabado;04:00:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Sem Vitimas;amanhecer;ceu claro;Multipla;Curva;Sim;2;0;0;2
+2020-09-06;domingo;08:01:00;RJ;101;314.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;4;0;2;4
+2020-09-18;sexta-feira;07:30:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-10-01;quinta-feira;11:40:00;RJ;101;324.8;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-10-05;segunda-feira;05:40:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-26;segunda-feira;06:40:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Multipla;Reta;Sim;2;0;1;2
+2020-10-07;quarta-feira;15:55:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;3;0;1;3
+2020-11-12;quinta-feira;16:35:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;2;0;1;2
+2020-11-16;segunda-feira;15:50:00;RJ;101;323.0;NITEROI;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;pleno dia;chuva;Multipla;Reta;Nao;6;0;3;6
+2020-11-18;quarta-feira;13:40:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Fatais;pleno dia;ceu claro;Multipla;Curva;Sim;4;1;0;4
+2020-11-25;quarta-feira;18:20:00;RJ;101;330.4;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-11-26;quinta-feira;07:30:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-11-28;sabado;15:20:00;RJ;101;312.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Fatais;pleno dia;ceu claro;Dupla;Reta;Sim;3;1;0;3
+2020-12-06;domingo;04:45:00;RJ;101;323.0;NITEROI;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;amanhecer;garoa/chuvisco;Multipla;Reta;Sim;3;0;2;2
+2020-09-23;quarta-feira;00:46:00;RJ;101;318.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Sem Vitimas;pleno dia;nublado;Dupla;Curva;Nao;1;0;0;1
+2020-02-20;quinta-feira;13:35:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;6;0;3;4
+2020-01-05;domingo;02:00:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;chuva;Simples;Aclive;Nao;1;0;1;1
+2020-01-06;segunda-feira;12:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;3;0;2;2
+2020-01-06;segunda-feira;22:22:00;RJ;101;314.0;SAO GONCALO;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-01-08;quarta-feira;18:40:00;RJ;101;310.1;SAO GONCALO;Pista Escorregadia;Colisao lateral;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;2;0;1;2
+2020-01-09;quinta-feira;07:00:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;5;0;1;4
+2020-01-10;sexta-feira;00:07:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;2;1;0;2
+2020-01-10;sexta-feira;08:00:00;RJ;101;307.6;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2020-01-10;sexta-feira;13:11:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;3;0;1;3
+2020-01-10;sexta-feira;18:50:00;RJ;101;314.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-01-11;sabado;14:00:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-01-12;domingo;05:59:00;RJ;101;304.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-01-13;segunda-feira;10:10:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;2;1
+2020-01-16;quinta-feira;07:40:00;RJ;101;323.9;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2020-01-18;sabado;01:50:00;RJ;101;309.0;SAO GONCALO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Nao;2;0;1;2
+2020-01-19;domingo;22:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-01-20;segunda-feira;21:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;plena noite;nublado;Dupla;Reta;Sim;3;0;0;3
+2020-01-21;terca-feira;09:20:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-01-21;terca-feira;17:00:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2020-01-21;terca-feira;16:11:00;RJ;101;309.0;SAO GONCALO;Agressao Externa;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Simples;Declive;Nao;1;0;1;1
+2020-01-21;terca-feira;18:21:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;anoitecer;nublado;Dupla;Reta;Nao;3;0;1;2
+2020-01-23;quinta-feira;03:46:00;RJ;101;327.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;3;0;1;2
+2020-01-24;sexta-feira;13:05:00;RJ;101;314.2;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-01-26;domingo;01:49:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-01-10;sexta-feira;17:10:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;2
+2020-01-26;domingo;09:45:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-01-26;domingo;20:50:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Nao;4;0;2;2
+2020-01-27;segunda-feira;13:10:00;RJ;101;307.0;SAO GONCALO;Mal Subito;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-01-27;segunda-feira;22:12:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;4;0;1;4
+2020-01-28;terca-feira;09:00:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-01-28;terca-feira;18:15:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-01-29;quarta-feira;08:20:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2020-01-31;sexta-feira;15:20:00;RJ;101;327.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-02-02;domingo;01:42:00;RJ;101;307.5;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;plena noite;nublado;Dupla;Reta;Sim;1;0;0;1
+2020-02-03;segunda-feira;00:50:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-02-04;terca-feira;21:00:00;RJ;101;334.0;RIO DE JANEIRO;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;plena noite;nublado;Simples;Reta;Sim;4;0;3;3
+2020-02-07;sexta-feira;13:45:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;pleno dia;chuva;Dupla;Reta;Sim;2;0;0;2
+2020-02-09;domingo;09:30:00;RJ;101;322.6;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;sol;Multipla;Intersecao de Vias;Sim;2;0;1;2
+2020-02-09;domingo;20:30:00;RJ;101;316.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Nao;8;0;5;2
+2020-02-10;segunda-feira;05:00:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;amanhecer;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-02-10;segunda-feira;12:20:00;RJ;101;307.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;3;0;2;2
+2020-02-10;segunda-feira;22:50:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Nao;1;0;1;1
+2020-02-11;terca-feira;14:20:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Nao;3;0;1;2
+2020-02-11;terca-feira;17:20:00;RJ;101;319.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;anoitecer;chuva;Dupla;Reta;Sim;3;0;1;3
+2020-02-13;quinta-feira;10:20:00;RJ;101;318.1;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-02-14;sexta-feira;17:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-02-15;sabado;17:05:00;RJ;101;330.9;RIO DE JANEIRO;Condutor Dormindo;Colisao lateral;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2020-02-17;segunda-feira;17:40:00;RJ;101;313.2;SAO GONCALO;Condutor Dormindo;Engavetamento;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Nao;3;0;3;2
+2020-02-18;terca-feira;10:50:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2020-02-19;quarta-feira;06:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;0;2
+2020-02-19;quarta-feira;09:00:00;RJ;101;319.0;SAO GONCALO;Defeito na Via;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;2;0;2;1
+2020-02-20;quinta-feira;11:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-02-20;quinta-feira;07:10:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;2
+2020-02-21;sexta-feira;13:40:00;RJ;101;320.5;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Curva;Sim;1;0;1;1
+2020-02-21;sexta-feira;16:30:00;RJ;101;319.3;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-02-21;sexta-feira;18:40:00;RJ;101;315.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;anoitecer;chuva;Multipla;Reta;Sim;1;0;1;1
+2020-02-22;sabado;13:00:00;RJ;101;304.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-02-24;segunda-feira;00:25:00;RJ;101;323.0;NITEROI;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-02-24;segunda-feira;07:14:00;RJ;101;332.0;RIO DE JANEIRO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-02-25;terca-feira;11:00:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-02-26;quarta-feira;06:30:00;RJ;101;309.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;amanhecer;nublado;Dupla;Reta;Sim;2;0;0;1
+2020-02-27;quinta-feira;16:28:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-02-28;sexta-feira;12:20:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Dupla;Reta;Sim;2;0;1;1
+2020-03-01;domingo;05:39:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;amanhecer;chuva;Dupla;Reta;Nao;2;0;1;2
+2020-03-01;domingo;08:30:00;RJ;101;307.0;SAO GONCALO;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;chuva;Dupla;Declive;Sim;1;0;1;1
+2020-02-26;quarta-feira;11:30:00;RJ;101;334.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2020-03-01;domingo;19:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;plena noite;garoa/chuvisco;Simples;Viaduto;Sim;4;0;2;2
+2020-03-03;terca-feira;16:30:00;RJ;101;316.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Sim;2;0;2;1
+2020-03-07;sabado;15:55:00;RJ;101;303.0;SAO GONCALO;Agressao Externa;Saida de leito carrocavel;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2020-03-07;sabado;22:25:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2020-03-09;segunda-feira;10:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Fatais;pleno dia;ceu claro;Dupla;Reta;Sim;1;1;0;1
+2020-03-10;terca-feira;05:00:00;RJ;101;300.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;nevoeiro/neblina;Dupla;Aclive;Sim;3;0;1;2
+2020-03-10;terca-feira;08:57:00;RJ;101;317.7;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;2
+2020-03-10;terca-feira;18:30:00;RJ;101;328.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Sim;3;0;2;2
+2020-03-11;quarta-feira;13:45:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-03-11;quarta-feira;20:00:00;RJ;101;317.7;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2020-03-12;quinta-feira;07:30:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Declive;Sim;2;0;2;2
+2020-03-13;sexta-feira;14:18:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-03-13;sexta-feira;15:18:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;5;0;1;4
+2020-03-14;sabado;11:29:00;RJ;101;316.5;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;1;1
+2020-03-14;sabado;18:30:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-03-15;domingo;20:00:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;2;1;0;2
+2020-03-16;segunda-feira;06:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;4;0;3;1
+2020-03-16;segunda-feira;08:40:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;0;1
+2020-03-17;terca-feira;14:30:00;RJ;101;313.2;SAO GONCALO;Mal Subito;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Curva;Nao;1;0;1;1
+2020-03-20;sexta-feira;16:45:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Simples;Retorno Regulamentado;Sim;2;0;1;2
+2020-03-16;segunda-feira;08:00:00;RJ;101;309.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;2;0;1;1
+2020-03-26;quinta-feira;17:27:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;2;0;1;2
+2020-03-26;quinta-feira;18:00:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-04-01;quarta-feira;07:00:00;RJ;101;316.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;2;2
+2020-04-02;quinta-feira;23:15:00;RJ;101;302.0;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-04-04;sabado;18:40:00;RJ;101;308.0;SAO GONCALO;Animais na Pista;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-04-05;domingo;05:40:00;RJ;101;305.8;SAO GONCALO;Condutor Dormindo;Saida de leito carrocavel;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;1;0;1;1
+2020-04-05;domingo;17:58:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;anoitecer;nublado;Multipla;Viaduto;Sim;1;0;1;1
+2020-04-06;segunda-feira;20:50:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-04-07;terca-feira;11:44:00;RJ;101;309.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;3;0;1;3
+2020-04-10;sexta-feira;09:40:00;RJ;101;310.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-04-11;sabado;19:30:00;RJ;101;305.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;3;0;3;2
+2020-03-13;sexta-feira;16:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;5;0;1;5
+2020-04-16;quinta-feira;15:00:00;RJ;101;307.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;3;0;2;2
+2020-04-18;sabado;08:03:00;RJ;101;317.6;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;pleno dia;sol;Simples;Curva;Nao;3;0;1;2
+2020-04-28;terca-feira;05:25:00;RJ;101;314.9;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;2;1;0;2
+2020-04-28;terca-feira;14:35:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-04-28;terca-feira;19:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;3
+2020-05-01;sexta-feira;01:05:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2020-05-02;sabado;09:48:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-05-06;quarta-feira;19:30:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Nao;1;0;1;1
+2020-05-07;quinta-feira;16:25:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;pleno dia;nublado;Dupla;Retorno Regulamentado;Sim;2;0;1;2
+2020-05-04;segunda-feira;15:25:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Ponte;Sim;2;0;1;2
+2020-05-11;segunda-feira;07:27:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Declive;Nao;2;0;1;2
+2020-05-11;segunda-feira;17:10:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2020-05-15;sexta-feira;09:35:00;RJ;101;319.5;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;garoa/chuvisco;Multipla;Reta;Sim;2;0;1;2
+2020-05-20;quarta-feira;15:30:00;RJ;101;314.0;SAO GONCALO;Desobediencia as normas de transito pelo pedestre;Colisao com objeto em movimento;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;1;0;1;1
+2020-05-21;quinta-feira;19:35:00;RJ;101;306.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-05-24;domingo;01:35:00;RJ;101;307.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;7;0;4;2
+2020-05-24;domingo;07:00:00;RJ;101;318.9;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Sem Vitimas;pleno dia;chuva;Dupla;Curva;Nao;1;0;0;1
+2020-05-26;terca-feira;07:35:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-05-27;quarta-feira;07:30:00;RJ;101;323.2;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;2;2
+2020-05-27;quarta-feira;07:05:00;RJ;101;326.0;NITEROI;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;6;0;2;5
+2020-05-30;sabado;15:20:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-05-30;sabado;16:32:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Reta;Sim;1;0;1;1
+2020-05-31;domingo;01:21:00;RJ;101;324.0;NITEROI;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-05-31;domingo;18:40:00;RJ;101;309.6;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-06-01;segunda-feira;00:20:00;RJ;101;313.2;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2020-06-02;terca-feira;19:20:00;RJ;101;307.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao lateral;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;4;0;1;3
+2020-06-03;quarta-feira;11:25:00;RJ;101;308.0;SAO GONCALO;Defeito na Via;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-06-06;sabado;22:20:00;RJ;101;319.5;SAO GONCALO;Velocidade Incompativel;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Sim;1;0;1;1
+2020-06-08;segunda-feira;13:11:00;RJ;101;311.3;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2020-06-08;segunda-feira;16:51:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2020-06-09;terca-feira;15:34:00;RJ;101;324.0;NITEROI;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;1;0;1;1
+2020-06-11;quinta-feira;22:15:00;RJ;101;314.0;SAO GONCALO;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-06-12;sexta-feira;14:45:00;RJ;101;300.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;7;0;3;3
+2020-06-13;sabado;15:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;1;0;1;1
+2020-06-14;domingo;13:15:00;RJ;101;306.0;SAO GONCALO;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-06-14;domingo;05:20:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;pleno dia;nublado;Multipla;Reta;Nao;2;0;0;1
+2020-06-15;segunda-feira;07:30:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;2;0;1;2
+2020-06-19;sexta-feira;07:25:00;RJ;101;315.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;1
+2020-06-20;sabado;18:00:00;RJ;101;310.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Sim;4;0;2;3
+2020-06-20;sabado;18:55:00;RJ;101;318.0;SAO GONCALO;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2020-06-20;sabado;19:45:00;RJ;101;319.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;7;0;5;2
+2020-06-21;domingo;07:15:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;4;0;3;3
+2020-06-22;segunda-feira;13:20:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;3;0;2;1
+2020-06-22;segunda-feira;18:40:00;RJ;101;319.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;5;0;2;5
+2020-06-23;terca-feira;10:45:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-06-24;quarta-feira;07:35:00;RJ;101;308.0;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;1
+2020-06-26;sexta-feira;17:30:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-06-28;domingo;15:00:00;RJ;101;328.0;RIO DE JANEIRO;Condutor Dormindo;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;2;0;1;2
+2020-07-01;quarta-feira;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;4;0;2;2
+2020-07-02;quinta-feira;15:50:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-07-04;sabado;04:40:00;RJ;101;314.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Danos eventuais;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;0;1
+2020-07-04;sabado;10:10:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;pleno dia;nublado;Dupla;Intersecao de Vias;Sim;2;0;1;2
+2020-07-09;quinta-feira;10:30:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;1;0;1;1
+2020-07-09;quinta-feira;17:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;anoitecer;nublado;Dupla;Reta;Sim;4;0;1;3
+2020-07-12;domingo;05:00:00;RJ;101;326.0;NITEROI;Agressao Externa;Incendio;Com Vitimas Feridas;amanhecer;ignorado;Multipla;Reta;Nao;4;0;3;2
+2020-07-12;domingo;10:15:00;RJ;101;316.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-07-12;domingo;17:10:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-07-12;domingo;20:30:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;0;2
+2020-07-13;segunda-feira;23:00:00;RJ;101;302.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-07-13;segunda-feira;21:50:00;RJ;101;301.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-07-14;terca-feira;10:39:00;RJ;101;318.0;SAO GONCALO;Pista Escorregadia;Tombamento;Com Vitimas Feridas;pleno dia;chuva;Multipla;Reta;Sim;1;0;1;1
+2020-07-17;sexta-feira;12:00:00;RJ;101;321.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;2;2
+2020-07-19;domingo;13:40:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;0;2
+2020-07-21;terca-feira;14:00:00;RJ;101;320.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao frontal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2020-07-22;quarta-feira;09:00:00;RJ;101;301.0;SAO GONCALO;Agressao Externa;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;4;0;3;2
+2020-07-23;quinta-feira;18:00:00;RJ;101;307.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-07-23;quinta-feira;16:11:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Curva;Nao;1;0;1;1
+2020-07-30;quinta-feira;18:35:00;RJ;101;320.0;NITEROI;Ingestao de alcool e/ou substancias psicoativas pelo pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Reta;Sim;2;0;1;2
+2020-07-31;sexta-feira;20:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-08-01;sabado;22:55:00;RJ;101;324.0;NITEROI;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2020-08-04;terca-feira;15:55:00;RJ;101;303.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2020-08-06;quinta-feira;12:10:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao transversal;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-08-07;sexta-feira;15:30:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;0;2
+2020-08-08;sabado;12:42:00;RJ;101;332.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Simples;Curva;Nao;1;0;1;1
+2020-08-08;sabado;20:10:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;5;0;0;2
+2020-07-25;sabado;13:45:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;sol;Dupla;Curva;Sim;3;0;1;3
+2020-08-10;segunda-feira;18:40:00;RJ;101;325.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-08-11;terca-feira;20:30:00;RJ;101;331.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-08-09;domingo;04:20:00;RJ;101;327.0;NITEROI;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-08-12;quarta-feira;10:45:00;RJ;101;315.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Sim;2;0;2;1
+2020-08-12;quarta-feira;15:10:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;1;0;1;1
+2020-08-09;domingo;23:15:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Nao;2;0;1;2
+2020-08-13;quinta-feira;10:30:00;RJ;101;327.0;NITEROI;Mal Subito;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Ponte;Nao;1;0;1;1
+2020-08-15;sabado;01:35:00;RJ;101;319.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-08-15;sabado;07:47:00;RJ;101;308.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;2
+2020-08-15;sabado;11:20:00;RJ;101;330.0;RIO DE JANEIRO;Mal Subito;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;2;0;2;1
+2020-08-17;segunda-feira;06:15:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;1;0;1;1
+2020-08-17;segunda-feira;06:50:00;RJ;101;322.0;NITEROI;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-08-17;segunda-feira;19:30:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Viaduto;Sim;1;0;1;1
+2020-08-18;terca-feira;21:35:00;RJ;101;305.0;SAO GONCALO;Objeto estatico sobre o leito carrocavel;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;nublado;Dupla;Em Obras;Sim;4;0;3;1
+2020-08-19;quarta-feira;19:30:00;RJ;101;319.5;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-08-22;sabado;04:50:00;RJ;101;325.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Nao;1;0;1;1
+2020-08-22;sabado;14:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Nao;1;0;1;1
+2020-08-22;sabado;18:40:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Sim;4;0;3;3
+2020-08-22;sabado;21:00:00;RJ;101;334.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Nao;7;0;4;3
+2020-08-23;domingo;04:05:00;RJ;101;311.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-08-23;domingo;12:40:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-08-24;segunda-feira;07:30:00;RJ;101;312.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;5;0;1;4
+2020-08-24;segunda-feira;09:40:00;RJ;101;327.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;2;0;1;2
+2020-08-24;segunda-feira;18:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;5;0;3;3
+2020-08-26;quarta-feira;14:20:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-08-26;quarta-feira;17:00:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;4;0;1;2
+2020-08-27;quinta-feira;07:35:00;RJ;101;315.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;5;0;2;3
+2020-08-28;sexta-feira;08:30:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-08-28;sexta-feira;11:15:00;RJ;101;319.0;NITEROI;Ultrapassagem Indevida;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-08-29;sabado;05:15:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;amanhecer;ceu claro;Dupla;Reta;Nao;3;0;0;2
+2020-08-29;sabado;06:20:00;RJ;101;325.0;NITEROI;Objeto estatico sobre o leito carrocavel;Tombamento;Com Vitimas Feridas;amanhecer;sol;Multipla;Reta;Nao;1;0;1;1
+2020-08-31;segunda-feira;03:15:00;RJ;101;307.0;SAO GONCALO;Condutor Dormindo;Colisao com objeto estatico;Com Vitimas Fatais;plena noite;ceu claro;Dupla;Reta;Sim;3;1;2;1
+2020-09-01;terca-feira;06:50:00;RJ;101;318.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-09-01;terca-feira;12:50:00;RJ;101;322.0;NITEROI;Desobediencia as normas de transito pelo condutor;Colisao lateral;Sem Vitimas;pleno dia;ceu claro;Simples;Aclive;Nao;2;0;0;2
+2020-09-02;quarta-feira;14:30:00;RJ;101;312.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-09-02;quarta-feira;23:15:00;RJ;101;305.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-09-03;quinta-feira;01:00:00;RJ;101;330.0;RIO DE JANEIRO;Ultrapassagem Indevida;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-09-04;sexta-feira;07:00:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-09-04;sexta-feira;05:45:00;RJ;101;310.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;amanhecer;ceu claro;Simples;Reta;Sim;1;0;1;1
+2020-09-05;sabado;08:35:00;RJ;101;319.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-09-01;terca-feira;23:30:00;RJ;101;319.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-09-06;domingo;02:40:00;RJ;101;310.0;SAO GONCALO;Agressao Externa;Colisao traseira;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2020-09-02;quarta-feira;14:45:00;RJ;101;329.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Multipla;Reta;Nao;3;0;1;2
+2020-09-06;domingo;16:25:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Curva;Nao;1;0;1;1
+2020-09-09;quarta-feira;17:48:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;anoitecer;nublado;Dupla;Reta;Nao;3;0;2;2
+2020-09-10;quinta-feira;04:45:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Saida de leito carrocavel;Com Vitimas Feridas;plena noite;ceu claro;Simples;Curva;Sim;1;0;1;1
+2020-09-11;sexta-feira;11:30:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-09-11;sexta-feira;18:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Multipla;Reta;Sim;2;0;2;2
+2020-09-12;sabado;06:30:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-09-12;sabado;13:50:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-09-12;sabado;21:58:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2020-09-15;terca-feira;10:45:00;RJ;101;305.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;pleno dia;nublado;Dupla;Reta;Sim;6;0;0;6
+2020-09-15;terca-feira;21:25:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-09-20;domingo;01:00:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-09-22;terca-feira;14:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Curva;Sim;1;0;1;1
+2020-09-23;quarta-feira;07:40:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;2;1
+2020-09-23;quarta-feira;15:50:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-09-23;quarta-feira;19:30:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-09-24;quinta-feira;16:30:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-09-25;sexta-feira;05:45:00;RJ;101;331.0;RIO DE JANEIRO;Defeito Mecanico no Veiculo;Atropelamento de Pedestre;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Nao;2;0;2;2
+2020-09-27;domingo;15:00:00;RJ;101;314.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-09-27;domingo;22:40:00;RJ;101;302.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;4;0;4;1
+2020-09-28;segunda-feira;07:00:00;RJ;101;325.0;NITEROI;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;4;0;1;4
+2020-09-28;segunda-feira;09:30:00;RJ;101;317.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-09-30;quarta-feira;08:40:00;RJ;101;318.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;2;0;1;2
+2020-10-02;sexta-feira;17:38:00;RJ;101;334.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Engavetamento;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;4;0;1;4
+2020-10-02;sexta-feira;19:03:00;RJ;101;313.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-02;sexta-feira;22:00:00;RJ;101;315.0;RIO DE JANEIRO;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ignorado;Dupla;Curva;Sim;2;0;1;1
+2020-10-02;sexta-feira;22:30:00;RJ;101;318.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;0;2
+2020-10-04;domingo;10:25:00;RJ;101;324.8;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;nublado;Multipla;Ponte;Nao;1;0;1;1
+2020-10-06;terca-feira;21:15:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;2;0;2;2
+2020-10-08;quinta-feira;07:20:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-08;quinta-feira;18:27:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-09;sexta-feira;12:20:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;3;0;1;2
+2020-10-09;sexta-feira;14:00:00;RJ;101;326.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-10-10;sabado;16:16:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Sim;3;0;1;3
+2020-10-11;domingo;13:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;pleno dia;nublado;Dupla;Reta;Sim;3;0;0;2
+2020-10-11;domingo;13:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-10-11;domingo;23:40:00;RJ;101;307.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-08;quinta-feira;19:00:00;RJ;101;319.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-12;segunda-feira;10:00:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;4;0;1;3
+2020-10-12;segunda-feira;14:52:00;RJ;101;304.0;SAO GONCALO;Avarias e/ou desgaste excessivo no pneu;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-10-14;quarta-feira;13:15:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;3;0;1;3
+2020-10-16;sexta-feira;17:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-17;sabado;05:40:00;RJ;101;304.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Com Vitimas Feridas;amanhecer;ceu claro;Dupla;Reta;Sim;5;0;1;2
+2020-10-17;sabado;22:45:00;RJ;101;311.0;SAO GONCALO;Ingestao de Alcool;Colisao traseira;Sem Vitimas;plena noite;ceu claro;Multipla;Reta;Sim;2;0;0;2
+2020-10-18;domingo;03:20:00;RJ;101;321.0;NITEROI;Agressao Externa;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Sim;1;0;1;1
+2020-10-18;domingo;10:20:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;6;0;3;3
+2020-10-19;segunda-feira;22:30:00;RJ;101;309.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;0;2
+2020-10-19;segunda-feira;23:20:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-10-21;quarta-feira;09:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-10-23;sexta-feira;06:50:00;RJ;101;328.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;2;1
+2020-10-20;terca-feira;07:00:00;RJ;101;308.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2020-10-25;domingo;08:50:00;RJ;101;304.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Sem Vitimas;pleno dia;nublado;Dupla;Reta;Sim;2;0;0;2
+2020-10-26;segunda-feira;12:25:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-10-27;terca-feira;06:58:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-10-28;quarta-feira;06:50:00;RJ;101;318.0;NITEROI;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;4;0;2;3
+2020-10-25;domingo;22:25:00;RJ;101;324.5;NITEROI;Velocidade Incompativel;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;4;0;2;2
+2020-10-29;quinta-feira;13:00:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Fatais;pleno dia;ceu claro;Multipla;Reta;Sim;3;1;2;1
+2020-10-29;quinta-feira;09:10:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-10-30;sexta-feira;17:15:00;RJ;101;322.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;anoitecer;chuva;Dupla;Curva;Sim;1;0;1;1
+2020-11-01;domingo;18:40:00;RJ;101;330.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Sem Vitimas;plena noite;ceu claro;Multipla;Reta;Nao;2;0;0;2
+2020-10-30;sexta-feira;22:50:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;chuva;Multipla;Reta;Nao;1;0;1;1
+2020-11-03;terca-feira;17:40:00;RJ;101;303.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Ponte;Sim;2;0;1;2
+2020-11-04;quarta-feira;11:00:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;1;0;1;1
+2020-11-05;quinta-feira;09:50:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Sim;2;0;1;2
+2020-11-06;sexta-feira;09:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;4;0;1;3
+2020-11-06;sexta-feira;15:00:00;RJ;101;318.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Retorno Regulamentado;Sim;2;0;1;2
+2020-11-07;sabado;18:15:00;RJ;101;321.5;NITEROI;Defeito Mecanico no Veiculo;Incendio;Sem Vitimas;plena noite;nublado;Multipla;Reta;Sim;1;0;0;1
+2020-11-09;segunda-feira;02:00:00;RJ;101;321.0;NITEROI;Pista Escorregadia;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Curva;Nao;1;0;1;1
+2020-11-12;quinta-feira;06:40:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;1;0;1;1
+2020-11-14;sabado;05:30:00;RJ;101;300.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;amanhecer;nublado;Dupla;Em Obras;Sim;1;0;1;1
+2020-11-14;sabado;07:00:00;RJ;101;331.0;RIO DE JANEIRO;Condutor Dormindo;Queda de ocupante de veiculo;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;1;0;1;1
+2020-11-14;sabado;18:40:00;RJ;101;322.0;NITEROI;Falta de Atencao do Pedestre;Atropelamento de Pedestre;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Curva;Sim;2;0;1;2
+2020-11-15;domingo;21:40:00;RJ;101;316.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-11-15;domingo;22:30:00;RJ;101;317.0;SAO GONCALO;Ingestao de Alcool;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;5;0;5;1
+2020-11-16;segunda-feira;07:00:00;RJ;101;317.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;sol;Dupla;Reta;Nao;3;0;3;2
+2020-11-17;terca-feira;16:20:00;RJ;101;323.0;NITEROI;Mal Subito;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;1;0;1;1
+2020-11-18;quarta-feira;01:00:00;RJ;101;327.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;garoa/chuvisco;Multipla;Declive;Nao;2;0;1;2
+2020-11-20;sexta-feira;20:00:00;RJ;101;306.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-11-21;sabado;11:55:00;RJ;101;305.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-11-23;segunda-feira;13:45:00;RJ;101;305.0;SAO GONCALO;Nao guardar distancia de seguranca;Engavetamento;Sem Vitimas;pleno dia;nublado;Dupla;Reta;Sim;4;0;0;4
+2020-11-24;terca-feira;20:30:00;RJ;101;333.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Capotamento;Com Vitimas Feridas;plena noite;vento;Multipla;Reta;Nao;2;0;1;2
+2020-10-24;sabado;07:50:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;3;0;1;3
+2020-11-27;sexta-feira;01:50:00;RJ;101;320.0;NITEROI;Falta de Atencao a Conducao;Tombamento;Com Vitimas Feridas;plena noite;ceu claro;Simples;Curva;Sim;1;0;1;1
+2020-11-28;sabado;17:29:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;2;2
+2020-11-21;sabado;19:40:00;RJ;101;313.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-11-29;domingo;11:10:00;RJ;101;323.0;NITEROI;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2
+2020-12-02;quarta-feira;23:00:00;RJ;101;303.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Colisao frontal;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;3;0;1;2
+2020-12-04;sexta-feira;11:00:00;RJ;101;322.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Simples;Reta;Sim;4;0;0;4
+2020-12-04;sexta-feira;16:40:00;RJ;101;310.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-12-05;sabado;18:30:00;RJ;101;323.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Sim;2;0;1;2
+2020-12-06;domingo;20:45:00;RJ;101;321.0;NITEROI;Defeito Mecanico no Veiculo;Colisao frontal;Com Vitimas Feridas;plena noite;chuva;Multipla;Curva;Sim;1;0;1;1
+2020-12-09;quarta-feira;08:30:00;RJ;101;328.0;NITEROI;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Multipla;Reta;Nao;1;0;1;1
+2020-12-10;quinta-feira;18:50:00;RJ;101;313.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;4;0;1;2
+2020-12-10;quinta-feira;20:55:00;RJ;101;312.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-12-13;domingo;17:20:00;RJ;101;311.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Engavetamento;Com Vitimas Feridas;anoitecer;ceu claro;Dupla;Reta;Sim;5;0;2;3
+2020-09-20;domingo;13:27:00;RJ;101;316.9;SAO GONCALO;Falta de Atencao a Conducao;Danos eventuais;Com Vitimas Feridas;pleno dia;chuva;Dupla;Reta;Sim;1;0;1;1
+2020-12-18;sexta-feira;02:45:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;nublado;Dupla;Reta;Nao;1;0;1;1
+2020-12-20;domingo;12:45:00;RJ;101;329.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;3;0;3;2
+2020-12-20;domingo;18:05:00;RJ;101;333.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao traseira;Com Vitimas Feridas;anoitecer;ceu claro;Simples;Reta;Sim;2;0;1;2
+2020-12-19;sabado;00:10:00;RJ;101;319.0;SAO GONCALO;Desobediencia as normas de transito pelo condutor;Saida de leito carrocavel;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Sim;1;0;1;1
+2020-12-22;terca-feira;16:50:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Queda de ocupante de veiculo;Com Vitimas Feridas;anoitecer;chuva;Dupla;Reta;Sim;2;0;2;1
+2020-12-22;terca-feira;23:30:00;RJ;101;318.4;SAO GONCALO;Defeito Mecanico no Veiculo;Colisao com objeto estatico;Com Vitimas Feridas;plena noite;chuva;Dupla;Reta;Nao;1;0;1;1
+2020-12-24;quinta-feira;20:10:00;RJ;101;316.0;SAO GONCALO;Ingestao de Alcool;Colisao com objeto estatico;Sem Vitimas;plena noite;chuva;Dupla;Reta;Nao;3;0;0;2
+2020-12-25;sexta-feira;15:30:00;RJ;101;321.0;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;chuva;Multipla;Reta;Sim;2;0;1;1
+2020-12-26;sabado;12:10:00;RJ;101;299.0;SAO GONCALO;Falta de Atencao a Conducao;Atropelamento de Pedestre;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Sim;2;0;1;2
+2020-12-27;domingo;20:55:00;RJ;101;316.0;SAO GONCALO;Pista Escorregadia;Tombamento;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Curva;Sim;1;0;1;1
+2020-12-28;segunda-feira;14:00:00;RJ;101;302.0;SAO GONCALO;Falta de Atencao a Conducao;Colisao traseira;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2020-12-28;segunda-feira;12:40:00;RJ;101;325.0;NITEROI;Condutor deixou de manter distancia do veiculo da frente;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;10;0;1;3
+2020-12-28;segunda-feira;17:00:00;RJ;101;324.0;NITEROI;Falta de Atencao a Conducao;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Nao;4;0;1;4
+2020-12-28;segunda-feira;17:30:00;RJ;101;318.0;NITEROI;Desobediencia as normas de transito pelo condutor;Tombamento;Com Vitimas Feridas;anoitecer;nublado;Dupla;Reta;Sim;1;0;1;1
+2020-12-28;segunda-feira;20:30:00;RJ;101;317.0;SAO GONCALO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;plena noite;ceu claro;Dupla;Reta;Nao;3;0;1;2
+2020-12-28;segunda-feira;19:50:00;RJ;101;330.0;RIO DE JANEIRO;Nao guardar distancia de seguranca;Colisao lateral;Com Vitimas Feridas;plena noite;garoa/chuvisco;Dupla;Curva;Sim;4;0;2;2
+2020-12-29;terca-feira;14:50:00;RJ;101;331.0;RIO DE JANEIRO;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Curva;Sim;5;0;2;2
+2020-12-29;terca-feira;20:30:00;RJ;101;312.0;SAO GONCALO;Velocidade Incompativel;Colisao lateral;Com Vitimas Fatais;plena noite;nublado;Dupla;Reta;Sim;2;1;0;2
+2020-12-30;quarta-feira;11:10:00;RJ;101;313.0;SAO GONCALO;Condutor Dormindo;Colisao lateral;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;4;0;1;3
+2020-12-30;quarta-feira;17:40:00;RJ;101;326.0;NITEROI;Falta de Atencao a Conducao;Colisao traseira;Com Vitimas Feridas;pleno dia;ceu claro;Dupla;Reta;Nao;2;0;1;2
+2020-12-31;quinta-feira;16:30:00;RJ;101;309.0;SAO GONCALO;Defeito Mecanico no Veiculo;Tombamento;Com Vitimas Feridas;pleno dia;nublado;Dupla;Reta;Sim;1;0;1;1
+2020-12-17;quinta-feira;13:20:00;RJ;101;308.0;SAO GONCALO;Falta de Atencao a Conducao;Engavetamento;Sem Vitimas;pleno dia;ceu claro;Dupla;Reta;Sim;3;0;0;3
+2020-03-16;segunda-feira;14:40:00;RJ;101;325.3;NITEROI;Falta de Atencao a Conducao;Colisao com objeto estatico;Com Vitimas Feridas;pleno dia;ceu claro;Multipla;Reta;Nao;2;0;1;2

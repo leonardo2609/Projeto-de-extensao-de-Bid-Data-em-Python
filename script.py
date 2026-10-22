@@ -51,6 +51,24 @@ def limpeza_e_processamento(arquivo):
         }
 
         arquivo['dia_semana'] = arquivo['dia_semana'].replace(padronizacao_dia_semana)
+        
+        # Padronização do clima
+        arquivo['condicao_metereologica'] = arquivo['condicao_metereologica'].str.lower().str.strip()
+        
+        padronizacao_clima = {
+            'ignorada' : 'ignorado',
+            'Nevoeiro/Neblina' : 'nevoeiro/neblina',
+        }
+        
+        arquivo['condicao_metereologica'] = arquivo['condicao_metereologica'].replace(padronizacao_clima)
+        
+        # Padronização da fase do dia
+        arquivo['fase_dia'] = arquivo['fase_dia'].str.lower().str.strip()
+        padronizacao_fase_dia = {
+            'Plena Noite' : 'plena noite',
+        }
+        
+        arquivo['fase_dia'] = arquivo['fase_dia'].replace(padronizacao_fase_dia)
 
     except Exception as e:
         print(f"Erro ao processar o arquivo {arquivo}: {e}")
@@ -75,80 +93,53 @@ def filtro(arquivo):
 
 def regressao_linear(arquivo):
     try:
-        df_modelo = arquivo[['fase_dia', 'condicao_metereologica', 'veiculos']].copy()
+        condicoes_baixa_visibilidade = ['chuva', 'nevoeiro/neblina', 'granizo', 'garoa/chuvisco']
+        arquivo['baixa_visibilidade'] = arquivo['condicao_metereologica'].apply(lambda x: 1 if x in condicoes_baixa_visibilidade else 0)
+        
+        daily = arquivo.groupby('data_inversa').agg(
+            total_acidentes=('baixa_visibilidade', 'count'),
+            acidentes_baixa_vis=('baixa_visibilidade', 'sum')
+        ).reset_index()
+        
+        X_acidentes = daily[['acidentes_baixa_vis']]
+        y_acidentes = daily['total_acidentes']
+        reg_acidentes = LinearRegression().fit(X_acidentes.values, y_acidentes)
+        
+        X_veiculos = arquivo[['baixa_visibilidade']]
+        y_veiculos = arquivo['veiculos']
+        reg_veiculos = LinearRegression().fit(X_veiculos.values, y_veiculos)
+        
+        print(f"Impacto em Acidentes (Coeficiente): {reg_acidentes.coef_[0]:.2f}")
+        print(f"Impacto em Veículos/Engavetamento (Coeficiente): {reg_veiculos.coef_[0]:.4f}")
+        
+        # 4. Plotagem com Matplotlib (Sem Seaborn)
+        fig, axes = plt.subplots(1, 2, figsize=(15, 6))
 
-        X = pd.get_dummies(df_modelo[['fase_dia', 'condicao_metereologica']], drop_first=True)
-        y = df_modelo['veiculos']
+        # Gráfico 1: Acidentes
+        axes[0].scatter(daily['acidentes_baixa_vis'], daily['total_acidentes'], alpha=0.5, s=30, color='#1f77b4')
+        # Linha de regressão 1
+        x_range_acidentes = np.linspace(daily['acidentes_baixa_vis'].min(), daily['acidentes_baixa_vis'].max(), 100).reshape(-1, 1)
+        axes[0].plot(x_range_acidentes, reg_acidentes.predict(x_range_acidentes), color='red', linewidth=2)
 
-        modelo = LinearRegression()
-        modelo.fit(X, y)
+        axes[0].set_title('Volume Diário de Acidentes vs Ocorrências em Baixa Visibilidade')
+        axes[0].set_xlabel('Acidentes sob Baixa Visibilidade (por dia)')
+        axes[0].set_ylabel('Total de Acidentes no Dia')
 
-        tabela_coeficientes = pd.DataFrame({
-            'Fator_Visibilidade': X.columns,
-            'Coeficiente': modelo.coef_
-        })
+        # Gráfico 2: Veículos (Jitter)
+        jitter_x = arquivo['baixa_visibilidade'] + np.random.uniform(-0.1, 0.1, size=len(arquivo))
+        jitter_y = arquivo['veiculos'] + np.random.uniform(-0.2, 0.2, size=len(arquivo))
+        
+        axes[1].scatter(jitter_x, jitter_y, alpha=0.1, s=15, color='#1f77b4')
+        # Linha de regressão 2
+        x_range_veiculos = np.array([0, 1]).reshape(-1, 1)
+        axes[1].plot(x_range_veiculos, reg_veiculos.predict(x_range_veiculos), color='red', linewidth=2)
 
-        tabela_coeficientes = tabela_coeficientes.sort_values(by='Coeficiente', ascending=False)
+        axes[1].set_title('Quantidade de Veículos por Acidente vs Visibilidade')
+        axes[1].set_xlabel('Condição de Visibilidade')
+        axes[1].set_ylabel('Veículos Envolvidos (Engavetamentos)')
+        axes[1].set_xticks([0, 1])
+        axes[1].set_xticklabels(['Boa Visibilidade', 'Baixa Visibilidade'])
 
-        print("=== IMPACTO DA VISIBILIDADE NO NUMERO DE VEICULOS ===")
-        print(tabela_coeficientes)
-
-        print(f"\nMedia base de veiculos por acidente (Condicoes Normais): {modelo.intercept_:.2f}")
-
-        # 1. Tratar os nomes dos rótulos para melhor exibição no gráfico
-        tabela_grafico = tabela_coeficientes.copy()
-        tabela_grafico['Rotulo'] = (
-            tabela_grafico['Fator_Visibilidade']
-            .str.replace('condicao_metereologica_', 'Clima: ')
-            .str.replace('fase_dia_', 'Fase: ')
-        )
-
-        # 2. Definir cores diferenciadas (Verde para aumento, Vermelho/Laranja para redução)
-        cores = ['#2ecc71' if c > 0 else '#e74c3c' for c in tabela_grafico['Coeficiente']]
-
-        # 3. Inicializar a figura
-        plt.figure(figsize=(10, 6))
-
-        # 4. Desenhar as barras horizontais
-        barras = plt.barh(
-            tabela_grafico['Rotulo'],
-            tabela_grafico['Coeficiente'],
-            color=cores,
-            edgecolor='black',
-            alpha=0.85
-        )
-
-        # 5. Adicionar linha de referência no eixo zero
-        plt.axvline(0, color='black', linestyle='--', linewidth=1.2)
-
-        # 6. Adicionar os valores exatos na ponta de cada barra
-        for barra in barras:
-            largura = barra.get_width()
-            posicao_x = largura + (0.005 if largura >= 0 else -0.015)
-            alinhamento = 'left' if largura >= 0 else 'right'
-            plt.text(
-                posicao_x,
-                barra.get_y() + barra.get_height() / 2,
-                f'{largura:+.3f}',
-                va='center',
-                ha=alinhamento,
-                fontsize=9,
-                fontweight='bold'
-            )
-
-        # 7. Títulos, rótulos e formatação
-        plt.title(
-            f'Impacto no Número de Veículos por Acidente\n'
-            f'(Média Base em Condições Normais: {modelo.intercept_:.2f} veículos)',
-            fontsize=12,
-            fontweight='bold',
-            pad=15
-        )
-        plt.xlabel('Variação no Número de Veículos (Coeficiente Beta)', fontsize=10)
-        plt.ylabel('Fatores Avaliados', fontsize=10)
-        plt.grid(axis='x', linestyle=':', alpha=0.6)
-
-        # 8. Ajuste de espaçamento e exibição
         plt.tight_layout()
         plt.show()
 
@@ -210,7 +201,7 @@ def regressao_linear(arquivo):
         ax2.set_ylabel('Média de Vítimas por Acidente', color=color)
         ax2.plot(agrupado_hora['horario'], agrupado_hora['media_vitimas'], color=color, marker='o', linewidth=2)
 
-        plt.title('Regressão Linear (scikit-learn): Severidade por Horário vs. Volume de Sinistros')
+        plt.title('Severidade por Horário vs. Volume de Sinistros')
         plt.grid(True, linestyle='--', alpha=0.5)
         plt.show()
 
