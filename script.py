@@ -42,7 +42,7 @@ def limpeza_e_processamento(arquivo):
         # Padronização dos dias da semana
         arquivo['dia_semana'] = arquivo['dia_semana'].str.lower().str.strip()
 
-        dicionario_padronizacao = {
+        padronizacao_dia_semana = {
             'segunda' : 'segunda-feira',
             'terca' : 'terca-feira',
             'quarta' : 'quarta-feira',
@@ -50,7 +50,7 @@ def limpeza_e_processamento(arquivo):
             'sexta' : 'sexta-feira'
         }
 
-        arquivo['dia_semana'] = arquivo['dia_semana'].replace(dicionario_padronizacao)
+        arquivo['dia_semana'] = arquivo['dia_semana'].replace(padronizacao_dia_semana)
 
     except Exception as e:
         print(f"Erro ao processar o arquivo {arquivo}: {e}")
@@ -76,31 +76,89 @@ def filtro(arquivo):
 def regressao_linear(arquivo):
     try:
         df_modelo = arquivo[['fase_dia', 'condicao_metereologica', 'veiculos']].copy()
-        
+
         X = pd.get_dummies(df_modelo[['fase_dia', 'condicao_metereologica']], drop_first=True)
         y = df_modelo['veiculos']
-        
+
         modelo = LinearRegression()
         modelo.fit(X, y)
-        
+
         tabela_coeficientes = pd.DataFrame({
             'Fator_Visibilidade': X.columns,
             'Coeficiente': modelo.coef_
         })
 
         tabela_coeficientes = tabela_coeficientes.sort_values(by='Coeficiente', ascending=False)
-        
+
         print("=== IMPACTO DA VISIBILIDADE NO NUMERO DE VEICULOS ===")
         print(tabela_coeficientes)
-        
+
         print(f"\nMedia base de veiculos por acidente (Condicoes Normais): {modelo.intercept_:.2f}")
+
+        # 1. Tratar os nomes dos rótulos para melhor exibição no gráfico
+        tabela_grafico = tabela_coeficientes.copy()
+        tabela_grafico['Rotulo'] = (
+            tabela_grafico['Fator_Visibilidade']
+            .str.replace('condicao_metereologica_', 'Clima: ')
+            .str.replace('fase_dia_', 'Fase: ')
+        )
+
+        # 2. Definir cores diferenciadas (Verde para aumento, Vermelho/Laranja para redução)
+        cores = ['#2ecc71' if c > 0 else '#e74c3c' for c in tabela_grafico['Coeficiente']]
+
+        # 3. Inicializar a figura
+        plt.figure(figsize=(10, 6))
+
+        # 4. Desenhar as barras horizontais
+        barras = plt.barh(
+            tabela_grafico['Rotulo'],
+            tabela_grafico['Coeficiente'],
+            color=cores,
+            edgecolor='black',
+            alpha=0.85
+        )
+
+        # 5. Adicionar linha de referência no eixo zero
+        plt.axvline(0, color='black', linestyle='--', linewidth=1.2)
+
+        # 6. Adicionar os valores exatos na ponta de cada barra
+        for barra in barras:
+            largura = barra.get_width()
+            posicao_x = largura + (0.005 if largura >= 0 else -0.015)
+            alinhamento = 'left' if largura >= 0 else 'right'
+            plt.text(
+                posicao_x,
+                barra.get_y() + barra.get_height() / 2,
+                f'{largura:+.3f}',
+                va='center',
+                ha=alinhamento,
+                fontsize=9,
+                fontweight='bold'
+            )
+
+        # 7. Títulos, rótulos e formatação
+        plt.title(
+            f'Impacto no Número de Veículos por Acidente\n'
+            f'(Média Base em Condições Normais: {modelo.intercept_:.2f} veículos)',
+            fontsize=12,
+            fontweight='bold',
+            pad=15
+        )
+        plt.xlabel('Variação no Número de Veículos (Coeficiente Beta)', fontsize=10)
+        plt.ylabel('Fatores Avaliados', fontsize=10)
+        plt.grid(axis='x', linestyle=':', alpha=0.6)
+
+        # 8. Ajuste de espaçamento e exibição
+        plt.tight_layout()
+        plt.show()
+
     except Exception as e:
         print(f"Erro ao realizar a primeira regressao linear: {e}")
-        
+
     try:
         arquivo['horario'] = pd.to_datetime(arquivo['horario'], format='%H:%M:%S', errors='coerce').dt.hour
         arquivo['vitimas_graves_mortes'] = arquivo['mortos'] + arquivo['feridos']
-        
+
         def categorizar_periodo(h):
             if 0 <= h < 6:
                 return 'Madrugada'
@@ -110,17 +168,17 @@ def regressao_linear(arquivo):
                 return 'Tarde'
             else:
                 return 'Noite'
-            
+
         arquivo['periodo_dia'] = arquivo['horario'].apply(categorizar_periodo)
-        
+
         X = pd.get_dummies(arquivo[['periodo_dia']], drop_first=True)
         y = arquivo['vitimas_graves_mortes']
-        
+
         modelo_2 = LinearRegression()
         modelo_2.fit(X, y)
-        
+
         # Corrigido para modelo_2
-        print(f"\nIntercepto (Media de Vitimas na Madrugada): {modelo_2.intercept_:.4f}")
+        print(f"\nMedia de Vitimas na Madrugada: {modelo_2.intercept_:.4f}")
         print("\nImpacto dos demais periodos em relacao a Madrugada:")
 
         # Corrigido para modelo_2
@@ -130,7 +188,7 @@ def regressao_linear(arquivo):
         })
 
         print(tabela_coeficientes.to_string(index=False))
-        
+
         # Ajustado para usar 'arquivo' e a coluna 'horario'
         agrupado_hora = arquivo.groupby('horario').agg(
             media_vitimas=('vitimas_graves_mortes', 'mean'),
@@ -155,7 +213,7 @@ def regressao_linear(arquivo):
         plt.title('Regressão Linear (scikit-learn): Severidade por Horário vs. Volume de Sinistros')
         plt.grid(True, linestyle='--', alpha=0.5)
         plt.show()
-        
+
     except Exception as e:
         print(f"Erro ao realizar a segunda regressao linear: {e}")
 
@@ -187,7 +245,7 @@ if __name__ == "__main__":
 
             match = re.search(r'\d{4}', arquivo)
             ano = match.group() if match else 'sem_ano'
-            
+
             nome_saida = f'datatran{ano}_tratado.csv'
             caminho_saida = os.path.join(prf_tratado, nome_saida)
 
@@ -228,7 +286,7 @@ if __name__ == "__main__":
         encoding='utf-8'
     )
     print(f"Total de registros: {len(df_consolidado)}")
-    
+
     csv_consolidado = pd.read_csv(
         'datatran_consolidado.csv',
         sep=';',
