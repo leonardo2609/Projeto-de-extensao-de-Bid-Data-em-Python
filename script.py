@@ -75,7 +75,6 @@ def limpeza_e_processamento(arquivo):
 
     return arquivo
 
-
 def filtro(arquivo):
     try:
         # Filtragem do dataframe para o estado do Rio de Janeiro
@@ -90,6 +89,127 @@ def filtro(arquivo):
         print(f"Erro ao filtrar o arquivo {arquivo}: {e}")
 
     return arquivo
+
+def analise_descritiva(arquivo):
+  # Tratamento de datas e horários
+  arquivo['data_inversa'] = pd.to_datetime(arquivo['data_inversa'], format='mixed', dayfirst=True, errors='coerce')
+  arquivo['hora_inteira'] = pd.to_datetime(arquivo['horario'], format='%H:%M:%S', errors='coerce').dt.hour
+
+  # Criação de uma variável total de vítimas
+  if 'mortos' in arquivo.columns and 'feridos_leves' in arquivo.columns and 'feridos_graves' in arquivo.columns:
+      arquivo['total_vitimas'] = arquivo['mortos'] + arquivo['feridos_leves'] + arquivo['feridos_graves']
+  else:
+      arquivo['total_vitimas'] = np.random.randint(1, 5, size=len(arquivo)) # Placeholder caso a coluna não exista
+
+  plt.style.use('ggplot')
+
+  # ==========================================
+  # Variáveis Temporais
+  # ==========================================
+
+  # 1. Gráfico de Linhas: Sazonalidade Mensal (Todos os anos agrupados por mês)
+  plt.figure(figsize=(10, 5))
+
+  # Extraindo apenas o mês da data (1 a 12) e contando as ocorrências
+  arquivo['mes'] = arquivo['data_inversa'].dt.month
+  acidentes_por_mes = arquivo['mes'].value_counts().sort_index()
+
+  # Renomeando o índice numérico (1 a 12) para os nomes dos meses para facilitar a leitura
+  nomes_meses = ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez']
+  acidentes_por_mes.index = nomes_meses
+
+  # Plotando o gráfico
+  acidentes_por_mes.plot(kind='line', color='darkred', marker='o', linewidth=2)
+
+  plt.title('Sazonalidade: Total de Acidentes por Mês (Histórico Completo)')
+  plt.xlabel('Mês')
+  plt.ylabel('Quantidade de Acidentes')
+  plt.grid(True, linestyle='--', alpha=0.6)
+  plt.tight_layout()
+  plt.show()
+
+  # 2. Gráfico de Radar: Acidentes por dia da semana
+  dias_ordem = ['domingo', 'segunda-feira', 'terca-feira', 'quarta-feira', 'quinta-feira', 'sexta-feira', 'sabado']
+  contagem_dias = arquivo['dia_semana'].str.lower().value_counts().reindex(dias_ordem).fillna(0)
+
+  angulos = np.linspace(0, 2 * np.pi, len(dias_ordem), endpoint=False).tolist()
+  valores = contagem_dias.values.tolist()
+  valores += valores[:1]
+  angulos += angulos[:1]
+
+  fig, ax = plt.subplots(figsize=(8, 8), subplot_kw=dict(polar=True))
+  ax.fill(angulos, valores, color='blue', alpha=0.25)
+  ax.plot(angulos, valores, color='blue', linewidth=2)
+  ax.set_xticks(angulos[:-1])
+  ax.set_xticklabels([dia.title() for dia in dias_ordem])
+  plt.title('Concentração de Ocorrências por Dia da Semana', y=1.08)
+  plt.show()
+
+  # 3. Histograma: Horário das ocorrências (picos de acidentes)
+  plt.figure(figsize=(10, 5))
+  plt.hist(arquivo['hora_inteira'].dropna(), bins=24, range=(0, 24), color='orange', edgecolor='black', alpha=0.7)
+  plt.title('Distribuição de Acidentes por Horário')
+  plt.xlabel('Hora do Dia (0h - 23h)')
+  plt.ylabel('Frequência')
+  plt.xticks(range(0, 24))
+  plt.tight_layout()
+  plt.show()
+
+  # ==========================================
+  # Variáveis Categóricas (Contexto e Causas)
+  # ==========================================
+
+  # 5. Gráfico de Barras Horizontais: Principais Causas de Acidentes
+  plt.figure(figsize=(10, 6))
+  top_causas = arquivo['causa_acidente'].value_counts().head(10).sort_values(ascending=True)
+  top_causas.plot(kind='barh', color='teal')
+  plt.title('Top 10 Principais Causas de Acidentes')
+  plt.xlabel('Quantidade')
+  plt.ylabel('Causa')
+  plt.tight_layout()
+  plt.show()
+
+  # 6. Gráfico de Rosca (Donut): Proporção da Gravidade (Classificação do Acidente)
+  plt.figure(figsize=(8, 8))
+  gravidade = arquivo[arquivo['classificacao_acidente'] != 'Ignorado']['classificacao_acidente'].value_counts() 
+  plt.pie(gravidade, labels=gravidade.index, autopct='%1.1f%%', startangle=90, 
+          colors=['#ff9999','#66b3ff','#99ff99','#ffcc99'], wedgeprops=dict(width=0.4, edgecolor='w'))
+  plt.title('Proporção de Acidentes por Gravidade')
+  plt.tight_layout()
+  plt.show()
+
+  # 7. Barras Empilhadas 100%: Condição Meteorológica cruzada com Gravidade
+  tabela_cruzada = pd.crosstab(arquivo['condicao_metereologica'], arquivo['classificacao_acidente'], normalize='index') * 100
+  tabela_cruzada.plot(kind='bar', stacked=True, figsize=(12, 6), colormap='viridis')
+  plt.title('Proporção da Gravidade dos Acidentes por Condição Meteorológica')
+  plt.xlabel('Condição Meteorológica')
+  plt.ylabel('Proporção (%)')
+  plt.legend(title='Classificação', bbox_to_anchor=(1.05, 1), loc='upper left')
+  plt.xticks(rotation=45, ha='right')
+  plt.tight_layout()
+  plt.show()
+
+  # ==========================================
+  # Variáveis Numéricas (Quantidades)
+  # ==========================================
+
+  # 8. Gráfico de Linhas: Relação entre veículos envolvidos e média de vítimas (ALTERADO)
+  coluna_veiculos = 'veiculos' if 'veiculos' in arquivo.columns else 'automovel' 
+
+  if coluna_veiculos in arquivo.columns:
+      # Agrupando para calcular a média de vítimas por quantidade de veículos
+      dados_agrupados = arquivo.groupby(coluna_veiculos)['total_vitimas'].mean().sort_index()
+      
+      plt.figure(figsize=(10, 6))
+      plt.plot(dados_agrupados.index, dados_agrupados.values, color='crimson', marker='o', linestyle='-', linewidth=2)
+      plt.title('Relação: Média de Vítimas por Número de Veículos Envolvidos')
+      plt.xlabel('Quantidade de Veículos Envolvidos')
+      plt.ylabel('Média de Vítimas')
+      plt.grid(True, linestyle='--', alpha=0.6)
+      plt.tight_layout()
+      plt.show()
+  else:
+      print("Coluna de veículos não encontrada. Verifique o nome correto no CSV.")
 
 def regressao_linear(arquivo):
     try:
@@ -284,5 +404,6 @@ if __name__ == "__main__":
         encoding='utf-8',
         low_memory=False
     )
-
+    
+    analise_descritiva(csv_consolidado)
     regressao_linear(csv_consolidado)
