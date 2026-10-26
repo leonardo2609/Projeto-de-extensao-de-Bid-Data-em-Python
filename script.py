@@ -37,10 +37,15 @@ def limpeza_e_processamento(arquivo):
         arquivo['km'] = pd.to_numeric(arquivo['km'], errors='coerce')
 
         arquivo['dia_semana'] = arquivo['dia_semana'].str.lower().str.strip()
+        
         padronizacao_dia_semana = {
-            'segunda' : 'segunda-feira', 'terca' : 'terca-feira', 'quarta' : 'quarta-feira',
-            'quinta' : 'quinta-feira', 'sexta' : 'sexta-feira'
+            'segunda' : 'segunda-feira',
+            'terca' : 'terca-feira',
+            'quarta' : 'quarta-feira',
+            'quinta' : 'quinta-feira',
+            'sexta' : 'sexta-feira'
         }
+        
         arquivo['dia_semana'] = arquivo['dia_semana'].replace(padronizacao_dia_semana)
         
         arquivo['condicao_metereologica'] = arquivo['condicao_metereologica'].str.lower().str.strip()
